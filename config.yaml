@@ -1,0 +1,535 @@
+# Master website-stalker configuration for G医t
+sites:
+  - url: https://www.mhlw.go.jp/
+    name: "厚生労働省"
+    slug: "mhlw"
+  - url: https://www.pmda.go.jp/safety/info-services/drugs/0001.html
+    name: "PMDA - 安全対策業務 - 医薬品に関する情報"
+    slug: "pmda-safety-test"
+  - url: https://www.jami.jp/
+    name: "日本医療情報学会"
+    slug: "jami"
+  - url: https://www.naika.or.jp/
+    name: "日本内科学会"
+    slug: "naika"
+    tags: ["学会", "内科"]
+  - url: https://gemmed.ghc-j.com/
+    name: "gemmed"
+    slug: "gemmed"
+  - url: https://www.pmda.go.jp/
+    name: "独立行政法人 医薬品医療機器総合機構(PMDA)"
+    slug: "pmda"
+  - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html
+    name: "傷病名マスター"
+    slug: "hpdx-kihonmasta-07"
+  - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html
+    name: "医薬品マスター"
+    slug: "hpdx-kihonmasta-04"
+  - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_05.html
+    name: "特定器材マスター"
+    slug: "hpdx-kihonmasta-05"
+  - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html
+    name: "医科診療行為マスター"
+    slug: "hpdx-kihonmasta-01"
+  - url: https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html
+    name: "薬価基準収載品目リスト及び後発医薬品に関する情報について"
+    slug: "mhlw-topics-20260401-01"
+  - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0004.html
+    name: "製薬企業からの適正使用等に関するお知らせ"
+    slug: "pmda-properly-use-alert-0004"
+  - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0001.html
+    name: "関係学会等からの医薬品の適正使用に関するお知らせ"
+    slug: "pmda-properly-use-alert-0001"
+  - url: https://www.pmda.go.jp/safety/info-services/ivd/0008.html
+    name: "自主点検通知（体外診断用医薬品）"
+    slug: "pmda-ivd-0008"
+  - url: https://www.mhlw.go.jp/stf/new-info/
+    name: "厚生労働省 - 新着情報"
+    slug: "mhlw-new-info"
+  - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics_150873_139_140.html
+    name: "厚生労働省 - 医療分野のトピックス"
+    slug: "mhlw-topics-150873"
+  - url: https://shinryohoshu.mhlw.go.jp/shinryohoshu/downloadMenu/
+    name: "診療報酬情報提供サービス - ファイルダウンロード"
+    slug: "shinryohoshu-download-menu"
+    ignore:
+      - ';jsessionid=[0-9A-Fa-f]+'
+  - url: https://shinryohoshu.mhlw.go.jp/shinryohoshu/
+    name: "診療報酬情報提供サービス"
+    slug: "shinryohoshu"
+    ignore:
+      - ';jsessionid=[0-9A-Fa-f]+'
+  - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html
+    name: "令和6年 基本マスターに関する変更情報"
+    slug: "hpdx-r06kaiteijoho"
+  - url: https://www.chemotherapy.or.jp/modules/newslist/index.php?content_id=4
+    name: "日本化学療法学会 - 全てのお知らせ"
+    slug: "chemotherapy-news-4"
+  - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics_150864_135_130.html
+    name: "厚生労働省 - 健康分野のトピックス"
+    slug: "mhlw-topics-150864"
+  - url: https://www.naika.or.jp/nintei/
+    name: "日本内科学会 専門医制度"
+    slug: "naika-nintei"
+  - url: https://www.chemotherapy.or.jp/modules/newslist/index.php?content_id=3
+    name: "日本化学療法学会 - 重要なお知らせ"
+    slug: "chemotherapy-news-3"
+  - url: https://www.radiology.jp/guideline
+    name: "日本医学放射線学会 - ガイドライン"
+    slug: "radiology-guideline"
+  - url: https://www.j-circ.or.jp/guideline/guideline-series/
+    name: "循環器病ガイドラインシリーズ"
+    slug: "j-circ-guideline-series"
+  - url: https://www.kekkaku.gr.jp/medical_staff/
+    name: "日本結核・非結核性抗酸菌症学会 - 医療従事者へ"
+    slug: "kekkaku-medical-staff"
+  - url: https://jsnm.org/useful/guidelines/
+    name: "日本核医学会 - ガイドライン"
+    slug: "jsnm-guidelines"
+  - url: https://www.jibika.or.jp/modules/guidelines/index.php?content_id=1
+    name: "日本耳鼻咽喉科頭頸部外科学会 - 診療ガイドライン/手引き・マニュアル"
+    slug: "jibika-guidelines"
+  - url: https://jrs-gl.radiology.jp/
+    name: "画像診断ガイドライン"
+    slug: "jrs-guideline"
+  - url: https://www.jssoc.or.jp/
+    name: "日本外科学会"
+    slug: "jssoc"
+  - url: https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html
+    name: "厚生労働省 - 医療情報システムの安全管理に関するガイドライン"
+    slug: "mhlw-shingi-0000516275-00006"
+  - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/
+    name: "厚生労働省 - 医療情報のデジタル化と利活用"
+    slug: "mhlw-iryou-johoka"
+  - url: https://www.jsir.or.jp/about/guide_line/
+    name: "IVR学会 ガイドライン"
+    slug: "jsir-guideline"
+  - url: https://www.apheresis-jp.org/
+    name: "日本アフェレシス学会"
+    slug: "apheresis-jp"
+  - url: https://www.jsaweb.jp/
+    name: "日本アレルギー学会"
+    slug: "jsaweb"
+  - url: https://www.mhlw.go.jp/stf/newpage_67729.html
+    name: "厚生労働省 - 令和８年度診療報酬改定について"
+    slug: "mhlw-newpage-67729"
+  - url: https://www.hpdx.or.jp/
+    name: "医療情報基盤・診療報酬審査支払機構（DX審査支払機構）"
+    slug: "hpdx"
+  - url: http://jsme.umin.ac.jp/
+    name: "日本医学教育学会"
+    slug: "jsme"
+  - url: https://www.radiology.jp/
+    name: "日本医学放射線学会"
+    slug: "radiology"
+  - url: https://www.jgca.jp/
+    name: "日本胃癌学会"
+    slug: "jgca"
+  - url: http://jshm.or.jp/
+    name: "日本医史学会"
+    slug: "jshm"
+  - url: https://www.asas.or.jp/jst/
+    name: "日本移植学会"
+    slug: "jst"
+  - url: https://www.jsmm.org/main.html
+    name: "日本医真菌学会"
+    slug: "jsmm"
+  - url: https://www.jsmi.gr.jp/
+    name: "日本医療機器学会"
+    slug: "jsmi"
+  - url: https://www.jsha.gr.jp/
+    name: "日本医療・病院管理学会"
+    slug: "jsha"
+  - url: https://www.jsir.or.jp/
+    name: "日本インターベンショナルラジオロジー学会"
+    slug: "jsir"
+  - url: https://jsv.umin.jp/
+    name: "日本ウイルス学会"
+    slug: "jsv"
+  - url: https://www.nihon-eisei.org/
+    name: "日本衛生学会"
+    slug: "nihon-eisei"
+  - url: https://www.jsmez.org/
+    name: "日本衛生動物学会"
+    slug: "jsmez"
+  - url: https://www.jsnfs.or.jp/
+    name: "日本栄養・食糧学会"
+    slug: "jsnfs"
+  - url: https://www.jspen.or.jp/
+    name: "日本栄養治療学会"
+    slug: "jspen"
+  - url: https://jeaweb.jp/
+    name: "日本疫学会"
+    slug: "jeaweb"
+  - url: https://www.onki.jp/
+    name: "日本温泉気候物理医学会"
+    slug: "onki"
+  - url: https://www.anatomy.or.jp/
+    name: "日本解剖学会"
+    slug: "anatomy"
+  - url: https://www.chemotherapy.or.jp/
+    name: "日本化学療法学会"
+    slug: "chemotherapy"
+  - url: https://www.jsnm.org/
+    name: "日本核医学会"
+    slug: "jsnm"
+  - url: https://www.nichigan.or.jp/
+    name: "日本眼科学会"
+    slug: "nichigan"
+  - url: https://www.cancer.or.jp/
+    name: "日本癌学会"
+    slug: "cancer"
+  - url: https://www.kansensho.or.jp/
+    name: "日本感染症学会"
+    slug: "kansensho"
+  - url: https://www.jsh.or.jp/medical/
+    name: "日本肝臓学会"
+    slug: "jsh"
+  - url: https://www.jshbps.jp/
+    name: "日本肝胆膵外科学会"
+    slug: "jshbps"
+  - url: https://www.jsco.or.jp/
+    name: "日本癌治療学会"
+    slug: "jsco"
+  - url: https://www.jspm.ne.jp/
+    name: "日本緩和医療学会"
+    slug: "jspm"
+  - url: https://www.kishoku.gr.jp/
+    name: "日本気管食道科学会"
+    slug: "kishoku"
+  - url: https://jsparasitol.org/
+    name: "日本寄生虫学会"
+    slug: "jsparasitol"
+  - url: https://www.jaam.jp/
+    name: "日本救急医学会"
+    slug: "jaam"
+  - url: https://www.jpats.org/
+    name: "日本胸部外科学会"
+    slug: "jpats"
+  - url: https://jsprs.or.jp/
+    name: "日本形成外科学会"
+    slug: "jsprs"
+  - url: https://www.jshem.or.jp/
+    name: "日本血液学会"
+    slug: "jshem"
+  - url: https://www.kekkaku.gr.jp/
+    name: "日本結核・非結核性抗酸菌症学会"
+    slug: "kekkaku"
+  - url: https://www.jsvs.org/
+    name: "日本血管外科学会"
+    slug: "jsvs"
+  - url: https://www.jsth.org/
+    name: "日本血栓止血学会"
+    slug: "jsth"
+  - url: https://jshhe.org/
+    name: "日本健康学会"
+    slug: "jshhe"
+  - url: https://stomatological-society.or.jp/
+    name: "日本口腔科学会"
+    slug: "stomatological-society"
+  - url: https://www.jpnsh.jp/
+    name: "日本高血圧学会"
+    slug: "jpnsh"
+  - url: https://www.jsph.jp/
+    name: "日本公衆衛生学会"
+    slug: "jsph"
+  - url: https://www.japanthyroid.jp/
+    name: "日本甲状腺学会"
+    slug: "japanthyroid"
+  - url: https://jatm.umin.jp/
+    name: "日本交通医学会"
+    slug: "jatm"
+  - url: https://www.jrs.or.jp/
+    name: "日本呼吸器学会"
+    slug: "jrs"
+  - url: https://jacsurg.gr.jp/
+    name: "日本呼吸器外科学会"
+    slug: "jacsurg"
+  - url: https://www.jsre.org/
+    name: "日本呼吸器内視鏡学会"
+    slug: "jsre"
+  - url: https://jagh.or.jp/
+    name: "日本国際保健医療学会"
+    slug: "jagh"
+  - url: http://www.josteo.com/
+    name: "日本骨粗鬆症学会"
+    slug: "josteo"
+  - url: https://jsbmr.umin.jp/
+    name: "日本骨代謝学会"
+    slug: "jsbmr"
+  - url: https://jadm.or.jp/
+    name: "日本災害医学会"
+    slug: "jadm"
+  - url: https://jsbac.org/
+    name: "日本細菌学会"
+    slug: "jsbac"
+  - url: https://www.jsrm.jp/
+    name: "日本再生医療学会"
+    slug: "jsrm"
+  - url: https://www.jsog.or.jp/
+    name: "日本産科婦人科学会"
+    slug: "jsog"
+  - url: https://www.sanei.or.jp/
+    name: "日本産業衛生学会"
+    slug: "sanei"
+  - url: https://www.jsmrm.jp/
+    name: "日本磁気共鳴医学会"
+    slug: "jsmrm"
+  - url: https://www.jibika.or.jp/
+    name: "日本耳鼻咽喉科頭頸部外科学会"
+    slug: "jibika"
+  - url: https://www.jspnm.jp/
+    name: "日本周産期・新生児医学会"
+    slug: "jspnm"
+  - url: https://www.jsicm.org/
+    name: "日本集中治療医学会"
+    slug: "jsicm"
+  - url: https://www.j-circ.or.jp/
+    name: "日本循環器学会"
+    slug: "j-circ"
+  - url: https://www.jsgs.or.jp/
+    name: "日本消化器外科学会"
+    slug: "jsgs"
+  - url: https://www.jges.net/
+    name: "日本消化器内視鏡学会"
+    slug: "jges"
+  - url: https://www.jsge.or.jp/
+    name: "日本消化器病学会"
+    slug: "jsge"
+  - url: https://www.jpeds.or.jp/
+    name: "日本小児科学会"
+    slug: "jpeds"
+  - url: http://www.jsps.or.jp/
+    name: "日本小児外科学会"
+    slug: "jsps"
+  - url: https://www.jspho.org/
+    name: "日本小児血液・がん学会"
+    slug: "jspho"
+  - url: https://jspccs.jp/
+    name: "日本小児循環器学会"
+    slug: "jspccs"
+  - url: https://www.childneuro.jp/
+    name: "日本小児神経学会"
+    slug: "childneuro"
+  - url: https://jspe.umin.jp/
+    name: "日本小児内分泌学会"
+    slug: "jspe"
+  - url: http://www.jsomt.jp/
+    name: "日本職業・災害医学会"
+    slug: "jsomt"
+  - url: https://www.esophagus.jp/
+    name: "日本食道学会"
+    slug: "esophagus"
+  - url: https://www.jmwh.jp/
+    name: "日本女性医学学会"
+    slug: "jmwh"
+  - url: https://jsan-net.jp/
+    name: "日本自律神経学会"
+    slug: "jsan-net"
+  - url: https://www.neurology-jp.org/index.html
+    name: "日本神経学会"
+    slug: "neurology-jp"
+  - url: https://www.jsnp.jp/
+    name: "日本神経病理学会"
+    slug: "jsnp"
+  - url: https://www.jsao.org/
+    name: "日本人工臓器学会"
+    slug: "jsao"
+  - url: https://shinshin-igaku.com/
+    name: "日本心身医学会"
+    slug: "shinshin-igaku"
+  - url: https://jsn.or.jp/
+    name: "日本腎臓学会"
+    slug: "jsn"
+  - url: https://jscvs.or.jp/
+    name: "日本心臓血管外科学会"
+    slug: "jscvs"
+  - url: https://jshg.jp/
+    name: "日本人類遺伝学会"
+    slug: "jshg"
+  - url: https://www.jssr.jp/
+    name: "日本睡眠学会"
+    slug: "jssr"
+  - url: https://www.jbsoc.or.jp/
+    name: "日本生化学会"
+    slug: "jbsoc"
+  - url: https://www.joa.or.jp/
+    name: "日本整形外科学会"
+    slug: "joa"
+  - url: http://www.jsrm.or.jp/
+    name: "日本生殖医学会"
+    slug: "jsrm-2"
+  - url: https://www.jspn.or.jp/
+    name: "日本精神神経学会"
+    slug: "jspn"
+  - url: http://jsmbe.org/
+    name: "日本生体医工学会"
+    slug: "jsmbe"
+  - url: https://www.physiology.jp/
+    name: "日本生理学会"
+    slug: "physiology"
+  - url: https://ssl.jssr.gr.jp/
+    name: "日本脊椎脊髄病学会"
+    slug: "ssl"
+  - url: https://plaza.umin.ac.jp/~jts/
+    name: "日本先天異常学会"
+    slug: "jts"
+  - url: https://www.jstct.or.jp/
+    name: "日本造血・免疫細胞療法学会"
+    slug: "jstct"
+  - url: https://www.coloproctology.gr.jp/
+    name: "日本大腸肛門病学会"
+    slug: "coloproctology"
+  - url: https://plaza.umin.ac.jp/jspfsm/
+    name: "日本体力医学会"
+    slug: "jspfsm"
+  - url: https://www.jsum.or.jp/
+    name: "日本超音波医学会"
+    slug: "jsum"
+  - url: https://www.jssh.or.jp/
+    name: "日本手外科学会"
+    slug: "jssh"
+  - url: https://jes-jp.org/
+    name: "日本てんかん学会"
+    slug: "jes-jp"
+  - url: https://www.jsdt.or.jp/
+    name: "日本透析医学会"
+    slug: "jsdt"
+  - url: https://www.jds.or.jp/
+    name: "日本糖尿病学会"
+    slug: "jds"
+  - url: https://www.j-athero.org/jp/
+    name: "日本動脈硬化学会"
+    slug: "j-athero"
+  - url: https://www.jsom.or.jp/
+    name: "日本東洋医学会"
+    slug: "jsom"
+  - url: https://www.jses.or.jp/
+    name: "日本内視鏡外科学会"
+    slug: "jses"
+  - url: https://www.j-endo.jp/
+    name: "日本内分泌学会"
+    slug: "j-endo"
+  - url: https://jaes.umin.jp/
+    name: "日本内分泌外科学会"
+    slug: "jaes"
+  - url: https://www.jbcs.gr.jp/
+    name: "日本乳癌学会"
+    slug: "jbcs"
+  - url: https://dementia-japan.org/
+    name: "日本認知症学会"
+    slug: "dementia-japan"
+  - url: https://www.jsbi-burn.org/
+    name: "日本熱傷学会"
+    slug: "jsbi-burn"
+  - url: https://tjstm.jp/
+    name: "日本熱帯医学会"
+    slug: "tjstm"
+  - url: https://jns-official.jp/
+    name: "日本脳神経外科学会"
+    slug: "jns-official"
+  - url: https://jsnet.website/
+    name: "日本脳神経血管内治療学会"
+    slug: "jsnet"
+  - url: https://www.jsts.gr.jp/
+    name: "日本脳卒中学会"
+    slug: "jsts"
+  - url: https://www.jarm.jp/
+    name: "日本農村医学会"
+    slug: "jarm"
+  - url: https://www.haigan.gr.jp/
+    name: "日本肺癌学会"
+    slug: "haigan"
+  - url: https://www.hansen-gakkai.jp/
+    name: "日本ハンセン病学会"
+    slug: "hansen-gakkai"
+  - url: https://www.urol.or.jp/
+    name: "日本泌尿器科学会"
+    slug: "urol"
+  - url: https://www.dermatol.or.jp/
+    name: "日本皮膚科学会"
+    slug: "dermatol"
+  - url: https://www.jasso.or.jp/
+    name: "日本肥満学会"
+    slug: "jasso"
+  - url: https://www.eiyou.or.jp/
+    name: "日本病態栄養学会"
+    slug: "eiyou"
+  - url: https://www.pathology.or.jp/
+    name: "日本病理学会"
+    slug: "pathology"
+  - url: https://jsgo.or.jp/
+    name: "日本婦人科腫瘍学会"
+    slug: "jsgo"
+  - url: https://www.primarycare-japan.com/
+    name: "日本プライマリ・ケア連合学会"
+    slug: "primarycare-japan"
+  - url: https://www.jssmr.jp/
+    name: "日本平滑筋学会"
+    slug: "jssmr"
+  - url: https://www.jspc.gr.jp/
+    name: "日本ペインクリニック学会"
+    slug: "jspc"
+  - url: http://www.jslm.jp/
+    name: "日本法医学会"
+    slug: "jslm"
+  - url: https://www.jastro.or.jp/
+    name: "日本放射線腫瘍学会"
+    slug: "jastro"
+  - url: https://aimj.org/
+    name: "日本保険医学会"
+    slug: "aimj"
+  - url: https://anesth.or.jp/
+    name: "日本麻酔科学会"
+    slug: "anesth"
+  - url: https://j-ca.org/
+    name: "日本脈管学会"
+    slug: "j-ca"
+  - url: https://www.jsi-men-eki.org/
+    name: "日本免疫学会"
+    slug: "jsi-men-eki"
+  - url: https://pharmacol.or.jp/
+    name: "日本薬理学会"
+    slug: "pharmacol"
+  - url: https://yuketsu.jstmct.or.jp/
+    name: "日本輸血・細胞治療学会"
+    slug: "yuketsu"
+  - url: https://www.ryumachi-jp.com/
+    name: "日本リウマチ学会"
+    slug: "ryumachi-jp"
+  - url: https://www.jarm.or.jp/
+    name: "日本リハビリテーション医学会"
+    slug: "jarm-2"
+  - url: https://www.jslm.org/
+    name: "日本臨床検査医学会"
+    slug: "jslm-2"
+  - url: https://jscc.or.jp/
+    name: "日本臨床細胞学会"
+    slug: "jscc"
+  - url: https://www.jsmo.or.jp/
+    name: "日本臨床腫瘍学会"
+    slug: "jsmo"
+  - url: https://square.umin.ac.jp/JSCN/index.html
+    name: "日本臨床神経生理学会"
+    slug: "jscn"
+  - url: https://www.rinspo.jp/
+    name: "日本臨床スポーツ医学会"
+    slug: "rinspo"
+  - url: https://www.jsci73.net/
+    name: "日本臨床免疫学会"
+    slug: "jsci73"
+  - url: https://www.jscpt.jp/
+    name: "日本臨床薬理学会"
+    slug: "jscpt"
+  - url: https://www.jsltr.org/
+    name: "日本リンパ腫学会"
+    slug: "jsltr"
+  - url: https://www.jslsm.or.jp/
+    name: "日本レーザー医学会"
+    slug: "jslsm"
+  - url: https://www.jpn-geriat-soc.or.jp/
+    name: "日本老年医学会"
+    slug: "jpn-geriat-soc"
+  - url: https://www.rounen.org/
+    name: "日本老年精神医学会"
+    slug: "rounen"
