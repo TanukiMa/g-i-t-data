@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本婦人科腫瘍学会</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jsgo.xml</id>
-  <updated>2026-10-05T02:28:47Z</updated>
+  <updated>2026-10-04T16:43:59Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jsgo.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jsgo/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>日本婦人科腫瘍学会: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jsgo/a94fa76b2a4cbe64b7b5c19053516021e33f9877</id>
+    <updated>2026-10-04T16:43:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jsgo/history.html" />
+    <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jsgo.or.jp/"&gt;監視対象ページ&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 </feed>

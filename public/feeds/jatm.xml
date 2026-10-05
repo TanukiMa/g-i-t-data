@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本交通医学会</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jatm.xml</id>
-  <updated>2026-10-05T02:28:47Z</updated>
+  <updated>2026-10-04T16:43:21Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jatm.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jatm/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>日本交通医学会: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jatm/f0ee2536b31da9a886f33cded72b1c1e2213f56c</id>
+    <updated>2026-10-04T16:43:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jatm/history.html" />
+    <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jatm.umin.jp/"&gt;監視対象ページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261004123621/http://jatm.umin.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 </feed>
