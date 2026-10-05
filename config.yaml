@@ -536,3 +536,6 @@ sites:
   - url: https://www.med.or.jp/
     name: "日本医師会"
     slug: "medorjp"
+  - url: https://www.med.or.jp/new.html
+    name: "日本医師会 - サイト全体新着一覧"
+    slug: "medorjpnew"
