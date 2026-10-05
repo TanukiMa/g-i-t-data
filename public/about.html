@@ -7,8 +7,15 @@
 <link rel="stylesheet" href="assets/github.css" />
 <link rel="stylesheet" href="assets/common.css" />
 <link rel="alternate" type="application/atom+xml" title="G医t 更新情報（すべて）" href="feeds/all.xml" />
+<link rel="manifest" href="manifest.webmanifest" />
+<link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png" />
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="G医t" />
 
 <script src="assets/app.js" defer></script>
+<script src="assets/pwa.js" defer data-root=""></script>
 
 </head>
 <body>
@@ -21,14 +28,14 @@
   </nav>
   <header>
     <h1>G医tについて</h1>
-    <p id="status">生成: 2026-10-05 01:45 JST ・ <a href="sites.html">監視サイト一覧（176）</a> ・ <a href="archive/index.html">アーカイブ</a> ・ <a href="feeds/all.xml" title="Atom フィード（すべて）">📡 Atom</a> ・ <a href="about.html">G医tについて</a></p>
+    <p id="status">生成: 2026-10-05 11:28 JST ・ <a href="sites.html">監視サイト一覧（178）</a> ・ <a href="archive/index.html">アーカイブ</a> ・ <a href="feeds/all.xml" title="Atom フィード（すべて）">📡 Atom</a> ・ <a href="about.html">G医tについて</a></p>
   </header>
   <a class="page-back" href="index.html">← 全体タイムラインへ戻る</a>
 
   <div class="prose">
     <h2>どんなプロジェクトか</h2>
     <p>G医t（G-I-T）は、医師であるMatanuki氏が、医療・薬事・学会関連サイトの「本当に必要な更新」を正確に捉えるために設計・運用している個人プロジェクトです。</p>
-    <p>約176のサイトを毎時間見に行き、装飾や動的な部分を取り除いて「意味のあるコンテンツの変化」だけを Git に記録し、日本語で解説します。更新を検知したページは Wayback Machine にも保存します。営利を目的とせず、オープンに公開しています。</p>
+    <p>約178のサイトを毎時間見に行き、装飾や動的な部分を取り除いて「意味のあるコンテンツの変化」だけを Git に記録し、日本語で解説します。更新を検知したページは Wayback Machine にも保存します。営利を目的とせず、オープンに公開しています。</p>
     <p>設計の考え方は <a href="https://github.com/TanukiMa/g-i-t-data/wiki/Design-Philosophy" target="_blank" rel="noopener noreferrer">Wiki の「設計思想」</a>に書いています。</p>
 
     <h2>1枚でわかる G医t</h2>
@@ -50,6 +57,16 @@
       <dd>フィードリーダーで購読できます（すべて／サイトごと／分類ごと）。</dd>
     </dl>
     <p class="muted">時刻はすべて日本時間（JST）です。</p>
+
+    <h2>アプリとして使う</h2>
+    <p>G医t は、スマートフォンやパソコンに<strong>アプリとしてインストール</strong>できます。ホーム画面やスタートメニューから、ブラウザの枠なしで開けます。</p>
+    <div data-install hidden class="toggle-box"><button type="button" class="install-btn" data-install-button>📲 このブラウザにインストールする</button></div>
+    <p data-install-ios hidden class="toggle-box">iPhone / iPad では、Safari の共有ボタン（□に↑）から「<strong>ホーム画面に追加</strong>」を選んでください。</p>
+    <p data-installed hidden class="muted">いま、アプリとして開いています。</p>
+    <ul>
+      <li>Android / Windows / Mac（Chrome・Edge）: アドレスバーのインストールのボタン、または上のボタンから。</li>
+      <li>つながっているときは、いつも最新のページを表示します。接続できないときだけ、最近開いたページの<strong>保存済みの控え</strong>を表示します（最新ではない場合があります）。</li>
+    </ul>
 
     <h2>ご利用にあたって</h2>
     <ul>
@@ -75,6 +92,6 @@
   </footer>
 
 </main>
-<p class="legal"><a href="privacy.html">プライバシーとアクセス解析について</a></p>
+<p class="legal"><a href="privacy.html">プライバシーとアクセス解析について</a><span data-install hidden> ・ <button type="button" class="install-btn" data-install-button>📲 アプリとしてインストール</button></span></p>
 </body>
 </html>

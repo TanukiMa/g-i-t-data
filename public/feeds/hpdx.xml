@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 医療情報基盤・診療報酬審査支払機構（DX審査支払機構）</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/hpdx.xml</id>
-  <updated>2026-10-04T16:45:28Z</updated>
+  <updated>2026-10-05T02:28:18Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/hpdx.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/hpdx/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: 「改組に伴う特定健診・保健指導システムの再セットアップについて」（URL: /datahealth/tokuteikenshin/tokuteikenshinonline…</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/hpdx/95814e48df335463983f86144ad4d8a3f74400d1</id>
+    <updated>2026-10-05T02:28:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/hpdx/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「改組に伴う特定健診・保健指導システムの再セットアップについて」（URL: &lt;code&gt;/datahealth/tokuteikenshin/tokuteikenshinonline.html#cmssetup&lt;/code&gt;）の項目が追加されました。&lt;/li&gt;&lt;li&gt;追加: 令和8年10月5日付で、医療機関等向け「受付・事務点検ＡＳＰに係るチェック一覧」を更新し、PDFファイル（&lt;code&gt;checkichiran_chozai.pdf&lt;/code&gt;）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;監視対象ページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/hpdx/diff_95814e4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 </feed>
