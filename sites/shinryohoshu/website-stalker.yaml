@@ -12,5 +12,11 @@ sites:
   - regex_replace:
       pattern: ;jsessionid=[0-9A-Fa-f]+
       replace: ''
+  - regex_replace:
+      pattern: (?i)\s*<(?:span|em|strong|b|i|font|small|sup)\b[^>]*>\s*(?:new|ＮＥＷ|新着)\s*[!！]?\s*</(?:span|em|strong|b|i|font|small|sup)>
+      replace: ''
+  - regex_replace:
+      pattern: (?i)\s*<img\b[^>]*\balt=["'](?:new|ＮＥＷ|新着)[!！]?["'][^>]*>
+      replace: ''
   - html_sanitize
   - html_prettify
