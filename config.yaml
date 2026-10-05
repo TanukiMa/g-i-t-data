@@ -533,3 +533,6 @@ sites:
   - url: https://www.rounen.org/
     name: "日本老年精神医学会"
     slug: "rounen"
+  - url: https://www.med.or.jp/
+    name: "日本医師会"
+    slug: "medorjp"
