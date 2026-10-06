@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本ペインクリニック学会</title>
-  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jspc.xml</id>
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/jspc.xml</id>
   <updated>2026-10-06T03:33:56Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jspc.xml" />
-  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jspc/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jspc.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jspc/history.html" />
   <author>
     <name>G医t</name>
   </author>
   <entry>
     <title>日本ペインクリニック学会: 変更: 第7回関西支部学術集会の参加点数反映対象に関する記載が、Web参加から現地参加に変更された</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/jspc/2aaa4bdb859f2b4240e6b51b131cc9bb28a38fcd</id>
+    <id>tag:git.example.com,2026:g-i-t-data/jspc/2aaa4bdb859f2b4240e6b51b131cc9bb28a38fcd</id>
     <updated>2026-10-06T03:33:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jspc/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 第7回関西支部学術集会の参加点数反映対象に関する記載が、Web参加から現地参加に変更された&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jspc.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jspc/diff_2aaa4bd.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006021905/https://www.jspc.gr.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jspc/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 第7回関西支部学術集会の参加点数反映対象に関する記載が、Web参加から現地参加に変更された&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jspc.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jspc/diff_2aaa4bd.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006021905/https://www.jspc.gr.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本ペインクリニック学会: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/jspc/8bc82ec6d03c3ce261ef70e15276b5aa97225042</id>
+    <id>tag:git.example.com,2026:g-i-t-data/jspc/8bc82ec6d03c3ce261ef70e15276b5aa97225042</id>
     <updated>2026-10-04T16:44:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jspc/history.html" />
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jspc/history.html" />
     <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jspc.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006021905/https://www.jspc.gr.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

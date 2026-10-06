@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本化学療法学会 - 重要なお知らせ</title>
-  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/chemotherapy-news-3.xml</id>
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/chemotherapy-news-3.xml</id>
   <updated>2026-10-04T16:42:47Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/chemotherapy-news-3.xml" />
-  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/chemotherapy-news-3/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/chemotherapy-news-3.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/chemotherapy-news-3/history.html" />
   <author>
     <name>G医t</name>
   </author>
   <entry>
     <title>日本化学療法学会 - 重要なお知らせ: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/chemotherapy-news-3/758782068ae9c43d17edacf91d64fff622d35cdf</id>
+    <id>tag:git.example.com,2026:g-i-t-data/chemotherapy-news-3/758782068ae9c43d17edacf91d64fff622d35cdf</id>
     <updated>2026-10-04T16:42:47Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/chemotherapy-news-3/history.html" />
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/chemotherapy-news-3/history.html" />
     <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.chemotherapy.or.jp/modules/newslist/index.php?content_id=3"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006032217/https://www.chemotherapy.or.jp/modules/newslist/index.php?content_id=3"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
