@@ -545,3 +545,12 @@ sites:
   - url: https://jsn.or.jp/medic/
     name: "日本腎臓学会 - 医療従事者のみなさまへ"
     slug: "jsnmedic"
+  - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/
+    name: "厚生労働省 - 感染症情報"
+    slug: "mhlwinfection"
+  - url: "https://www.caicm.go.jp/action/data/"
+    name: "内閣感染症機器管理統括庁 - 感染症の発生状況"
+    slug: "caicmdata"
+  - url: "https://id-info.jihs.go.jp/"
+    name: "国立健康危機管理研究機構 感染症情報提供サイト"
+    slug: "jihsinfo"
