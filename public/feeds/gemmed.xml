@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t gemmed</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/gemmed.xml</id>
-  <updated>2026-10-06T17:20:06Z</updated>
+  <updated>2026-10-06T23:50:14Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/gemmed.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
   <author>
     <name>G医t</name>
   </author>
   <entry>
+    <title>gemmed: 追加: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7）</title>
+    <id>tag:git.example.com,2026:g-i-t-data/gemmed/676a8982519a84d233c11bd297992bc95da9a0cb</id>
+    <updated>2026-10-06T23:50:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_676a898.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>gemmed: 変更: バナーリンクおよび画像が「1029ミニセミナー」（URL: https://www.ghc-j.com/20261029gm）から「病院ダッシュボードΧ ZERO」（UR…</title>
     <id>tag:git.example.com,2026:g-i-t-data/gemmed/b8b927e439c860c8bc4bc25977dce2f5b946a2fd</id>
     <updated>2026-10-06T17:20:06Z</updated>
     <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「1029ミニセミナー」（URL: &lt;code&gt;https://www.ghc-j.com/20261029gm&lt;/code&gt;）から「病院ダッシュボードΧ ZERO」（URL: &lt;code&gt;https://www.ghc-j.com/zero-byoushou-gairai-2026-gm&lt;/code&gt;、代替テキスト：病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO）に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_b8b927e.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「1029ミニセミナー」（URL: &lt;code&gt;https://www.ghc-j.com/20261029gm&lt;/code&gt;）から「病院ダッシュボードΧ ZERO」（URL: &lt;code&gt;https://www.ghc-j.com/zero-byoushou-gairai-2026-gm&lt;/code&gt;、代替テキスト：病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO）に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_b8b927e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006195605/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 記事「有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）」（2026年10月6日）</title>

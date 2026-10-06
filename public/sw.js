@@ -4,9 +4,9 @@
  *   - HTML pages ... network first (a short timeout when a copy exists), the copy is only a fallback.
  *   - CSS / JS / icons ... cached copy first, refreshed in the background (stale-while-revalidate).
  *   - Everything else (Atom feeds, diff pages, other domains such as Google / Cloudflare / Wayback) is not touched.
- * 20261006172009 is replaced at build time, so every deployment installs a fresh worker and a fresh asset cache.
+ * 20261006235016 is replaced at build time, so every deployment installs a fresh worker and a fresh asset cache.
  */
-const BUILD = "20261006172009";
+const BUILD = "20261006235016";
 const STATIC_CACHE = "git-static-" + BUILD;   // replaced on every deployment
 const PAGE_CACHE = "git-pages-v1";            // offline copies of pages the reader opened (kept across deployments)
 const PAGE_LIMIT = 60;                        // most recent pages kept
