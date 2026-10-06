@@ -22,14 +22,18 @@ sites:
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html
     name: "傷病名マスター"
     slug: "hpdx-kihonmasta-07"
+    tags: ["マスター"]
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html
     name: "医薬品マスター"
     slug: "hpdx-kihonmasta-04"
+    tags: ["マスター"]
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_05.html
     name: "特定器材マスター"
+    tags: ["マスター"]
     slug: "hpdx-kihonmasta-05"
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html
     name: "医科診療行為マスター"
+    tags: ["マスター"]
     slug: "hpdx-kihonmasta-01"
   - url: https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html
     name: "薬価基準収載品目リスト及び後発医薬品に関する情報について"
@@ -52,16 +56,19 @@ sites:
   - url: https://shinryohoshu.mhlw.go.jp/shinryohoshu/downloadMenu/
     name: "診療報酬情報提供サービス - ファイルダウンロード"
     slug: "shinryohoshu-download-menu"
+    tags: ["マスター"]
     ignore:
       - ';jsessionid=[0-9A-Fa-f]+'
   - url: https://shinryohoshu.mhlw.go.jp/shinryohoshu/
     name: "診療報酬情報提供サービス"
     slug: "shinryohoshu"
+    tags: ["マスター"]
     ignore:
       - ';jsessionid=[0-9A-Fa-f]+'
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html
     name: "令和6年 基本マスターに関する変更情報"
     slug: "hpdx-r06kaiteijoho"
+    tags: ["マスター"]
   - url: https://www.chemotherapy.or.jp/modules/newslist/index.php?content_id=4
     name: "日本化学療法学会 - 全てのお知らせ"
     slug: "chemotherapy-news-4"
@@ -77,20 +84,24 @@ sites:
   - url: https://www.radiology.jp/guideline
     name: "日本医学放射線学会 - ガイドライン"
     slug: "radiology-guideline"
+    tags: ["ガイドライン"]
   - url: https://www.j-circ.or.jp/guideline/guideline-series/
     name: "循環器病ガイドラインシリーズ"
     slug: "j-circ-guideline-series"
+    tags: ["ガイドライン"]
   - url: https://www.kekkaku.gr.jp/medical_staff/
     name: "日本結核・非結核性抗酸菌症学会 - 医療従事者へ"
     slug: "kekkaku-medical-staff"
   - url: https://jsnm.org/useful/guidelines/
     name: "日本核医学会 - ガイドライン"
     slug: "jsnm-guidelines"
+    tags: ["ガイドライン"]
   - url: https://www.jibika.or.jp/modules/guidelines/index.php?content_id=1
     name: "日本耳鼻咽喉科頭頸部外科学会 - 診療ガイドライン/手引き・マニュアル"
     slug: "jibika-guidelines"
   - url: https://jrs-gl.radiology.jp/
     name: "画像診断ガイドライン"
+    tags: ["ガイドライン"]
     slug: "jrs-guideline"
   - url: https://www.jssoc.or.jp/
     name: "日本外科学会"
