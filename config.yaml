@@ -539,6 +539,9 @@ sites:
   - url: https://www.med.or.jp/new.html
     name: "日本医師会 - サイト全体新着一覧"
     slug: "medorjpnew"
-  - url : https://www.medsafe.or.jp/
+  - url: https://www.medsafe.or.jp/
     name: "日本医療安全調査機構"
     slug: "medsafeorjp"
+  - url: https://jsn.or.jp/medic/
+    name: "日本腎臓学会 - 医療従事者のみなさまへ"
+    slug: "jsnmedic"
