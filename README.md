@@ -1,6 +1,6 @@
-# G医t Data Repository (`g-i-t-data`)
+# G醫t Data Repository (`g-i-t-data`)
 
-G医t (G-I-T) のマスター設定、監視対象サイトのスナップショット、GitHub Pages 公開用のデータリポジトリです。
+G醫t (G-I-T) のマスター設定、監視対象サイトのスナップショット、GitHub Pages 公開用のデータリポジトリです。
 監視データはすべてこのリポジトリに集約します（サブモジュールや個別リポジトリは使いません）。
 
 ## ディレクトリ構成
