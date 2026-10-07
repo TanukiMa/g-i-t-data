@@ -1,0 +1,25 @@
+sites:
+- url: https://iryohokenjyoho.hpdx.or.jp/csm
+  headers:
+  - 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/120.0.0.0 Safari/537.36'
+  editors:
+  - css_select: body
+  - css_remove: script, style, noscript, iframe
+  - regex_replace:
+      pattern: (\.(?:pdf|docx?|xlsx?|pptx?|zip|png|jpe?g|gif|webp|svg|ico|css|js))\?(?:(?:ver|v|t|ts|time|timestamp|rev|cb)=)?[0-9][0-9.]*
+      replace: $1
+  - regex_replace:
+      pattern: (?i)\s*<(?:span|em|strong|b|i|font|small|sup)\b[^>]*>\s*(?:new|ＮＥＷ|新着)\s*[!！]?\s*</(?:span|em|strong|b|i|font|small|sup)>
+      replace: ''
+  - regex_replace:
+      pattern: (?i)\s*<img\b[^>]*\balt=["'](?:new|ＮＥＷ|新着)[!！]?["'][^>]*>
+      replace: ''
+  - regex_replace:
+      pattern: (/cdn-cgi/l/email-protection)#[0-9A-Fa-f]+
+      replace: $1
+  - regex_replace:
+      pattern: data-cfemail="[0-9A-Fa-f]+"
+      replace: data-cfemail=""
+  - html_sanitize
+  - html_prettify
