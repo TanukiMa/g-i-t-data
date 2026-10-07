@@ -24,6 +24,9 @@ sites:
   - url: https://www.pmda.go.jp/
     name: "独立行政法人 医薬品医療機器総合機構(PMDA)"
     slug: "pmda"
+  - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/esc-rsc/0001.html
+    name: "PMDA - 緊急安全性情報（イエローレター）・安全性速報（ブルーレター）"
+    slug: "pmdaescrsc0001"
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html
     name: "傷病名マスター"
     slug: "hpdx-kihonmasta-07"
@@ -582,3 +585,19 @@ sites:
   - url: https://www.jpoa.org/
     name: "日本小児整形外科学会"
     slug: "jpoaorg"
+  - url: https://minds.jcqhc.or.jp/summary/c00854/
+    name: "Mindsガイドラインライブラリ"
+    slug: "mindsjcqhc"
+    tags: ["ガイドライン"]
+  - url: https://jcqhc.or.jp/
+    name: "日本医療機能評価機構"
+    slug: "jcqhcorjp"
+  - url: https://www.fpmaj.gr.jp/
+    name: "日本製薬団体連合会(日薬連)"
+    slug: "fpmajgrjp"
+  - url: https://drugshortage.jp/updatehistory.php
+    name: "医療用医薬品供給状況データベース(DSJP)"
+    slug: "dsjpupdate"
+  - url: https://www.digital.go.jp/resources/govdashboard/healthcare-dx
+    name: "デジタル庁 - 医療DXに関するダッシュボード"
+    slug: "digitalmeddx"
