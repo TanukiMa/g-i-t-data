@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本生理学会</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/physiology.xml</id>
-  <updated>2026-10-06T03:34:00Z</updated>
+  <updated>2026-10-07T06:16:40Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/physiology.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/physiology/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>日本生理学会: 変更: 【日本生理学会】学会賞候補者の募集の締め切りが「10/9(金)正午」から「10/19(月)（※延長しました）」に変更された。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/physiology/144473a6f57f595c9a6a3434424e5a47fdf9c402</id>
+    <updated>2026-10-07T06:16:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/physiology/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 【日本生理学会】学会賞候補者の募集の締め切りが「10/9(金)正午」から「10/19(月)（※延長しました）」に変更された。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.physiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/physiology/diff_144473a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本生理学会: 追加: お知らせ「第31回 久野寧記念賞・候補論文の募集について」（2026-10-06）</title>
     <id>tag:git.example.com,2026:g-i-t-data/physiology/681621a1d2808442c9071d0a20107710d59ea565</id>

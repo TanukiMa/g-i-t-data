@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本医師会 - サイト全体新着一覧</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/medorjpnew.xml</id>
-  <updated>2026-10-06T11:11:47Z</updated>
+  <updated>2026-10-07T06:16:39Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/medorjpnew.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/medorjpnew/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>日本医師会 - サイト全体新着一覧: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/medorjpnew/e2b6f8c23103e8ada7a7c77ea942779a1cc5e3b4</id>
+    <updated>2026-10-07T06:16:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/medorjpnew/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/new.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/medorjpnew/diff_e2b6f8c.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医師会 - サイト全体新着一覧: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:git.example.com,2026:g-i-t-data/medorjpnew/9f4cf4e1ccf1831ee33c1c47e7267a5725fd75e3</id>
