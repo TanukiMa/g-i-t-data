@@ -1,18 +1,18 @@
-/* G医t service worker.
+/* G醫t service worker.
  *
  * Goal: installable app + a readable offline copy, WITHOUT ever hiding a newer version when online.
  *   - HTML pages ... network first (a short timeout when a copy exists), the copy is only a fallback.
  *   - CSS / JS / icons ... cached copy first, refreshed in the background (stale-while-revalidate).
  *   - Everything else (Atom feeds, diff pages, other domains such as Google / Cloudflare / Wayback) is not touched.
- * 20261007122112 is replaced at build time, so every deployment installs a fresh worker and a fresh asset cache.
+ * 20261007135456 is replaced at build time, so every deployment installs a fresh worker and a fresh asset cache.
  */
-const BUILD = "20261007122112";
+const BUILD = "20261007135456";
 const STATIC_CACHE = "git-static-" + BUILD;   // replaced on every deployment
 const PAGE_CACHE = "git-pages-v2";            // offline copies of pages the reader opened (kept across deployments; v2: keys without index.html)
 const PAGE_LIMIT = 60;                        // most recent pages kept
 const WAIT_FOR_NETWORK_MS = 4000;             // with a copy available, fall back to it after this long
 
-const ASSET_VERSION = "a09cf1644b";   // the pages ask for assets/xxx?v=<this>: same URL, same cache entry
+const ASSET_VERSION = "e2db2dded0";   // the pages ask for assets/xxx?v=<this>: same URL, same cache entry
 const SHELL = [
   "offline.html",
   "assets/github.css?v=" + ASSET_VERSION, "assets/dashboard.css?v=" + ASSET_VERSION,

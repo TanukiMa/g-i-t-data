@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>G医t 分類: ガイドライン</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/tag-6f17a14f.xml</id>
+  <title>G醫t 分類: ガイドライン</title>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/tag-6f17a14f.xml</id>
   <updated>2026-10-05T02:28:44Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/tag-6f17a14f.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites.html" />
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/tag-6f17a14f.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites.html" />
   <author>
-    <name>G医t</name>
+    <name>G醫t</name>
   </author>
   <entry>
     <title>日本医学放射線学会 - ガイドライン: 追加: 「画像診断ガイドライン2026年度版の全記事の公開について」（2026年10月02日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/radiology-guideline/d7f83ebbace88af7d20f426d033a35c728f5654d</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/radiology-guideline/d7f83ebbace88af7d20f426d033a35c728f5654d</id>
     <updated>2026-10-05T02:28:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/radiology-guideline/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「画像診断ガイドライン2026年度版の全記事の公開について」（2026年10月02日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: パブリックコメント募集「腎障害患者におけるヨード造影剤使用に関するガイドライン2018」（2018年05月01日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.radiology.jp/guideline"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/radiology-guideline/diff_d7f83eb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006035038/https://www.radiology.jp/guideline"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/radiology-guideline/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「画像診断ガイドライン2026年度版の全記事の公開について」（2026年10月02日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: パブリックコメント募集「腎障害患者におけるヨード造影剤使用に関するガイドライン2018」（2018年05月01日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.radiology.jp/guideline"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/radiology-guideline/diff_d7f83eb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006035038/https://www.radiology.jp/guideline"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

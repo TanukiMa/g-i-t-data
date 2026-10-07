@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>G医t 厚生労働省</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/mhlw.xml</id>
+  <title>G醫t 厚生労働省</title>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/mhlw.xml</id>
   <updated>2026-10-07T08:32:55Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/mhlw.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/mhlw.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw/history.html" />
   <author>
-    <name>G医t</name>
+    <name>G醫t</name>
   </author>
   <entry>
     <title>厚生労働省: 変更: 厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します（2026年10月7日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw/f21e5cbbfb9388750a3dc6d4f85b21f800fecfeb</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw/f21e5cbbfb9388750a3dc6d4f85b21f800fecfeb</id>
     <updated>2026-10-07T08:32:55Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第188回市町村セミナーの資料について（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第１７回厚生科学審議会結核部会の開催について（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 薬事審議会　医薬品第二部会を開催します（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第38回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水））　売払契約　【オープンカウンター方式】（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します（2026年10月6日）等&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_f21e5cb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第188回市町村セミナーの資料について（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第１７回厚生科学審議会結核部会の開催について（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 薬事審議会　医薬品第二部会を開催します（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第38回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水））　売払契約　【オープンカウンター方式】（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します（2026年10月6日）等&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw/diff_f21e5cb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省: 追加: 第１７回厚生科学審議会結核部会の開催について（2026年10月7日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw/c07272b3a4b71ba9541c9663657b417e58062408</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw/c07272b3a4b71ba9541c9663657b417e58062408</id>
     <updated>2026-10-07T06:16:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第１７回厚生科学審議会結核部会の開催について（2026年10月7日）&lt;/li&gt;&lt;li&gt;追加: 第188回市町村セミナーの資料について（2026年10月7日）&lt;/li&gt;&lt;li&gt;追加: 薬事審議会　医薬品第二部会を開催します（2026年10月7日）&lt;/li&gt;&lt;li&gt;追加: 第38回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 被保護者調査（令和８年７月分概数）（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 毎月勤労統計調査ー2026（令和8）年８月分結果速報（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 令和８年１０月６日付大臣会見概要（2026年10月6日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_c07272b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第１７回厚生科学審議会結核部会の開催について（2026年10月7日）&lt;/li&gt;&lt;li&gt;追加: 第188回市町村セミナーの資料について（2026年10月7日）&lt;/li&gt;&lt;li&gt;追加: 薬事審議会　医薬品第二部会を開催します（2026年10月7日）&lt;/li&gt;&lt;li&gt;追加: 第38回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 被保護者調査（令和８年７月分概数）（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 毎月勤労統計調査ー2026（令和8）年８月分結果速報（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 令和８年１０月６日付大臣会見概要（2026年10月6日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw/diff_c07272b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省: 追加: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水）） 売払契約 【オープンカウンター方式】（2026年10月7日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw/83eb6bef1dcaf5e3cf49515cd777b256ff64985e</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw/83eb6bef1dcaf5e3cf49515cd777b256ff64985e</id>
     <updated>2026-10-07T01:30:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水）） 売払契約 【オープンカウンター方式】（2026年10月7日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 被保護者調査（令和８年７月分概数）（2026年10月7日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 世界メンタルヘルスデー JAPAN 2026 特設サイト（2026年10月1日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_83eb6be.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007040153/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水）） 売払契約 【オープンカウンター方式】（2026年10月7日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 被保護者調査（令和８年７月分概数）（2026年10月7日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 世界メンタルヘルスデー JAPAN 2026 特設サイト（2026年10月1日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw/diff_83eb6be.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007040153/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省: 追加: 統計情報「毎月勤労統計調査ー2026（令和8）年８月分結果速報」（2026年10月7日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw/30741820c5a9bbff68c3178b2b40275fe9243d68</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw/30741820c5a9bbff68c3178b2b40275fe9243d68</id>
     <updated>2026-10-06T23:50:15Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 統計情報「毎月勤労統計調査ー2026（令和8）年８月分結果速報」（2026年10月7日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_3074182.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007040153/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 統計情報「毎月勤労統計調査ー2026（令和8）年８月分結果速報」（2026年10月7日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw/diff_3074182.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007040153/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省: 追加: 第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します（2026年10月6日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw/0b440bc6c33783ffaf2a38f8023bf4043de3dd5d</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw/0b440bc6c33783ffaf2a38f8023bf4043de3dd5d</id>
     <updated>2026-10-06T11:11:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 令和８年１０月６日付大臣会見概要（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第５回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第13回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第26回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）　資料（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第68回厚生科学審議会疾病対策部会指定難病検討委員会 議事録（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 「人口動態統計月報（概数）」令和８（2026）年５月分（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 食品中の放射性物質の検査結果について（１５１５報）（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 令和８年度第６回化学物質管理に係る専門家検討会を開催します（2026年10月6日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_0b440bc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006173207/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 令和８年１０月６日付大臣会見概要（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第５回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第13回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第26回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）　資料（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第68回厚生科学審議会疾病対策部会指定難病検討委員会 議事録（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 「人口動態統計月報（概数）」令和８（2026）年５月分（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 食品中の放射性物質の検査結果について（１５１５報）（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 令和８年度第６回化学物質管理に係る専門家検討会を開催します（2026年10月6日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw/diff_0b440bc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006173207/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省: 追加: 第31回キャリアコンサルタント登録制度等に関する検討会（議事録）（2026年10月6日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw/2e754df4659b5c50db0c112c49bdb7c955d3d407</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw/2e754df4659b5c50db0c112c49bdb7c955d3d407</id>
     <updated>2026-10-06T03:33:59Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第31回キャリアコンサルタント登録制度等に関する検討会（議事録）（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第62回社会保障審議会生活保護基準部会　 資料（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 厚生労働省　心理療法士（一般職員）採用案内（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第111回社会保障審議会年金数理部会（オンラインセミナー形式）資料（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: フォトトピックスに「厚生労働省新体制がスタート」（2026年9月18日）および「障害者雇用優良事業所等表彰全国表彰式」（2026年9月15日）を追加&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_2e754df.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006024724/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第31回キャリアコンサルタント登録制度等に関する検討会（議事録）（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第62回社会保障審議会生活保護基準部会　 資料（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 厚生労働省　心理療法士（一般職員）採用案内（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第111回社会保障審議会年金数理部会（オンラインセミナー形式）資料（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: フォトトピックスに「厚生労働省新体制がスタート」（2026年9月18日）および「障害者雇用優良事業所等表彰全国表彰式」（2026年9月15日）を追加&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw/diff_2e754df.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006024724/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省: 追加: 2026年10月3日「公益事業に関する争議行為の予告公表ページについて更新されました」（政策分野）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw/9bc0d1f0117ae73d2854d0e04ab9eb3f4e6846c3</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw/9bc0d1f0117ae73d2854d0e04ab9eb3f4e6846c3</id>
     <updated>2026-10-05T02:28:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026年10月3日「公益事業に関する争議行為の予告公表ページについて更新されました」（政策分野）&lt;/li&gt;&lt;li&gt;削除: 2026年10月2日「労災レセプト電算処理システム　マスタコード」（政策分野）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_9bc0d1f.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006024724/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026年10月3日「公益事業に関する争議行為の予告公表ページについて更新されました」（政策分野）&lt;/li&gt;&lt;li&gt;削除: 2026年10月2日「労災レセプト電算処理システム　マスタコード」（政策分野）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw/diff_9bc0d1f.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006024724/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

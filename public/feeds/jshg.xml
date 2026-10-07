@@ -1,67 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>G医t 日本人類遺伝学会</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/jshg.xml</id>
-  <updated>2026-10-07T08:32:53Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jshg.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
+  <title>G醫t 日本人類遺伝学会</title>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jshg.xml</id>
+  <updated>2026-10-07T13:53:42Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jshg.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
   <author>
-    <name>G医t</name>
+    <name>G醫t</name>
   </author>
   <entry>
     <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jshg/6c4e922ef182f8490db392481b20302a01f0374e</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/7ac47c51dbbf391a1a00bed78bdb6a1f319a62c5</id>
+    <updated>2026-10-07T13:53:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_7ac47c5.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/6c4e922ef182f8490db392481b20302a01f0374e</id>
     <updated>2026-10-07T08:32:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_6c4e922.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_6c4e922.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jshg/8043e00cd85a7a1fed57870a08d720f3c6ab87e8</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/8043e00cd85a7a1fed57870a08d720f3c6ab87e8</id>
     <updated>2026-10-07T06:16:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_8043e00.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_8043e00.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007132428/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jshg/fd669c38a155b88369a4970819e0313769641426</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/fd669c38a155b88369a4970819e0313769641426</id>
     <updated>2026-10-07T02:48:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_fd669c3.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007034223/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_fd669c3.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007034223/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jshg/bc20740fe35deed9d5686ee728e7f2655f365db2</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/bc20740fe35deed9d5686ee728e7f2655f365db2</id>
     <updated>2026-10-07T01:30:43Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_bc20740.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007034223/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_bc20740.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007034223/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jshg/8afdf754628ce7edd5c680b3906ad23d0fa3456f</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/8afdf754628ce7edd5c680b3906ad23d0fa3456f</id>
     <updated>2026-10-06T17:20:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_8afdf75.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007034223/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_8afdf75.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007034223/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jshg/d9d69cd483dda7bfa987c7cce5e15cd3140ebcef</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/d9d69cd483dda7bfa987c7cce5e15cd3140ebcef</id>
     <updated>2026-10-06T11:11:43Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_d9d69cd.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006195121/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_d9d69cd.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006195121/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jshg/787dd0751704339417665344437e1a130af86dcb</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/787dd0751704339417665344437e1a130af86dcb</id>
     <updated>2026-10-06T03:33:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_787dd07.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006034016/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_787dd07.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006034016/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本人類遺伝学会: 追加: 新着情報「中村祐輔先生が2026年ASHG Lifetime Achievement Awardを受賞」（2026.10.05）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jshg/86ea00ce7a519487193119218c96bd9390eccafc</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jshg/86ea00ce7a519487193119218c96bd9390eccafc</id>
     <updated>2026-10-05T02:28:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 新着情報「中村祐輔先生が2026年ASHG Lifetime Achievement Awardを受賞」（2026.10.05）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 新着情報（セミナー）「遺伝カウンセリングロールプレイ研修会（2026年度 夏のGCRP研修会) のご案内」（2026.06.30）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: トピック欄の掲載内容が更新され、トップに「中村祐輔先生が2026年ASHG Lifetime Achievement Awardを受賞」が追加された（2026.10.05）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_86ea00c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006034016/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jshg/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 新着情報「中村祐輔先生が2026年ASHG Lifetime Achievement Awardを受賞」（2026.10.05）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 新着情報（セミナー）「遺伝カウンセリングロールプレイ研修会（2026年度 夏のGCRP研修会) のご案内」（2026.06.30）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: トピック欄の掲載内容が更新され、トップに「中村祐輔先生が2026年ASHG Lifetime Achievement Awardを受賞」が追加された（2026.10.05）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jshg/diff_86ea00c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006034016/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
