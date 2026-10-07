@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 独立行政法人 医薬品医療機器総合機構(PMDA)</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/pmda.xml</id>
-  <updated>2026-10-07T02:48:36Z</updated>
+  <updated>2026-10-07T08:32:56Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/pmda.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/pmda/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 「生物由来製品等の一覧を更新しました」（2026年10月7日、救済）</title>
+    <id>tag:git.example.com,2026:g-i-t-data/pmda/614be303226ba33aecfe50110b331c33850fbe09</id>
+    <updated>2026-10-07T08:32:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/pmda/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「生物由来製品等の一覧を更新しました」（2026年10月7日、救済）&lt;/li&gt;&lt;li&gt;削除: 「医薬品の最適使用推進ガイドラインを掲載しました」（2026年10月1日、審査）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/pmda/diff_614be30.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 「未承認薬データベースを更新しました」（2026年10月7日）</title>
     <id>tag:git.example.com,2026:g-i-t-data/pmda/2f2f611b65fbe22351c4452f0ec4f215755c4ea1</id>

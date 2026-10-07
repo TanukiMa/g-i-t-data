@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本免疫学会</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/jsi-men-eki.xml</id>
-  <updated>2026-10-07T06:16:37Z</updated>
+  <updated>2026-10-07T08:32:53Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jsi-men-eki.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsi-men-eki/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>日本免疫学会: 追加: 会員及び研究者向け＞お知らせ「公益財団法人金原一郎記念医学医療振興財団 2026年度下期助成事業のお知らせ」を掲載しました。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jsi-men-eki/1d7c3bf728f0f51fb91211f6915372c5a443fe79</id>
+    <updated>2026-10-07T08:32:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsi-men-eki/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 会員及び研究者向け＞お知らせ「公益財団法人金原一郎記念医学医療振興財団 2026年度下期助成事業のお知らせ」を掲載しました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jsi-men-eki.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jsi-men-eki/diff_1d7c3bf.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本免疫学会: 追加: 会員及び研究者向け＞研究助成「高峰記念第一三共賞」を更新しました（2026/10/7）。</title>
     <id>tag:git.example.com,2026:g-i-t-data/jsi-men-eki/a0c517ee094ea9c88dee023832cfb91604fc97b7</id>

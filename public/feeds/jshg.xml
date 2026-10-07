@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本人類遺伝学会</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/jshg.xml</id>
-  <updated>2026-10-07T06:16:37Z</updated>
+  <updated>2026-10-07T08:32:53Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jshg.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jshg/6c4e922ef182f8490db392481b20302a01f0374e</id>
+    <updated>2026-10-07T08:32:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_6c4e922.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:git.example.com,2026:g-i-t-data/jshg/8043e00cd85a7a1fed57870a08d720f3c6ab87e8</id>

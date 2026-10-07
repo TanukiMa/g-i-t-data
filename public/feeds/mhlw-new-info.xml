@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 厚生労働省 - 新着情報</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/mhlw-new-info.xml</id>
-  <updated>2026-10-07T06:16:39Z</updated>
+  <updated>2026-10-07T08:32:56Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/mhlw-new-info.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw-new-info/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 新着情報: 追加: 厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します（/stf/newpage_7663…</title>
+    <id>tag:git.example.com,2026:g-i-t-data/mhlw-new-info/9c522505981da22c9c1908c187b6fbc24af14cac</id>
+    <updated>2026-10-07T08:32:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw-new-info/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します（/stf/newpage_76638.html）&lt;/li&gt;&lt;li&gt;追加: 厚生科学審議会 (新型インフルエンザ対策に関する小委員会)（/stf/shingi/shingi-kousei_263447_00003.html）&lt;/li&gt;&lt;li&gt;削除: 第８回労働政策審議会（労働条件分科会「組織再編に伴う労働関係の調整に関する部会」）（資料）（/stf/newpage_76153.html）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw-new-info/diff_9c52250.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 新着情報: 追加: 第１７回厚生科学審議会結核部会の開催について</title>
     <id>tag:git.example.com,2026:g-i-t-data/mhlw-new-info/f682a09ac5f0f80f27a7ce978823fcaa0c3e8ac0</id>

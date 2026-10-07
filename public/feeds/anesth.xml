@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本麻酔科学会</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/anesth.xml</id>
-  <updated>2026-10-07T06:16:33Z</updated>
+  <updated>2026-10-07T08:32:50Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/anesth.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/anesth/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>日本麻酔科学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/anesth/b5e962a20ffa39f46c96154eec43cf29ff187673</id>
+    <updated>2026-10-07T08:32:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/anesth/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://anesth.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/anesth/diff_b5e962a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本麻酔科学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:git.example.com,2026:g-i-t-data/anesth/ee536d46e8e5674edcafb53e04b380ba24a14d6d</id>

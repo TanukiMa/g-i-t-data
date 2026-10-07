@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t gemmed</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/gemmed.xml</id>
-  <updated>2026-10-07T02:59:31Z</updated>
+  <updated>2026-10-07T08:32:51Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/gemmed.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>gemmed: 追加: 「2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは『対象品目を少なく』せよ、支払側は『多く』せよとの考え―中医協」（2026.10.7.）</title>
+    <id>tag:git.example.com,2026:g-i-t-data/gemmed/ac561e2e98f655938aa7f491458581cb9f2e6d64</id>
+    <updated>2026-10-07T08:32:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは『対象品目を少なく』せよ、支払側は『多く』せよとの考え―中医協」（2026.10.7.）&lt;/li&gt;&lt;li&gt;削除: 「2027年度介護報酬改定で『基本報酬の大幅引き上げ』を求める声多数、一方『負担増への配慮』求める声も—社保審・介護給付費分科会」（2026.10.6.）&lt;/li&gt;&lt;li&gt;削除: 「2024年度から25年度にかけても、依然として『介護予防訪問看護の利用増』や『利用者単価の西高東低』目立つ—厚労省」（2026.10.2.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_ac561e2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>gemmed: 変更: バナーリンクおよび画像が「1029ミニセミナー」から「病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO」に変更された</title>
     <id>tag:git.example.com,2026:g-i-t-data/gemmed/67036a25c208c773ef97795d06d018bd4d7fdf1f</id>

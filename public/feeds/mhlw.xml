@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 厚生労働省</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/mhlw.xml</id>
-  <updated>2026-10-07T06:16:39Z</updated>
+  <updated>2026-10-07T08:32:55Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/mhlw.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>厚生労働省: 変更: 厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します（2026年10月7日）</title>
+    <id>tag:git.example.com,2026:g-i-t-data/mhlw/f21e5cbbfb9388750a3dc6d4f85b21f800fecfeb</id>
+    <updated>2026-10-07T08:32:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第188回市町村セミナーの資料について（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第１７回厚生科学審議会結核部会の開催について（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 薬事審議会　医薬品第二部会を開催します（2026年10月7日）&lt;/li&gt;&lt;li&gt;変更: 第38回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水））　売払契約　【オープンカウンター方式】（2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します（2026年10月6日）等&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_f21e5cb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省: 追加: 第１７回厚生科学審議会結核部会の開催について（2026年10月7日）</title>
     <id>tag:git.example.com,2026:g-i-t-data/mhlw/c07272b3a4b71ba9541c9663657b417e58062408</id>
