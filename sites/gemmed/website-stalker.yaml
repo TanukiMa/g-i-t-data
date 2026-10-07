@@ -21,5 +21,9 @@ sites:
   - regex_replace:
       pattern: data-cfemail="[0-9A-Fa-f]+"
       replace: data-cfemail=""
+  - regex_replace:
+      pattern: (?s)<div class="header-banner">.*?</div>
+      replace: ''
+  - css_remove: .header-banner
   - html_sanitize
   - html_prettify
