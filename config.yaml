@@ -1,35 +1,45 @@
-# Master website-stalker configuration for G医t
+# Master website-stalker configuration for G醫t
 sites:
   - url: https://www.mhlw.go.jp/
     name: "厚生労働省"
     slug: "mhlw"
+    tags: ["行政"]
   - url: https://www.pref.osaka.lg.jp/o100020/iryo/tuuchi/r8_kunitsuuchi.html
     name: "大阪府 -  病院・診療所等への通知等 - 令和８年度"
+    tags: ["行政"]
     slug: "prefosaka-iryo-message-r8"
   - url: https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/tsuchi.html
     name: "横浜市 - 保健所 - 各種通知"
     slug: "yokohama-hokenjo-message"
+    tags: ["行政"]
   - url: https://kouseikyoku.mhlw.go.jp/kantoshinetsu/
     name: "厚生労働省 - 関東信越厚生局"
     slug: "mhlw-kantoshinetsu"
+    tags: ["行政"]
   - url: https://www.mhlw.go.jp/hourei/new/tsuchi/new.html
     name: "厚生労働省 - 登載準備中の新着通知"
     slug: "mhlw-hourei-tsuchi-new"
+    tags: ["行政"]
   - url: https://www.mhlw.go.jp/stf/newpage_72950.html
     name: "厚生労働省 - 通知・事務連絡について （令和８年度）"
     slug: "mhlw-stf-r8"
+    tags: ["行政"]
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000074181.html
     name: "厚生労働省 - 通知・事務連絡について（一覧）"
     slug: "mhlw-stf-all"
+    tags: ["行政"]
   - url: https://www.mhlw.go.jp/hourei/new/hourei/newindex.html
     name: "厚生労働省 - 新着の法令"
     slug: "mhlw-hourei-newindex"
+    tags: ["行政"]
   - url: https://www.mhlw.go.jp/hourei/new/hourei/new.html
     name: "厚生労働省 - 登載準備中の新着法令"
     slug: "mhlw-hourei-new"
+    tags: ["行政"]
   - url: https://www.meti.go.jp/policy/mono_info_service/healthcare/teikyoujigyousyagl.html
     name: "経済産業省 - 医療情報を取り扱う情報システム・サービスの提供事業者における安全管理ガイドライン"
     slug: "meti-healthcare-gl"
+    tags: ["行政"]
   - url: https://iryohokenjyoho.hpdx.or.jp/csm
     name: "医療機関等向け総合ポータルサイト"
     slug: "hpdxcsm"
@@ -179,6 +189,7 @@ sites:
   - url: https://www.jibika.or.jp/modules/guidelines/index.php?content_id=1
     name: "日本耳鼻咽喉科頭頸部外科学会 - 診療ガイドライン/手引き・マニュアル"
     slug: "jibika-guidelines"
+    tags: ["ガイドライン"]
   - url: https://jrs-gl.radiology.jp/
     name: "画像診断ガイドライン"
     tags: ["ガイドライン"]
@@ -195,6 +206,7 @@ sites:
   - url: https://www.jsir.or.jp/about/guide_line/
     name: "IVR学会 ガイドライン"
     slug: "jsir-guideline"
+    tags: ["ガイドライン"]
   - url: https://www.apheresis-jp.org/
     name: "日本アフェレシス学会"
     slug: "apheresis-jp"
