@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>G医t 国立健康危機管理研究機構 感染症情報提供サイト</title>
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/jihsinfo.xml</id>
+  <updated>2026-10-07T01:30:44Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jihsinfo.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jihsinfo/history.html" />
+  <author>
+    <name>G医t</name>
+  </author>
+</feed>

@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本救急医学会</title>
-  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jaam.xml</id>
-  <updated>2026-10-04T16:43:12Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jaam.xml" />
-  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jaam/history.html" />
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/jaam.xml</id>
+  <updated>2026-10-07T01:30:44Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jaam.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jaam/history.html" />
   <author>
     <name>G医t</name>
   </author>
-  <entry>
-    <title>日本救急医学会: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/jaam/4fd3912616ed6ffd3117d1d50e361fd6d50dd110</id>
-    <updated>2026-10-04T16:43:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jaam/history.html" />
-    <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jaam.jp/"&gt;監視対象ページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261004152841/https://www.jaam.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
 </feed>

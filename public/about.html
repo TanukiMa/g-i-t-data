@@ -14,11 +14,11 @@
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-title" content="G医t" />
 
-<script src="assets/app.js" defer></script>
+<script src="assets/app.js" defer data-root=""></script>
 <script src="assets/pwa.js" defer data-root=""></script>
 
 </head>
-<body>
+<body class="style-github">
 <main>
   
   <nav class="style-switch" aria-label="表示スタイル切り替え">
@@ -28,14 +28,14 @@
   </nav>
   <header>
     <h1>G医tについて</h1>
-    <p id="status">生成: 2026-10-06 12:34 JST ・ <a href="sites.html">監視サイト一覧（179）</a> ・ <a href="archive/index.html">アーカイブ</a> ・ <a href="feeds/all.xml" title="Atom フィード（すべて）">📡 Atom</a> ・ <a href="about.html">G医tについて</a></p>
+    <p id="status">生成: 2026-10-07 Wednesday 10:30 JST ・ <a href="sites.html">サイト一覧（184）</a> ・ <a href="archive/index.html">アーカイブ</a> ・ <a href="feeds/all.xml" title="Atom フィード（すべて）">📡 Atom</a> ・ <a href="about.html">G医tについて</a></p>
   </header>
   <a class="page-back" href="index.html">← 全体タイムラインへ戻る</a>
 
   <div class="prose">
     <h2>どんなプロジェクトか</h2>
-    <p>G医t（G-I-T）は、医師であるMatanuki氏が、医療・薬事・学会関連サイトの「本当に必要な更新」を正確に捉えるために設計・運用している個人プロジェクトです。</p>
-    <p>約179のサイトを毎時間見に行き、装飾や動的な部分を取り除いて「意味のあるコンテンツの変化」だけを Git に記録し、日本語で解説します。更新を検知したページは Wayback Machine にも保存します。営利を目的とせず、オープンに公開しています。</p>
+    <p>G医t（G-I-T）は、医師であるMatanukiが、医療・薬事・学会関連サイトの「本当に必要な更新」を捉えるために設計・運用している個人的なプロジェクトです。</p>
+    <p>約184のサイトを１日数回確認し、装飾や動的な部分を取り除いて「意味のあるコンテンツの変化」だけを Git に記録し、日本語で解説します。更新を検知したページは Wayback Machine にも保存します。営利を目的とせず、オープンに公開しています。</p>
     <p>設計の考え方は <a href="https://github.com/TanukiMa/g-i-t-data/wiki/Design-Philosophy" target="_blank" rel="noopener noreferrer">Wiki の「設計思想」</a>に書いています。</p>
 
     <h2>1枚でわかる G医t</h2>
@@ -52,7 +52,7 @@
       <dt>🔍 差分</dt>
       <dd>変更前と変更後を並べて見られます。AI要約を確かめたいときに使います。</dd>
       <dt>📦 Wayback Machine</dt>
-      <dd>Internet Archive に保存された、監視対象ページのコピーです。保存には時間がかかることがあり、その間は「保存待ち」と表示されます。</dd>
+      <dd>Internet Archive に保存された、確認先ページのコピーです。保存には時間がかかることがあり、その間は「保存待ち」と表示されます。</dd>
       <dt>📡 Atom</dt>
       <dd>フィードリーダーで購読できます（すべて／サイトごと／分類ごと）。</dd>
     </dl>
@@ -73,7 +73,7 @@
       <li>AI要約は誤りや抜けを含むことがあります。重要な情報は、必ず「差分」または公式サイトの原文でご確認ください。</li>
       <li>このサイトは公開されている情報の変化を記録するものです。診療・調剤・請求・法的な判断の根拠として、この内容だけに頼らないでください。</li>
       
-      <li>監視はおおむね1時間ごとです。更新の検知は、公式サイトでの公開より遅れることがあります。</li>
+      <li>更新の確認はおおむね1時間ごとです。更新の検知は、公式サイトでの公開より遅れることがあります。</li>
     </ul>
 
     <h2>もっと詳しく</h2>
@@ -87,7 +87,7 @@
     </ul>
   </div>
   <footer class="site-footer">
-    <p>"g医t" is built using <a href="https://github.com/">GitHub</a>, <a href="https://git-scm.com/">Git</a>, <a href="https://github.com/EdJoPaTo/website-stalker">website-stalker</a> (forked by <a href="https://github.com/TanukiMa/website-stalker">Matanuki version</a>), GitHub Actions, <a href="https://supabase.com/">Supabase</a>, <a href="https://web.archive.org/">Internet Archive</a> savepagenow, Google Gemini API, and more.</p>
+	<p><a href="https://TanukiMa.github.io/g-i-t-data/">"G医t"</a> is built using <a href="https://github.com/">GitHub</a>, <a href="https://git-scm.com/">Git</a>, <a href="https://github.com/EdJoPaTo/website-stalker">website-stalker</a> (forked by <a href="https://github.com/TanukiMa/website-stalker">Matanuki version</a>), GitHub Actions, <a href="https://supabase.com/">Supabase</a>, <a href="https://web.archive.org/">Internet Archive</a> savepagenow, Google Gemini API, and more.</p>
     <p>© 2026 Matanuki、© 2026 MATANUKI.</p>
   </footer>
 
