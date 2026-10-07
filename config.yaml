@@ -3,6 +3,9 @@ sites:
   - url: https://www.mhlw.go.jp/
     name: "厚生労働省"
     slug: "mhlw"
+  - url: https://kouseikyoku.mhlw.go.jp/kantoshinetsu/
+    name: "厚生労働省 - 関東信越厚生局"
+    slug: "mhlw-kantoshinetsu"
   - url: https://www.mhlw.go.jp/hourei/new/tsuchi/new.html
     name: "厚生労働省 - 登載準備中の新着通知"
     slug: "mhlw-hourei-tsuchi-new"
