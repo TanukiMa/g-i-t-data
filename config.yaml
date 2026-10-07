@@ -55,6 +55,7 @@ sites:
   - url: https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html
     name: "PMDA - 最適使用推進ガイドライン（医薬品）"
     slug: "pmda-drug-reviews-0028"
+    tags: ["行政"]
   - url: https://www.jda.or.jp/
     name: "日本歯科医師会"
     slug: "jdaorjp"
@@ -73,6 +74,7 @@ sites:
   - url: https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html
     name: "中央社会保険医療協議会(中央社会保険医療協議会総会)"
     slug: "shingi-chuo"
+    tags: ["行政"]
   - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0004.html
     name: "PMDA - 使用上の注意改訂情報"
     slug: "pmda-calling-attention"
@@ -106,9 +108,11 @@ sites:
   - url: https://www.pmda.go.jp/
     name: "独立行政法人 医薬品医療機器総合機構(PMDA)"
     slug: "pmda"
+    tags: ["行政","PMDA"]
   - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/esc-rsc/0001.html
     name: "PMDA - 緊急安全性情報（イエローレター）・安全性速報（ブルーレター）"
     slug: "pmdaescrsc0001"
+    tags: ["行政","PMDA"]
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html
     name: "傷病名マスター"
     slug: "hpdx-kihonmasta-07"
