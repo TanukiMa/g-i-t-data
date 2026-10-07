@@ -601,3 +601,36 @@ sites:
   - url: https://www.digital.go.jp/resources/govdashboard/healthcare-dx
     name: "デジタル庁 - 医療DXに関するダッシュボード"
     slug: "digitalmeddx"
+  - url: https://www.medis.or.jp/
+    name: "医療情報システム開発センター(MEDIS-DC)"
+    slug: "medisdc"
+  - url: https://www.jahis.jp/
+    name: "保健医療福祉情報システム工業会"
+    slug: "jahisorjp"
+  - url: https://www.umin.ac.jp/
+    name: "大学病院医療情報ネットワークセンター(UMIN)"
+    slug: "uminacjp"
+  - url: https://www.jmsf.or.jp/
+    name: "日本医学会連合"
+    slug: "jmsforjp"
+  - url: https://jams.med.or.jp/
+    name: "日本医学会"
+    slug: "jamsmedorjp"
+  - url: https://www.nichiyaku.or.jp/
+    name: "日本薬剤師会"
+    slug: "nichiyakuorjp"
+  - url: https://www.jshp.or.jp/
+    name: "日本病院薬剤師会"
+    slug: "jshporjp"
+  - url: https://www.nurse.or.jp/
+    name: "日本看護協会"
+    slug: "nurseorjp"
+  - url: https://www.ajha.or.jp/topics/4byou/
+    name: "四病協のうごき"
+    slug: "ajha4byou"
+  - url: https://www.jmha.or.jp/
+    name: "全国自治体病院協議会"
+    slug: "jmhaorjp"
+  - url: https://ganjoho.jp/
+    name: "がん情報サービス"
+    slug: "ganjohojp"
