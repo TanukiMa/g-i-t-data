@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本小児科学会</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/jpeds.xml</id>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jpeds.xml</id>
   <updated>2026-10-07T01:30:42Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jpeds.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jpeds/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jpeds.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jpeds/history.html" />
   <author>
     <name>G医t</name>
   </author>
   <entry>
     <title>日本小児科学会: 変更: 2026/10/02付「会員限定のお知らせ」（会員専用ホームページに新しいお知らせを掲載しました）の日付が2026/10/01に変更され、2026/10/07に新規の「イ…</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jpeds/37916bda0bb2dbfa06a07b4a5ca7612f21c3ba81</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jpeds/37916bda0bb2dbfa06a07b4a5ca7612f21c3ba81</id>
     <updated>2026-10-07T01:30:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jpeds/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 2026/10/02付「会員限定のお知らせ」（会員専用ホームページに新しいお知らせを掲載しました）の日付が2026/10/01に変更され、2026/10/07に新規の「イベント」（小児診療初期対応（JPLS）コース募集情報更新について）が追加された。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 2026/09/30付「イベント」（小児診療初期対応（JPLS）コース募集情報更新について）の日付が2026/10/01の「会員限定のお知らせ」に変更された。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jpeds.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jpeds/diff_37916bd.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jpeds/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 2026/10/02付「会員限定のお知らせ」（会員専用ホームページに新しいお知らせを掲載しました）の日付が2026/10/01に変更され、2026/10/07に新規の「イベント」（小児診療初期対応（JPLS）コース募集情報更新について）が追加された。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 2026/09/30付「イベント」（小児診療初期対応（JPLS）コース募集情報更新について）の日付が2026/10/01の「会員限定のお知らせ」に変更された。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jpeds.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jpeds/diff_37916bd.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

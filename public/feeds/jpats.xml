@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本胸部外科学会</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/jpats.xml</id>
-  <updated>2026-10-07T01:30:44Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jpats.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jpats/history.html" />
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jpats.xml</id>
+  <updated>2026-10-07T02:48:39Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jpats.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jpats/history.html" />
   <author>
     <name>G医t</name>
   </author>
