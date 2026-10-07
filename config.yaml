@@ -568,3 +568,6 @@ sites:
   - url: https://www.kokuho.or.jp/
     name: "国民健康保険中央会"
     slug: "kokuho"
+  - url: https://www.hospital.or.jp/
+    name: "日本病院会"
+    slug: "hospitalorjp"
