@@ -4,7 +4,7 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
   - url: https://www.mhlw.go.jp/hourei/new/tsuchi/new.html
-    name: "厚生労働省 - 登載準備中の新着通知”
+    name: "厚生労働省 - 登載準備中の新着通知"
     slug: "mhlw-hourei-tsuchi-new"
   - url: https://www.mhlw.go.jp/stf/newpage_72950.html
     name: "厚生労働省 - 通知・事務連絡について （令和８年度）"
