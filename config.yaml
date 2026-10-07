@@ -3,6 +3,9 @@ sites:
   - url: https://www.mhlw.go.jp/
     name: "厚生労働省"
     slug: "mhlw"
+  - url: https://www.pref.osaka.lg.jp/o100020/iryo/tuuchi/r8_kunitsuuchi.html
+    name: "大阪府 -  病院・診療所等への通知等 - 令和８年度"
+    slug: "prefosaka-iryo-message-r8"
   - url: https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/tsuchi.html
     name: "横浜市 - 保健所 - 各種通知"
     slug: "yokohama-hokenjo-message"
