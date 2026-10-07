@@ -579,3 +579,6 @@ sites:
   - url: https://www.ajha.or.jp/
     name: "全日本病院協会"
     slug: "ajhaorjp"
+  - url: https://www.jpoa.org/
+    name: "日本小児整形外科学会"
+    slug: "jpoaorg"
