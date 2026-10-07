@@ -585,7 +585,7 @@ sites:
   - url: https://www.jpoa.org/
     name: "日本小児整形外科学会"
     slug: "jpoaorg"
-  - url: https://minds.jcqhc.or.jp/summary/c00854/
+  - url: https://minds.jcqhc.or.jp/
     name: "Mindsガイドラインライブラリ"
     slug: "mindsjcqhc"
     tags: ["ガイドライン"]
