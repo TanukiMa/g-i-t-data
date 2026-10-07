@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本造血・免疫細胞療法学会</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/jstct.xml</id>
-  <updated>2026-10-04T16:44:49Z</updated>
+  <updated>2026-10-07T01:30:44Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jstct.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/jstct/history.html" />
   <author>
     <name>G医t</name>
   </author>
-  <entry>
-    <title>日本造血・免疫細胞療法学会: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jstct/3dee9e24a45cc7599786b322254cba42813c964d</id>
-    <updated>2026-10-04T16:44:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jstct/history.html" />
-    <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstct.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006023807/https://www.jstct.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
 </feed>

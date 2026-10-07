@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本産科婦人科学会</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/jsog.xml</id>
-  <updated>2026-10-04T16:44:27Z</updated>
+  <updated>2026-10-07T01:30:44Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jsog.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsog/history.html" />
   <author>
     <name>G医t</name>
   </author>
-  <entry>
-    <title>日本産科婦人科学会: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jsog/92fdff94f64ff5d31c2b6ff1a1a5e429a86b5091</id>
-    <updated>2026-10-04T16:44:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsog/history.html" />
-    <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsog.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006021538/https://www.jsog.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
 </feed>

@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本自律神経学会</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/jsan-net.xml</id>
-  <updated>2026-10-04T16:43:43Z</updated>
+  <updated>2026-10-07T01:30:44Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jsan-net.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsan-net/history.html" />
   <author>
     <name>G医t</name>
   </author>
-  <entry>
-    <title>日本自律神経学会: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jsan-net/3e4415b4d75c1a4828c6dc92588aa0c26e66defd</id>
-    <updated>2026-10-04T16:43:43Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsan-net/history.html" />
-    <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jsan-net.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006035550/https://jsan-net.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
 </feed>

@@ -2,12 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 更新情報（すべて）</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/all.xml</id>
-  <updated>2026-10-07T00:46:47Z</updated>
+  <updated>2026-10-07T01:30:44Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/all.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/index.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 削除: 「令和8年度 小児用医療機器の承認申請支援事業の実施について」の掲載項目から「New」の表示が削除されました。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/pmda/cff5d9843439769e70515f00980806b7a51b3743</id>
+    <updated>2026-10-07T01:30:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/pmda/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;削除: 「令和8年度 小児用医療機器の承認申請支援事業の実施について」の掲載項目から「New」の表示が削除されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/pmda/diff_cff5d98.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>厚生労働省 - 新着情報: 追加: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水）） 売払契約 【オープンカウンター方式】</title>
+    <id>tag:git.example.com,2026:g-i-t-data/mhlw-new-info/4b16f51ec102d30600470510c802560c28910d42</id>
+    <updated>2026-10-07T01:30:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw-new-info/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水）） 売払契約 【オープンカウンター方式】&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 被保護者調査（令和８年７月分概数）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第２回法的脳死判定基準に関する作業班 資料&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw-new-info/diff_4b16f51.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>厚生労働省: 追加: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水）） 売払契約 【オープンカウンター方式】（2026年10月7日）</title>
+    <id>tag:git.example.com,2026:g-i-t-data/mhlw/83eb6bef1dcaf5e3cf49515cd777b256ff64985e</id>
+    <updated>2026-10-07T01:30:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 公募公示（厚生労働本省災害用備蓄食料品（即席スープ、クラッカー、保存水）） 売払契約 【オープンカウンター方式】（2026年10月7日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 被保護者調査（令和８年７月分概数）（2026年10月7日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 世界メンタルヘルスデー JAPAN 2026 特設サイト（2026年10月1日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_83eb6be.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本衛生動物学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jsmez/57b49c4026bc92429a2f1a88b5c6c80cb4eabc16</id>
+    <updated>2026-10-07T01:30:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsmez/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsmez.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jsmez/diff_57b49c4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本免疫学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jsi-men-eki/d805e82089c00a57c62b9028a8ec438ef04ed9f0</id>
+    <updated>2026-10-07T01:30:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsi-men-eki/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsi-men-eki.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jsi-men-eki/diff_d805e82.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jshg/bc20740fe35deed9d5686ee728e7f2655f365db2</id>
+    <updated>2026-10-07T01:30:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshg/diff_bc20740.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本血液学会: 追加: 学会事務局不在のお知らせ（期間：10/8~9、掲載日：2026年10月7日）</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jshem/94bf4c010549c8cd64326b27c065294ffeedf5ac</id>
+    <updated>2026-10-07T01:30:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jshem/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 学会事務局不在のお知らせ（期間：10/8~9、掲載日：2026年10月7日）&lt;/li&gt;&lt;li&gt;削除: 2026年度日本血液学会新評議員申請の受付を開始しました（掲載日：2026年6月15日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jshem.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jshem/diff_94bf4c0.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本肝臓学会: 追加: 【マイページメンテナンスのお知らせ】（停止期間：10月14日（水）10:00 ～ 13:00）を掲載</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jsh/b82803b8856bd4fc3983f58ae1c6bb3cd146c4f3</id>
+    <updated>2026-10-07T01:30:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsh/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 【マイページメンテナンスのお知らせ】（停止期間：10月14日（水）10:00 ～ 13:00）を掲載&lt;/li&gt;&lt;li&gt;削除: 2026/08/17付「スラタデノツレブの最適使用推進ガイドラインについて」の案内を削除&lt;/li&gt;&lt;li&gt;削除: 2026/05/18付「School of Hepatology 2026 in YOKOHAMA」開催概要の案内を削除&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jsh.or.jp/medical/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jsh/diff_b82803b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本小児科学会: 変更: 2026/10/02付「会員限定のお知らせ」（会員専用ホームページに新しいお知らせを掲載しました）の日付が2026/10/01に変更され、2026/10/07に新規の「イ…</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jpeds/37916bda0bb2dbfa06a07b4a5ca7612f21c3ba81</id>
+    <updated>2026-10-07T01:30:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jpeds/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 2026/10/02付「会員限定のお知らせ」（会員専用ホームページに新しいお知らせを掲載しました）の日付が2026/10/01に変更され、2026/10/07に新規の「イベント」（小児診療初期対応（JPLS）コース募集情報更新について）が追加された。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 2026/09/30付「イベント」（小児診療初期対応（JPLS）コース募集情報更新について）の日付が2026/10/01の「会員限定のお知らせ」に変更された。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jpeds.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jpeds/diff_37916bd.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本脈管学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/j-ca/a4a84c2d3d3c585a31c703a4f8ccb066becd09d5</id>
+    <updated>2026-10-07T01:30:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/j-ca/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://j-ca.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/j-ca/diff_a4a84c2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本麻酔科学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/anesth/e61b124e592e81c3bf91fdb4e54c9517f1f10b11</id>
+    <updated>2026-10-07T01:30:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/anesth/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://anesth.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/anesth/diff_e61b124.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 2026年10月7日「専門委員名簿を更新しました」</title>
     <id>tag:git.example.com,2026:g-i-t-data/pmda/07122f84bf5853b7df5ee5fb08880abdce77a961</id>
@@ -567,82 +644,5 @@
     <updated>2026-10-05T02:28:40Z</updated>
     <link rel="alternate" type="text/html" href="https://git.example.com/sites/pmda-properly-use-alert-0004/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「フィブラストスプレー250、同スプレー500の適正使用に関するお願い[613KB]」（情報提供元：科研製薬（株）、2026年10月）の項目が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0004.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/pmda-properly-use-alert-0004/diff_e2618c7.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006030513/https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0004.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 「製薬企業からの適正使用等に関するお知らせ」に「フィブラストスプレー250、同スプレー500の適正使用に関するお願い」を掲載しました（2026年10月5日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/pmda/889ac77ddbaaad0871731b7a16dfe91d2bd120ae</id>
-    <updated>2026-10-05T02:28:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/pmda/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「製薬企業からの適正使用等に関するお知らせ」に「フィブラストスプレー250、同スプレー500の適正使用に関するお願い」を掲載しました（2026年10月5日）&lt;/li&gt;&lt;li&gt;削除: 医薬品副作用被害救済制度に関する通知等を更新しました（2026年9月28日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/pmda/diff_889ac77.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006030230/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本薬理学会: 削除: 学術集会 開催予定から「第79回　西南部会（2026年5月 4日(月)）」の情報を削除</title>
-    <id>tag:git.example.com,2026:g-i-t-data/pharmacol/c4291bb0ba1ea9cb1baa52a006c8159ceceb49a2</id>
-    <updated>2026-10-05T02:28:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/pharmacol/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;削除: 学術集会 開催予定から「第79回　西南部会（2026年5月 4日(月)）」の情報を削除&lt;/li&gt;&lt;li&gt;削除: 学術集会 開催予定から「第77回　北部会（2026年5月 5日(火)）」の情報を削除&lt;/li&gt;&lt;li&gt;削除: 学術集会 開催予定から「第155回　関東部会（2026年5月 6日(水)）」の情報を削除&lt;/li&gt;&lt;li&gt;削除: 学術集会 開催予定から「第150回　近畿部会（2026年5月 7日(木)）」の情報を削除&lt;/li&gt;&lt;li&gt;削除: 学術集会 開催予定から「第100回　年会（2026年5月14日(木)）」の情報を削除&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://pharmacol.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/pharmacol/diff_c4291bb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006030059/https://pharmacol.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本病理学会: 追加: 2026.10.05 「2026年度 細胞診講習会のお知らせ」（https://www.pathology.or.jp/news/members/seminar/2026…</title>
-    <id>tag:git.example.com,2026:g-i-t-data/pathology/fcd9ec789708eab68751cac30e0fe9c0be75b51d</id>
-    <updated>2026-10-05T02:28:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/pathology/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026.10.05 「2026年度 細胞診講習会のお知らせ」（https://www.pathology.or.jp/news/members/seminar/2026-1.html）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.pathology.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/pathology/diff_fcd9ec7.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006030017/https://www.pathology.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本眼科学会: 追加: 会員の皆さまへ「日本眼科学会2027年度代議員選挙の投票開始について」（2026/10/02）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/nichigan/16b86fcf080405004c673475579d638ed09f58d0</id>
-    <updated>2026-10-05T02:28:36Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/nichigan/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 会員の皆さまへ「日本眼科学会2027年度代議員選挙の投票開始について」（2026/10/02）&lt;/li&gt;&lt;li&gt;削除: 会員の皆さまへ、専門医制度「専門医更新登録者の2025年度分単位取得申請について」（2026/09/10）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.nichigan.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/nichigan/diff_16b86fc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006025726/https://www.nichigan.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省 - 新着情報: 追加: 「公益事業に関する争議行為の予告公表ページについて更新されました」（2026年10月3日（土）掲載）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw-new-info/043f62dc1e0af61b8e68dddd7c43d7608cf9c686</id>
-    <updated>2026-10-05T02:28:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw-new-info/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「公益事業に関する争議行為の予告公表ページについて更新されました」（2026年10月3日（土）掲載）&lt;/li&gt;&lt;li&gt;削除: 「令和８年8月5日（水）掲載」の項目群および各種新着情報の「NEW」マーク多数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw-new-info/diff_043f62d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006024836/https://www.mhlw.go.jp/stf/new-info/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省: 追加: 2026年10月3日「公益事業に関する争議行為の予告公表ページについて更新されました」（政策分野）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/mhlw/9bc0d1f0117ae73d2854d0e04ab9eb3f4e6846c3</id>
-    <updated>2026-10-05T02:28:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026年10月3日「公益事業に関する争議行為の予告公表ページについて更新されました」（政策分野）&lt;/li&gt;&lt;li&gt;削除: 2026年10月2日「労災レセプト電算処理システム　マスタコード」（政策分野）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw/diff_9bc0d1f.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006024724/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本医師会 - サイト全体新着一覧: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/medorjpnew/80030e661f6e583c4eaca36596acaa254b4dfa83</id>
-    <updated>2026-10-05T02:28:33Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/medorjpnew/history.html" />
-    <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/new.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006034447/https://www.med.or.jp/new.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本医師会: 初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/medorjp/0443d65cdb3b9ff60bca127a759bcfeca07b4b4d</id>
-    <updated>2026-10-05T02:28:32Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/medorjp/history.html" />
-    <content type="html">&lt;p&gt;初回取得: 監視を開始しました。次回以降の更新が差分として記録されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261005050649/https://www.med.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本外科学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jssoc/d6ee50d5e1a393c71349611439a153382e678a39</id>
-    <updated>2026-10-05T02:28:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jssoc/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jssoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jssoc/diff_d6ee50d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006023504/https://www.jssoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本形成外科学会: 追加: 2026/10/05付で「日形会誌46巻9号をJ-STAGEへ公開しました。」（リンク先：J-STAGE）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jsprs/82c8bebff159af5e203febab17145d8fc222d162</id>
-    <updated>2026-10-05T02:28:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsprs/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026/10/05付で「日形会誌46巻9号をJ-STAGEへ公開しました。」（リンク先：J-STAGE）&lt;/li&gt;&lt;li&gt;削除: 2026/07/07付の「【提言】アピアランス・サージャリー：形成外科の社会的意義」（PDF）&lt;/li&gt;&lt;li&gt;削除: 2026/07/29付の「「令和8年熊本地震」について」（PDF）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://jsprs.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jsprs/diff_82c8beb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006022909/https://jsprs.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本緩和医療学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jspm/a504cfc5a75911931c7e13ecb78dedebfcfa8270</id>
-    <updated>2026-10-05T02:28:29Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jspm/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jspm.ne.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jspm/diff_a504cfc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006022631/https://www.jspm.ne.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
