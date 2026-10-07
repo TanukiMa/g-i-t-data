@@ -16,6 +16,11 @@ sites:
   - url: https://gemmed.ghc-j.com/
     name: "gemmed"
     slug: "gemmed"
+    # Rotating banners in the header: plan B (CSS selector) and plan A (regex) side by side.
+    remove:
+      - ".header-banner"
+    ignore:
+      - '(?s)<div class="header-banner">.*?</div>'
   - url: https://www.pmda.go.jp/
     name: "独立行政法人 医薬品医療機器総合機構(PMDA)"
     slug: "pmda"
