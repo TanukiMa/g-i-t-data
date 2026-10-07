@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t 日本免疫学会</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/jsi-men-eki.xml</id>
-  <updated>2026-10-06T23:50:14Z</updated>
+  <updated>2026-10-07T00:46:46Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jsi-men-eki.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsi-men-eki/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>日本免疫学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jsi-men-eki/047dc56ea764560a0be641fa87ba57f47f5ca67d</id>
+    <updated>2026-10-07T00:46:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsi-men-eki/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsi-men-eki.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jsi-men-eki/diff_047dc56.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本免疫学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:git.example.com,2026:g-i-t-data/jsi-men-eki/f55076bb7c23831a3991faacb5fc3814f4589ae7</id>

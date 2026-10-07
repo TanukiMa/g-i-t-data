@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G医t gemmed</title>
   <id>tag:git.example.com,2026:g-i-t-data/feeds/gemmed.xml</id>
-  <updated>2026-10-06T23:50:14Z</updated>
+  <updated>2026-10-07T00:46:45Z</updated>
   <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/gemmed.xml" />
   <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
   <author>
     <name>G医t</name>
   </author>
+  <entry>
+    <title>gemmed: 変更: バナーリンクおよび画像が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」に変更された（リンク先: https://www.…</title>
+    <id>tag:git.example.com,2026:g-i-t-data/gemmed/d082b8f9ac7446639995f3e75e9760956948447b</id>
+    <updated>2026-10-07T00:46:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」に変更された（リンク先: &lt;code&gt;https://www.ghc-j.com/gyoumukaizen-gm&lt;/code&gt;）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_d082b8f.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>gemmed: 追加: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7）</title>
     <id>tag:git.example.com,2026:g-i-t-data/gemmed/676a8982519a84d233c11bd297992bc95da9a0cb</id>
