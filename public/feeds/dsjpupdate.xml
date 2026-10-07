@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 医療用医薬品供給状況データベース(DSJP)</title>
-  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/dsjpupdate.xml</id>
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/dsjpupdate.xml</id>
   <updated>2026-10-07T15:57:22Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/dsjpupdate.xml" />
-  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/dsjpupdate.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/dsjpupdate/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
     <title>医療用医薬品供給状況データベース(DSJP): 削除: スマトリプタン錠５０ｍｇ「タカタ」（高田製薬、販売中止、2026年10月31日予定）の掲載</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/dsjpupdate/468caf498221465d2589ea7c2fc82225be10d83f</id>
+    <id>tag:git.example.com,2026:g-i-t-data/dsjpupdate/468caf498221465d2589ea7c2fc82225be10d83f</id>
     <updated>2026-10-07T15:57:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;削除: スマトリプタン錠５０ｍｇ「タカタ」（高田製薬、販売中止、2026年10月31日予定）の掲載&lt;/li&gt;&lt;li&gt;削除: ソルデム１輸液（テルモ、販売中止、2026年12月1日予定）の掲載&lt;/li&gt;&lt;li&gt;削除: テルモ糖注５％（テルモ、販売中止、2026年12月1日予定）の掲載&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://drugshortage.jp/updatehistory.php"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/diff_468caf4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/dsjpupdate/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;削除: スマトリプタン錠５０ｍｇ「タカタ」（高田製薬、販売中止、2026年10月31日予定）の掲載&lt;/li&gt;&lt;li&gt;削除: ソルデム１輸液（テルモ、販売中止、2026年12月1日予定）の掲載&lt;/li&gt;&lt;li&gt;削除: テルモ糖注５％（テルモ、販売中止、2026年12月1日予定）の掲載&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://drugshortage.jp/updatehistory.php"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/dsjpupdate/diff_468caf4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>医療用医薬品供給状況データベース(DSJP): 変更: 「モビコール配合内用剤ＨＤ」に関する更新履歴情報の各項目（告知日、実施日、供給状況、識別ID）が修正・入れ替えられました。</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/dsjpupdate/fbb954a71a5d9879aa3355fc4f983af89cdfc829</id>
+    <id>tag:git.example.com,2026:g-i-t-data/dsjpupdate/fbb954a71a5d9879aa3355fc4f983af89cdfc829</id>
     <updated>2026-10-07T13:53:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「モビコール配合内用剤ＨＤ」に関する更新履歴情報の各項目（告知日、実施日、供給状況、識別ID）が修正・入れ替えられました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://drugshortage.jp/updatehistory.php"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/diff_fbb954a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/dsjpupdate/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「モビコール配合内用剤ＨＤ」に関する更新履歴情報の各項目（告知日、実施日、供給状況、識別ID）が修正・入れ替えられました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://drugshortage.jp/updatehistory.php"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/dsjpupdate/diff_fbb954a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>医療用医薬品供給状況データベース(DSJP): 変更: 「モビコール配合内用剤ＨＤ」（drugid=428014）の告知日および実施日を「2026年10月6日」から「2026年10月1日」に変更</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/dsjpupdate/edbd804da4e1029b693839376785868a5f670300</id>
+    <id>tag:git.example.com,2026:g-i-t-data/dsjpupdate/edbd804da4e1029b693839376785868a5f670300</id>
     <updated>2026-10-07T08:32:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール配合内用剤ＨＤ」（drugid=428014）の告知日および実施日を「2026年10月6日」から「2026年10月1日」に変更&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール配合内用剤ＨＤ」（drugid=428018）の状況を「限定出荷」から「供給停止」に変更、告知日を「2026年10月1日」から「2026年10月6日」に、実施日を「2026年10月1日」から「2026年11月1日予定」に変更&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール配合内用剤ＨＤ」（drugid=428015）の告知日を「2026年10月6日」から「2026年10月1日」に変更&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール配合内用剤ＨＤ」（drugid=428017）の状況を「供給停止」から「限定出荷」に変更、告知日を「2026年10月1日」から「2026年10月6日」に、実施日を「2026年11月1日予定」から「2026年10月6日」に変更&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://drugshortage.jp/updatehistory.php"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/diff_edbd804.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/dsjpupdate/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール配合内用剤ＨＤ」（drugid=428014）の告知日および実施日を「2026年10月6日」から「2026年10月1日」に変更&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール配合内用剤ＨＤ」（drugid=428018）の状況を「限定出荷」から「供給停止」に変更、告知日を「2026年10月1日」から「2026年10月6日」に、実施日を「2026年10月1日」から「2026年11月1日予定」に変更&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール配合内用剤ＨＤ」（drugid=428015）の告知日を「2026年10月6日」から「2026年10月1日」に変更&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール配合内用剤ＨＤ」（drugid=428017）の状況を「供給停止」から「限定出荷」に変更、告知日を「2026年10月1日」から「2026年10月6日」に、実施日を「2026年11月1日予定」から「2026年10月6日」に変更&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://drugshortage.jp/updatehistory.php"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/dsjpupdate/diff_edbd804.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
