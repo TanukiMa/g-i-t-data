@@ -4,18 +4,20 @@
  *   - HTML pages ... network first (a short timeout when a copy exists), the copy is only a fallback.
  *   - CSS / JS / icons ... cached copy first, refreshed in the background (stale-while-revalidate).
  *   - Everything else (Atom feeds, diff pages, other domains such as Google / Cloudflare / Wayback) is not touched.
- * 20261007033734 is replaced at build time, so every deployment installs a fresh worker and a fresh asset cache.
+ * 20261007061640 is replaced at build time, so every deployment installs a fresh worker and a fresh asset cache.
  */
-const BUILD = "20261007033734";
+const BUILD = "20261007061640";
 const STATIC_CACHE = "git-static-" + BUILD;   // replaced on every deployment
 const PAGE_CACHE = "git-pages-v2";            // offline copies of pages the reader opened (kept across deployments; v2: keys without index.html)
 const PAGE_LIMIT = 60;                        // most recent pages kept
 const WAIT_FOR_NETWORK_MS = 4000;             // with a copy available, fall back to it after this long
 
+const ASSET_VERSION = "a09cf1644b";   // the pages ask for assets/xxx?v=<this>: same URL, same cache entry
 const SHELL = [
   "offline.html",
-  "assets/github.css", "assets/dashboard.css", "assets/minimal.css", "assets/common.css",
-  "assets/app.js", "assets/pwa.js",
+  "assets/github.css?v=" + ASSET_VERSION, "assets/dashboard.css?v=" + ASSET_VERSION,
+  "assets/minimal.css?v=" + ASSET_VERSION, "assets/common.css?v=" + ASSET_VERSION,
+  "assets/app.js?v=" + ASSET_VERSION, "assets/pwa.js?v=" + ASSET_VERSION,
   "assets/icons/icon-192.png",
 ];
 const PRECACHE_PAGES = [""];   // "" = the scope itself (the timeline)

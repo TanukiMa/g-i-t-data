@@ -312,7 +312,7 @@
     var host = $("#gtl");
     if (!host) return;
     var cards = $$("#content .entry[data-commit]");
-    if (cards.length < 2) return;                       // a single point is no timeline
+    if (cards.length < 1) return;
     var DAY = 86400000, WEEK = 7 * DAY;
     var DOW = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
     function pad2(n) { return (n < 10 ? "0" : "") + n; }
@@ -330,7 +330,7 @@
                    text: c.getAttribute("data-excerpt") || "", initial: c.classList.contains("entry--initial"),
                    ms: ms, week: dayStart - sinceMonday * DAY, order: order });
     });
-    if (items.length < 2) return;
+    if (items.length < 1) return;
     items.sort(function (a, b) { return a.ms - b.ms || b.order - a.order; });   // oldest first (cards are newest first)
     var all = items;
     var showAll = all.length <= GTL_FIRST;
@@ -420,15 +420,15 @@
     host.textContent = "";
     var head = document.createElement("h3");
     head.className = "section-title";
-    head.textContent = "更新のタイムライン";
+    head.textContent = "更新タイムライン";
     var note = document.createElement("p");
     note.className = "muted gtl-note";
     var more = document.createElement("button");
     more.type = "button";
     more.className = "pill-btn gtl-more";
     function setNote() {
-      note.textContent = "1 行が 1 週間（月曜から日曜、JST）で、左から右へ時間が進み、上が古く下が新しい更新です。" +
-        "近い時刻の更新は段を分けて並べ、更新のない週は省いています。点を押すと、下のその更新へ移動します。" +
+      note.textContent = "1行が 1週間（月曜から日曜、JST）。" +
+        "更新のない週は省いています。" +
         (items.length < all.length ? "（新しい " + items.length + " 件を表示中。全部で " + all.length + " 件）" : "（全 " + all.length + " 件）");
       more.textContent = items.length < all.length ? "すべて表示（" + all.length + " 件）" : "新しい " + GTL_FIRST + " 件だけ表示";
       more.hidden = all.length <= GTL_FIRST;
