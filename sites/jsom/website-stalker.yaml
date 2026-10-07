@@ -15,5 +15,11 @@ sites:
   - regex_replace:
       pattern: (?i)\s*<img\b[^>]*\balt=["'](?:new|ＮＥＷ|新着)[!！]?["'][^>]*>
       replace: ''
+  - regex_replace:
+      pattern: (/cdn-cgi/l/email-protection)#[0-9A-Fa-f]+
+      replace: $1
+  - regex_replace:
+      pattern: data-cfemail="[0-9A-Fa-f]+"
+      replace: data-cfemail=""
   - html_sanitize
   - html_prettify
