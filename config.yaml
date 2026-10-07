@@ -3,12 +3,60 @@ sites:
   - url: https://www.mhlw.go.jp/
     name: "厚生労働省"
     slug: "mhlw"
+  - url: https://www.meti.go.jp/policy/mono_info_service/healthcare/teikyoujigyousyagl.html
+    name: "経済産業省 - 医療情報を取り扱う情報システム・サービスの提供事業者における安全管理ガイドライン"
+    slug: "meti-healthcare-gl"
+  - url: https://iryohokenjyoho.hpdx.or.jp/csm
+    name: "医療機関等向け総合ポータルサイト"
+    slug: "hpdxcsm"
+  - url: https://www.medis.or.jp/4_hyojyun/medis-master/
+    name: "MEDISの標準マスター個別ページ"
+    slug: "medismaster"
+  - url: https://www.hl7.jp/
+    name: "日本HL7協会"
+    slug: "hl7jp"
+  - url: https://square.umin.ac.jp/helics/html/
+    name: "医療情報標準化推進協議会(HELICS協議会)"
+    slug: "helics"
+  - url: https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html
+    name: "PMDA - 最適使用推進ガイドライン（医薬品）"
+    slug: "pmda-drug-reviews-0028"
+  - url: https://www.jda.or.jp/
+    name: "日本歯科医師会"
+    slug: "jdaorjp"
+  - url: https://ajhc.or.jp/
+    name: "日本医療法人協会"
+    slug: "ajhcorjp"
+  - url: https://jmsb.or.jp/
+    name: "日本専門医機構"
+    slug: "jmsborjp"
+  - url: https://www.kankyokansen.org/
+    name: "日本環境感染学会"
+    slug: "kankyokansenorg"
+  - url: https://www.nisseikyo.or.jp/
+    name: "日本精神科病院協会"
+    slug: "nisseikyoorjp"
+  - url: https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html
+    name: "中央社会保険医療協議会(中央社会保険医療協議会総会)"
+    slug: "shingi-chuo"
+  - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0004.html
+    name: "PMDA - 使用上の注意改訂情報"
+    slug: "pmda-calling-attention"
+  - url: https://www.pmda.go.jp/safety/info-services/devices/0035.html
+    name: "PMDA - 使用上の注意の改訂指示通知（医療機器）"
+    slug: "pmda-safety-devices"
   - url: https://www.pmda.go.jp/safety/info-services/drugs/0001.html
     name: "PMDA - 安全対策業務 - 医薬品に関する情報"
     slug: "pmda-safety-test"
   - url: https://www.jami.jp/
     name: "日本医療情報学会"
     slug: "jami"
+  - url: https://www.med-safe.jp/
+    name: "医療事故情報収集等事業"
+    slug: "med-safejp"
+  - url: https://www.yakkyoku-hiyari.jcqhc.or.jp/
+    name: "薬局ヒヤリ・ハット事例収集・分析事業"
+    slug: "yakkyoku-hiyari"
   - url: https://www.naika.or.jp/
     name: "日本内科学会"
     slug: "naika"
@@ -634,3 +682,6 @@ sites:
   - url: https://ganjoho.jp/
     name: "がん情報サービス"
     slug: "ganjohojp"
+  - url: https://www.jmsf.or.jp/accession
+    name: "加盟学会一覧 - 日本医学会連合"
+    slug: "jmsfaccession"
