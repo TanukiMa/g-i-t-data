@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本形成外科学会</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/jsprs.xml</id>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jsprs.xml</id>
   <updated>2026-10-05T02:28:30Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jsprs.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsprs/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jsprs.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jsprs/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
     <title>日本形成外科学会: 追加: 2026/10/05付で「日形会誌46巻9号をJ-STAGEへ公開しました。」（リンク先：J-STAGE）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jsprs/82c8bebff159af5e203febab17145d8fc222d162</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jsprs/82c8bebff159af5e203febab17145d8fc222d162</id>
     <updated>2026-10-05T02:28:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jsprs/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026/10/05付で「日形会誌46巻9号をJ-STAGEへ公開しました。」（リンク先：J-STAGE）&lt;/li&gt;&lt;li&gt;削除: 2026/07/07付の「【提言】アピアランス・サージャリー：形成外科の社会的意義」（PDF）&lt;/li&gt;&lt;li&gt;削除: 2026/07/29付の「「令和8年熊本地震」について」（PDF）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://jsprs.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jsprs/diff_82c8beb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006022909/https://jsprs.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jsprs/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026/10/05付で「日形会誌46巻9号をJ-STAGEへ公開しました。」（リンク先：J-STAGE）&lt;/li&gt;&lt;li&gt;削除: 2026/07/07付の「【提言】アピアランス・サージャリー：形成外科の社会的意義」（PDF）&lt;/li&gt;&lt;li&gt;削除: 2026/07/29付の「「令和8年熊本地震」について」（PDF）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://jsprs.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jsprs/diff_82c8beb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006022909/https://jsprs.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

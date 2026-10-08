@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本神経学会</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/neurology-jp.xml</id>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/neurology-jp.xml</id>
   <updated>2026-10-06T11:11:49Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/neurology-jp.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/neurology-jp/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/neurology-jp.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/neurology-jp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
     <title>日本神経学会: 変更: 参加登録受付中の案内における配信ステータスを「オンデマンド配信準備中」から「オンデマンド配信中（～11/6まで）」に変更</title>
-    <id>tag:git.example.com,2026:g-i-t-data/neurology-jp/b9b52ebe2dd7eefb278fb45f5150307a859dc06b</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/neurology-jp/b9b52ebe2dd7eefb278fb45f5150307a859dc06b</id>
     <updated>2026-10-06T11:11:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/neurology-jp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 参加登録受付中の案内における配信ステータスを「オンデマンド配信準備中」から「オンデマンド配信中（～11/6まで）」に変更&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月06日付の新着情報として「エボロクマブ（遺伝子組換え）製剤の最適使用推進ガイドラインの簡略版への切替えについて」を追加&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.neurology-jp.org/index.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/neurology-jp/diff_b9b52eb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006173614/https://www.neurology-jp.org/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/neurology-jp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 参加登録受付中の案内における配信ステータスを「オンデマンド配信準備中」から「オンデマンド配信中（～11/6まで）」に変更&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月06日付の新着情報として「エボロクマブ（遺伝子組換え）製剤の最適使用推進ガイドラインの簡略版への切替えについて」を追加&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.neurology-jp.org/index.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/neurology-jp/diff_b9b52eb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006173614/https://www.neurology-jp.org/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

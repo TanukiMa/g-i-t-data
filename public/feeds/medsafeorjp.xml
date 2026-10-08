@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医療安全調査機構</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/medsafeorjp.xml</id>
-  <updated>2026-10-07T08:32:55Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/medsafeorjp.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/medsafeorjp/history.html" />
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/medsafeorjp.xml</id>
+  <updated>2026-10-08T02:16:03Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/medsafeorjp.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/medsafeorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>日本医療安全調査機構: 追加: 調達情報「刊行物『警鐘レポートNo.4』、『警鐘レポートNo.5』、『警鐘レポートNo.6』、『提言第22号』の制作、印刷業務」が掲載されました（日付：2026/10/0…</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/medsafeorjp/b83d90bdc85dbc88d8a15b1e397c99fc73d63ea9</id>
+    <updated>2026-10-08T02:16:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/medsafeorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 調達情報「刊行物『警鐘レポートNo.4』、『警鐘レポートNo.5』、『警鐘レポートNo.6』、『提言第22号』の制作、印刷業務」が掲載されました（日付：2026/10/08）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「研究に関するお知らせ」を掲載しました。」の掲載日が2026/09/25に変更されました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「メール配信サービス「anなび」配信終了のお知らせ」の掲載日が2026/09/25に変更されました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「外部メール配信システムへの不正アクセスに関する調査結果のご報告」が一覧から削除されました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.medsafe.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/medsafeorjp/diff_b83d90b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>日本医療安全調査機構: 変更: 提言第22号「入院早期の発生した食物による窒息に係る死亡事例の分析」意見交換会の開催日が「2027年2月26日（土）」から「2027年2月27日（土）」に変更された</title>
-    <id>tag:git.example.com,2026:g-i-t-data/medsafeorjp/98a913d4ad0494f1d870a8af9b1bb85a48d7e401</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/medsafeorjp/98a913d4ad0494f1d870a8af9b1bb85a48d7e401</id>
     <updated>2026-10-07T08:32:55Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/medsafeorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 提言第22号「入院早期の発生した食物による窒息に係る死亡事例の分析」意見交換会の開催日が「2027年2月26日（土）」から「2027年2月27日（土）」に変更された&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.medsafe.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/medsafeorjp/diff_98a913d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/medsafeorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 提言第22号「入院早期の発生した食物による窒息に係る死亡事例の分析」意見交換会の開催日が「2027年2月26日（土）」から「2027年2月27日（土）」に変更された&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.medsafe.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/medsafeorjp/diff_98a913d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007235810/https://www.medsafe.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
