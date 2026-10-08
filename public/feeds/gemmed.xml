@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t gemmed</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/gemmed.xml</id>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/gemmed.xml</id>
   <updated>2026-10-08T08:32:31Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/gemmed.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/gemmed.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
     <title>gemmed: 追加: 外科医療確保特別加算、「手術料の15％」を算定できるが、その「手術料」の中には乳幼児加算などの「通則加算」は含まれない</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/388b56471de4adcbf27413854e3ae87d8613933f</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/388b56471de4adcbf27413854e3ae87d8613933f</id>
     <updated>2026-10-08T08:32:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 外科医療確保特別加算、「手術料の15％」を算定できるが、その「手術料」の中には乳幼児加算などの「通則加算」は含まれない&lt;/li&gt;&lt;li&gt;追加: 「食道がんに対するニボルマブ（オプジーボ）併用療法」、5年間の長期追跡で長期的な有効性・安全性を確認—国がん&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_388b564.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 外科医療確保特別加算、「手術料の15％」を算定できるが、その「手術料」の中には乳幼児加算などの「通則加算」は含まれない&lt;/li&gt;&lt;li&gt;追加: 「食道がんに対するニボルマブ（オプジーボ）併用療法」、5年間の長期追跡で長期的な有効性・安全性を確認—国がん&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_388b564.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 「2025年度の1か月医療費上位1―5位は脊髄性筋萎縮症患者で各々1億7000万円程度、1000万円超レセは2907件で過去最高更新―健保連」（2026.10.8.）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/88ba2dc855e35487d64ef4d9e9533c8296fdac1a</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/88ba2dc855e35487d64ef4d9e9533c8296fdac1a</id>
     <updated>2026-10-07T22:35:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2025年度の1か月医療費上位1―5位は脊髄性筋萎縮症患者で各々1億7000万円程度、1000万円超レセは2907件で過去最高更新―健保連」（2026.10.8.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_88ba2dc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008083352/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2025年度の1か月医療費上位1―5位は脊髄性筋萎縮症患者で各々1億7000万円程度、1000万円超レセは2907件で過去最高更新―健保連」（2026.10.8.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_88ba2dc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008083352/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/cb06f1b0fb18861b41d5e4a08000a25dc521f9bc</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/cb06f1b0fb18861b41d5e4a08000a25dc521f9bc</id>
     <updated>2026-10-07T13:53:41Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_cb06f1b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008083352/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_cb06f1b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008083352/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 「2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは『対象品目を少なく』せよ、支払側は『多く』せよとの考え―中医協」（2026.10.7.）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/ac561e2e98f655938aa7f491458581cb9f2e6d64</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/ac561e2e98f655938aa7f491458581cb9f2e6d64</id>
     <updated>2026-10-07T08:32:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは『対象品目を少なく』せよ、支払側は『多く』せよとの考え―中医協」（2026.10.7.）&lt;/li&gt;&lt;li&gt;削除: 「2027年度介護報酬改定で『基本報酬の大幅引き上げ』を求める声多数、一方『負担増への配慮』求める声も—社保審・介護給付費分科会」（2026.10.6.）&lt;/li&gt;&lt;li&gt;削除: 「2024年度から25年度にかけても、依然として『介護予防訪問看護の利用増』や『利用者単価の西高東低』目立つ—厚労省」（2026.10.2.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_ac561e2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007193642/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは『対象品目を少なく』せよ、支払側は『多く』せよとの考え―中医協」（2026.10.7.）&lt;/li&gt;&lt;li&gt;削除: 「2027年度介護報酬改定で『基本報酬の大幅引き上げ』を求める声多数、一方『負担増への配慮』求める声も—社保審・介護給付費分科会」（2026.10.6.）&lt;/li&gt;&lt;li&gt;削除: 「2024年度から25年度にかけても、依然として『介護予防訪問看護の利用増』や『利用者単価の西高東低』目立つ—厚労省」（2026.10.2.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_ac561e2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007193642/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 変更: バナーリンクおよび画像が「1029ミニセミナー」から「病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO」に変更された</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/67036a25c208c773ef97795d06d018bd4d7fdf1f</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/67036a25c208c773ef97795d06d018bd4d7fdf1f</id>
     <updated>2026-10-07T02:59:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「1029ミニセミナー」から「病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO」に変更された&lt;/li&gt;&lt;li&gt;変更: バナーリンクおよび画像が「業務改善支援　見える化と実行支援による看護業務改善」から「地域包括医療病棟の運用状況を可視化」に変更された&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_67036a2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007193642/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「1029ミニセミナー」から「病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO」に変更された&lt;/li&gt;&lt;li&gt;変更: バナーリンクおよび画像が「業務改善支援　見える化と実行支援による看護業務改善」から「地域包括医療病棟の運用状況を可視化」に変更された&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_67036a2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007193642/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 協会けんぽ全体の後発品割合、2026年5月にDPC等含めて91.0％・調剤分だけで92.7％に上昇してはいるが・・・（2026.10.7）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/acd6a62661d5329777dbaf925303a317d2cf385e</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/acd6a62661d5329777dbaf925303a317d2cf385e</id>
     <updated>2026-10-07T02:48:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 協会けんぽ全体の後発品割合、2026年5月にDPC等含めて91.0％・調剤分だけで92.7％に上昇してはいるが・・・（2026.10.7）&lt;/li&gt;&lt;li&gt;削除: 「OTC類似薬の患者特別負担」の詳細を解説する通知を発出、長期使用など特別負担が生じないケースの具体例も提示—厚労省（2026.10.5）&lt;/li&gt;&lt;li&gt;削除: 大病院向けの標準型・クラウド型電子カルテ開発までの「医療DX対応に向けた電子カルテ改修」対応にも支援が必要―四病協（2026.10.1）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_acd6a62.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 協会けんぽ全体の後発品割合、2026年5月にDPC等含めて91.0％・調剤分だけで92.7％に上昇してはいるが・・・（2026.10.7）&lt;/li&gt;&lt;li&gt;削除: 「OTC類似薬の患者特別負担」の詳細を解説する通知を発出、長期使用など特別負担が生じないケースの具体例も提示—厚労省（2026.10.5）&lt;/li&gt;&lt;li&gt;削除: 大病院向けの標準型・クラウド型電子カルテ開発までの「医療DX対応に向けた電子カルテ改修」対応にも支援が必要―四病協（2026.10.1）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_acd6a62.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 変更: バナーリンクおよび画像が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」に変更された（リンク先: https://www.…</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/d082b8f9ac7446639995f3e75e9760956948447b</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/d082b8f9ac7446639995f3e75e9760956948447b</id>
     <updated>2026-10-07T00:46:45Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」に変更された（リンク先: &lt;code&gt;https://www.ghc-j.com/gyoumukaizen-gm&lt;/code&gt;）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_d082b8f.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」に変更された（リンク先: &lt;code&gt;https://www.ghc-j.com/gyoumukaizen-gm&lt;/code&gt;）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_d082b8f.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/676a8982519a84d233c11bd297992bc95da9a0cb</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/676a8982519a84d233c11bd297992bc95da9a0cb</id>
     <updated>2026-10-06T23:50:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_676a898.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_676a898.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 変更: バナーリンクおよび画像が「1029ミニセミナー」（URL: https://www.ghc-j.com/20261029gm）から「病院ダッシュボードΧ ZERO」（UR…</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/b8b927e439c860c8bc4bc25977dce2f5b946a2fd</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/b8b927e439c860c8bc4bc25977dce2f5b946a2fd</id>
     <updated>2026-10-06T17:20:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「1029ミニセミナー」（URL: &lt;code&gt;https://www.ghc-j.com/20261029gm&lt;/code&gt;）から「病院ダッシュボードΧ ZERO」（URL: &lt;code&gt;https://www.ghc-j.com/zero-byoushou-gairai-2026-gm&lt;/code&gt;、代替テキスト：病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO）に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_b8b927e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006195605/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「1029ミニセミナー」（URL: &lt;code&gt;https://www.ghc-j.com/20261029gm&lt;/code&gt;）から「病院ダッシュボードΧ ZERO」（URL: &lt;code&gt;https://www.ghc-j.com/zero-byoushou-gairai-2026-gm&lt;/code&gt;、代替テキスト：病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO）に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_b8b927e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006195605/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 記事「有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）」（2026年10月6日）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/4f5a645cb7ad9faba474e3e9bb92d3c78a637f51</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/4f5a645cb7ad9faba474e3e9bb92d3c78a637f51</id>
     <updated>2026-10-06T11:11:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;p&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）」（2026年10月6日） &lt;strong&gt;変更&lt;/strong&gt;: バナー広告が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」へ差し替え&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_4f5a645.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006141233/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;p&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）」（2026年10月6日） &lt;strong&gt;変更&lt;/strong&gt;: バナー広告が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」へ差し替え&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_4f5a645.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006141233/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 記事「2025年、出生数は過去最少を更新して67万Ⅰ270人、合計特殊出生率は1.14にまで低下—厚労省」（2026年10月6日付）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/de3d578ef4547e7d80e7fb04509d3fddbf2348bb</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/de3d578ef4547e7d80e7fb04509d3fddbf2348bb</id>
     <updated>2026-10-06T03:33:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「2025年、出生数は過去最少を更新して67万Ⅰ270人、合計特殊出生率は1.14にまで低下—厚労省」（2026年10月6日付）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「2027年度介護報酬改定で「基本報酬の大幅引き上げ」を求める声多数、一方「負担増への配慮」求める声も—社保審・介護給付費分科会」（2026年10月6日付）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 掲載バナーが「業務改善支援 見える化と実行支援による看護業務改善」から「地域包括医療病棟の運用状況を可視化」に変更&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_de3d578.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261004002435/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「2025年、出生数は過去最少を更新して67万Ⅰ270人、合計特殊出生率は1.14にまで低下—厚労省」（2026年10月6日付）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「2027年度介護報酬改定で「基本報酬の大幅引き上げ」を求める声多数、一方「負担増への配慮」求める声も—社保審・介護給付費分科会」（2026年10月6日付）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 掲載バナーが「業務改善支援 見える化と実行支援による看護業務改善」から「地域包括医療病棟の運用状況を可視化」に変更&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_de3d578.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261004002435/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 「70歳以上・75歳以上高齢者の「医療機関の窓口負担」、現役世代との公平性確保をどう考えていくべきか—社保審・医療保険部会」（2026.10.5.）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/gemmed/8b4c93b61bc742b073e4172bcf2fa9fe611ab32e</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/gemmed/8b4c93b61bc742b073e4172bcf2fa9fe611ab32e</id>
     <updated>2026-10-05T02:28:16Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「70歳以上・75歳以上高齢者の「医療機関の窓口負担」、現役世代との公平性確保をどう考えていくべきか—社保審・医療保険部会」（2026.10.5.）&lt;/li&gt;&lt;li&gt;削除: 「大病院向けの標準型・クラウド型電子カルテ開発までの「医療DX対応に向けた電子カルテ改修」対応にも支援が必要―四病協」（2026.10.1.）&lt;/li&gt;&lt;li&gt;削除: 「フレイルを予測バイオマーカー候補、「将来の機能低下リスクに応じた予防・介入」実現に期待—長寿医療研究センター」（2026.9.29.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/gemmed/diff_8b4c93b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261004002435/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「70歳以上・75歳以上高齢者の「医療機関の窓口負担」、現役世代との公平性確保をどう考えていくべきか—社保審・医療保険部会」（2026.10.5.）&lt;/li&gt;&lt;li&gt;削除: 「大病院向けの標準型・クラウド型電子カルテ開発までの「医療DX対応に向けた電子カルテ改修」対応にも支援が必要―四病協」（2026.10.1.）&lt;/li&gt;&lt;li&gt;削除: 「フレイルを予測バイオマーカー候補、「将来の機能低下リスクに応じた予防・介入」実現に期待—長寿医療研究センター」（2026.9.29.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/gemmed/diff_8b4c93b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261004002435/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本リウマチ学会</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/ryumachi-jp.xml</id>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/ryumachi-jp.xml</id>
   <updated>2026-10-08T02:16:07Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/ryumachi-jp.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/ryumachi-jp/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/ryumachi-jp.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/ryumachi-jp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
     <title>日本リウマチ学会: 追加: 2026.10.08 関節超音波検査講習会ページ 更新いたしました</title>
-    <id>tag:git.example.com,2026:g-i-t-data/ryumachi-jp/28dadb4ac02ec0b6dc171504abfbaf1891a34374</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/ryumachi-jp/28dadb4ac02ec0b6dc171504abfbaf1891a34374</id>
     <updated>2026-10-08T02:16:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/ryumachi-jp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026.10.08 関節超音波検査講習会ページ 更新いたしました&lt;/li&gt;&lt;li&gt;削除: 2026.08.24 2027年度膠原病・リウマチ内科領域プログラム申請について ページ更新いたしました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.ryumachi-jp.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/ryumachi-jp/diff_28dadb4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/ryumachi-jp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026.10.08 関節超音波検査講習会ページ 更新いたしました&lt;/li&gt;&lt;li&gt;削除: 2026.08.24 2027年度膠原病・リウマチ内科領域プログラム申請について ページ更新いたしました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.ryumachi-jp.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/ryumachi-jp/diff_28dadb4.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008155841/https://www.ryumachi-jp.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
