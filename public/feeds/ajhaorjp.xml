@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 全日本病院協会</title>
-  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/ajhaorjp.xml</id>
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/ajhaorjp.xml</id>
   <updated>2026-10-08T08:32:30Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/ajhaorjp.xml" />
-  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/ajhaorjp/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/ajhaorjp.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/ajhaorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
     <title>全日本病院協会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/ajhaorjp/a6b9d7ef53081fd378ab2b18cb161e3145eaee2f</id>
+    <id>tag:git.example.com,2026:g-i-t-data/ajhaorjp/a6b9d7ef53081fd378ab2b18cb161e3145eaee2f</id>
     <updated>2026-10-08T08:32:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/ajhaorjp/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/ajhaorjp/diff_a6b9d7e.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/ajhaorjp/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/ajhaorjp/diff_a6b9d7e.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>全日本病院協会: 追加: 教育研修「研修参加申込状況を更新しました」（2026/10/08）</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/ajhaorjp/e9ff6155371aa7525e53abf4a515ce0509fc2d62</id>
+    <id>tag:git.example.com,2026:g-i-t-data/ajhaorjp/e9ff6155371aa7525e53abf4a515ce0509fc2d62</id>
     <updated>2026-10-08T02:15:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/ajhaorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 教育研修「研修参加申込状況を更新しました」（2026/10/08）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 教育研修「研修参加申込状況を更新しました」（2026/10/01）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/ajhaorjp/diff_e9ff615.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/ajhaorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 教育研修「研修参加申込状況を更新しました」（2026/10/08）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 教育研修「研修参加申込状況を更新しました」（2026/10/01）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/ajhaorjp/diff_e9ff615.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007231758/https://www.ajha.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

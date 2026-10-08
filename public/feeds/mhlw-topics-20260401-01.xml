@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 薬価基準収載品目リスト及び後発医薬品に関する情報について</title>
-  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/mhlw-topics-20260401-01.xml</id>
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/mhlw-topics-20260401-01.xml</id>
   <updated>2026-10-08T08:32:37Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/mhlw-topics-20260401-01.xml" />
-  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw-topics-20260401-01/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/mhlw-topics-20260401-01.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw-topics-20260401-01/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
     <title>薬価基準収載品目リスト及び後発医薬品に関する情報について: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw-topics-20260401-01/eef4db80ebd742863b2c5107173812e8812663f9</id>
+    <id>tag:git.example.com,2026:g-i-t-data/mhlw-topics-20260401-01/eef4db80ebd742863b2c5107173812e8812663f9</id>
     <updated>2026-10-08T08:32:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw-topics-20260401-01/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw-topics-20260401-01/diff_eef4db8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/mhlw-topics-20260401-01/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/mhlw-topics-20260401-01/diff_eef4db8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
