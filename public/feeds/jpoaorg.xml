@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本小児整形外科学会</title>
-  <id>tag:git.example.com,2026:g-i-t-data/feeds/jpoaorg.xml</id>
+  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jpoaorg.xml</id>
   <updated>2026-10-08T08:32:33Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jpoaorg.xml" />
-  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jpoaorg/history.html" />
+  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jpoaorg.xml" />
+  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jpoaorg/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
     <title>日本小児整形外科学会: 追加: 「第37回関東小児整形外科研究会開催ならびに演題募集のご案内」（2026.10.8）</title>
-    <id>tag:git.example.com,2026:g-i-t-data/jpoaorg/a8743bba53eded0d0536f6977a96ba6a5699b061</id>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/jpoaorg/a8743bba53eded0d0536f6977a96ba6a5699b061</id>
     <updated>2026-10-08T08:32:33Z</updated>
-    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jpoaorg/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第37回関東小児整形外科研究会開催ならびに演題募集のご案内」（2026.10.8）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「日本小児整形外科学会　第33回研修会（ハイブリッド開催）」（2026.5.25）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jpoa.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jpoaorg/diff_a8743bb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jpoaorg/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第37回関東小児整形外科研究会開催ならびに演題募集のご案内」（2026.10.8）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「日本小児整形外科学会　第33回研修会（ハイブリッド開催）」（2026.5.25）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jpoa.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jpoaorg/diff_a8743bb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
