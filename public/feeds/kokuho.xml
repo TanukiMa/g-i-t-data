@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 国民健康保険中央会</title>
-  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/kokuho.xml</id>
-  <updated>2026-10-08T02:16:02Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/kokuho.xml" />
-  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/kokuho/history.html" />
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/kokuho.xml</id>
+  <updated>2026-10-08T08:32:36Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/kokuho.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/kokuho/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>国民健康保険中央会: 追加: お知らせ「令和８年10月請求におけるオンライン請求システム接続障害について」（2026年10月8日）</title>
+    <id>tag:git.example.com,2026:g-i-t-data/kokuho/6a7e416aefb41dda73ce7ec318c3f586d6944a38</id>
+    <updated>2026-10-08T08:32:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/kokuho/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: お知らせ「令和８年10月請求におけるオンライン請求システム接続障害について」（2026年10月8日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.kokuho.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/kokuho/diff_6a7e416.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>国民健康保険中央会: 追加: 「国保制度改善強化全国大会」のページへ移動するバナー画像およびリンクを追加</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/kokuho/28bc06bffc861e1212bbdb4f036880c81432e99c</id>
+    <id>tag:git.example.com,2026:g-i-t-data/kokuho/28bc06bffc861e1212bbdb4f036880c81432e99c</id>
     <updated>2026-10-08T02:16:02Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/kokuho/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「国保制度改善強化全国大会」のページへ移動するバナー画像およびリンクを追加&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.kokuho.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/kokuho/diff_28bc06b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/kokuho/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「国保制度改善強化全国大会」のページへ移動するバナー画像およびリンクを追加&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.kokuho.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/kokuho/diff_28bc06b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

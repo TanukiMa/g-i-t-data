@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本生化学会</title>
-  <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/jbsoc.xml</id>
-  <updated>2026-10-07T02:48:31Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/jbsoc.xml" />
-  <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/history.html" />
+  <id>tag:git.example.com,2026:g-i-t-data/feeds/jbsoc.xml</id>
+  <updated>2026-10-08T08:32:32Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://git.example.com/feeds/jbsoc.xml" />
+  <link rel="alternate" type="text/html" href="https://git.example.com/sites/jbsoc/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>日本生化学会: 追加: 「熊本地震 被災会員への支援措置について（対象者確定のご報告）」（2026.10.08）</title>
+    <id>tag:git.example.com,2026:g-i-t-data/jbsoc/e06a6b3e10a12c1958c8c52b5b8ed35c28e182c2</id>
+    <updated>2026-10-08T08:32:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jbsoc/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「熊本地震 被災会員への支援措置について（対象者確定のご報告）」（2026.10.08）&lt;/li&gt;&lt;li&gt;追加: 「「オルトライブ」開催ご案内　株式会社オルトメディコ」（2026.10.08）&lt;/li&gt;&lt;li&gt;削除: 「JBの学位審査等への対応について」（2026.08.31）&lt;/li&gt;&lt;li&gt;削除: 「AI時代におけるジェンダーギャップへの対応WG勉強会（内閣府男女共同参画局）」（2026.08.31）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jbsoc/diff_e06a6b3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>日本生化学会: 内容はに実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/jbsoc/9363a0be692037343313b7bd9323f53d8e791d2d</id>
+    <id>tag:git.example.com,2026:g-i-t-data/jbsoc/9363a0be692037343313b7bd9323f53d8e791d2d</id>
     <updated>2026-10-07T02:48:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/history.html" />
-    <content type="html">&lt;p&gt;内容はに実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/diff_9363a0b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007055159/https://www.jbsoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jbsoc/history.html" />
+    <content type="html">&lt;p&gt;内容はに実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jbsoc/diff_9363a0b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007055159/https://www.jbsoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本生化学会: 追加: 第15期「日化協LRI（長期自主研究活動）」研究課題　（一社）日本化学工業協会（LRI）（2026.10.06）</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/jbsoc/aabbcc88477fcc6572473acf86e8e4a0ee060e03</id>
+    <id>tag:git.example.com,2026:g-i-t-data/jbsoc/aabbcc88477fcc6572473acf86e8e4a0ee060e03</id>
     <updated>2026-10-06T11:11:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第15期「日化協LRI（長期自主研究活動）」研究課題　（一社）日本化学工業協会（LRI）（2026.10.06）&lt;/li&gt;&lt;li&gt;追加: 第3回（2027年度）特定研究助成金　（公財）三島海雲記念財団（2026.10.06）&lt;/li&gt;&lt;li&gt;追加: 2027年度研究援助　（公財）山田科学振興財団（2026.10.06）&lt;/li&gt;&lt;li&gt;削除: 第16回新化学技術研究奨励賞　（公社）新化学技術推進協会(JACI)&lt;/li&gt;&lt;li&gt;削除: 2027年度『乳の学術連合』学術研究&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/diff_aabbcc8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006195032/https://www.jbsoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jbsoc/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第15期「日化協LRI（長期自主研究活動）」研究課題　（一社）日本化学工業協会（LRI）（2026.10.06）&lt;/li&gt;&lt;li&gt;追加: 第3回（2027年度）特定研究助成金　（公財）三島海雲記念財団（2026.10.06）&lt;/li&gt;&lt;li&gt;追加: 2027年度研究援助　（公財）山田科学振興財団（2026.10.06）&lt;/li&gt;&lt;li&gt;削除: 第16回新化学技術研究奨励賞　（公社）新化学技術推進協会(JACI)&lt;/li&gt;&lt;li&gt;削除: 2027年度『乳の学術連合』学術研究&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jbsoc/diff_aabbcc8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006195032/https://www.jbsoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本生化学会: 追加: 賞助成「2027年度（第25回）高峰記念第一三共賞　（公財）第一三共生命科学研究振興財団」（2026.10.05）</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/jbsoc/9ebe9a87d76d35cdfc944986b2eb0575cccfeb49</id>
+    <id>tag:git.example.com,2026:g-i-t-data/jbsoc/9ebe9a87d76d35cdfc944986b2eb0575cccfeb49</id>
     <updated>2026-10-06T03:33:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 賞助成「2027年度（第25回）高峰記念第一三共賞　（公財）第一三共生命科学研究振興財団」（2026.10.05）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 賞助成「第11回生体の科学賞・第41回研究交流助成金・第41回留学生受入助成金・第40回研究出版助成金　（公財）金原一郎記念医学医療振興財団」（2026.10.05）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/diff_9ebe9a8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006033847/https://www.jbsoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jbsoc/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 賞助成「2027年度（第25回）高峰記念第一三共賞　（公財）第一三共生命科学研究振興財団」（2026.10.05）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 賞助成「第11回生体の科学賞・第41回研究交流助成金・第41回留学生受入助成金・第40回研究出版助成金　（公財）金原一郎記念医学医療振興財団」（2026.10.05）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jbsoc/diff_9ebe9a8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006033847/https://www.jbsoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本生化学会: 追加: ニュース「日本学術会議ニュース　【お知らせ】日本学術会議法人化、新会長・新副会長の選任について 等」（2026.10.05）</title>
-    <id>tag:tanukima.github.io,2026:g-i-t-data/jbsoc/dcdfddc0e6d232dd3a2a488ec9e360321d200edf</id>
+    <id>tag:git.example.com,2026:g-i-t-data/jbsoc/dcdfddc0e6d232dd3a2a488ec9e360321d200edf</id>
     <updated>2026-10-05T02:28:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: ニュース「日本学術会議ニュース　【お知らせ】日本学術会議法人化、新会長・新副会長の選任について 等」（2026.10.05）&lt;/li&gt;&lt;li&gt;削除: ニュース「【日本学術会議】若手アカデミー候補者〔連携会員（特任）候補者〕の募集について」（2026.09.28）&lt;/li&gt;&lt;li&gt;削除: ニュース「日本学術会議ニュース　【お知らせ】意思の表出：提言・見解・報告の公表について 等」（2026.08.28）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/jbsoc/diff_dcdfddc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006033847/https://www.jbsoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="alternate" type="text/html" href="https://git.example.com/sites/jbsoc/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: ニュース「日本学術会議ニュース　【お知らせ】日本学術会議法人化、新会長・新副会長の選任について 等」（2026.10.05）&lt;/li&gt;&lt;li&gt;削除: ニュース「【日本学術会議】若手アカデミー候補者〔連携会員（特任）候補者〕の募集について」（2026.09.28）&lt;/li&gt;&lt;li&gt;削除: ニュース「日本学術会議ニュース　【お知らせ】意思の表出：提言・見解・報告の公表について 等」（2026.08.28）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://git.example.com/sites/jbsoc/diff_dcdfddc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006033847/https://www.jbsoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
