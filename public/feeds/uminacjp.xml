@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 大学病院医療情報ネットワークセンター(UMIN)</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/uminacjp.xml</id>
-  <updated>2026-10-08T19:26:59Z</updated>
+  <updated>2026-10-09T16:04:17Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/uminacjp.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/uminacjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>大学病院医療情報ネットワークセンター(UMIN): 追加：東京女子医科大学 八千代医療センター 麻酔科 教授公募</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/uminacjp/eb0ebbed01ebec70ccbbbb9bcbc944552eca4c07</id>
+    <updated>2026-10-09T16:04:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/uminacjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：東京女子医科大学 八千代医療センター 麻酔科 教授公募&lt;/li&gt;&lt;li&gt;追加：東京女子医科大学 形成外科学分野 教授公募&lt;/li&gt;&lt;li&gt;追加：国立大学法人旭川医科大学 精神医学講座 助教公募&lt;/li&gt;&lt;li&gt;追加：国立大学法人旭川医科大学 臨床研究支援センター 助教公募&lt;/li&gt;&lt;li&gt;削除：東京女子医科大学 【看護学部】看護管理学（教授） 教授公募&lt;/li&gt;&lt;li&gt;削除：東京女子医科大学 【看護学部】地域看護学（公衆衛生看護学,地域在宅看護学）（教授） 教授公募&lt;/li&gt;&lt;li&gt;削除：香川大学医学部 精神神経医学講座（仮称） 教授公募&lt;/li&gt;&lt;li&gt;削除：愛媛大学大学院医学系研究科 創薬プラットフォーム開発講座 特任研究員公募&lt;/li&gt;&lt;li&gt;追加：船井情報科学振興財団 船井学術賞&lt;/li&gt;&lt;li&gt;追加：船井情報科学振興財団 船井研究奨励賞&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/uminacjp/diff_eb0ebbe.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 国立大学法人旭川医科大学 精神医学講座 准教授公募</title>
     <id>tag:tanukima.github.io,2026:g-i-t-data/uminacjp/9b397b0291a1c8a78d0a7984e669866f5d1c7cf8</id>

@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本薬理学会</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/pharmacol.xml</id>
-  <updated>2026-10-06T17:20:07Z</updated>
+  <updated>2026-10-09T16:04:17Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/pharmacol.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/pharmacol/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本薬理学会: 変更: 日本薬理学会次世代の会のホームページリンク先が変更されました</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/pharmacol/d61ea0769776ea2ed989b0fdd08c9999502b686e</id>
+    <updated>2026-10-09T16:04:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/pharmacol/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 日本薬理学会次世代の会のホームページリンク先が変更されました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 事務局からのお知らせとして「日本薬理学会次世代の会のホームページをリニューアルしました」（2026年10月9日(金)）が追加されました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 公募情報「公益財団法人東京都医学総合研究所 プロジェクト研究リーダーの公募について」（2026年9月18日(金)）が削除されました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://pharmacol.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/pharmacol/diff_d61ea07.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本薬理学会: 追加: 学術集会開催予定として「第100回 年会」（2027/3/18〜20）、「第150回 近畿部会」（2026/11/14）、「第155回 関東部会」（2026/10/31）…</title>
     <id>tag:tanukima.github.io,2026:g-i-t-data/pharmacol/26a458c6568f35a88f5ccd50d3b3941c27ecb5be</id>

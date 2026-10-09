@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 医療用医薬品供給状況データベース(DSJP)</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/dsjpupdate.xml</id>
-  <updated>2026-10-08T19:26:56Z</updated>
+  <updated>2026-10-09T16:04:15Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/dsjpupdate.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>医療用医薬品供給状況データベース(DSJP): 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/dsjpupdate/c1c456754565571b995110a31d0ebe78f8b6a969</id>
+    <updated>2026-10-09T16:04:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://drugshortage.jp/updatehistory.php"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/diff_c1c4567.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>医療用医薬品供給状況データベース(DSJP): 追加: 亜鉛華軟膏「日医工」ほか多数の医薬品に関する出荷状況・供給状況の情報（告知日・実施日：2026年10月8日）</title>
     <id>tag:tanukima.github.io,2026:g-i-t-data/dsjpupdate/2c1f2cca8f41703d4687c0b44f8abf4ff71b5dae</id>
