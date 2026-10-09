@@ -103,6 +103,9 @@ sites:
     # Rotating banners in the header: plan B (CSS selector) and plan A (regex) side by side.
     remove:
       - ".header-banner"
+      # WordPress lists the categories 2026診療報酬改定 / 2027介護報酬改定 in a random order (side menu and footer)
+      - ".menusp"
+      - ".footlist"
     ignore:
       - '(?s)<div class="header-banner">.*?</div>'
   - url: https://www.pmda.go.jp/
@@ -259,6 +262,7 @@ sites:
   - url: https://www.jsmez.org/
     name: "日本衛生動物学会"
     slug: "jsmez"
+    remove: [".c-postThumb__cat"]   # SWELL theme: the category label of the slider posts flips between Signboard and 編集委員会
   - url: https://www.jsnfs.or.jp/
     name: "日本栄養・食糧学会"
     slug: "jsnfs"
@@ -454,6 +458,8 @@ sites:
   - url: https://jshg.jp/
     name: "日本人類遺伝学会"
     slug: "jshg"
+    # The labels of a news item (イベント / 新着情報 ...) come in a random order
+    remove: [".news-item .label"]
   - url: https://www.jssr.jp/
     name: "日本睡眠学会"
     slug: "jssr"
