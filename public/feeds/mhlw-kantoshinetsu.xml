@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省 - 関東信越厚生局</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/mhlw-kantoshinetsu.xml</id>
-  <updated>2026-10-08T02:16:04Z</updated>
+  <updated>2026-10-09T02:29:34Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/mhlw-kantoshinetsu.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw-kantoshinetsu/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 関東信越厚生局: 変更: 難病情報センターの各種リンク先（操作方法、指導、問い合わせ、その他、再蘭用）が設定されました。</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw-kantoshinetsu/e851afce0e696f60eb01fbabf5d1bad6d0cb77e0</id>
+    <updated>2026-10-09T02:29:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/mhlw-kantoshinetsu/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 難病情報センターの各種リンク先（操作方法、指導、問い合わせ、その他、再蘭用）が設定されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/kantoshinetsu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/mhlw-kantoshinetsu/diff_e851afc.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 関東信越厚生局: 追加: 調達情報「【入札公告】東京事務所移転に伴う電話主装置及び電話機の新設並びに撤去」（2026年10月8日）</title>
     <id>tag:tanukima.github.io,2026:g-i-t-data/mhlw-kantoshinetsu/1965b08683939f8bad44351356b188ce60f90a89</id>
