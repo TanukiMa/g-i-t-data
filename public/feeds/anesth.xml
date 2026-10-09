@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本麻酔科学会</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/anesth.xml</id>
-  <updated>2026-10-08T08:32:30Z</updated>
+  <updated>2026-10-09T10:55:07Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/anesth.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/anesth/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本麻酔科学会: 追加: 「第2回AARS Webinar アーカイブ動画配信」（2026.10.09）</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/anesth/19c36c68bbf2ce8ad1f9acab462199135d801066</id>
+    <updated>2026-10-09T10:55:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/anesth/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「第2回AARS Webinar アーカイブ動画配信」（2026.10.09）&lt;/li&gt;&lt;li&gt;削除: 「2026年度支部学術集会の共通ホームページを公開いたしました」（2025.04.07）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://anesth.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/anesth/diff_19c36c6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本麻酔科学会: 変更: お知らせのタイトルが「【周知】ヤンセンファーマ株式会社より　出荷再開のご案内」から「【周知】ムンディファーマ株式会社より　出荷再開のご案内」に変更。</title>
     <id>tag:tanukima.github.io,2026:g-i-t-data/anesth/ffced7782190df6a9640ca7c2c1b719834b50d1d</id>

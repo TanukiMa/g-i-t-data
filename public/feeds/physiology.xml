@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本生理学会</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/physiology.xml</id>
-  <updated>2026-10-08T02:16:06Z</updated>
+  <updated>2026-10-09T10:55:27Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/physiology.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/physiology/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本生理学会: 追加: 「第68回藤原賞受賞候補者推薦について」（2026-10-09）の募集情報が追加されました。</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/physiology/ba932d3425c89ffdd333d16e3e1d075f5791aac1</id>
+    <updated>2026-10-09T10:55:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/physiology/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第68回藤原賞受賞候補者推薦について」（2026-10-09）の募集情報が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告（2026-10-06）のお知らせが削除されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 第12回 （平成27年度）「日本学術振興会賞」受賞候補者推薦について（2015-02-10）の情報が削除されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: パブリックヘルス科学研究助成（2026-09-29）の情報が削除されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.physiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/physiology/diff_ba932d3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本生理学会: 追加: 慶應義塾大学医学部生理学教室教授候補者の公募（2026-10-08）</title>
     <id>tag:tanukima.github.io,2026:g-i-t-data/physiology/f1bbf3170bb4d59cb2883c3b2246c4b6137a9a1a</id>
