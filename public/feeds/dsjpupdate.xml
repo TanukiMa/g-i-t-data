@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 医療用医薬品供給状況データベース(DSJP)</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/dsjpupdate.xml</id>
-  <updated>2026-10-09T16:04:15Z</updated>
+  <updated>2026-10-09T22:33:07Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/dsjpupdate.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>医療用医薬品供給状況データベース(DSJP): 追加: 「眼科用ゼルフィルム」（包装小6枚、ファイザー）の販売中止情報（告知日・実施日：2026年10月9日）。</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/dsjpupdate/84b9bcd2300113616f7b888e6950229c1e7f308a</id>
+    <updated>2026-10-09T22:33:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「眼科用ゼルフィルム」（包装小6枚、ファイザー）の販売中止情報（告知日・実施日：2026年10月9日）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「親水クリーム「東豊」」（調剤用500g、ヤクハン製薬/東豊薬品）の通常出荷情報（告知日・実施日：2026年10月5日）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「ジクロフェナクＮａ錠２５ｍｇ「ＴＣＫ」」（PTP100錠、日本ジェネリック/辰巳化学）の限定出荷（告知日・実施日：2026年10月9日）および販売中止（実施予定日：2027年1月1日）情報。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「エペリゾン塩酸塩錠５０ｍｇ「ツルハラ」」（PTP100錠、PTP500錠、日本ジェネリック/鶴原製薬）の限定出荷情報（告知日・実施日：2026年10月9日）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 日本ジェネリック製品の供給停止情報（告知日・実施日：2026年10月9日）：「アムロジピン錠１０ｍｇ「ＣＨ」」（PTP100錠）、「エピナスチン塩酸塩錠２０ｍｇ「ＪＧ」」（PTP500錠）、「カモスタットメシル酸塩錠１００ｍｇ「ＪＧ」」（PTP100錠、PTP500錠）、「クロピドグレル錠７５ｍｇ「ＪＧ」」（PTP700錠）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 鶴原製薬製品の供給停止情報（告知日・実施日：2026年10月9日）：「ガンマオリザノール細粒２０％「ツルハラ」」（バラ100g、バラ1000g）、「ガンマオリザノール錠５０ｍｇ「ツルハラ」」（バラ1200錠、PTP100錠、PTP1000錠）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://drugshortage.jp/updatehistory.php"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/dsjpupdate/diff_84b9bcd.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>医療用医薬品供給状況データベース(DSJP): 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:tanukima.github.io,2026:g-i-t-data/dsjpupdate/c1c456754565571b995110a31d0ebe78f8b6a969</id>
