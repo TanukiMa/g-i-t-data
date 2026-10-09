@@ -27,5 +27,6 @@ sites:
   - regex_replace:
       pattern: (\.(?:pdf|docx?|xlsx?|pptx?|zip|png|jpe?g|gif|webp|svg|ico|css|js))\?[A-Za-z_][A-Za-z0-9_-]*=(?:20[0-9]{12}|1[5-9][0-9]{8,11})[0-9]*
       replace: $1
+  - css_remove: .c-postThumb__cat
   - html_sanitize
   - html_prettify
