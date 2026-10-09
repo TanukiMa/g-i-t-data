@@ -16,6 +16,30 @@ sites:
     name: "厚生労働省 - 関東信越厚生局"
     slug: "mhlw-kantoshinetsu"
     tags: ["行政"]
+  - url: https://kouseikyoku.mhlw.go.jp/hokkaido/
+    name: "厚生労働省 - 北海道厚生局"
+    slug: "mhlw-hokkaido"
+    tags: ["行政"]
+  - url: https://kouseikyoku.mhlw.go.jp/tohoku/
+    name: "厚生労働省 - 東北厚生局"
+    slug: "mhlw-tohoku"
+    tags: ["行政"]
+  - url: https://kouseikyoku.mhlw.go.jp/tokaihokuriku/
+    name: "厚生労働省 - 東海北陸厚生局"
+    slug: "mhlw-tokaihokuriku"
+    tags: ["行政"]
+  - url: https://kouseikyoku.mhlw.go.jp/kinki/
+    name: "厚生労働省 - 近畿厚生局"
+    slug: "mhlw-kinki"
+    tags: ["行政"]
+  - url: https://kouseikyoku.mhlw.go.jp/chugokushikoku/
+    name: "厚生労働省 - 中国四国厚生局"
+    slug: "mhlw-chugokushikoku"
+    tags: ["行政"]
+  - url: https://kouseikyoku.mhlw.go.jp/kyushu/
+    name: "厚生労働省 - 九州厚生局"
+    slug: "mhlw-kyushu"
+    tags: ["行政"]
   - url: https://www.mhlw.go.jp/hourei/new/tsuchi/new.html
     name: "厚生労働省 - 登載準備中の新着通知"
     slug: "mhlw-hourei-tsuchi-new"
