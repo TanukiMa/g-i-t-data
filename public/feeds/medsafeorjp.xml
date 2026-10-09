@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医療安全調査機構</title>
   <id>tag:tanukima.github.io,2026:g-i-t-data/feeds/medsafeorjp.xml</id>
-  <updated>2026-10-08T02:16:03Z</updated>
+  <updated>2026-10-09T10:55:24Z</updated>
   <link rel="self" type="application/atom+xml" href="https://tanukima.github.io/g-i-t-data/feeds/medsafeorjp.xml" />
   <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/medsafeorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医療安全調査機構: 削除: 「メール配信サービス「anなび」配信終了のお知らせ」（2026/09/25）</title>
+    <id>tag:tanukima.github.io,2026:g-i-t-data/medsafeorjp/10cdbf765c9304cebf16f88c43b6ba9bdebd9e6c</id>
+    <updated>2026-10-09T10:55:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://tanukima.github.io/g-i-t-data/sites/medsafeorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;削除: 「メール配信サービス「anなび」配信終了のお知らせ」（2026/09/25）&lt;/li&gt;&lt;li&gt;追加: 「医療事故調査制度の現況報告(2026年9月)」についてプレスリリースを行いました（2026/10/09）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.medsafe.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://tanukima.github.io/g-i-t-data/sites/medsafeorjp/diff_10cdbf7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医療安全調査機構: 追加: 調達情報「刊行物『警鐘レポートNo.4』、『警鐘レポートNo.5』、『警鐘レポートNo.6』、『提言第22号』の制作、印刷業務」が掲載されました（日付：2026/10/0…</title>
     <id>tag:tanukima.github.io,2026:g-i-t-data/medsafeorjp/b83d90bdc85dbc88d8a15b1e397c99fc73d63ea9</id>
