@@ -15,6 +15,7 @@ sites:
     slug: "digitalgojppolicieshealth"
   - url: https://www.mhlw.go.jp/stf/iryoudx.html
     name: "厚生労働省 - 医療DXについて"
+    tags: ["行政","医療DX"]
     slug: "mhlwgojpiryoudx"
   - url: https://hgpi.org/
     name: "日本医療政策機構"
