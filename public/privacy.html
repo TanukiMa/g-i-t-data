@@ -4,15 +4,16 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>プライバシーとアクセス解析 - G醫t</title>
-<link rel="stylesheet" href="assets/github.css?v=05dbb1fe03" />
-<link rel="stylesheet" href="assets/common.css?v=05dbb1fe03" />
+<link rel="stylesheet" href="assets/github.css?v=7a6dea9fbb" />
+<link rel="stylesheet" href="assets/common.css?v=7a6dea9fbb" />
 <link rel="alternate" type="application/atom+xml" title="G醫t 更新情報（すべて）" href="feeds/all.xml" />
 <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png" />
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
 <meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)" />
 
-<script src="assets/app.js?v=05dbb1fe03" defer data-root=""></script>
-
+<script src="assets/app.js?v=7a6dea9fbb" defer data-root=""></script>
+<script src="assets/pwa.js?v=7a6dea9fbb" defer data-root="" data-mode="optin" data-hash="pbkdf2$sha256$200000$4FtMz8+BNvWZhiMgYEMqAg==$B1T8z9Azv+Bl5SLHZcYLq49QKV39ecD8+ZmwVpFZz3Y="></script>
+<script src="assets/analytics.js?v=7a6dea9fbb" defer data-ga="G-YKQ6DHPT24" data-cf="63c016dc04e2457e93b412a9443b3eb7"></script>
 </head>
 <body class="style-github">
 <main>
@@ -24,7 +25,7 @@
   </nav>
   <header>
     <h1>プライバシーとアクセス解析</h1>
-    <p id="status">生成: 2026-10-10 Saturday 16:33 JST ・ <a href="sites.html">サイト一覧（235）</a> ・ <a href="archive/">アーカイブ</a> ・ <a href="feeds/all.xml" title="Atom フィード（すべて）">📡 Atom</a> ・ <a href="about.html">G醫tについて</a></p>
+    <p id="status">生成: 2026-10-11 Sunday 07:34 JST ・ <a href="sites.html">サイト一覧（260）</a> ・ <a href="archive/">アーカイブ</a> ・ <a href="feeds/all.xml" title="Atom フィード（すべて）">📡 Atom</a> ・ <a href="guide.html">使い方</a> ・ <a href="about.html">G醫tについて</a></p>
   </header>
   <a class="page-back" href="./">← 全体タイムラインへ戻る</a>
 
@@ -34,7 +35,41 @@
 
     
     <h2>アクセス解析について</h2>
-    <p>現在、このサイトはアクセス解析を使っていません。</p>
+    <p>サイトがどのくらい読まれているか、どこから来られているか、表示が遅くないかを知り、サイトを改善するために、次のサービスを利用しています。</p>
+    
+    <h3>Google アナリティクス 4（Google Analytics 4）</h3>
+    <ul>
+      <li><strong>提供者:</strong> Google LLC（米国）</li>
+      <li><strong>送信される情報:</strong> 閲覧したページの URL（クエリ文字列を除く）とタイトル、閲覧日時、参照元、ブラウザ・端末の種類、おおよその地域、外部リンクのクリック</li>
+      <li><strong>Cookie など:</strong> Cookie（<code>_ga</code> など）を使って、ブラウザを識別します</li>
+    </ul>
+    
+    
+    <h3>Cloudflare Web Analytics</h3>
+    <ul>
+      <li><strong>提供者:</strong> Cloudflare, Inc.（米国）</li>
+      <li><strong>送信される情報:</strong> 閲覧したページ、参照元、ブラウザ・端末の種類、ページの表示性能（読み込み時間など）</li>
+      <li><strong>Cookie など:</strong> Cookie や localStorage を使いません（Cloudflare の説明による）</li>
+    </ul>
+    
+    <p><strong>送らない情報:</strong> フォロー中のサイトの一覧、★で保存した検索語、共有リンクに含まれるフォロー設定（<code>?follow=…</code> の部分）、サイト内の検索ボックスに入力した文字。</p>
+    <p>各サービスでの情報の扱いは、提供者の説明をご覧ください。</p>
+    <ul>
+      <li><a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">Google：パートナーのサイトやアプリのサービスを使用するときの Google によるデータ使用</a></li>
+      <li><a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener noreferrer">Cloudflare：プライバシーポリシー</a></li>
+    </ul>
+
+    <h2>計測を止める（オプトアウト）</h2>
+    <p>アクセス解析は、既定で有効です。下のボタンで、いつでも停止できます。停止すると、このブラウザでは外部サービスへの送信を行わず、Google アナリティクスの Cookie も削除します。</p>
+    <div class="toggle-box">
+      <p><span data-analytics-status>この設定の表示には JavaScript が必要です。</span></p>
+      <button type="button" data-analytics-toggle hidden>アクセス解析を停止する</button>
+    </div>
+    <ul>
+      <li>ブラウザが <strong>Do Not Track</strong> または <strong>Global Privacy Control</strong> を送っている場合は、自動的に計測しません（上のボタンで「再開」を選んだ場合を除きます）。</li>
+      <li>Google が提供する <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">Google アナリティクス オプトアウト アドオン</a>でも、停止できます。</li>
+      <li>ブラウザの設定で Cookie やサイトデータを削除すると、停止の選択も消えます。</li>
+    </ul>
     
 
     <h2>ブラウザに保存するもの</h2>
@@ -43,7 +78,7 @@
       <li>フォロー中のサイトの一覧と、「すべて／フォロー中のみ」の選択</li>
       <li>★で保存した検索語と、それぞれの「最後に見た更新」の日時</li>
       <li>アプリ（PWA）を有効にしたブラウザの印（合言葉を知っている人が、自分のブラウザで有効にした場合だけ）</li>
-      
+      <li>アクセス解析を停止・再開した選択</li>
       <li>オフラインで読むための、最近開いたページの控え（ブラウザのキャッシュ領域。最大 60 ページ。共有リンクの <code>?follow=…</code> の部分は保存しません）</li>
     </ul>
     <p>これらは、ブラウザの設定で「サイトデータの削除」をすると消えます。</p>
@@ -60,6 +95,6 @@
   </footer>
 
 </main>
-<p class="legal"><a href="privacy.html">プライバシーとアクセス解析について</a></p>
+<p class="legal"><a href="privacy.html">プライバシーとアクセス解析について</a><span data-install hidden> ・ <button type="button" class="install-btn" data-install-button>📲 アプリとしてインストール</button></span></p>
 </body>
 </html>
