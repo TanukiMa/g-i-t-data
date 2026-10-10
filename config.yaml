@@ -4,6 +4,18 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政"]
+  - url: https://www.jpha.or.jp/
+    name: "日本公衆衛生協会"
+    slug: "jphaorjp"
+  - url: https://www.cas.go.jp/jp/seisakukaigi/kenkouiryou/
+    name: "内閣官房 - 健康・医療戦略推進本部"
+    slug: "casgojpkenkouiryou"
+  - url: https://www8.cao.go.jp/iryou/
+    name: "内閣府 - 健康・医療"
+    slug: "caogojpiryou"
+  - url: https://id-info.jihs.go.jp/surveillance/idwr/
+    name: "国立健康危機管理研究機構 - 感染症発生動向調査週報"
+    slug: "jihsgojpidwr"
   - url: https://www.jfmda.gr.jp/
     name: "日本医療機器産業連合会"
     slug: jfmdagrjp
