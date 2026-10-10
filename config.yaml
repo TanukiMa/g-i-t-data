@@ -4,6 +4,25 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政"]
+  - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryou_keikaku/
+    name: "厚生労働省 - 医療計画"
+    slug: "mhlwiryoukeikaku"
+  - url: https://www.meti.go.jp/policy/mono_info_service/healthcare/
+    name: "経済産業省 - ヘルスケア産業"
+    slug: "metigojphealthcare"
+  - url: https://www.digital.go.jp/policies/health
+    name: "デジタル庁 - 健康・医療・介護"
+    slug: "digitalgojppolicieshealth"
+  - url: https://www.mhlw.go.jp/stf/iryoudx.html
+    name: "厚生労働省 - 医療DXについて"
+    slug: "mhlwgojpiryoudx"
+  - url: https://hgpi.org/
+    name: "日本医療政策機構"
+    slug: "hpgiorg"
+  - url: https://www.mhlw.go.jp/stf/newpage_28708.html
+    name: "厚生労働省 - 社会保障審議会（医療保険部会）"
+    slug: "mhlwgojp28708"
+    tags: ["行政"]
   - url: https://jsgo.or.jp/entry_member/
     name: "日本婦人科腫瘍学会 - 会員・医療関係の皆様へ"
     slug: "jsgoorjpmember"
