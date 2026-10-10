@@ -4,6 +4,9 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政"]
+  - url: https://jsgo.or.jp/entry_member/
+    name: "日本婦人科腫瘍学会 - 会員・医療関係の皆様へ"
+    slug: "jsgoorjpmember"
   - url: https://www.jsog.or.jp/medical/368/
     name: "日本産科婦人科学会 - 会員・医療関係の皆様へ"
     slug: "jsogorjpmedical"
