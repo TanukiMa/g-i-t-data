@@ -4,6 +4,45 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政"]
+  - url: https://www.jfmda.gr.jp/
+    name: "日本医療機器産業連合会"
+    slug: jfmdagrjp
+  - url: https://www.jamt.or.jp/
+    name: "日本臨床衛生検査技師会"
+    slug: "jamtorjp"
+  - url: https://www.jart.jp/
+    name: "日本診療放射線技師会"
+    slug: "jartjp"
+  - url: https://www.japanpt.or.jp/
+    name: "日本理学療法士協会"
+    slug: "japanptorjp"
+  - url: https://www.jaot.or.jp/
+    name: "日本作業療法士協会"
+    slug: "jaotorjp"
+  - url: https://answers.and-pro.jp/pharmanews/
+    name: "AnswersNews"
+    slug: "answersnews"
+  - url: https://www.yakuji.co.jp/
+    name: "薬事日報"
+    slug: "yakujicojp"
+  - url: https://secure.nippon-pa.org/
+    name: "日本保険薬局協会"
+    slug: "nipponpaorg"
+  - url: https://www.jga.gr.jp/
+    name: "日本ジェネリック製薬協会"
+    slug: "jgagrjp"
+  - url: https://www.kyoukaikenpo.or.jp/
+    name: "協会けんぽ"
+    slug: "kyoukaikenpo"
+  - url: https://www.kenporen.com/press/
+    name: "健康保険組合連合会 - プレスリリース"
+    slug: "kenporen"
+  - url: https://www.wam.go.jp/gyoseiShiryou/top
+    name: "福祉医療機構- 行政情報"
+    slug: "wamgojpgyosei"
+  - url: https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010
+    name: "福祉医療機構 - 行政情報 - 審議会"
+    slug: "wamgojpgyoseibunlist"
   - url: https://www.pref.osaka.lg.jp/o100020/iryo/tuuchi/r8_kunitsuuchi.html
     name: "大阪府 -  病院・診療所等への通知等 - 令和８年度"
     tags: ["行政"]
