@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 更新情報（すべて）</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/all.xml</id>
-  <updated>2026-10-11T03:33:32Z</updated>
+  <updated>2026-10-11T07:33:30Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/all.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本農村医学会: 追加: 問い合わせ窓口の電話番号「03-3212-8005」および「受付時間：平日9:00～17:00」が掲載されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jarm/bc228ebca344b02bd1458cdf35a4fb26d3d4098b</id>
+    <updated>2026-10-11T07:33:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jarm/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 問い合わせ窓口の電話番号「03-3212-8005」および「受付時間：平日9:00～17:00」が掲載されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jarm.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jarm/diff_bc228eb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本リウマチ学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ryumachi-jp/cfdc17c4da9807b154ebd45a2adcf3cc55afd288</id>
@@ -20,21 +27,21 @@
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jarm/78afe0803b5754ace1712248960547ceb02c9dc2</id>
     <updated>2026-10-11T03:33:32Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jarm/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 電話番号「03-3212-8005」および「受付時間：平日9:00～17:00」の表記が削除。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jarm.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jarm/diff_78afe08.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 電話番号「03-3212-8005」および「受付時間：平日9:00～17:00」の表記が削除。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jarm.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jarm/diff_78afe08.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261011055611/https://www.jarm.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>AnswersNews: 追加: 記事「「高額レセプト」25年度は前年比25%増…「やや高額で継続投与」の医薬品が件数押し上げ」（2026/10/06）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/answersnews/acf1687a22d34aba391cd61768c323233820b107</id>
     <updated>2026-10-11T03:33:31Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/answersnews/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「「高額レセプト」25年度は前年比25%増…「やや高額で継続投与」の医薬品が件数押し上げ」（2026/10/06）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 記事「「薬」と「安全保障」… 医薬品は「第二の半導体」か【薬の地政学 #1】」（2026/10/05）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_acf1687.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「「高額レセプト」25年度は前年比25%増…「やや高額で継続投与」の医薬品が件数押し上げ」（2026/10/06）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 記事「「薬」と「安全保障」… 医薬品は「第二の半導体」か【薬の地政学 #1】」（2026/10/05）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_acf1687.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261011025311/https://answers.and-pro.jp/pharmanews/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 公募「長崎大学 原爆後障害医療研究所　分子腫瘍・診断学 助教公募」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/c67bd020819bfef62b042fd58275de53eb12dc30</id>
     <updated>2026-10-10T22:33:54Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 公募「長崎大学 原爆後障害医療研究所　分子腫瘍・診断学 助教公募」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 公募「山口大学 大学院医学系研究科保健学専攻　基礎看護学講座 教授公募」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 臨床試験情報「山口大学：WEAR-PD study」「日本赤十字豊田看護大学：母親が希望する授乳を目指した 授乳時間を短縮するための母乳育児プログラムの検証」「東京都立大学：月経痛に関する調査」「Kokura memorial hospital：心不全患者の後ろ向き並び前向き観察研究」「順天堂大学：IBD患者のおける唾液中の分泌型イムノグロブリンA（s-IgA）観察研究」「早稲田大学：膝手術後向け振動フィードバックデバイス」「仙台市立病院：PEARL trial」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 臨床試験情報「筑波大学国際統合睡眠医科学研究機構：看護職の夜勤後運転時眠気研究」「帝塚山大学：中鎖脂肪酸の朝食・夕食摂取比較研究（2026年度）」「桐蔭横浜大学：Lactiplantibacillus plantarum 22A-3摂取による大学男子サッカー選手に対する効果の検証」「昭和女子大学：健康成人女性D-アラニン摂取研究」「総合病院　土浦協同病院救急集中治療科：穿通性頸部外傷CTA SR/MA」「江戸川病院：慢性腎臓病を有する2型糖尿病患者におけるフィネレノン低用量（10 mg/日）投与の有効性および安全性」「小林製薬株式会社：健康な成人女性における仕様の異なるおりものシートの着用が主観的使用感および生体指標に及ぼす影響の検証」&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_c67bd02.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 公募「長崎大学 原爆後障害医療研究所　分子腫瘍・診断学 助教公募」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 公募「山口大学 大学院医学系研究科保健学専攻　基礎看護学講座 教授公募」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 臨床試験情報「山口大学：WEAR-PD study」「日本赤十字豊田看護大学：母親が希望する授乳を目指した 授乳時間を短縮するための母乳育児プログラムの検証」「東京都立大学：月経痛に関する調査」「Kokura memorial hospital：心不全患者の後ろ向き並び前向き観察研究」「順天堂大学：IBD患者のおける唾液中の分泌型イムノグロブリンA（s-IgA）観察研究」「早稲田大学：膝手術後向け振動フィードバックデバイス」「仙台市立病院：PEARL trial」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 臨床試験情報「筑波大学国際統合睡眠医科学研究機構：看護職の夜勤後運転時眠気研究」「帝塚山大学：中鎖脂肪酸の朝食・夕食摂取比較研究（2026年度）」「桐蔭横浜大学：Lactiplantibacillus plantarum 22A-3摂取による大学男子サッカー選手に対する効果の検証」「昭和女子大学：健康成人女性D-アラニン摂取研究」「総合病院　土浦協同病院救急集中治療科：穿通性頸部外傷CTA SR/MA」「江戸川病院：慢性腎臓病を有する2型糖尿病患者におけるフィネレノン低用量（10 mg/日）投与の有効性および安全性」「小林製薬株式会社：健康な成人女性における仕様の異なるおりものシートの着用が主観的使用感および生体指標に及ぼす影響の検証」&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_c67bd02.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261011055458/https://www.umin.ac.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本栄養・食糧学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
@@ -48,21 +55,21 @@
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/27382762b772908631ba41e42c6e5dc60c353ef5</id>
     <updated>2026-10-10T22:33:52Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jges/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第7回「自己免疫性胃炎の診断基準確立とその臨床病理学的意義に関する研究会」」（開催日：11月7日（土）終日）の案内&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「第15回　広島EMR/ESDハンズオンセミナーのご案内」（開催日：10月10日（土）終日）の案内&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_2738276.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第7回「自己免疫性胃炎の診断基準確立とその臨床病理学的意義に関する研究会」」（開催日：11月7日（土）終日）の案内&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「第15回　広島EMR/ESDハンズオンセミナーのご案内」（開催日：10月10日（土）終日）の案内&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_2738276.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261011054843/https://www.jges.net/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>令和6年 基本マスターに関する変更情報: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx-r06kaiteijoho/09c7b5a730ecb3e8a123af685433d277e5deb846</id>
     <updated>2026-10-10T22:33:51Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-r06kaiteijoho/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-r06kaiteijoho/diff_09c7b5a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-r06kaiteijoho/diff_09c7b5a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261011053828/https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/1443c01da73e742634bba3493cd00cf7fe1cbf97</id>
     <updated>2026-10-10T22:33:51Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_1443c01.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_1443c01.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261011053622/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>医療用医薬品供給状況データベース(DSJP): 変更: 更新履歴の表示件数が計50件（7件、6件、19件、18件）から各「0件」に変更。</title>
@@ -490,12 +497,5 @@
     <updated>2026-10-09T02:29:36Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nihon-eisei/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;削除: 研究助成金・賞の公募及び意見募集（日本医学会総会（第32回日本医学会総会2027大阪） 奨励賞について）&lt;/li&gt;&lt;li&gt;追加: 講演会・セミナーのお知らせ（日本衛生学会第3回免疫衛生学研究会独自集会＜教育講演＞、2026年10月9日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.nihon-eisei.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nihon-eisei/diff_4561b0d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261009030851/https://www.nihon-eisei.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本眼科学会: 追加: 眼科専門医認定試験の実施日についてのご案内（2026/10/09）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/nichigan/268522be662c99f08f9cff8739dea34c0d637e4c</id>
-    <updated>2026-10-09T02:29:36Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nichigan/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 眼科専門医認定試験の実施日についてのご案内（2026/10/09）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: ミルベツキシマブ ソラブタンシン（遺伝子組換え）（エラヒア®点滴静注100 mg）の適正使用に関する協力のお願い（2026/09/18）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.nichigan.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nichigan/diff_268522b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261009030803/https://www.nichigan.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
