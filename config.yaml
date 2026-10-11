@@ -1,206 +1,259 @@
 # Master website-stalker configuration for G醫t
+# Headings of the tag filter (filter bar and site list); the tags of a heading are shown in this order.
+tag_groups:
+  種別: ["学会", "行政", "公的機関", "職能・業界団体", "報道・情報"]
+  組織: ["厚生労働省", "PMDA"]
+  内容: ["通知・法令", "ガイドライン", "診療報酬・保険", "マスター", "医薬品・医療機器", "医療DX・医療情報", "感染症", "医療安全"]
+  領域: ["内科系", "外科系", "産婦人科・小児", "精神・神経", "感覚器・皮膚・口腔", "放射線・画像・検査", "がん", "救急・麻酔・集中治療", "基礎医学", "公衆衛生・予防", "運動器・リハ", "薬剤・栄養", "医療機器・工学", "総合・教育"]
 sites:
+  - url: https://iyakuhin-kyokyu.mhlw.go.jp/api/info-site/supply-status-report
+    display_url: https://iyakuhin-kyokyu.mhlw.go.jp/public/supply-status-list
+    name: "医療用医薬品供給状況"
+    slug: "mhlw-supply-status"
+    tags: ["行政", "医薬品・医療機器", "厚生労働省"]
+    default_ignore: false
+    editors: [json_prettify]
+    json_records: {id: yj_cd, label: product_nm}
   - url: https://www.mhlw.go.jp/
     name: "厚生労働省"
     slug: "mhlw"
-    tags: ["行政"]
+    tags: ["行政", "厚生労働省"]
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryou_keikaku/
     name: "厚生労働省 - 医療計画"
     slug: "mhlwiryoukeikaku"
+    tags: ["行政", "厚生労働省"]
   - url: https://www.meti.go.jp/policy/mono_info_service/healthcare/
     name: "経済産業省 - ヘルスケア産業"
     slug: "metigojphealthcare"
+    tags: ["行政"]
   - url: https://www.digital.go.jp/policies/health
     name: "デジタル庁 - 健康・医療・介護"
     slug: "digitalgojppolicieshealth"
+    tags: ["行政", "医療DX・医療情報"]
   - url: https://www.mhlw.go.jp/stf/iryoudx.html
     name: "厚生労働省 - 医療DXについて"
-    tags: ["行政","医療DX"]
+    tags: ["行政", "医療DX・医療情報", "厚生労働省"]
     slug: "mhlwgojpiryoudx"
   - url: https://hgpi.org/
     name: "日本医療政策機構"
     slug: "hpgiorg"
+    tags: ["報道・情報"]
   - url: https://www.mhlw.go.jp/stf/newpage_28708.html
     name: "厚生労働省 - 社会保障審議会（医療保険部会）"
     slug: "mhlwgojp28708"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令", "診療報酬・保険", "厚生労働省"]
   - url: https://jsgo.or.jp/entry_member/
     name: "日本婦人科腫瘍学会 - 会員・医療関係の皆様へ"
     slug: "jsgoorjpmember"
+    tags: ["学会", "産婦人科・小児", "がん"]
   - url: https://www.jsog.or.jp/medical/368/
     name: "日本産科婦人科学会 - 会員・医療関係の皆様へ"
     slug: "jsogorjpmedical"
+    tags: ["学会", "産婦人科・小児"]
   - url: https://www.jpha.or.jp/
     name: "日本公衆衛生協会"
     slug: "jphaorjp"
+    tags: ["職能・業界団体"]
   - url: https://www.cas.go.jp/jp/seisakukaigi/kenkouiryou/
     name: "内閣官房 - 健康・医療戦略推進本部"
     slug: "casgojpkenkouiryou"
+    tags: ["行政"]
   - url: https://www8.cao.go.jp/iryou/
     name: "内閣府 - 健康・医療"
     slug: "caogojpiryou"
+    tags: ["行政"]
   - url: https://id-info.jihs.go.jp/surveillance/idwr/
     name: "国立健康危機管理研究機構 - 感染症発生動向調査週報"
     slug: "jihsgojpidwr"
+    tags: ["公的機関", "感染症"]
   - url: https://www.jfmda.gr.jp/
     name: "日本医療機器産業連合会"
     slug: jfmdagrjp
+    tags: ["職能・業界団体", "医薬品・医療機器"]
   - url: https://www.jamt.or.jp/
     name: "日本臨床衛生検査技師会"
     slug: "jamtorjp"
+    tags: ["職能・業界団体"]
   - url: https://www.jart.jp/
     name: "日本診療放射線技師会"
     slug: "jartjp"
+    tags: ["職能・業界団体"]
   - url: https://www.japanpt.or.jp/
     name: "日本理学療法士協会"
     slug: "japanptorjp"
+    tags: ["職能・業界団体"]
   - url: https://www.jaot.or.jp/
     name: "日本作業療法士協会"
     slug: "jaotorjp"
+    tags: ["職能・業界団体"]
   - url: https://answers.and-pro.jp/pharmanews/
     name: "AnswersNews"
     slug: "answersnews"
+    tags: ["報道・情報"]
   - url: https://www.yakuji.co.jp/
     name: "薬事日報"
     slug: "yakujicojp"
+    tags: ["報道・情報", "医薬品・医療機器"]
   - url: https://secure.nippon-pa.org/
     name: "日本保険薬局協会"
     slug: "nipponpaorg"
+    tags: ["職能・業界団体", "診療報酬・保険", "医薬品・医療機器"]
   - url: https://www.jga.gr.jp/
     name: "日本ジェネリック製薬協会"
     slug: "jgagrjp"
+    tags: ["職能・業界団体", "医薬品・医療機器"]
   - url: https://www.kyoukaikenpo.or.jp/
     name: "協会けんぽ"
     slug: "kyoukaikenpo"
+    tags: ["公的機関", "診療報酬・保険"]
   - url: https://www.kenporen.com/press/
     name: "健康保険組合連合会 - プレスリリース"
     slug: "kenporen"
+    tags: ["職能・業界団体", "診療報酬・保険"]
   - url: https://www.wam.go.jp/gyoseiShiryou/top
     name: "福祉医療機構- 行政情報"
     slug: "wamgojpgyosei"
+    tags: ["公的機関", "通知・法令"]
   - url: https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010
     name: "福祉医療機構 - 行政情報 - 審議会"
     slug: "wamgojpgyoseibunlist"
+    tags: ["公的機関", "通知・法令"]
   - url: https://www.pref.osaka.lg.jp/o100020/iryo/tuuchi/r8_kunitsuuchi.html
     name: "大阪府 -  病院・診療所等への通知等 - 令和８年度"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令"]
     slug: "prefosaka-iryo-message-r8"
   - url: https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/tsuchi.html
     name: "横浜市 - 保健所 - 各種通知"
     slug: "yokohama-hokenjo-message"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令"]
   - url: https://kouseikyoku.mhlw.go.jp/kantoshinetsu/
     name: "厚生労働省 - 関東信越厚生局"
     slug: "mhlw-kantoshinetsu"
-    tags: ["行政"]
+    tags: ["行政", "厚生労働省"]
   - url: https://kouseikyoku.mhlw.go.jp/hokkaido/
     name: "厚生労働省 - 北海道厚生局"
     slug: "mhlw-hokkaido"
-    tags: ["行政"]
+    tags: ["行政", "厚生労働省"]
   - url: https://kouseikyoku.mhlw.go.jp/tohoku/
     name: "厚生労働省 - 東北厚生局"
     slug: "mhlw-tohoku"
-    tags: ["行政"]
+    tags: ["行政", "厚生労働省"]
   - url: https://kouseikyoku.mhlw.go.jp/tokaihokuriku/
     name: "厚生労働省 - 東海北陸厚生局"
     slug: "mhlw-tokaihokuriku"
-    tags: ["行政"]
+    tags: ["行政", "厚生労働省"]
   - url: https://kouseikyoku.mhlw.go.jp/kinki/
     name: "厚生労働省 - 近畿厚生局"
     slug: "mhlw-kinki"
-    tags: ["行政"]
+    tags: ["行政", "厚生労働省"]
   - url: https://kouseikyoku.mhlw.go.jp/chugokushikoku/
     name: "厚生労働省 - 中国四国厚生局"
     slug: "mhlw-chugokushikoku"
-    tags: ["行政"]
+    tags: ["行政", "厚生労働省"]
   - url: https://kouseikyoku.mhlw.go.jp/kyushu/
     name: "厚生労働省 - 九州厚生局"
     slug: "mhlw-kyushu"
-    tags: ["行政"]
+    tags: ["行政", "厚生労働省"]
   - url: https://www.mhlw.go.jp/hourei/new/tsuchi/new.html
     name: "厚生労働省 - 登載準備中の新着通知"
     slug: "mhlw-hourei-tsuchi-new"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令", "厚生労働省"]
   - url: https://www.mhlw.go.jp/stf/newpage_72950.html
     name: "厚生労働省 - 通知・事務連絡について （令和８年度）"
     slug: "mhlw-stf-r8"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令", "厚生労働省"]
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000074181.html
     name: "厚生労働省 - 通知・事務連絡について（一覧）"
     slug: "mhlw-stf-all"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令", "厚生労働省"]
   - url: https://www.mhlw.go.jp/hourei/new/hourei/newindex.html
     name: "厚生労働省 - 新着の法令"
     slug: "mhlw-hourei-newindex"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令", "厚生労働省"]
   - url: https://www.mhlw.go.jp/hourei/new/hourei/new.html
     name: "厚生労働省 - 登載準備中の新着法令"
     slug: "mhlw-hourei-new"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令", "厚生労働省"]
   - url: https://www.meti.go.jp/policy/mono_info_service/healthcare/teikyoujigyousyagl.html
     name: "経済産業省 - 医療情報を取り扱う情報システム・サービスの提供事業者における安全管理ガイドライン"
     slug: "meti-healthcare-gl"
-    tags: ["行政","ガイドライン"]
+    tags: ["行政", "ガイドライン", "医療DX・医療情報"]
   - url: https://iryohokenjyoho.hpdx.or.jp/csm
     name: "医療機関等向け総合ポータルサイト"
     slug: "hpdxcsm"
+    tags: ["公的機関", "医療DX・医療情報"]
   - url: https://www.medis.or.jp/4_hyojyun/medis-master/
     name: "MEDISの標準マスター個別ページ"
     slug: "medismaster"
+    tags: ["公的機関", "マスター", "医療DX・医療情報"]
   - url: https://www.hl7.jp/
     name: "日本HL7協会"
     slug: "hl7jp"
+    tags: ["職能・業界団体", "医療DX・医療情報"]
   - url: https://square.umin.ac.jp/helics/html/
     name: "医療情報標準化推進協議会(HELICS協議会)"
     slug: "helics"
+    tags: ["公的機関", "医療DX・医療情報"]
   - url: https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html
     name: "PMDA - 最適使用推進ガイドライン（医薬品）"
     slug: "pmda-drug-reviews-0028"
-    tags: ["行政"]
+    tags: ["公的機関", "ガイドライン", "医薬品・医療機器", "PMDA"]
   - url: https://www.jda.or.jp/
     name: "日本歯科医師会"
     slug: "jdaorjp"
+    tags: ["職能・業界団体"]
   - url: https://ajhc.or.jp/
     name: "日本医療法人協会"
     slug: "ajhcorjp"
+    tags: ["職能・業界団体"]
   - url: https://jmsb.or.jp/
     name: "日本専門医機構"
     slug: "jmsborjp"
+    tags: ["公的機関"]
   - url: https://www.kankyokansen.org/
     name: "日本環境感染学会"
     slug: "kankyokansenorg"
+    tags: ["学会", "感染症", "公衆衛生・予防"]
   - url: https://www.nisseikyo.or.jp/
     name: "日本精神科病院協会"
     slug: "nisseikyoorjp"
+    tags: ["職能・業界団体"]
   - url: https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html
     name: "中央社会保険医療協議会(中央社会保険医療協議会総会)"
     slug: "shingi-chuo"
-    tags: ["行政"]
+    tags: ["行政", "通知・法令", "診療報酬・保険", "厚生労働省"]
   - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0004.html
     name: "PMDA - 使用上の注意改訂情報"
     slug: "pmda-calling-attention"
+    tags: ["公的機関", "医薬品・医療機器", "PMDA"]
   - url: https://www.pmda.go.jp/safety/info-services/devices/0035.html
     name: "PMDA - 使用上の注意の改訂指示通知（医療機器）"
     slug: "pmda-safety-devices"
+    tags: ["公的機関", "通知・法令", "医薬品・医療機器", "PMDA"]
   - url: https://www.pmda.go.jp/safety/info-services/drugs/0001.html
     name: "PMDA - 安全対策業務 - 医薬品に関する情報"
     slug: "pmda-safety-test"
+    tags: ["公的機関", "医薬品・医療機器", "PMDA"]
   - url: https://www.jami.jp/
     name: "日本医療情報学会"
     slug: "jami"
+    tags: ["学会", "医療DX・医療情報", "総合・教育"]
   - url: https://www.med-safe.jp/
     name: "医療事故情報収集等事業"
     slug: "med-safejp"
+    tags: ["公的機関", "医療安全"]
   - url: https://www.yakkyoku-hiyari.jcqhc.or.jp/
     name: "薬局ヒヤリ・ハット事例収集・分析事業"
     slug: "yakkyoku-hiyari"
+    tags: ["公的機関", "医薬品・医療機器", "医療安全"]
   - url: https://www.naika.or.jp/
     name: "日本内科学会"
     slug: "naika"
-    tags: ["学会", "内科"]
+    tags: ["学会", "内科系"]
   - url: https://gemmed.ghc-j.com/
     name: "gemmed"
     slug: "gemmed"
+    tags: ["報道・情報"]
     # Rotating banners in the header: plan B (CSS selector) and plan A (regex) side by side.
     remove:
       - ".header-banner"
@@ -212,623 +265,807 @@ sites:
   - url: https://www.pmda.go.jp/
     name: "独立行政法人 医薬品医療機器総合機構(PMDA)"
     slug: "pmda"
-    tags: ["行政","PMDA"]
+    tags: ["公的機関", "医薬品・医療機器", "PMDA"]
   - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/esc-rsc/0001.html
     name: "PMDA - 緊急安全性情報（イエローレター）・安全性速報（ブルーレター）"
     slug: "pmdaescrsc0001"
-    tags: ["行政","PMDA"]
+    tags: ["公的機関", "医薬品・医療機器", "PMDA"]
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html
     name: "傷病名マスター"
     slug: "hpdx-kihonmasta-07"
-    tags: ["マスター"]
+    tags: ["公的機関", "マスター", "医療DX・医療情報"]
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html
     name: "医薬品マスター"
     slug: "hpdx-kihonmasta-04"
-    tags: ["マスター"]
+    tags: ["公的機関", "マスター", "医薬品・医療機器", "医療DX・医療情報"]
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_05.html
     name: "特定器材マスター"
-    tags: ["マスター"]
+    tags: ["公的機関", "マスター", "医療DX・医療情報"]
     slug: "hpdx-kihonmasta-05"
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html
     name: "医科診療行為マスター"
-    tags: ["マスター"]
+    tags: ["公的機関", "マスター", "医療DX・医療情報"]
     slug: "hpdx-kihonmasta-01"
   - url: https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html
     name: "薬価基準収載品目リスト及び後発医薬品に関する情報について"
     slug: "mhlw-topics-20260401-01"
+    tags: ["行政", "診療報酬・保険", "医薬品・医療機器", "厚生労働省"]
   - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0004.html
     name: "製薬企業からの適正使用等に関するお知らせ"
     slug: "pmda-properly-use-alert-0004"
+    tags: ["公的機関", "医薬品・医療機器", "PMDA"]
   - url: https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0001.html
     name: "関係学会等からの医薬品の適正使用に関するお知らせ"
     slug: "pmda-properly-use-alert-0001"
+    tags: ["公的機関", "医薬品・医療機器", "PMDA"]
   - url: https://www.pmda.go.jp/safety/info-services/ivd/0008.html
     name: "自主点検通知（体外診断用医薬品）"
     slug: "pmda-ivd-0008"
+    tags: ["公的機関", "通知・法令", "医薬品・医療機器", "PMDA"]
   - url: https://www.mhlw.go.jp/stf/new-info/
     name: "厚生労働省 - 新着情報"
     slug: "mhlw-new-info"
+    tags: ["行政", "通知・法令", "厚生労働省"]
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics_150873_139_140.html
     name: "厚生労働省 - 医療分野のトピックス"
     slug: "mhlw-topics-150873"
+    tags: ["行政", "厚生労働省"]
   - url: https://shinryohoshu.mhlw.go.jp/shinryohoshu/downloadMenu/
     name: "診療報酬情報提供サービス - ファイルダウンロード"
     slug: "shinryohoshu-download-menu"
-    tags: ["マスター"]
+    tags: ["行政", "診療報酬・保険", "厚生労働省"]
     ignore:
       - ';jsessionid=[0-9A-Fa-f]+'
   - url: https://shinryohoshu.mhlw.go.jp/shinryohoshu/
     name: "診療報酬情報提供サービス"
     slug: "shinryohoshu"
-    tags: ["マスター"]
+    tags: ["行政", "診療報酬・保険", "厚生労働省"]
     ignore:
       - ';jsessionid=[0-9A-Fa-f]+'
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html
     name: "令和6年 基本マスターに関する変更情報"
     slug: "hpdx-r06kaiteijoho"
-    tags: ["マスター"]
+    tags: ["公的機関", "マスター", "医療DX・医療情報"]
   - url: https://www.chemotherapy.or.jp/modules/newslist/index.php?content_id=4
     name: "日本化学療法学会 - 全てのお知らせ"
     slug: "chemotherapy-news-4"
+    tags: ["学会", "内科系"]
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics_150864_135_130.html
     name: "厚生労働省 - 健康分野のトピックス"
     slug: "mhlw-topics-150864"
+    tags: ["行政", "厚生労働省"]
   - url: https://www.naika.or.jp/nintei/
     name: "日本内科学会 専門医制度"
     slug: "naika-nintei"
+    tags: ["学会", "内科系", "総合・教育"]
   - url: https://www.chemotherapy.or.jp/modules/newslist/index.php?content_id=3
     name: "日本化学療法学会 - 重要なお知らせ"
     slug: "chemotherapy-news-3"
+    tags: ["学会", "内科系"]
   - url: https://www.radiology.jp/guideline
     name: "日本医学放射線学会 - ガイドライン"
     slug: "radiology-guideline"
-    tags: ["ガイドライン"]
+    tags: ["学会", "ガイドライン", "放射線・画像・検査"]
   - url: https://www.j-circ.or.jp/guideline/guideline-series/
     name: "循環器病ガイドラインシリーズ"
     slug: "j-circ-guideline-series"
-    tags: ["ガイドライン"]
+    tags: ["学会", "ガイドライン", "内科系"]
   - url: https://www.kekkaku.gr.jp/medical_staff/
     name: "日本結核・非結核性抗酸菌症学会 - 医療従事者へ"
     slug: "kekkaku-medical-staff"
+    tags: ["学会", "感染症", "内科系"]
   - url: https://jsnm.org/useful/guidelines/
     name: "日本核医学会 - ガイドライン"
     slug: "jsnm-guidelines"
-    tags: ["ガイドライン"]
+    tags: ["学会", "ガイドライン", "放射線・画像・検査"]
   - url: https://www.jibika.or.jp/modules/guidelines/index.php?content_id=1
     name: "日本耳鼻咽喉科頭頸部外科学会 - 診療ガイドライン/手引き・マニュアル"
     slug: "jibika-guidelines"
-    tags: ["ガイドライン"]
+    tags: ["学会", "ガイドライン", "外科系", "感覚器・皮膚・口腔"]
   - url: https://jrs-gl.radiology.jp/
     name: "画像診断ガイドライン"
-    tags: ["ガイドライン"]
+    tags: ["学会", "ガイドライン", "放射線・画像・検査"]
     slug: "jrs-guideline"
   - url: https://www.jssoc.or.jp/
     name: "日本外科学会"
     slug: "jssoc"
+    tags: ["学会", "外科系"]
   - url: https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html
     name: "厚生労働省 - 医療情報システムの安全管理に関するガイドライン"
     slug: "mhlw-shingi-0000516275-00006"
+    tags: ["行政", "ガイドライン", "医療DX・医療情報", "厚生労働省"]
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/
     name: "厚生労働省 - 医療情報のデジタル化と利活用"
     slug: "mhlw-iryou-johoka"
+    tags: ["行政", "医療DX・医療情報", "厚生労働省"]
   - url: https://www.jsir.or.jp/about/guide_line/
     name: "IVR学会 ガイドライン"
     slug: "jsir-guideline"
-    tags: ["ガイドライン"]
+    tags: ["学会", "ガイドライン", "放射線・画像・検査"]
   - url: https://www.apheresis-jp.org/
     name: "日本アフェレシス学会"
     slug: "apheresis-jp"
+    tags: ["学会", "内科系"]
   - url: https://www.jsaweb.jp/
     name: "日本アレルギー学会"
     slug: "jsaweb"
+    tags: ["学会", "内科系"]
   - url: https://www.mhlw.go.jp/stf/newpage_67729.html
     name: "厚生労働省 - 令和８年度診療報酬改定について"
     slug: "mhlw-newpage-67729"
+    tags: ["行政", "診療報酬・保険", "厚生労働省"]
   - url: https://www.hpdx.or.jp/
     name: "医療情報基盤・診療報酬審査支払機構（DX審査支払機構）"
     slug: "hpdx"
+    tags: ["公的機関", "診療報酬・保険", "医療DX・医療情報"]
   - url: http://jsme.umin.ac.jp/
     name: "日本医学教育学会"
     slug: "jsme"
+    tags: ["学会", "総合・教育"]
   - url: https://www.radiology.jp/
     name: "日本医学放射線学会"
     slug: "radiology"
+    tags: ["学会", "放射線・画像・検査"]
   - url: https://www.jgca.jp/
     name: "日本胃癌学会"
     slug: "jgca"
+    tags: ["学会", "がん"]
   - url: http://jshm.or.jp/
     name: "日本医史学会"
     slug: "jshm"
+    tags: ["学会", "基礎医学"]
   - url: https://www.asas.or.jp/jst/
     name: "日本移植学会"
     slug: "jst"
+    tags: ["学会", "外科系"]
   - url: https://www.jsmm.org/main.html
     name: "日本医真菌学会"
     slug: "jsmm"
+    tags: ["学会", "基礎医学"]
   - url: https://www.jsmi.gr.jp/
     name: "日本医療機器学会"
     slug: "jsmi"
+    tags: ["学会", "医薬品・医療機器", "医療機器・工学"]
   - url: https://www.jsha.gr.jp/
     name: "日本医療・病院管理学会"
     slug: "jsha"
+    tags: ["学会", "総合・教育"]
   - url: https://www.jsir.or.jp/
     name: "日本インターベンショナルラジオロジー学会"
     slug: "jsir"
+    tags: ["学会", "放射線・画像・検査"]
   - url: https://jsv.umin.jp/
     name: "日本ウイルス学会"
     slug: "jsv"
+    tags: ["学会", "基礎医学"]
   - url: https://www.nihon-eisei.org/
     name: "日本衛生学会"
     slug: "nihon-eisei"
+    tags: ["学会", "公衆衛生・予防"]
   - url: https://www.jsmez.org/
     name: "日本衛生動物学会"
     slug: "jsmez"
+    tags: ["学会", "基礎医学"]
     remove: [".c-postThumb__cat"]   # SWELL theme: the category label of the slider posts flips between Signboard and 編集委員会
   - url: https://www.jsnfs.or.jp/
     name: "日本栄養・食糧学会"
     slug: "jsnfs"
+    tags: ["学会", "薬剤・栄養"]
   - url: https://www.jspen.or.jp/
     name: "日本栄養治療学会"
     slug: "jspen"
+    tags: ["学会", "薬剤・栄養"]
   - url: https://jeaweb.jp/
     name: "日本疫学会"
     slug: "jeaweb"
+    tags: ["学会", "公衆衛生・予防"]
   - url: https://www.onki.jp/
     name: "日本温泉気候物理医学会"
     slug: "onki"
+    tags: ["学会", "公衆衛生・予防"]
   - url: https://www.anatomy.or.jp/
     name: "日本解剖学会"
     slug: "anatomy"
+    tags: ["学会", "基礎医学"]
   - url: https://www.chemotherapy.or.jp/
     name: "日本化学療法学会"
     slug: "chemotherapy"
+    tags: ["学会", "内科系"]
   - url: https://www.jsnm.org/
     name: "日本核医学会"
     slug: "jsnm"
+    tags: ["学会", "放射線・画像・検査"]
   - url: https://www.nichigan.or.jp/
     name: "日本眼科学会"
     slug: "nichigan"
+    tags: ["学会", "感覚器・皮膚・口腔"]
   - url: https://www.cancer.or.jp/
     name: "日本癌学会"
     slug: "cancer"
+    tags: ["学会", "がん"]
   - url: https://www.kansensho.or.jp/
     name: "日本感染症学会"
     slug: "kansensho"
+    tags: ["学会", "感染症", "内科系"]
   - url: https://www.jsh.or.jp/medical/
     name: "日本肝臓学会"
     slug: "jsh"
+    tags: ["学会", "内科系"]
   - url: https://www.jshbps.jp/
     name: "日本肝胆膵外科学会"
     slug: "jshbps"
+    tags: ["学会", "外科系"]
   - url: https://www.jsco.or.jp/
     name: "日本癌治療学会"
     slug: "jsco"
+    tags: ["学会", "がん"]
   - url: https://www.jspm.ne.jp/
     name: "日本緩和医療学会"
     slug: "jspm"
+    tags: ["学会", "がん"]
   - url: https://www.kishoku.gr.jp/
     name: "日本気管食道科学会"
     slug: "kishoku"
+    tags: ["学会", "感覚器・皮膚・口腔"]
   - url: https://jsparasitol.org/
     name: "日本寄生虫学会"
     slug: "jsparasitol"
+    tags: ["学会", "基礎医学"]
   - url: https://www.jaam.jp/
     name: "日本救急医学会"
     slug: "jaam"
+    tags: ["学会", "救急・麻酔・集中治療"]
   - url: https://www.jpats.org/
     name: "日本胸部外科学会"
     slug: "jpats"
+    tags: ["学会", "外科系"]
   - url: https://jsprs.or.jp/
     name: "日本形成外科学会"
     slug: "jsprs"
+    tags: ["学会", "外科系"]
   - url: https://www.jshem.or.jp/
     name: "日本血液学会"
     slug: "jshem"
+    tags: ["学会", "内科系"]
   - url: https://www.kekkaku.gr.jp/
     name: "日本結核・非結核性抗酸菌症学会"
     slug: "kekkaku"
+    tags: ["学会", "感染症", "内科系"]
   - url: https://www.jsvs.org/
     name: "日本血管外科学会"
     slug: "jsvs"
+    tags: ["学会", "外科系"]
   - url: https://www.jsth.org/
     name: "日本血栓止血学会"
     slug: "jsth"
+    tags: ["学会", "内科系"]
   - url: https://jshhe.org/
     name: "日本健康学会"
     slug: "jshhe"
+    tags: ["学会", "公衆衛生・予防"]
   - url: https://stomatological-society.or.jp/
     name: "日本口腔科学会"
     slug: "stomatological-society"
+    tags: ["学会", "感覚器・皮膚・口腔"]
   - url: https://www.jpnsh.jp/
     name: "日本高血圧学会"
     slug: "jpnsh"
+    tags: ["学会", "内科系"]
   - url: https://www.jsph.jp/
     name: "日本公衆衛生学会"
     slug: "jsph"
+    tags: ["学会", "公衆衛生・予防"]
   - url: https://www.japanthyroid.jp/
     name: "日本甲状腺学会"
     slug: "japanthyroid"
+    tags: ["学会", "内科系"]
   - url: https://jatm.umin.jp/
     name: "日本交通医学会"
     slug: "jatm"
+    tags: ["学会", "公衆衛生・予防"]
   - url: https://www.jrs.or.jp/
     name: "日本呼吸器学会"
     slug: "jrs"
+    tags: ["学会", "内科系"]
   - url: https://jacsurg.gr.jp/
     name: "日本呼吸器外科学会"
     slug: "jacsurg"
+    tags: ["学会", "外科系"]
   - url: https://www.jsre.org/
     name: "日本呼吸器内視鏡学会"
     slug: "jsre"
+    tags: ["学会", "内科系"]
   - url: https://jagh.or.jp/
     name: "日本国際保健医療学会"
     slug: "jagh"
+    tags: ["学会", "公衆衛生・予防"]
   - url: http://www.josteo.com/
     name: "日本骨粗鬆症学会"
     slug: "josteo"
+    tags: ["学会", "内科系"]
   - url: https://jsbmr.umin.jp/
     name: "日本骨代謝学会"
     slug: "jsbmr"
+    tags: ["学会", "内科系"]
   - url: https://jadm.or.jp/
     name: "日本災害医学会"
     slug: "jadm"
+    tags: ["学会", "救急・麻酔・集中治療"]
   - url: https://jsbac.org/
     name: "日本細菌学会"
     slug: "jsbac"
+    tags: ["学会", "基礎医学"]
   - url: https://www.jsrm.jp/
     name: "日本再生医療学会"
     slug: "jsrm"
+    tags: ["学会", "基礎医学"]
   - url: https://www.jsog.or.jp/
     name: "日本産科婦人科学会"
     slug: "jsog"
+    tags: ["学会", "産婦人科・小児"]
   - url: https://www.sanei.or.jp/
     name: "日本産業衛生学会"
     slug: "sanei"
+    tags: ["学会", "公衆衛生・予防"]
   - url: https://www.jsmrm.jp/
     name: "日本磁気共鳴医学会"
     slug: "jsmrm"
+    tags: ["学会", "放射線・画像・検査"]
   - url: https://www.jibika.or.jp/
     name: "日本耳鼻咽喉科頭頸部外科学会"
     slug: "jibika"
+    tags: ["学会", "外科系", "感覚器・皮膚・口腔"]
   - url: https://www.jspnm.jp/
     name: "日本周産期・新生児医学会"
     slug: "jspnm"
+    tags: ["学会", "産婦人科・小児"]
   - url: https://www.jsicm.org/
     name: "日本集中治療医学会"
     slug: "jsicm"
+    tags: ["学会", "救急・麻酔・集中治療"]
   - url: https://www.j-circ.or.jp/
     name: "日本循環器学会"
     slug: "j-circ"
+    tags: ["学会", "内科系"]
   - url: https://www.jsgs.or.jp/
     name: "日本消化器外科学会"
     slug: "jsgs"
+    tags: ["学会", "外科系"]
   - url: https://www.jges.net/
     name: "日本消化器内視鏡学会"
     slug: "jges"
+    tags: ["学会", "内科系"]
   - url: https://www.jsge.or.jp/
     name: "日本消化器病学会"
     slug: "jsge"
+    tags: ["学会", "内科系"]
   - url: https://www.jpeds.or.jp/
     name: "日本小児科学会"
     slug: "jpeds"
+    tags: ["学会", "産婦人科・小児"]
   - url: http://www.jsps.or.jp/
     name: "日本小児外科学会"
     slug: "jsps"
+    tags: ["学会", "外科系", "産婦人科・小児"]
   - url: https://www.jspho.org/
     name: "日本小児血液・がん学会"
     slug: "jspho"
+    tags: ["学会", "内科系", "産婦人科・小児", "がん"]
   - url: https://jspccs.jp/
     name: "日本小児循環器学会"
     slug: "jspccs"
+    tags: ["学会", "内科系", "産婦人科・小児"]
   - url: https://www.childneuro.jp/
     name: "日本小児神経学会"
     slug: "childneuro"
+    tags: ["学会", "産婦人科・小児", "精神・神経"]
   - url: https://jspe.umin.jp/
     name: "日本小児内分泌学会"
     slug: "jspe"
+    tags: ["学会", "内科系", "産婦人科・小児"]
   - url: http://www.jsomt.jp/
     name: "日本職業・災害医学会"
     slug: "jsomt"
+    tags: ["学会", "救急・麻酔・集中治療", "公衆衛生・予防"]
   - url: https://www.esophagus.jp/
     name: "日本食道学会"
     slug: "esophagus"
+    tags: ["学会", "外科系"]
   - url: https://www.jmwh.jp/
     name: "日本女性医学学会"
     slug: "jmwh"
+    tags: ["学会", "産婦人科・小児"]
   - url: https://jsan-net.jp/
     name: "日本自律神経学会"
     slug: "jsan-net"
+    tags: ["学会", "精神・神経"]
   - url: https://www.neurology-jp.org/index.html
     name: "日本神経学会"
     slug: "neurology-jp"
+    tags: ["学会", "精神・神経"]
   - url: https://www.jsnp.jp/
     name: "日本神経病理学会"
     slug: "jsnp"
+    tags: ["学会", "精神・神経", "放射線・画像・検査"]
   - url: https://www.jsao.org/
     name: "日本人工臓器学会"
     slug: "jsao"
+    tags: ["学会", "外科系", "医療機器・工学"]
   - url: https://shinshin-igaku.com/
     name: "日本心身医学会"
     slug: "shinshin-igaku"
+    tags: ["学会", "精神・神経"]
   - url: https://jsn.or.jp/
     name: "日本腎臓学会"
     slug: "jsn"
+    tags: ["学会", "内科系"]
   - url: https://jscvs.or.jp/
     name: "日本心臓血管外科学会"
     slug: "jscvs"
+    tags: ["学会", "外科系"]
   - url: https://jshg.jp/
     name: "日本人類遺伝学会"
     slug: "jshg"
+    tags: ["学会", "基礎医学"]
     # The labels of a news item (イベント / 新着情報 ...) come in a random order
     remove: [".news-item .label"]
   - url: https://www.jssr.jp/
     name: "日本睡眠学会"
     slug: "jssr"
+    tags: ["学会", "精神・神経"]
   - url: https://www.jbsoc.or.jp/
     name: "日本生化学会"
     slug: "jbsoc"
+    tags: ["学会", "基礎医学"]
   - url: https://www.joa.or.jp/
     name: "日本整形外科学会"
     slug: "joa"
+    tags: ["学会", "外科系", "運動器・リハ"]
   - url: http://www.jsrm.or.jp/
     name: "日本生殖医学会"
     slug: "jsrm-2"
+    tags: ["学会", "産婦人科・小児"]
   - url: https://www.jspn.or.jp/
     name: "日本精神神経学会"
     slug: "jspn"
+    tags: ["学会", "精神・神経"]
   - url: http://jsmbe.org/
     name: "日本生体医工学会"
     slug: "jsmbe"
+    tags: ["学会", "医療機器・工学"]
   - url: https://www.physiology.jp/
     name: "日本生理学会"
     slug: "physiology"
+    tags: ["学会", "基礎医学"]
   - url: https://ssl.jssr.gr.jp/
     name: "日本脊椎脊髄病学会"
     slug: "ssl"
+    tags: ["学会", "外科系"]
   - url: https://plaza.umin.ac.jp/~jts/
     name: "日本先天異常学会"
     slug: "jts"
+    tags: ["学会", "産婦人科・小児"]
   - url: https://www.jstct.or.jp/
     name: "日本造血・免疫細胞療法学会"
     slug: "jstct"
+    tags: ["学会", "内科系"]
   - url: https://www.coloproctology.gr.jp/
     name: "日本大腸肛門病学会"
     slug: "coloproctology"
+    tags: ["学会", "外科系"]
   - url: https://plaza.umin.ac.jp/jspfsm/
     name: "日本体力医学会"
     slug: "jspfsm"
+    tags: ["学会", "運動器・リハ"]
   - url: https://www.jsum.or.jp/
     name: "日本超音波医学会"
     slug: "jsum"
+    tags: ["学会", "放射線・画像・検査"]
   - url: https://www.jssh.or.jp/
     name: "日本手外科学会"
     slug: "jssh"
+    tags: ["学会", "外科系", "運動器・リハ"]
   - url: https://jes-jp.org/
     name: "日本てんかん学会"
     slug: "jes-jp"
+    tags: ["学会", "精神・神経"]
   - url: https://www.jsdt.or.jp/
     name: "日本透析医学会"
     slug: "jsdt"
+    tags: ["学会", "内科系"]
   - url: https://www.jds.or.jp/
     name: "日本糖尿病学会"
     slug: "jds"
+    tags: ["学会", "内科系"]
   - url: https://www.j-athero.org/jp/
     name: "日本動脈硬化学会"
     slug: "j-athero"
+    tags: ["学会", "内科系"]
   - url: https://www.jsom.or.jp/
     name: "日本東洋医学会"
     slug: "jsom"
+    tags: ["学会", "総合・教育"]
   - url: https://www.jses.or.jp/
     name: "日本内視鏡外科学会"
     slug: "jses"
+    tags: ["学会", "外科系"]
   - url: https://www.j-endo.jp/
     name: "日本内分泌学会"
     slug: "j-endo"
+    tags: ["学会", "内科系"]
   - url: https://jaes.umin.jp/
     name: "日本内分泌外科学会"
     slug: "jaes"
+    tags: ["学会", "外科系"]
   - url: https://www.jbcs.gr.jp/
     name: "日本乳癌学会"
     slug: "jbcs"
+    tags: ["学会", "がん"]
   - url: https://dementia-japan.org/
     name: "日本認知症学会"
     slug: "dementia-japan"
+    tags: ["学会", "精神・神経"]
   - url: https://www.jsbi-burn.org/
     name: "日本熱傷学会"
     slug: "jsbi-burn"
+    tags: ["学会", "外科系", "救急・麻酔・集中治療"]
   - url: https://tjstm.jp/
     name: "日本熱帯医学会"
     slug: "tjstm"
+    tags: ["学会", "感染症", "公衆衛生・予防"]
   - url: https://jns-official.jp/
     name: "日本脳神経外科学会"
     slug: "jns-official"
+    tags: ["学会", "外科系", "精神・神経"]
   - url: https://jsnet.website/
     name: "日本脳神経血管内治療学会"
     slug: "jsnet"
+    tags: ["学会", "精神・神経"]
   - url: https://www.jsts.gr.jp/
     name: "日本脳卒中学会"
     slug: "jsts"
+    tags: ["学会", "精神・神経"]
   - url: https://www.jarm.jp/
     name: "日本農村医学会"
     slug: "jarm"
+    tags: ["学会", "公衆衛生・予防"]
   - url: https://www.haigan.gr.jp/
     name: "日本肺癌学会"
     slug: "haigan"
+    tags: ["学会", "がん"]
   - url: https://www.hansen-gakkai.jp/
     name: "日本ハンセン病学会"
     slug: "hansen-gakkai"
+    tags: ["学会", "感染症"]
   - url: https://www.urol.or.jp/
     name: "日本泌尿器科学会"
     slug: "urol"
+    tags: ["学会", "外科系"]
   - url: https://www.dermatol.or.jp/
     name: "日本皮膚科学会"
     slug: "dermatol"
+    tags: ["学会", "感覚器・皮膚・口腔"]
   - url: https://www.jasso.or.jp/
     name: "日本肥満学会"
     slug: "jasso"
+    tags: ["学会", "内科系"]
   - url: https://www.eiyou.or.jp/
     name: "日本病態栄養学会"
     slug: "eiyou"
+    tags: ["学会", "薬剤・栄養"]
   - url: https://www.pathology.or.jp/
     name: "日本病理学会"
     slug: "pathology"
+    tags: ["学会", "放射線・画像・検査"]
   - url: https://jsgo.or.jp/
     name: "日本婦人科腫瘍学会"
     slug: "jsgo"
+    tags: ["学会", "産婦人科・小児", "がん"]
   - url: https://www.primarycare-japan.com/
     name: "日本プライマリ・ケア連合学会"
     slug: "primarycare-japan"
+    tags: ["学会", "総合・教育"]
   - url: https://www.jssmr.jp/
     name: "日本平滑筋学会"
     slug: "jssmr"
+    tags: ["学会", "基礎医学"]
   - url: https://www.jspc.gr.jp/
     name: "日本ペインクリニック学会"
     slug: "jspc"
+    tags: ["学会", "救急・麻酔・集中治療"]
   - url: http://www.jslm.jp/
     name: "日本法医学会"
     slug: "jslm"
+    tags: ["学会", "基礎医学"]
   - url: https://www.jastro.or.jp/
     name: "日本放射線腫瘍学会"
     slug: "jastro"
+    tags: ["学会", "放射線・画像・検査", "がん"]
   - url: https://aimj.org/
     name: "日本保険医学会"
     slug: "aimj"
+    tags: ["学会", "診療報酬・保険", "公衆衛生・予防"]
   - url: https://anesth.or.jp/
     name: "日本麻酔科学会"
     slug: "anesth"
+    tags: ["学会", "救急・麻酔・集中治療"]
   - url: https://j-ca.org/
     name: "日本脈管学会"
     slug: "j-ca"
+    tags: ["学会", "内科系"]
   - url: https://www.jsi-men-eki.org/
     name: "日本免疫学会"
     slug: "jsi-men-eki"
+    tags: ["学会", "基礎医学", "公衆衛生・予防"]
   - url: https://pharmacol.or.jp/
     name: "日本薬理学会"
     slug: "pharmacol"
+    tags: ["学会", "基礎医学", "薬剤・栄養"]
   - url: https://yuketsu.jstmct.or.jp/
     name: "日本輸血・細胞治療学会"
     slug: "yuketsu"
+    tags: ["学会", "内科系"]
   - url: https://www.ryumachi-jp.com/
     name: "日本リウマチ学会"
     slug: "ryumachi-jp"
+    tags: ["学会", "内科系"]
   - url: https://www.jarm.or.jp/
     name: "日本リハビリテーション医学会"
     slug: "jarm-2"
+    tags: ["学会", "運動器・リハ"]
   - url: https://www.jslm.org/
     name: "日本臨床検査医学会"
     slug: "jslm-2"
+    tags: ["学会", "放射線・画像・検査"]
   - url: https://jscc.or.jp/
     name: "日本臨床細胞学会"
     slug: "jscc"
+    tags: ["学会", "放射線・画像・検査"]
   - url: https://www.jsmo.or.jp/
     name: "日本臨床腫瘍学会"
     slug: "jsmo"
+    tags: ["学会", "がん"]
   - url: https://square.umin.ac.jp/JSCN/index.html
     name: "日本臨床神経生理学会"
     slug: "jscn"
+    tags: ["学会", "精神・神経", "基礎医学"]
   - url: https://www.rinspo.jp/
     name: "日本臨床スポーツ医学会"
     slug: "rinspo"
+    tags: ["学会", "運動器・リハ"]
   - url: https://www.jsci73.net/
     name: "日本臨床免疫学会"
     slug: "jsci73"
+    tags: ["学会", "基礎医学", "公衆衛生・予防"]
   - url: https://www.jscpt.jp/
     name: "日本臨床薬理学会"
     slug: "jscpt"
+    tags: ["学会", "基礎医学", "薬剤・栄養"]
   - url: https://www.jsltr.org/
     name: "日本リンパ腫学会"
     slug: "jsltr"
+    tags: ["学会", "がん"]
   - url: https://www.jslsm.or.jp/
     name: "日本レーザー医学会"
     slug: "jslsm"
+    tags: ["学会", "医療機器・工学"]
   - url: https://www.jpn-geriat-soc.or.jp/
     name: "日本老年医学会"
     slug: "jpn-geriat-soc"
+    tags: ["学会", "内科系"]
   - url: https://www.rounen.org/
     name: "日本老年精神医学会"
     slug: "rounen"
+    tags: ["学会", "精神・神経"]
   - url: https://www.med.or.jp/
     name: "日本医師会"
     slug: "medorjp"
+    tags: ["職能・業界団体"]
   - url: https://www.med.or.jp/new.html
     name: "日本医師会 - サイト全体新着一覧"
     slug: "medorjpnew"
+    tags: ["職能・業界団体", "通知・法令"]
   - url: https://www.medsafe.or.jp/
     name: "日本医療安全調査機構"
     slug: "medsafeorjp"
+    tags: ["公的機関", "医療安全"]
   - url: https://jsn.or.jp/medic/
     name: "日本腎臓学会 - 医療従事者のみなさまへ"
     slug: "jsnmedic"
+    tags: ["学会", "内科系"]
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/
     name: "厚生労働省 - 感染症情報"
     slug: "mhlwinfection"
+    tags: ["行政", "感染症", "厚生労働省"]
   - url: https://www.caicm.go.jp/action/data/
     name: "内閣感染症機器管理統括庁 - 感染症の発生状況"
     slug: "caicmdata"
+    tags: ["行政", "感染症"]
   - url: https://id-info.jihs.go.jp/
     name: "国立健康危機管理研究機構 感染症情報提供サイト"
     slug: "jihsinfo"
+    tags: ["公的機関", "感染症"]
   - url: https://www.kokuho.or.jp/
     name: "国民健康保険中央会"
     slug: "kokuho"
+    tags: ["公的機関", "診療報酬・保険"]
   - url: https://www.hospital.or.jp/
     name: "日本病院会"
     slug: "hospitalorjp"
+    tags: ["職能・業界団体"]
   - url: https://www.ajha.or.jp/
     name: "全日本病院協会"
     slug: "ajhaorjp"
+    tags: ["職能・業界団体"]
   - url: https://www.jpoa.org/
     name: "日本小児整形外科学会"
     slug: "jpoaorg"
+    tags: ["学会", "外科系", "産婦人科・小児", "運動器・リハ"]
   - url: https://minds.jcqhc.or.jp/
     name: "Mindsガイドラインライブラリ"
     slug: "mindsjcqhc"
-    tags: ["ガイドライン"]
+    tags: ["公的機関", "ガイドライン"]
   - url: https://jcqhc.or.jp/
     name: "日本医療機能評価機構"
     slug: "jcqhcorjp"
+    tags: ["公的機関"]
   - url: https://www.fpmaj.gr.jp/
     name: "日本製薬団体連合会(日薬連)"
     slug: "fpmajgrjp"
+    tags: ["職能・業界団体", "医薬品・医療機器"]
   - url: https://drugshortage.jp/updatehistory.php
     name: "医療用医薬品供給状況データベース(DSJP)"
     slug: "dsjpupdate"
+    tags: ["報道・情報", "医薬品・医療機器"]
   - url: https://www.digital.go.jp/resources/govdashboard/healthcare-dx
     name: "デジタル庁 - 医療DXに関するダッシュボード"
     slug: "digitalmeddx"
+    tags: ["行政", "医療DX・医療情報"]
   - url: https://www.medis.or.jp/
     name: "医療情報システム開発センター(MEDIS-DC)"
     slug: "medisdc"
+    tags: ["公的機関", "医療DX・医療情報"]
   - url: https://www.jahis.jp/
     name: "保健医療福祉情報システム工業会"
     slug: "jahisorjp"
+    tags: ["職能・業界団体", "医療DX・医療情報"]
   - url: https://www.umin.ac.jp/
     name: "大学病院医療情報ネットワークセンター(UMIN)"
     slug: "uminacjp"
+    tags: ["公的機関", "医療DX・医療情報"]
   - url: https://www.jmsf.or.jp/
     name: "日本医学会連合"
     slug: "jmsforjp"
+    tags: ["学会", "総合・教育"]
   - url: https://jams.med.or.jp/
     name: "日本医学会"
     slug: "jamsmedorjp"
+    tags: ["学会", "総合・教育"]
   - url: https://www.nichiyaku.or.jp/
     name: "日本薬剤師会"
     slug: "nichiyakuorjp"
+    tags: ["職能・業界団体", "医薬品・医療機器"]
   - url: https://www.jshp.or.jp/
     name: "日本病院薬剤師会"
     slug: "jshporjp"
+    tags: ["職能・業界団体", "医薬品・医療機器"]
   - url: https://www.nurse.or.jp/
     name: "日本看護協会"
     slug: "nurseorjp"
+    tags: ["職能・業界団体"]
   - url: https://www.ajha.or.jp/topics/4byou/
     name: "四病協のうごき"
     slug: "ajha4byou"
+    tags: ["職能・業界団体"]
   - url: https://www.jmha.or.jp/
     name: "全国自治体病院協議会"
     slug: "jmhaorjp"
+    tags: ["職能・業界団体"]
   - url: https://ganjoho.jp/
     name: "がん情報サービス"
     slug: "ganjohojp"
+    tags: ["公的機関"]
   - url: https://www.jmsf.or.jp/accession
     name: "加盟学会一覧 - 日本医学会連合"
     slug: "jmsfaccession"
+    tags: ["学会", "総合・教育"]
