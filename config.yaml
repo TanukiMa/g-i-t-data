@@ -18,6 +18,10 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政", "厚生労働省"]
+  - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/
+    name: "厚生労働省 - 医療保険"
+    slug: "mhlwiryohoken"
+    tags: ["行政", "厚生労働省","診療報酬・保険"]
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryou_keikaku/
     name: "厚生労働省 - 医療計画"
     slug: "mhlwiryoukeikaku"
