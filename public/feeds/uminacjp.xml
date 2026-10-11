@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 大学病院医療情報ネットワークセンター(UMIN)</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/uminacjp.xml</id>
-  <updated>2026-10-10T22:33:54Z</updated>
+  <updated>2026-10-11T22:33:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/uminacjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 横浜市立大学大学院医学研究科 分子生体防御学「IgG4関連疾患の追加薬物療法レビュー」（登録番号: R000072387）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/01d1613b8445ee58fcf44b3d078e5c50041aa8dc</id>
+    <updated>2026-10-11T22:33:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 横浜市立大学大学院医学研究科 分子生体防御学「IgG4関連疾患の追加薬物療法レビュー」（登録番号: R000072387）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 東京慈恵会医科大学「上肢リンパ浮腫がある女性における生活の質と上肢機能の関連」（登録番号: R000072388）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 新潟医療福祉大学「短下肢装具の底屈制動力の違いによる歩行時の下肢関節角度と筋活動の比較」（登録番号: R000072051）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 東北大学「緑内障患者における照明条件が生体反応に及ぼす影響」（登録番号: R000072103）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_01d1613.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 公募「長崎大学 原爆後障害医療研究所　分子腫瘍・診断学 助教公募」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/c67bd020819bfef62b042fd58275de53eb12dc30</id>
