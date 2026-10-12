@@ -2,12 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 更新情報（すべて）</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/all.xml</id>
-  <updated>2026-10-12T03:33:39Z</updated>
+  <updated>2026-10-12T07:33:46Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/all.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/b4d9cff9001ffbab6f36218ab7ef27e2675c6155</id>
+    <updated>2026-10-12T07:33:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_b4d9cff.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本脈管学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/j-ca/800e1639f6f69f919566f90cc2be0e5766b5516e</id>
+    <updated>2026-10-12T07:33:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/j-ca/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://j-ca.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/j-ca/diff_800e163.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本病院会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hospitalorjp/7d5e6bd1ef4e8740786ef884d8861a17d7ec4bc0</id>
+    <updated>2026-10-12T07:33:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hospitalorjp/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hospital.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hospitalorjp/diff_7d5e6bd.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>AnswersNews: 変更: 掲載記事が「「高額レセプト」25年度は前年比25%増…「やや高額で継続投与」の医薬品が件数押し上げ」（2026/10/06）から「【2026年版】製薬会社年収ランキング …</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/answersnews/e295ba8372e239d43f4d0c2e8f24b0244165b4c5</id>
+    <updated>2026-10-12T07:33:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/answersnews/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 掲載記事が「「高額レセプト」25年度は前年比25%増…「やや高額で継続投与」の医薬品が件数押し上げ」（2026/10/06）から「【2026年版】製薬会社年収ランキング 2022万円のサンバイオが1位…新薬大手トップは1350万円の中外製薬」（2026/08/05）に変更。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_e295ba8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本リウマチ学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ryumachi-jp/e63f88e7a49d3341eca7c7e769ab669dcc568997</id>
@@ -462,33 +490,5 @@
     <updated>2026-10-09T10:55:14Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jarm-2/history.html" />
     <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jarm.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jarm-2/diff_4b4a522.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261010024814/https://www.jarm.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本農村医学会: 削除: 電話番号「03-3212-8005」および「受付時間：平日9:00～17:00」の記載</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jarm/644b0c86a63b078853fefaa1304377caea1b0e6e</id>
-    <updated>2026-10-09T10:55:13Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jarm/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 電話番号「03-3212-8005」および「受付時間：平日9:00～17:00」の記載&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jarm.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jarm/diff_644b0c8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261010024330/https://www.jarm.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本呼吸器外科学会: 追加: 2026/10/09付のお知らせ「厚生労働省より「医薬品・医療機器等安全情報」No.432（周知依頼）」</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jacsurg/fa7f80b573a4fc17f400756d5de1ab7612554ce6</id>
-    <updated>2026-10-09T10:55:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jacsurg/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026/10/09付のお知らせ「厚生労働省より「医薬品・医療機器等安全情報」No.432（周知依頼）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026/09/11付のお知らせ「厚生労働省より「特定機能病院に関する事項について」の一部改定について」および「（新旧対照表）」&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jacsurg.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jacsurg/diff_fa7f80b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261010024200/https://jacsurg.gr.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本循環器学会: 追加: JCS研究オプトアウト掲示へのリンクおよびバナー画像（JCS研究オプトアウト提示）が追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/j-circ/cb4d91c2d5a017395202bc99420e40b83bc702e3</id>
-    <updated>2026-10-09T10:55:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/j-circ/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: JCS研究オプトアウト掲示へのリンクおよびバナー画像（JCS研究オプトアウト提示）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.j-circ.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/j-circ/diff_cb4d91c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261010105229/https://www.j-circ.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: オンラインによる電子レセプトの再審査請求に係る手引きを更新しました。（令和8年10月9日、対象：ベンダー）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/c67aff7295c9c0e831973e8d8e29b68f1fe62c65</id>
-    <updated>2026-10-09T10:55:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: オンラインによる電子レセプトの再審査請求に係る手引きを更新しました。（令和8年10月9日、対象：ベンダー）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 電子レセプトの作成手引きを更新しました。（令和8年10月9日、対象：ベンダー）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_c67aff7.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261010023810/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
