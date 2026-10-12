@@ -431,6 +431,7 @@ sites:
     name: "日本医療機器学会"
     slug: "jsmi"
     tags: ["学会", "医薬品・医療機器", "医療機器・工学"]
+    remove: ["#page_top"]   # the back-to-top button is only sent to PC browsers (device-pc), so the page flips with the visitor's device
   - url: https://www.jsha.gr.jp/
     name: "日本医療・病院管理学会"
     slug: "jsha"
@@ -834,6 +835,7 @@ sites:
     name: "日本農村医学会"
     slug: "jarm"
     tags: ["学会", "公衆衛生・予防"]
+    remove: ["#header", "#flags", "#MESY_FTMFM_footer-tab-menu-all-wrapper", "#glt-translate-trigger", "#glt-toolbar", "#glt-footer"]   # layout for phones differs and Cloudflare caches one version for 60 s for everyone
   - url: https://www.haigan.gr.jp/
     name: "日本肺癌学会"
     slug: "haigan"
