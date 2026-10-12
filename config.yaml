@@ -920,6 +920,7 @@ sites:
     name: "日本リウマチ学会"
     slug: "ryumachi-jp"
     tags: ["学会", "内科系"]
+    remove: [".new-icon-n"]   # an empty NEW badge that the server takes off after a few days
   - url: https://www.jarm.or.jp/
     name: "日本リハビリテーション医学会"
     slug: "jarm-2"
@@ -1004,6 +1005,7 @@ sites:
     name: "日本病院会"
     slug: "hospitalorjp"
     tags: ["職能・業界団体"]
+    remove: [".h_new"]   # an empty NEW badge that the server takes off after a few days
   - url: https://www.ajha.or.jp/
     name: "全日本病院協会"
     slug: "ajhaorjp"
