@@ -33,5 +33,11 @@ sites:
   - regex_replace:
       pattern: (?i)\s*<img\b[^>]*\balt=["'](?:new|ＮＥＷ|新着)[!！]*["'][^>]*>
       replace: ''
+  - css_remove: '#header'
+  - css_remove: '#flags'
+  - css_remove: '#MESY_FTMFM_footer-tab-menu-all-wrapper'
+  - css_remove: '#glt-translate-trigger'
+  - css_remove: '#glt-toolbar'
+  - css_remove: '#glt-footer'
   - html_sanitize
   - html_prettify
