@@ -14,6 +14,7 @@ sites:
     default_ignore: false
     editors: [json_prettify]
     json_records: {id: yj_cd, label: product_nm}
+    paused: true
   - url: https://www.mhlw.go.jp/
     name: "厚生労働省"
     slug: "mhlw"
@@ -1024,6 +1025,7 @@ sites:
     name: "医療用医薬品供給状況データベース(DSJP)"
     slug: "dsjpupdate"
     tags: ["報道・情報", "医薬品・医療機器"]
+    paused: true
   - url: https://www.digital.go.jp/resources/govdashboard/healthcare-dx
     name: "デジタル庁 - 医療DXに関するダッシュボード"
     slug: "digitalmeddx"
