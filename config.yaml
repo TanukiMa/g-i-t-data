@@ -18,6 +18,7 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政", "厚生労働省"]
+#   - url: https://www.amed.go.jp/
   - url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/
     name: "厚生労働省 - 医療保険"
     slug: "mhlwiryohoken"
