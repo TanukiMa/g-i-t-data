@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 薬価基準収載品目リスト及び後発医薬品に関する情報について</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlw-topics-20260401-01.xml</id>
-  <updated>2026-10-08T08:32:37Z</updated>
+  <updated>2026-10-13T03:34:03Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlw-topics-20260401-01.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-topics-20260401-01/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>薬価基準収載品目リスト及び後発医薬品に関する情報について: 変更: 薬価基準収載品目リスト及び後発医薬品に関する情報の適用日が「令和８年10月１日適用」から「令和８年10月14日適用」に変更された</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-topics-20260401-01/9fed9150973d0dc13f480493d74411009e7d29c6</id>
+    <updated>2026-10-13T03:34:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-topics-20260401-01/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 薬価基準収載品目リスト及び後発医薬品に関する情報の適用日が「令和８年10月１日適用」から「令和８年10月14日適用」に変更された&lt;/li&gt;&lt;li&gt;変更: 添付されている各種Excel・PDFファイルのリンクおよびファイルサイズが令和８年10月14日収載品目を反映したものに更新された&lt;/li&gt;&lt;li&gt;追加: 令和8年10月14日以降および令和8年10月1日～令和8年10月13日の期間における算出用のファイル（Excel/PDF）が追加された&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-topics-20260401-01/diff_9fed915.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>薬価基準収載品目リスト及び後発医薬品に関する情報について: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-topics-20260401-01/eef4db80ebd742863b2c5107173812e8812663f9</id>
