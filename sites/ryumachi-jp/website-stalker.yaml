@@ -33,5 +33,6 @@ sites:
   - regex_replace:
       pattern: (?i)\s*<img\b[^>]*\balt=["'](?:new|ＮＥＷ|新着)[!！]*["'][^>]*>
       replace: ''
+  - css_remove: .new-icon-n
   - html_sanitize
   - html_prettify

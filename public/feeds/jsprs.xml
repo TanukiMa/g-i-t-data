@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本形成外科学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jsprs.xml</id>
-  <updated>2026-10-08T08:32:35Z</updated>
+  <updated>2026-10-13T03:34:02Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jsprs.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsprs/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本形成外科学会: 追加: 2026/10/13付で「学会情報（2027年）を更新しました。」（リンク：/member/meeting_info/2027/）を追加</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsprs/2637da35100f6d1baf6ef041b1c90c1222d12475</id>
+    <updated>2026-10-13T03:34:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsprs/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026/10/13付で「学会情報（2027年）を更新しました。」（リンク：&lt;code&gt;/member/meeting_info/2027/&lt;/code&gt;）を追加&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026/07/16付の「学会情報をお知らせする項目」を削除&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026/08/05付の「日形会誌46巻7号をJ-STAGEへ公開しました。」を削除&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jsprs.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsprs/diff_2637da3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本形成外科学会: 追加: 学会情報（2026年）を更新しました。（2026/10/08）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsprs/44d3ec944bbff5ab8a5310824306d7adcefa56ec</id>
