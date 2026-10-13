@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 独立行政法人 医薬品医療機器総合機構(PMDA)</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/pmda.xml</id>
-  <updated>2026-10-13T03:34:04Z</updated>
+  <updated>2026-10-13T07:33:52Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/pmda.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 2026年10月13日付で「ヘパリン類似物質ローション0.3％「NIT」ニトロソアミン化合物検出及び自主回収（クラスⅡ）に関するお知らせ」を掲載</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/cfa1e2554074e42ff98c6e0409de9d46d755396e</id>
+    <updated>2026-10-13T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月13日付で「ヘパリン類似物質ローション0.3％「NIT」ニトロソアミン化合物検出及び自主回収（クラスⅡ）に関するお知らせ」を掲載&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年10月6日付の外国製造業者認定・登録番号の掲載情報を削除&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年10月5日付の「ニトロソアミン化合物検出のお知らせ（セルトラリン、マプロチリン塩酸塩）」の掲載情報を削除&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_cfa1e25.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 調達情報「個人番号収集・保管・管理及び支払調書等作成業務」（2026年10月13日）が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/1bf17bcc4e13d0495667c6a1d64e9cb994fba467</id>

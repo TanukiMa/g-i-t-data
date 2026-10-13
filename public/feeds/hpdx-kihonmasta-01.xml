@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 医科診療行為マスター</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/hpdx-kihonmasta-01.xml</id>
-  <updated>2026-10-13T03:37:07Z</updated>
+  <updated>2026-10-13T07:33:46Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/hpdx-kihonmasta-01.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-kihonmasta-01/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>医科診療行為マスター: 変更: 最終更新日およびマスター全件ファイルが「2026年10月13日」付（s_ALL20261013.zip）に更新。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx-kihonmasta-01/a0618d4f6b5e36fe6d36db035b3e1b213e7e2f0d</id>
+    <updated>2026-10-13T07:33:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-kihonmasta-01/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 最終更新日およびマスター全件ファイルが「2026年10月13日」付（&lt;code&gt;s_ALL20261013.zip&lt;/code&gt;）に更新。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月13日付の「改定分ファイル(CSV:3KB)」（8件、&lt;code&gt;s_20261013.csv&lt;/code&gt;）および「改定分内容(PDF:62KB)」（&lt;code&gt;r08kaitei_20261013_s.pdf&lt;/code&gt;）が追加。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「コメントマスター」（&lt;code&gt;kihonmasta_061.html&lt;/code&gt;）へのリンクが追加。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-kihonmasta-01/diff_a0618d4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 </feed>

@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 診療報酬情報提供サービス</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/shinryohoshu.xml</id>
-  <updated>2026-10-13T03:37:07Z</updated>
+  <updated>2026-10-13T07:33:52Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/shinryohoshu.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/shinryohoshu/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>診療報酬情報提供サービス: 削除: 令和8年度診療報酬改定に係るコメントマスター、特定器材マスター、各記録条件仕様（医科用、DPC用、歯科用、調剤用、訪問看護用）などの更新情報が削除されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/shinryohoshu/fd140a8be64ac33c3931ef63856a466a6d710348</id>
+    <updated>2026-10-13T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/shinryohoshu/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 令和8年度診療報酬改定に係るコメントマスター、特定器材マスター、各記録条件仕様（医科用、DPC用、歯科用、調剤用、訪問看護用）などの更新情報が削除されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 令和8年度診療報酬改定に係る医科診療行為マスター、調剤行為マスター、医薬品マスター、歯科診療行為マスター、訪問看護療養費マスターの更新情報が削除されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「特定薬剤管理指導加算等の算定対象となる薬剤一覧」や病棟コードマスターの更新情報、マスターファイル仕様説明書の更新情報が削除されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 運用組織の記載が「厚生労働省保険局」から「厚生労働省」に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://shinryohoshu.mhlw.go.jp/shinryohoshu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/shinryohoshu/diff_fd140a8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 </feed>

@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医療政策機構</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/hpgiorg.xml</id>
-  <updated>2026-10-13T03:37:07Z</updated>
+  <updated>2026-10-13T07:33:47Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/hpgiorg.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpgiorg/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医療政策機構: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpgiorg/f408f39257f1ece4759642629f819ebe76d79043</id>
+    <updated>2026-10-13T07:33:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpgiorg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hgpi.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpgiorg/diff_f408f39.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 </feed>
