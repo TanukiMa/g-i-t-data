@@ -19,6 +19,10 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政", "厚生労働省"]
+  - url: https://www.jpnsh.jp/medical_ind.html
+    name: "日本高血圧学会 - 会員・医療関係者"
+    slug: "jpnshjpmedical"
+    tags: ["学会", "内科系"]
   - url: https://www.amed.go.jp/
     name: "日本医療研究開発機構(AMED)"
     slug: "amedgojp"
