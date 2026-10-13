@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t gemmed</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/gemmed.xml</id>
-  <updated>2026-10-13T03:33:58Z</updated>
+  <updated>2026-10-13T07:33:46Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/gemmed.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>gemmed: 追加: 記事「2027年12月から「中重度者等対象の有料老人ホーム」登録制スタート、特定の介護サービス利用を入居要件とすることなど認めない」（2026.10.13.）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/4bf768e6a5ad16acb3d5153031b9069233abbe1a</id>
+    <updated>2026-10-13T07:33:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「2027年12月から「中重度者等対象の有料老人ホーム」登録制スタート、特定の介護サービス利用を入居要件とすることなど認めない」（2026.10.13.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 記事「DPC病院、機能評価係数IIの「体制評価係数」（地域医療係数の1要素）に係るデータを10月15日までに提出を—厚労省」（2026.10.9.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_4bf768e.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>gemmed: 追加: 記事「2026年9月までに累計3947件の医療事故が報告され、うち89.2％で院内調査が完了—日本医療安全調査機構」（2026.10.13）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/a1368f6ce122118c5d8a5b1a8d56cd7e5fc59150</id>
