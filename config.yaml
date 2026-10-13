@@ -23,6 +23,10 @@ sites:
     name: "日本高血圧学会 - 会員・医療関係者"
     slug: "jpnshjpmedical"
     tags: ["学会", "内科系"]
+  - url: https://www.jds.or.jp/modules/publication/index.php?content_id=1
+    name: "日本糖尿病学会 - 刊行物"
+    slug: "jdspublication"
+    tags: ["学会","内科系","ガイドライン"]
   - url: https://www.amed.go.jp/
     name: "日本医療研究開発機構(AMED)"
     slug: "amedgojp"
