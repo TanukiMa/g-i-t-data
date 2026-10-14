@@ -19,6 +19,38 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政", "厚生労働省"]
+  - url: https://www.jsaweb.jp/modules/journal/index.php?content_id=4
+    name: "日本アレルギー学会 - ガイドライン・その他刊行物"
+    slug: "jsawebguideline"
+    tags: ["学会","ガイドライン"]
+  - url: https://www.jsog.or.jp/medical/447/
+    name: "日本産科婦人科学会 - 書籍・刊行物一覧"
+    slug: "jsogguidelines"
+    tags: ["学会","ガイドライン","産婦人科・小児"]
+  - url: https://www.jpeds.or.jp/society-activities/50002.html
+    name: "日本小児科学会 - ガイドライン・指針など"
+    slug: "jpedsguideline"
+    tags: ["学会","ガイドライン","産婦人科・小児"]
+  - url: https://ganjoho.jp/med_pro/med_info/guideline/
+    name: "がん情報サービス - 医療関係者向け情報"
+    slug: "ganjohoguideline"
+    tags: ["がん"]
+  - url: https://gstu.members-web.com/gstu/guideline/index.php?category_id=9
+    name: "日本癌治療学会 - がん診療ガイドライン"
+    slug: "gstuguideline"
+    tags: ["学会","ガイドライン","内科系","外科系"]
+  - url: https://www.neurology-jp.org/guidelinem/
+    name: "日本神経学会 - ガイドライン"
+    slug: "neurologyjpguidelines"
+    tags: ["学会","ガイドライン","内科系"]
+  - url: https://www.jrs.or.jp/publication/jrs_guidelines/
+    name: "日本呼吸器学会 - ガイドライン"
+    slug: "jrsguidelines"
+    tags: ["学会","ガイドライン","内科系"]
+  - url: https://www.jsge.or.jp/committees/guideline/guideline/
+    name: "日本消化器病学会ガイドライン"
+    slug: "jsgeguideline"
+    tags: ["学会","ガイドライン","内科系","外科系"]
   - url: https://www.jpnsh.jp/medical_ind.html
     name: "日本高血圧学会 - 会員・医療関係者"
     slug: "jpnshjpmedical"
