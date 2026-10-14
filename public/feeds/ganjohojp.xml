@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t がん情報サービス</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/ganjohojp.xml</id>
-  <updated>2026-10-09T02:29:22Z</updated>
+  <updated>2026-10-14T03:33:46Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/ganjohojp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ganjohojp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>がん情報サービス: 追加: 2026年10月14日「横紋筋肉腫〈小児〉」（/public/cancer/rhabdomyosarcoma/index.html）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/ganjohojp/4664ccc0c353ee20353733c5c83369c2105649bf</id>
+    <updated>2026-10-14T03:33:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ganjohojp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月14日「横紋筋肉腫〈小児〉」（/public/cancer/rhabdomyosarcoma/index.html）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年09月11日「がんと学校」（/public/life_stage/child/school/index.html#anchor4）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ganjoho.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ganjohojp/diff_4664ccc.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>がん情報サービス: 追加: 2026年10月09日付で「点字資料と利用方法」を掲載・更新（点字資料5点の情報）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ganjohojp/947cfd27ef4d9637e94b3b28c5e1016658509827</id>
