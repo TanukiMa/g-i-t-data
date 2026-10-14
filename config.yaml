@@ -19,6 +19,10 @@ sites:
     name: "厚生労働省"
     slug: "mhlw"
     tags: ["行政", "厚生労働省"]
+  - url: https://medical-tribune.co.jp/
+    name: "メディカルトリビューン"
+    slug: "medicaltribune"
+    tags: ["報道・情報"]
   - url: https://www.jsaweb.jp/modules/journal/index.php?content_id=4
     name: "日本アレルギー学会 - ガイドライン・その他刊行物"
     slug: "jsawebguideline"
