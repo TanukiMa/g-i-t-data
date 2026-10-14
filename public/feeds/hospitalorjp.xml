@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本病院会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/hospitalorjp.xml</id>
-  <updated>2026-10-13T22:33:37Z</updated>
+  <updated>2026-10-14T03:33:47Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/hospitalorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hospitalorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本病院会: 追加: 【事務連絡】「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法の一部改正等に伴う実施上の留意事項について」及び「厚生労働大臣が指定する病院の病棟にお…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hospitalorjp/e5c64c6d2f9c15713866d23b9bc10fd6c53ddd26</id>
+    <updated>2026-10-14T03:33:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hospitalorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【事務連絡】「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法の一部改正等に伴う実施上の留意事項について」及び「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法第一項第五号の規定に基づき厚生労働大臣が別に定める者について」の一部改正について（2026.10.13）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 【事務連絡】令和８年度診療報酬改定関連通知の一部訂正について（2026.10.08）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 【事務連絡】令和８年台風第25号に伴う災害に係るオンライン資格確認等システムにおける「緊急時医療情報・資格確認機能」をアクティブ化する医療機関・薬局の範囲・期間について（その４）（2026.10.05）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hospital.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hospitalorjp/diff_e5c64c6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本病院会: 追加: 「日本病院会の動き（提言・要望）」に関する特設ページ（/site/activities_of_the_JHA/）へのバナー画像リンク</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hospitalorjp/11e9bd2f5bc5c24732c61db66d344c591698aab8</id>
