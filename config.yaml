@@ -91,7 +91,7 @@ sites:
   - url: https://hgpi.org/
     name: "日本医療政策機構"
     slug: "hpgiorg"
-    tags: ["報道・情報"]
+    tags: ["職能・業界団体"]
   - url: https://www.mhlw.go.jp/stf/newpage_28708.html
     name: "厚生労働省 - 社会保障審議会（医療保険部会）"
     slug: "mhlwgojp28708"
@@ -107,7 +107,7 @@ sites:
   - url: https://www.jpha.or.jp/
     name: "日本公衆衛生協会"
     slug: "jphaorjp"
-    tags: ["職能・業界団体"]
+    tags: ["公衆衛生・予防"]
   - url: https://www.cas.go.jp/jp/seisakukaigi/kenkouiryou/
     name: "内閣官房 - 健康・医療戦略推進本部"
     slug: "casgojpkenkouiryou"
