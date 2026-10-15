@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/medorjp.xml</id>
-  <updated>2026-10-14T03:33:51Z</updated>
+  <updated>2026-10-15T07:34:12Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/medorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医師会: 追加: 「令和８年度 死亡時画像診断（Ai）研修会のご案内」（2026.10.15）の掲載</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/fda54ca058c0ba524c3c6e7527ab5ff54c61b37e</id>
+    <updated>2026-10-15T07:34:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和８年度 死亡時画像診断（Ai）研修会のご案内」（2026.10.15）の掲載&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和８年度医療事故調査制度『管理者・実務者セミナー』」（2026.10.15）の掲載&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「令和８年熊本地震関連」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「『移植医療』について ～毎年10月は臓器移植普及推進月間です～」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_fda54ca.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医師会: 追加: 11月1日は「いい医療の日」のバナーおよびリンクを追加</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/cb7836bae7f56fcd8ce7cb3eb5c7fecdb71c7790</id>

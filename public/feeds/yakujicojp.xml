@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 薬事日報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/yakujicojp.xml</id>
-  <updated>2026-10-15T03:34:03Z</updated>
+  <updated>2026-10-15T07:34:15Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/yakujicojp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>薬事日報: 追加: 【電子書籍】保険薬局業務指針 2026年版（2026年10月15日 (木)）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/5ef8524eb225382fee41dff8746b017c929a7f08</id>
+    <updated>2026-10-15T07:34:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【電子書籍】保険薬局業務指針 2026年版（2026年10月15日 (木)）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【電子書籍】緊急避妊薬OTC適正販売ガイド」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【パナソニック】ナノイー（帯電微粒子水）技術、欧州の主要花粉アレルゲンの抑制効果実証」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_5ef8524.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>薬事日報: 追加: 【国立大学病院長会議】病院間連携で災害に備え‐BCP対策強化、予算が壁に（2026年10月15日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/97367d8d1baeb75cb793993d49151f94d9350b8b</id>
