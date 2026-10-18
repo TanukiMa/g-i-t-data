@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 内科系</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-2f281cd3.xml</id>
-  <updated>2026-10-17T22:33:50Z</updated>
+  <updated>2026-10-18T22:33:57Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-2f281cd3.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本消化器内視鏡学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/63441c05f3e2234ca7be798edf0244e413e74309</id>
+    <updated>2026-10-18T22:33:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jges/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_63441c0.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本消化器内視鏡学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/bb0431f8395b8e2eca1776c56c8413677bc0da77</id>
@@ -329,12 +336,5 @@
     <updated>2026-10-14T03:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsaweb/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2026年度日本アレルギー学会学術大会賞（第23回）募集のお知らせ」（2026.10.14付）の掲載&lt;/li&gt;&lt;li&gt;削除: 「令和8年熊本地震において被災された皆様へのお見舞いと『アレルギーポータル』のご案内等ついて」（2026.7.29付）の削除&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsaweb.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsaweb/diff_047788b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261014100900/https://www.jsaweb.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本糖尿病学会: 変更: 日付が「2026年10月01日」から「2026年10月14日」に変更されました</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jds/49c653ec9165165bca731c095e5af1bd3a390d57</id>
-    <updated>2026-10-14T03:33:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jds/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 日付が「2026年10月01日」から「2026年10月14日」に変更されました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jds.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jds/diff_49c653e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261014100322/https://www.jds.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

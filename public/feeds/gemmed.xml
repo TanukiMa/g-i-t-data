@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t gemmed</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/gemmed.xml</id>
-  <updated>2026-10-17T22:33:49Z</updated>
+  <updated>2026-10-18T22:33:56Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/gemmed.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>gemmed: 追加: 「大学病院の「高度医療提供・医療人材育成・高度医療研究」機能を維持するため、国・自治体による継続的かつ十分な支援を！」（2026.10.19.）の記載が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/56d01a3935cc09aeec4a6135e17e9f8ea11e4789</id>
+    <updated>2026-10-18T22:33:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「大学病院の「高度医療提供・医療人材育成・高度医療研究」機能を維持するため、国・自治体による継続的かつ十分な支援を！」（2026.10.19.）の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「デイサービスの同一建物減算を廃止し、「利用者の状況」踏まえた基本報酬の細分化など検討—社保審・介護給付費分科会（1）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2027年12月から「中重度者等対象の有料老人ホーム」登録制スタート、特定の介護サービス利用を入居要件とすることなど認めない」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_56d01a3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>gemmed: 変更：「手術前後の患者には禁忌である「糖尿病治療薬」の休薬を行わず、「手術が延期」となる事例が散発—医療機能評価機構」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/f28767aea28a0bf858545b30d340a2a9b4fc0b64</id>
