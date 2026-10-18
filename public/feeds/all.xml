@@ -2,18 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 更新情報（すべて）</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/all.xml</id>
-  <updated>2026-10-17T22:33:51Z</updated>
+  <updated>2026-10-18T03:33:55Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/all.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>メディカルトリビューン: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/45f6100a89f7bd6bfb0e49e1574f01c553a82c62</id>
+    <updated>2026-10-18T03:33:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_45f6100.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本肺癌学会: 追加: イベント情報に「第130回日本肺癌学会中部支部学術集会」（開催日: 2027年2月6日、区分: 支部会、対象: 医療従事者向け／医学生・研修医の方、中部支部）が追加されま…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/haigan/2efb3af45434ec748b21733f4c9b20f55f47ea5b</id>
+    <updated>2026-10-18T03:33:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/haigan/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: イベント情報に「第130回日本肺癌学会中部支部学術集会」（開催日: 2027年2月6日、区分: 支部会、対象: 医療従事者向け／医学生・研修医の方、中部支部）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「みんなのための肺がんまるわかり教室＠那覇」（2026年10月17日、市民公開講座、一般の方、沖縄県）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.haigan.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/haigan/diff_2efb3af.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>AnswersNews: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/answersnews/18516947cf3b7e71775f15942f72dce1f27c9c54</id>
+    <updated>2026-10-18T03:33:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/answersnews/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_1851694.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 帝京大学外科学講座の臨床研究「下部内視鏡を用いた膿瘍形成憩室炎に対する内視鏡的排膿術の有用性に関する検討」が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/779d08866ff83d6d38784e65ddb63670c61932a5</id>
     <updated>2026-10-17T22:33:51Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 帝京大学外科学講座の臨床研究「下部内視鏡を用いた膿瘍形成憩室炎に対する内視鏡的排膿術の有用性に関する検討」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 青森県立保健大学の臨床研究「経頭蓋静磁場刺激が学習プロセスに及ぼす影響」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「声と骨密度の研究」「日常生活における飲料選択と生体データの関係性に関する検討（観察研究）」「擬似的回旋斜視体験用レンズの検証」ほか 16 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_779d088.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 帝京大学外科学講座の臨床研究「下部内視鏡を用いた膿瘍形成憩室炎に対する内視鏡的排膿術の有用性に関する検討」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 青森県立保健大学の臨床研究「経頭蓋静磁場刺激が学習プロセスに及ぼす影響」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「声と骨密度の研究」「日常生活における飲料選択と生体データの関係性に関する検討（観察研究）」「擬似的回旋斜視体験用レンズの検証」ほか 16 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_779d088.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261018011017/https://www.umin.ac.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>独立行政法人 医薬品医療機器総合機構(PMDA): 変更 「2026年10月2日 全製品 「医療事故情報収集等事業第86回報告書の公表について」を掲載しました」および「2026年10月2日 その他 WOWOW『連続ドラマW　MR …</title>
@@ -55,7 +76,7 @@
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/f28767aea28a0bf858545b30d340a2a9b4fc0b64</id>
     <updated>2026-10-17T22:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「手術前後の患者には禁忌である「糖尿病治療薬」の休薬を行わず、「手術が延期」となる事例が散発—医療機能評価機構」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「70歳以上・75歳以上高齢者の「医療機関の窓口負担」、現役世代との公平性確保をどう考えていくべきか—社保審・医療保険部会」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_f28767a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「手術前後の患者には禁忌である「糖尿病治療薬」の休薬を行わず、「手術が延期」となる事例が散発—医療機能評価機構」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「70歳以上・75歳以上高齢者の「医療機関の窓口負担」、現役世代との公平性確保をどう考えていくべきか—社保審・医療保険部会」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_f28767a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261018010614/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本輸血・細胞治療学会: 変更: 「輸血テクニカルセミナー2025「ご案内」」および「「輸血テクニカルセミナー2025」について」が、それぞれ「輸血テクニカルセミナー2026「ご案内」」「「輸血テクニカル…</title>
@@ -686,26 +707,5 @@
     <updated>2026-10-16T03:34:06Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsir-guideline/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 更新日が「2026年10月15日」から「2026年10月16日」に変更されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「&amp;lt;a href=&amp;quot;https://www.jsir.or.jp/guide_line/ivr_syugiteigen/&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;IVR手技施行に関する診療体制についての提言」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsir.or.jp/about/guide_line/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsir-guideline/diff_ca77ab3.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261016090824/https://www.jsir.or.jp/about/guide_line/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本集中治療医学会: 追加: 「2026年10月16日 新入会申込み手続き再開のお知らせ」が掲載されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsicm/34ad434a4fc00e6c3040631563af008a41d400cc</id>
-    <updated>2026-10-16T03:34:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsicm/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年10月16日 新入会申込み手続き再開のお知らせ」が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年9月14日 第10回支部学術集会レポート掲載のお知らせ：東海北陸支部（2026.9.5開催）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年9月8日 循環器集中治療委員会 施設紹介公募期間を延長しました」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.1-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsicm.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsicm/diff_34ad434.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261016093713/https://www.jsicm.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本消化器病学会: 追加：2026年10月16日「2027年からの専門医更新要件の改訂について」（専門医関連）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsge/e9f49e482b904b55b81e7e37eb72321856e3f874</id>
-    <updated>2026-10-16T03:34:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsge/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加：2026年10月16日「2027年からの専門医更新要件の改訂について」（専門医関連）&lt;/li&gt;&lt;li&gt;変更：「モビコール®配合内用剤LD/HDの供給に関するお知らせ（周知依頼）」および「第36回消化器病専門医試験（2026年10月4日）に関するご案内」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsge.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsge/diff_e9f49e4.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261016093615/https://www.jsge.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本臨床薬理学会: 追加: 2026.10.16：一般社団法人 日本薬系学会連合より公開シンポジウム「動物を用いた研究と教育の新たな地平」のお知らせ（https://www.jpsf.jp/wp-c…</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jscpt/b4c91158557e6f18781f469d74f24593cc2d14e2</id>
-    <updated>2026-10-16T03:34:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jscpt/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.16：一般社団法人 日本薬系学会連合より公開シンポジウム「動物を用いた研究と教育の新たな地平」のお知らせ（https://www.jpsf.jp/wp-content/uploads/2026/10/261015_poster.pdf）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.9.24 日本医学会より 第169回日本医学会シンポジウム「AIの実臨床応用」開催のお知らせ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jscpt.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jscpt/diff_b4c9115.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261016093401/https://www.jscpt.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
