@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本癌学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/cancer.xml</id>
-  <updated>2026-10-15T03:33:56Z</updated>
+  <updated>2026-10-19T07:35:29Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/cancer.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/cancer/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本癌学会: 変更: 「2025年9月1日」付の「2025年度学術賞受賞者」へのリンクが、「2026年9月24日」付の「2026年度学術賞受賞者」へ更新されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/cancer/b3eda3a3ef6f6ae26b2f4b9af6cf274924297c04</id>
+    <updated>2026-10-19T07:35:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/cancer/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2025年9月1日」付の「2025年度学術賞受賞者」へのリンクが、「2026年9月24日」付の「2026年度学術賞受賞者」へ更新されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cancer.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/cancer/diff_b3eda3a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本癌学会: 追加: 2026年10月15日付で「第16回日本遺伝子診療学会：遺伝子診断・検査技術推進フォーラム開催のお知らせ」が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/cancer/fddba3d433cad0135c612a93818a68480abc9310</id>
