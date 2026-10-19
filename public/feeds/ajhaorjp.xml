@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 全日本病院協会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/ajhaorjp.xml</id>
-  <updated>2026-10-16T22:34:55Z</updated>
+  <updated>2026-10-19T03:34:06Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/ajhaorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ajhaorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>全日本病院協会: 変更: 「令和8年熊本地震に関する情報」「令和８年熊本地震について（厚生労働省HP）」ほか 1 件の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/ajhaorjp/dfab7ead9a35c1050ed01dfd55a4b7226c8f5c1f</id>
+    <updated>2026-10-19T03:34:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ajhaorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「令和8年熊本地震に関する情報」「令和８年熊本地震について（厚生労働省HP）」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 全日本病院協会/日本医療・病院管理学会「持続可能な医療提供体制に向けた医療施設整備のあり方 提言書【要旨】中間報告“医療なくして地域の経済成長なし”― 地域医療体制を支え、老朽化する施設： 整備財源の確保に向けた計画的施策を ―」が公表されました（2026/10/19）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 医療行政情報の更新件数が「2件」から「4件」に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ajhaorjp/diff_dfab7ea.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>全日本病院協会: 変更：「第１回　2026.10.01(木)~2027.01.31(日)」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ajhaorjp/2321cd0ca38e4155d18f3357df2846e08de5f494</id>

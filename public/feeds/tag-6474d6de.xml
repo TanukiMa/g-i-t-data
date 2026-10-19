@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 基礎医学</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-6474d6de.xml</id>
-  <updated>2026-10-17T07:33:31Z</updated>
+  <updated>2026-10-19T03:34:08Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-6474d6de.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本生化学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jbsoc/b5f86a46424744105c95617a4d8825b83e451e5e</id>
+    <updated>2026-10-19T03:34:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jbsoc/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jbsoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jbsoc/diff_b5f86a4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本衛生動物学会: 追加: 「最近の投稿」に「第26期幹事選挙」へのリンクが追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsmez/a8b73463ec50261152e03da829d58089463aa766</id>
@@ -343,12 +350,5 @@
     <updated>2026-10-07T06:16:37Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsi-men-eki/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 会員及び研究者向け＞研究助成「高峰記念第一三共賞」を更新しました（2026/10/7）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 会員及び研究者向け＞お知らせ「第3回（2027年度）三島海雲記念財団「特定研究助成金」公募のお知らせ【募集期間：2026年11月2日（月）～12月21日（月）】」を掲載しました（2026/10/7）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「広島大学大学院医系科学研究科 教授の公募」を削除しました（2026/9/1）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.jsi-men-eki.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsi-men-eki/diff_a0c517e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008083844/https://www.jsi-men-eki.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jshg/8043e00cd85a7a1fed57870a08d720f3c6ab87e8</id>
-    <updated>2026-10-07T06:16:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshg/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshg/diff_8043e00.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007132428/https://jshg.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

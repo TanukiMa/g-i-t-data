@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本呼吸器外科学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jacsurg.xml</id>
-  <updated>2026-10-16T22:34:56Z</updated>
+  <updated>2026-10-19T03:34:07Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jacsurg.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jacsurg/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本呼吸器外科学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jacsurg/e815fbab7cad14f1d73131c6e4ecd9c0185bd94c</id>
+    <updated>2026-10-19T03:34:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jacsurg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jacsurg.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jacsurg/diff_e815fba.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本呼吸器外科学会: 追加: 2026/10/16付で「日本医療安全調査機構より医療事故調査制度の現況報告（9月）」が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jacsurg/4d3565608a42bc1d47ed92ef1bdf96e11fce41b5</id>
