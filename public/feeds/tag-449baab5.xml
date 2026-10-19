@@ -2,67 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 報道・情報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-449baab5.xml</id>
-  <updated>2026-10-19T07:35:37Z</updated>
+  <updated>2026-10-19T22:33:46Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-449baab5.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>薬事日報: 追加：「【医療保険部会】高齢者窓口負担見直し議論‐低所得者への配慮主張も」</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/e4a2a7f0842d34d0caa7f28cd2745e7436c0261e</id>
+    <updated>2026-10-19T22:33:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「【医療保険部会】高齢者窓口負担見直し議論‐低所得者への配慮主張も」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「【キヤノン】「DFAアジアデザイン賞2026」、全身用X線CT診断装置「Aquilion Rise」が大賞」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「プレスリリース・タイトルリスト　2026/10/19」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「行政情報リスト　2026/10/19」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「【生物由来技術部会】ステミラックが正式承認へ‐条件期限付から本承認は初」「【厚労省】地域薬剤師会に最大1000万円‐医薬品提供体制モデル事業」「【インターフェックスで報告】製薬工場、DXで進む省力化‐夜間無人運転や培養自動化」ほか 7 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_e4a2a7f.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>メディカルトリビューン: 追加: 「【緊急寄稿】ステミラック本承認で残された疑問」「早期パーキンソン病へのニコチンアミドリボシドは無益」「患者の「AIに聞いてきた」にどう対応すべき？」ほか 1 件の記載が…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/d80220904feafb04355b10ee6ecf754e7e321440</id>
+    <updated>2026-10-19T22:33:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「【緊急寄稿】ステミラック本承認で残された疑問」「早期パーキンソン病へのニコチンアミドリボシドは無益」「患者の「AIに聞いてきた」にどう対応すべき？」ほか 1 件の記載が加わりました。&lt;/li&gt;&lt;li&gt;変更: 「全身型重症筋無力症にCAR-T療法は有効か」「尿意切迫感に「全身性感覚過敏」が潜む？」非感染性ぶどう膜炎、経口deucrictibant、GLP-1関連薬に関する記事などの記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_d802209.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>gemmed: 追加: 記事「リハ専門職による訪問看護の更なる適正化（報酬引き下げ）、D to P with Nの介護報酬での評価を実施へ—社保審・介護給付費分科会（1）」（2026.10.20…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/93662575fe373d3f218b6f00710f169d8d90814c</id>
+    <updated>2026-10-19T22:33:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「リハ専門職による訪問看護の更なる適正化（報酬引き下げ）、D to P with Nの介護報酬での評価を実施へ—社保審・介護給付費分科会（1）」（2026.10.20.（火））が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「外科医療確保特別加算、「手術料の15％」を算定できるが、その「手術料」の中には乳幼児加算などの「通則加算」は含まれない」（2026.10.8.（木））が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年7月の健保組合医療費、コロナ感染症の影響がない2019年7月と比べて25.0％の増加—健保連」「HTLV－1関連脊髄症の疾患活動性分類の補助、「結核・非結核性抗酸菌感染」診断の補助を行う検査の点数算定ルール設定—厚労省」「高齢男性では「乳酸菌を含む乳製品」の週3日以上摂取で全死亡率が低下―健康長寿医療センター研究所」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_9366257.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>AnswersNews: 追加: 「ダラクソンラシブ、米国外での単独展開に自信…RevMed、欧州でも近く承認へ」（2026/10/20）が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/answersnews/6ed91a3cdd3d704b70e28286d87cc805563f4d1d</id>
+    <updated>2026-10-19T22:33:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/answersnews/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「ダラクソンラシブ、米国外での単独展開に自信…RevMed、欧州でも近く承認へ」（2026/10/20）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「インスメッド「ブリヌスプリ」発売／サノフィ、サークリサ皮下注のOBI「サークリック」承認 など｜製薬業界きょうのニュースまとめ読み（2026年10月19日）」（2026/10/19）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「キャリア MR、選択肢豊富な状況続く…製造やメディカルなども堅調｜製薬業界 今月の転職求人動向レポート（2026年10月）」ほか1件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_6ed91a3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>薬事日報: 追加: 【北大】日本電子とEPOCH連携協力基本合意を締結‐わが国の科学技術基盤の高度化に向けて</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/23b7f96186079624e75ffc9726a666ed5f172cdc</id>
     <updated>2026-10-19T07:35:37Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【北大】日本電子とEPOCH連携協力基本合意を締結‐わが国の科学技術基盤の高度化に向けて&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【薬ゼミ国試対策】生物の視点で臨床問題を考える（2026年10月19日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【新製品】高機能美容液を発売‐「ユリアージュ」から　佐藤製薬」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【日本薬学生連盟・先輩薬剤師のキャリアノート】患者支援の延長で10種の資格取得　大阪市立…」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【日本メドトロニック】5製品が「グッドデザイン賞」を同時受賞」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_23b7f96.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【北大】日本電子とEPOCH連携協力基本合意を締結‐わが国の科学技術基盤の高度化に向けて&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【薬ゼミ国試対策】生物の視点で臨床問題を考える（2026年10月19日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【新製品】高機能美容液を発売‐「ユリアージュ」から　佐藤製薬」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【日本薬学生連盟・先輩薬剤師のキャリアノート】患者支援の延長で10種の資格取得　大阪市立…」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【日本メドトロニック】5製品が「グッドデザイン賞」を同時受賞」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_23b7f96.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261019102500/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>メディカルトリビューン: 追加: 記事「肥満症対策を「攻めの予防医療」の柱に」（日付：2026-10-19）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/782e25900e0211fa54b5e119c90b021a074e1641</id>
     <updated>2026-10-19T07:35:34Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 記事「肥満症対策を「攻めの予防医療」の柱に」（日付：2026-10-19）&lt;/li&gt;&lt;li&gt;変更: 「「MRI検査時の植え込み機器確認が不十分」と注意喚起」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_782e259.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 記事「肥満症対策を「攻めの予防医療」の柱に」（日付：2026-10-19）&lt;/li&gt;&lt;li&gt;変更: 「「MRI検査時の植え込み機器確認が不十分」と注意喚起」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_782e259.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261019134509/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 記事「70歳以上高齢者の医療機関窓口負担、現役世代と同じく「原則3割」に引き上げていくべきか—社保審・医療保険部会（2）」（2026.10.19.（月））が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/da8c573af585d0b769b3420251785f7de943c67e</id>
     <updated>2026-10-19T07:35:30Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「70歳以上高齢者の医療機関窓口負担、現役世代と同じく「原則3割」に引き上げていくべきか—社保審・医療保険部会（2）」（2026.10.19.（月））が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「ショートステイの長期利用適正化に向け減額を厳格化、医療ショートの総合医学管理加算を限度支給額「外」へ—社保審・介護給付費分科会（2）」「オンライン資格確認に用いる「第2世代顔認証付きカードリーダー」の3社製品が出揃う！購入額の一部を国が補助—厚労省」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_da8c573.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「70歳以上高齢者の医療機関窓口負担、現役世代と同じく「原則3割」に引き上げていくべきか—社保審・医療保険部会（2）」（2026.10.19.（月））が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「ショートステイの長期利用適正化に向け減額を厳格化、医療ショートの総合医学管理加算を限度支給額「外」へ—社保審・介護給付費分科会（2）」「オンライン資格確認に用いる「第2世代顔認証付きカードリーダー」の3社製品が出揃う！購入額の一部を国が補助—厚労省」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_da8c573.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261019083046/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>AnswersNews: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/answersnews/a84ea271755ea8b7ecc26dc49888926fe3f397ed</id>
     <updated>2026-10-19T07:35:29Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/answersnews/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_a84ea27.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_a84ea27.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261019082905/https://answers.and-pro.jp/pharmanews/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>薬事日報: 変更: 「【武田薬品】ナルコレプシー新薬登場‐日・中同時発売、診断に課題」ほか 10 件の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/6289fb75df7837b328d35eb68b6b08a3a0b88167</id>
     <updated>2026-10-19T03:34:14Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「【武田薬品】ナルコレプシー新薬登場‐日・中同時発売、診断に課題」ほか 10 件の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 【生物由来技術部会】ステミラックが正式承認へ‐条件期限付から本承認は初&lt;/li&gt;&lt;li&gt;追加: 【厚労省】地域薬剤師会に最大1000万円‐医薬品提供体制モデル事業&lt;/li&gt;&lt;li&gt;追加: 【新製品】『エクセル』から、手肌も心も包み込む「フレグランスハンドミルク」が限定登場&lt;/li&gt;&lt;li&gt;追加: 【大塚メディカルデバイス】Paradise超音波式腎デナベーションシステム、「グッドデザイン賞&lt;/li&gt;&lt;li&gt;追加: 【訃報】渡邉新氏（アルフレッサホールディングス元代表取締役会長）が死去&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_6289fb7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「【武田薬品】ナルコレプシー新薬登場‐日・中同時発売、診断に課題」ほか 10 件の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 【生物由来技術部会】ステミラックが正式承認へ‐条件期限付から本承認は初&lt;/li&gt;&lt;li&gt;追加: 【厚労省】地域薬剤師会に最大1000万円‐医薬品提供体制モデル事業&lt;/li&gt;&lt;li&gt;追加: 【新製品】『エクセル』から、手肌も心も包み込む「フレグランスハンドミルク」が限定登場&lt;/li&gt;&lt;li&gt;追加: 【大塚メディカルデバイス】Paradise超音波式腎デナベーションシステム、「グッドデザイン賞&lt;/li&gt;&lt;li&gt;追加: 【訃報】渡邉新氏（アルフレッサホールディングス元代表取締役会長）が死去&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_6289fb7.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261019102500/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>メディカルトリビューン: 変更: 「鼻の不快感を緩和するサプリメント登場」「〔10pt進呈〕岩井拓磨氏が紹介した研究で示された、高齢大腸がん患者の独立した予後予測因子に「含まれない」ものは？【MT医療検定…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/30a5ff325f4b9331ae489fb67b622ea67d4d264f</id>
     <updated>2026-10-19T03:34:11Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「鼻の不快感を緩和するサプリメント登場」「〔10pt進呈〕岩井拓磨氏が紹介した研究で示された、高齢大腸がん患者の独立した予後予測因子に「含まれない」ものは？【MT医療検定 No.140】（10/21まで）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_30a5ff3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「鼻の不快感を緩和するサプリメント登場」「〔10pt進呈〕岩井拓磨氏が紹介した研究で示された、高齢大腸がん患者の独立した予後予測因子に「含まれない」ものは？【MT医療検定 No.140】（10/21まで）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_30a5ff3.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261019134509/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 記事「一般病床・7月分、コロナ禍以降は「在院日数短縮による医療の質向上」と「病床利用率向上による経営の質向上」両立！—病院報告」（2026.10.19.（月））が掲載され…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/dfedb65919bc654ecb6b49f58d37c063f630dc8c</id>
     <updated>2026-10-19T03:34:06Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「一般病床・7月分、コロナ禍以降は「在院日数短縮による医療の質向上」と「病床利用率向上による経営の質向上」両立！—病院報告」（2026.10.19.（月））が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「患者の体内に植込まれた医療機器」等を十分に確認せずにMRI検査を実施してしまう医療事故が依然として散発—医療機能評価機構」「認知症対応型グループホーム、3ユニットでの夜勤職員配置緩和の対象を拡大すべきか？—社保審・介護給付費分科会」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_dfedb65.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「一般病床・7月分、コロナ禍以降は「在院日数短縮による医療の質向上」と「病床利用率向上による経営の質向上」両立！—病院報告」（2026.10.19.（月））が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「患者の体内に植込まれた医療機器」等を十分に確認せずにMRI検査を実施してしまう医療事故が依然として散発—医療機能評価機構」「認知症対応型グループホーム、3ユニットでの夜勤職員配置緩和の対象を拡大すべきか？—社保審・介護給付費分科会」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_dfedb65.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261019083046/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>AnswersNews: 追加: 「外資製薬企業、日本でスタートアップ支援…創薬の初期段階から関与、エコシステム構築狙う」（2026/10/19）が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/answersnews/dcace54af73eb05b5ece822b7e806934eb935e93</id>
     <updated>2026-10-19T03:34:06Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/answersnews/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「外資製薬企業、日本でスタートアップ支援…創薬の初期段階から関与、エコシステム構築狙う」（2026/10/19）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「AIが予測していたノバルティスの最終治験失敗…AI企業、シミュレーションで臨床試験の成功率向上目指す」（2026/10/09）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_dcace54.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「外資製薬企業、日本でスタートアップ支援…創薬の初期段階から関与、エコシステム構築狙う」（2026/10/19）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「AIが予測していたノバルティスの最終治験失敗…AI企業、シミュレーションで臨床試験の成功率向上目指す」（2026/10/09）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_dcace54.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261019082905/https://answers.and-pro.jp/pharmanews/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>薬事日報: 変更: 「【日薬会長協議会】OTCリスク区分見直しを‐ロキソニン契機に意見噴出」ほか 15 件の記載が消えました。</title>
@@ -322,33 +350,5 @@
     <updated>2026-10-14T22:33:31Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【ツムラ／熊本県】生薬栽培通じ地域活性化‐連携協定を締結（2026年10月15日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【NPhA】中医協委員参画に名乗り‐治験支援薬局で創薬に貢献（2026年10月15日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: プレスリリース・タイトルリスト　2026/10/14&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: プレスリリース・タイトルリスト：新製品　2026/10/14&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 行政情報リスト　2026/10/14&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_54ef0b2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261015031932/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>gemmed: 追加: 「サイバーセキュリティ対策は経営課題」と位置づけ、必要な投資や人的体制整備を含む対策を強化せよ—国家サイバー統括室（2026.10.15.）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/45a60d07b2766251e3577bf3a96a0faca86d3466</id>
-    <updated>2026-10-14T22:33:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「サイバーセキュリティ対策は経営課題」と位置づけ、必要な投資や人的体制整備を含む対策を強化せよ—国家サイバー統括室（2026.10.15.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年9月までに累計3947件の医療事故が報告され、うち89.2％で院内調査が完了—日本医療安全調査機構（2026.10.13.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「食道がんに対するニボルマブ（オプジーボ）併用療法」、5年間の長期追跡で長期的な有効性・安全性を確認—国がん（2026.10.8.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_45a60d0.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261015032601/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>AnswersNews: 追加: 連載・コラム「異国の地で感じた『日本の医療の良さ』これからも残していくためには【コラム】」（2026/10/15）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/answersnews/62c04897478a9c348dccc8d774a8e16126c501ab</id>
-    <updated>2026-10-14T22:33:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/answersnews/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 連載・コラム「異国の地で感じた『日本の医療の良さ』これからも残していくためには【コラム】」（2026/10/15）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 製薬業界きょうのニュースまとめ読み（2026年10月14日）「ネクセラ『クービビック』台湾企業とアジア太平洋8カ国のライセンス契約／リズムファーマ『イムシブリー』発売、日本市場に本格参入 など」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 製薬業界 今月の転職求人動向レポート（2026年10月）「MR、選択肢豊富な状況続く…製造やメディカルなども堅調」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 製薬業界きょうのニュースまとめ読み（2026年10月13日）「旭化成、HSV治療薬が米国で承認…年内発売へ／モデルナ、XFG対応の『スパイクバックス6カ月～11歳用』発売」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 薬の地政学 #2「『世界の工場』から『創薬国』へ…新薬開発で台頭する中国」（2026/10/08）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: トピックス「『オーゼイフル』『ブリヌスプリ』『ヒブサーゴ』など11新薬、10月14日収載」（2026/10/07）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_62c0489.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261015021149/https://answers.and-pro.jp/pharmanews/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>gemmed: 追加: HTLV－1関連脊髄症の疾患活動性分類の補助、「結核・非結核性抗酸菌感染」診断の補助を行う検査の点数算定ルール設定—厚労省（2026.10.14.）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/98794d9686cd6ed5717b2157f3caf2ebdaf0bd4c</id>
-    <updated>2026-10-14T07:33:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: HTLV－1関連脊髄症の疾患活動性分類の補助、「結核・非結核性抗酸菌感染」診断の補助を行う検査の点数算定ルール設定—厚労省（2026.10.14.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 「夜間中心＋日中に一定対応」行う定期巡回・随時対応の新報酬区分設定、小多機の要介護1・2の報酬アップへ—社保審・介護給付費分科会（2026.10.13.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2025年度の1か月医療費上位1―5位は脊髄性筋萎縮症患者で各々1億7000万円程度、1000万円超レセは2907件で過去最高更新―健保連（2026.10.8.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_98794d9.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261014083236/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>AnswersNews: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/answersnews/6b408bc7db0bb126c5c8320cad52c1ba3c9cd1fa</id>
-    <updated>2026-10-14T07:33:21Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/answersnews/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://answers.and-pro.jp/pharmanews/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/answersnews/diff_6b408bc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261014082849/https://answers.and-pro.jp/pharmanews/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

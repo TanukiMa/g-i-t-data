@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本生理学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/physiology.xml</id>
-  <updated>2026-10-19T07:35:37Z</updated>
+  <updated>2026-10-19T22:33:45Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/physiology.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/physiology/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本生理学会: 追加: お知らせ「自然科学研究機構Open Mix Lab（OML）公募研究プログラム」（2026-10-19）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/physiology/2903e7c8031c484ec139bad66f13fbc2b659af04</id>
+    <updated>2026-10-19T22:33:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/physiology/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: お知らせ「自然科学研究機構Open Mix Lab（OML）公募研究プログラム」（2026-10-19）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第68回藤原賞受賞候補者推薦について」（2026-10-09）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【日本生理学会】学会賞候補者の募集（〆切：10/19(月)）※延長しました」（2026-08-24）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.physiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/physiology/diff_2903e7c.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本生理学会: 追加：2026-10-19 京都大学・理学研究科・生物科学専攻　助教</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/physiology/5e28c5def112b2c699bc2564f023e5b22c62744d</id>
