@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 国立健康危機管理研究機構 感染症情報提供サイト</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jihsinfo.xml</id>
-  <updated>2026-10-19T07:35:31Z</updated>
+  <updated>2026-10-20T03:35:02Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jihsinfo.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jihsinfo/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>国立健康危機管理研究機構 感染症情報提供サイト: 追加: 「IDWR速報データ 2026年第41週」の記載が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jihsinfo/f609d0b4d82d868ea2b8e747cabb5d393d415fb8</id>
+    <updated>2026-10-20T03:35:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jihsinfo/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「IDWR速報データ 2026年第41週」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「麻疹 発生動向調査」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「風疹 発生動向調査」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「感染症発生動向調査週報ダウンロード2026年」ほか 6 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://id-info.jihs.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jihsinfo/diff_f609d0b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>国立健康危機管理研究機構 感染症情報提供サイト: 追加: 「2026年10月19日 「感染症発生動向調査週報ダウンロード2026年」の記事を更新しました」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jihsinfo/c150eea65ed775e3416693822801ed1d42ac4b05</id>

@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医療法人協会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/ajhcorjp.xml</id>
-  <updated>2026-10-19T07:35:29Z</updated>
+  <updated>2026-10-20T03:34:59Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/ajhcorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ajhcorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医療法人協会: 追加: 「2026年度病院経営定期調査 -中間報告(集計結果)-」（siryo/20261020report.pdf）の記載が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/ajhcorjp/4b3f4ec757f061e72cfcee387cbe04a6ad2966ee</id>
+    <updated>2026-10-20T03:34:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ajhcorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2026年度病院経営定期調査 -中間報告(集計結果)-」（siryo/20261020report.pdf）の記載が追加されました。&lt;/li&gt;&lt;li&gt;変更: 「街から病院が消える！？」（siryo/think-hospital.pdf）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ajhc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ajhcorjp/diff_4b3f4ec.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医療法人協会: 追加: 2026/10/19付のおしらせに「『事業場における労働者の健康保持増進のための指針の一部を改正する件』の周知等について」、および関連資料「新旧対照表」「事業場における労…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ajhcorjp/b22de9619856d33191f5c09e46be9fd784332e70</id>

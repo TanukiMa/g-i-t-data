@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 医療情報基盤・診療報酬審査支払機構（DX審査支払機構）</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/hpdx.xml</id>
-  <updated>2026-10-19T03:34:07Z</updated>
+  <updated>2026-10-20T03:35:01Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/hpdx.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 変更: 「令和8年10月5日 医療機関等 「受付・事務点検ＡＳＰに係るチェック一覧」を更新しました」「令和8年10月1日 プレスリリース 医療情報基盤・診療報酬審査支払機構の発足…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/cdc61e5a69fafcf2484d607ce4d6891c38b9f06b</id>
+    <updated>2026-10-20T03:35:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「令和8年10月5日 医療機関等 「受付・事務点検ＡＳＰに係るチェック一覧」を更新しました」「令和8年10月1日 プレスリリース 医療情報基盤・診療報酬審査支払機構の発足」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和8年10月20日に「令和8年度診療報酬改定関係を更新しました」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_cdc61e5.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 変更：「令和8年10月1日」の「「審査の差異の可視化レポート」の「多くの付箋がつくコンピュータチェック事例」の検証後(医科4事例、調剤1事例)、フォローアップ検証後(歯科2事例)…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/aaca288fa53ace622a13441e7ffb6627ced19768</id>

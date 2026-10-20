@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 放射線・画像・検査</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-aec86b6d.xml</id>
-  <updated>2026-10-19T07:35:36Z</updated>
+  <updated>2026-10-20T03:35:04Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-aec86b6d.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本核医学会: 追加: 2026.10.20付で「日本脳神経核医学研究会 学術奨励賞のお知らせ」が追加されました（https://jsnm.org/archives/10431/）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsnm/3000df06636e938876cddb62fa01965871bd951c</id>
+    <updated>2026-10-20T03:35:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsnm/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.20付で「日本脳神経核医学研究会 学術奨励賞のお知らせ」が追加されました（https://jsnm.org/archives/10431/）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第23回日本核医学会研究奨励賞の募集延長のお知らせ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsnm.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsnm/diff_3000df0.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>画像診断ガイドライン: 変更：「総論」「作成委員/利益相反」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jrs-guideline/9c5ae505b7a037e70c485fd3e59d1c62d5217c64</id>
+    <updated>2026-10-20T03:35:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jrs-guideline/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「総論」「作成委員/利益相反」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jrs-gl.radiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jrs-guideline/diff_9c5ae50.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本病理学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pathology/66fa29a6291e6690abe0d84d3aacc29e82c65733</id>

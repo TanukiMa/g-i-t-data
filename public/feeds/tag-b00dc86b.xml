@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 医療DX・医療情報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-b00dc86b.xml</id>
-  <updated>2026-10-19T22:33:46Z</updated>
+  <updated>2026-10-20T03:35:06Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-b00dc86b.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「第58回（2027年）日本看護学会学術集会」（https://jna2027.umin.jp/）のリンクが追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/d722c153d125830cdd0f74255b2eb60ef265b119</id>
+    <updated>2026-10-20T03:35:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第58回（2027年）日本看護学会学術集会」（https://jna2027.umin.jp/）のリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.8.29(土)-30(日)第52回皮膚かたち研究学会学術大会(川崎) 開催」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_d722c15.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 変更: 「令和8年10月5日 医療機関等 「受付・事務点検ＡＳＰに係るチェック一覧」を更新しました」「令和8年10月1日 プレスリリース 医療情報基盤・診療報酬審査支払機構の発足…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/cdc61e5a69fafcf2484d607ce4d6891c38b9f06b</id>
+    <updated>2026-10-20T03:35:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「令和8年10月5日 医療機関等 「受付・事務点検ＡＳＰに係るチェック一覧」を更新しました」「令和8年10月1日 プレスリリース 医療情報基盤・診療報酬審査支払機構の発足」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和8年10月20日に「令和8年度診療報酬改定関係を更新しました」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_cdc61e5.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「学校法人産業医科大学 産業保健学部作業環境計測制御学講座 教授公募」「防衛大学校 総務部　衛生課 医師公募」の記載が加わりました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/209abec52abcbc0ee853d7fc9fa1675debe0cbe1</id>
@@ -20,7 +34,7 @@
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx-kihonmasta-01/6bf1a72d9f1f7c2867227593e27c8c0377e0b4d5</id>
     <updated>2026-10-19T22:33:42Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-kihonmasta-01/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「傷病名マスター」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「コメントマスター」へのリンクが追加されました（リンク先URL: &lt;code&gt;/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_06.html&lt;/code&gt;）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-kihonmasta-01/diff_6bf1a72.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「傷病名マスター」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「コメントマスター」へのリンクが追加されました（リンク先URL: &lt;code&gt;/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_06.html&lt;/code&gt;）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-kihonmasta-01/diff_6bf1a72.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261020011645/https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 変更：「令和8年10月1日」の「「審査の差異の可視化レポート」の「多くの付箋がつくコンピュータチェック事例」の検証後(医科4事例、調剤1事例)、フォローアップ検証後(歯科2事例)…</title>
@@ -329,12 +343,5 @@
     <updated>2026-10-07T15:57:24Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;変更: 教職員・その他公募の掲載一覧が更新され、山口大学、東京女子医科大学、香川大学、愛媛大学などの公募情報が新たに追加・入れ替えられました。&lt;/li&gt;&lt;li&gt;変更:UMIN臨床試験登録（UMIN-CTR）の新着臨床研究一覧が更新され、慶應義塾大学、旭川医科大学、日本赤十字社医療センター、東北大学などの試験情報が新たに追加・入れ替えられました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_bc19aa6.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008084210/https://www.umin.ac.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本医療情報学会: 追加: 「医療情報学」第46巻4号を会員専用ページのオンラインジャーナルに掲載しました。（2026年10月7日）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jami/2209e206fdb54666851e5c9940103c736b763730</id>
-    <updated>2026-10-07T12:20:01Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jami/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「医療情報学」第46巻4号を会員専用ページのオンラインジャーナルに掲載しました。（2026年10月7日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jami.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jami/diff_2209e20.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
