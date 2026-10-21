@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 感染症</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-51296db9.xml</id>
-  <updated>2026-10-20T22:34:12Z</updated>
+  <updated>2026-10-21T07:33:44Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-51296db9.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 感染症情報: 変更: 「2026年10月16日更新 インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlwinfection/4a784e057624d1ff4a2e6c7bfd7fb7c02634d12c</id>
+    <updated>2026-10-21T07:33:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlwinfection/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年10月16日更新 インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月21日掲載の「薬剤耐性(AMR)に関する記者勉強会のお知らせ」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlwinfection/diff_4a784e0.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>国立健康危機管理研究機構 感染症情報提供サイト: 追加: 「日本の輸入感染症例の動向について」の記事を更新しました（2026年10月21日、関連情報ページへのリンク追加）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jihsinfo/fbac4dc5a6750003a8c862350a2e201053261acb</id>
+    <updated>2026-10-21T07:33:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jihsinfo/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「日本の輸入感染症例の動向について」の記事を更新しました（2026年10月21日、関連情報ページへのリンク追加）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年夏季におけるインフルエンザの流行入りとインフルエンザウイルスについて」の記事を更新しました および 2026年10月20日の記載が消えました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://id-info.jihs.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jihsinfo/diff_fbac4dc.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 感染症情報: 変更: 「インフルエンザの発生状況を更新しました」（2026年10月16日掲載）の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlwinfection/2ee846fae099427d2720a3c4438e40d89b89a491</id>
