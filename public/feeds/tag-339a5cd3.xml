@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 医療安全</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-339a5cd3.xml</id>
-  <updated>2026-10-21T03:34:06Z</updated>
+  <updated>2026-10-22T22:34:33Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-339a5cd3.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>薬局ヒヤリ・ハット事例収集・分析事業: 追加：2026.10.22 - PHPに関する脆弱性に関して、薬局ヒヤリ・ハット事例収集・分析事業で使用しているシステムではPHPを使用していない旨の告知が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakkyoku-hiyari/5d3b8e7b56dc8e11285bc970f82e35aedb5d6147</id>
+    <updated>2026-10-22T22:34:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakkyoku-hiyari/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：2026.10.22 - PHPに関する脆弱性に関して、薬局ヒヤリ・ハット事例収集・分析事業で使用しているシステムではPHPを使用していない旨の告知が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakkyoku-hiyari.jcqhc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakkyoku-hiyari/diff_5d3b8e7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>医療事故情報収集等事業: 追加: 2026.10.22 - 現在、PHPに関する脆弱性が報告されておりますが、医療事故情報収集等事業で使用しているシステムでは、PHPを使用しておりません。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/med-safejp/6f49ea37daee9c3c5875b83ac2fd6b5ef090e15f</id>
+    <updated>2026-10-22T22:34:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/med-safejp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.22 - 現在、PHPに関する脆弱性が報告されておりますが、医療事故情報収集等事業で使用しているシステムでは、PHPを使用しておりません。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med-safe.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/med-safejp/diff_6f49ea3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医療安全調査機構: 追加: 2026/10/21 「2027年1月4日から「報告様式」が変更になります。」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medsafeorjp/faefdb57807d4b2f7f0094caf40d2d3a66cc952f</id>

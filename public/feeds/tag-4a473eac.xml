@@ -2,46 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 医薬品・医療機器</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-4a473eac.xml</id>
-  <updated>2026-10-22T07:36:56Z</updated>
+  <updated>2026-10-22T22:34:33Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-4a473eac.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>薬事日報: 追加: 【厚労省】GLP1適正使用を再周知‐美容目的のケトーシスで</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/ddc6da9d2a507ada3ed2d0310bb1ec8811719ed3</id>
+    <updated>2026-10-22T22:34:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 【厚労省】GLP1適正使用を再周知‐美容目的のケトーシスで&lt;/li&gt;&lt;li&gt;追加: 【PMDA】CDx該当性で留意事項‐抗癌剤開発早期に相談を&lt;/li&gt;&lt;li&gt;追加: 【GE・BS学会】ニトロソアミン類で提言‐リスク応じ段階管理を&lt;/li&gt;&lt;li&gt;追加: 宮城県医薬品卸協会が創立‐法人化で社会貢献果たす&lt;/li&gt;&lt;li&gt;変更: 「米FDA、直腸がんの標準治療を回避できる可能性がある新薬を承認」「【地方私立4医科大】創薬研究活性化へ連携体制‐薬学教育の魅力向上期待」「【セルフM振興財団】セルフM担う薬剤師育成へ‐シンポでOTC適正使用議論」「【大阪医薬大薬学部】3年生対象に中期体験学習‐キャリア意識の向上図る」「【武田薬品】実薬比較試験で有意な結果‐乾癬薬候補ザソシチニブ」ほか 7 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_ddc6da9.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>薬局ヒヤリ・ハット事例収集・分析事業: 追加：2026.10.22 - PHPに関する脆弱性に関して、薬局ヒヤリ・ハット事例収集・分析事業で使用しているシステムではPHPを使用していない旨の告知が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakkyoku-hiyari/5d3b8e7b56dc8e11285bc970f82e35aedb5d6147</id>
+    <updated>2026-10-22T22:34:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakkyoku-hiyari/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：2026.10.22 - PHPに関する脆弱性に関して、薬局ヒヤリ・ハット事例収集・分析事業で使用しているシステムではPHPを使用していない旨の告知が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakkyoku-hiyari.jcqhc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakkyoku-hiyari/diff_5d3b8e7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 変更: 「2026年10月7日 救済 生物由来製品等の一覧を更新しました」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/fa47c6d657574e59d99f1ff8437265ece53a11a6</id>
+    <updated>2026-10-22T22:34:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年10月7日 救済 生物由来製品等の一覧を更新しました」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「現在、該当する情報はありません。」の記載が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_fa47c6d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本薬剤師会: 変更: 「【重要】生涯学習支援システム【JPALS】、 健康サポート薬局e-ラーニング研修システムの緊急メンテナンスのお知らせ」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/nichiyakuorjp/5865b0f71e217dc1f6f655fe4077b82056f3e5a6</id>
+    <updated>2026-10-22T22:34:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nichiyakuorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【重要】生涯学習支援システム【JPALS】、 健康サポート薬局e-ラーニング研修システムの緊急メンテナンスのお知らせ」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.22付で「【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「安全・安心な医療と健康を守る薬剤師の役割を発信、「3 つの安心」をテーマに3 団体が共同広告を実施」を公表しました」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.nichiyaku.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nichiyakuorjp/diff_5865b0f.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本病院薬剤師会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jshporjp/887c796cbaec9da166374fc6797285a328a7b68a</id>
+    <updated>2026-10-22T22:34:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshporjp/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jshp.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshporjp/diff_887c796.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>薬事日報: 追加: 「米FDA、直腸がんの標準治療を回避できる可能性がある新薬を承認」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/0827b8da18a10cec42e3ca08bcbd3d6ba14df214</id>
     <updated>2026-10-22T07:36:56Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「米FDA、直腸がんの標準治療を回避できる可能性がある新薬を承認」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「CRA（臨床開発モニター）とは？CROとの関係・仕事内容・CRCとの違いを解説」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【地方私立4医科大】創薬研究活性化へ連携体制‐薬学教育の魅力向上期待」ほか 4 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_0827b8d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「米FDA、直腸がんの標準治療を回避できる可能性がある新薬を承認」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「CRA（臨床開発モニター）とは？CROとの関係・仕事内容・CRCとの違いを解説」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【地方私立4医科大】創薬研究活性化へ連携体制‐薬学教育の魅力向上期待」ほか 4 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_0827b8d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261022132224/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加：2026年10月22日 - 「「小児・希少疾病用医薬品等薬事相談センター事業」に係る相談手数料の助成についてに関する質疑応答集（Q＆A）」を掲載しました</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/be3ed08130e4afb126ea9fff451bfc527be825ed</id>
     <updated>2026-10-22T07:36:56Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：2026年10月22日 - 「「小児・希少疾病用医薬品等薬事相談センター事業」に係る相談手数料の助成についてに関する質疑応答集（Q＆A）」を掲載しました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「日局におけるPDG調和文書への対応状況（試験法等）を更新しました」（2026年10月13日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_be3ed08.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：2026年10月22日 - 「「小児・希少疾病用医薬品等薬事相談センター事業」に係る相談手数料の助成についてに関する質疑応答集（Q＆A）」を掲載しました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「日局におけるPDG調和文書への対応状況（試験法等）を更新しました」（2026年10月13日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_be3ed08.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261022080608/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本医療機器学会: 追加: 2026年10月22日付で「日本医療機器学会誌「医療機器学」最新号（10月号）のお知らせ」が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsmi/9b69a524ab65b782ceffc0b799c5583092b32858</id>
     <updated>2026-10-22T07:36:54Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsmi/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月22日付で「日本医療機器学会誌「医療機器学」最新号（10月号）のお知らせ」が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年7月16日 日本医療機器学会誌「医療機器学」最新号（6月号）のお知らせ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsmi.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsmi/diff_9b69a52.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月22日付で「日本医療機器学会誌「医療機器学」最新号（10月号）のお知らせ」が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年7月16日 日本医療機器学会誌「医療機器学」最新号（6月号）のお知らせ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsmi.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsmi/diff_9b69a52.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261022132436/https://www.jsmi.gr.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>薬事日報: 追加: 「【地方私立4医科大】創薬研究活性化へ連携体制‐薬学教育の魅力向上期待」の記載が加わりました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/289120709d77b2dd7481cebb27f0cb5a5039fb06</id>
     <updated>2026-10-22T03:35:24Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「【地方私立4医科大】創薬研究活性化へ連携体制‐薬学教育の魅力向上期待」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【セルフM振興財団】セルフM担う薬剤師育成へ‐シンポでOTC適正使用議論」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【大阪医薬大薬学部】3年生対象に中期体験学習‐キャリア意識の向上図る」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【武田薬品】実薬比較試験で有意な結果‐乾癬薬候補ザソシチニブ」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【順天堂大】「ヒト3D生体システムの統合AI基盤モデル」、JSTの「ARiSE」に採択」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【NEC】「働く人のAIとウェルビーイングに関する意識調査」‐業務でのAI活用満足度は7割弱」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「行政情報リスト 2026/10/21」「プレスリリース・タイトルリスト：新製品 2026/10/21」「プレスリリース・タイトルリスト 2026/10/21」ほか 10 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_2891207.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「【地方私立4医科大】創薬研究活性化へ連携体制‐薬学教育の魅力向上期待」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【セルフM振興財団】セルフM担う薬剤師育成へ‐シンポでOTC適正使用議論」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【大阪医薬大薬学部】3年生対象に中期体験学習‐キャリア意識の向上図る」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【武田薬品】実薬比較試験で有意な結果‐乾癬薬候補ザソシチニブ」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【順天堂大】「ヒト3D生体システムの統合AI基盤モデル」、JSTの「ARiSE」に採択」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「【NEC】「働く人のAIとウェルビーイングに関する意識調査」‐業務でのAI活用満足度は7割弱」の記載が加わりました。&lt;/li&gt;&lt;li&gt;追加: 「行政情報リスト 2026/10/21」「プレスリリース・タイトルリスト：新製品 2026/10/21」「プレスリリース・タイトルリスト 2026/10/21」ほか 10 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_2891207.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261022132224/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 「第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました」（2026年10月22日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/031426368a966f7610900963ac2d81e6f5879422</id>
     <updated>2026-10-22T03:35:23Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました」（2026年10月22日）&lt;/li&gt;&lt;li&gt;変更: 「一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 「専門委員名簿を更新しました」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_0314263.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました」（2026年10月22日）&lt;/li&gt;&lt;li&gt;変更: 「一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 「専門委員名簿を更新しました」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_0314263.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261022080608/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>薬事日報: 追加: 「プレスリリース・タイトルリスト　2026/10/21」（2026年10月21日 (水)）の記載が追加されました。</title>
@@ -322,40 +357,5 @@
     <updated>2026-10-15T03:34:02Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月15日 イベント 第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年10月6日 調達 一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入業務）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年9月30日 医薬品 医療機器 再生 人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年9月30日 医療機器 「令和8年度 小児用医療機器の承認申請支援事業の実施について」を掲載しました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年9月30日 救済 副用救済給付の決定に関する情報（2026年度7月分）を掲載しました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年9月30日 全製品 PMDA Updates（2026 No.3）を掲載しました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_a04c2ed.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261015092104/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本医療機器産業連合会: 追加: 2026.10.15(木) MDPROレポート：医機連通信第349号より「あらためて活用したい日銀の物価指数…</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jfmdagrjp/1978ad1be8a9d43be9f1e2f466ebf5a40e577dd8</id>
-    <updated>2026-10-15T03:33:57Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jfmdagrjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.15(木) MDPROレポート：医機連通信第349号より「あらためて活用したい日銀の物価指数…&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026.08.18(火) MDPROレポート：医機連通信第347号より「2023～2025年度のニュースト…&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jfmda.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jfmdagrjp/diff_1978ad1.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261015053056/https://www.jfmda.gr.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>薬事日報: 追加: 【ツムラ／熊本県】生薬栽培通じ地域活性化‐連携協定を締結（2026年10月15日）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/54ef0b2036707112b9c0173e768ac66d2e3d86f4</id>
-    <updated>2026-10-14T22:33:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【ツムラ／熊本県】生薬栽培通じ地域活性化‐連携協定を締結（2026年10月15日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【NPhA】中医協委員参画に名乗り‐治験支援薬局で創薬に貢献（2026年10月15日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: プレスリリース・タイトルリスト　2026/10/14&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: プレスリリース・タイトルリスト：新製品　2026/10/14&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 行政情報リスト　2026/10/14&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_54ef0b2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261015031932/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/743d63e7b6d74e74d55696dfbc0fd885f93b46df</id>
-    <updated>2026-10-14T22:33:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_743d63e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261015031758/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 削除: 2026年9月29日付の「医薬品・医療機器等安全性情報 No.432（厚生労働省発行）を掲載しました」の案内</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/8b8edae5e14b9e77c847c6a74bcf75225fa58492</id>
-    <updated>2026-10-14T07:33:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年9月29日付の「医薬品・医療機器等安全性情報 No.432（厚生労働省発行）を掲載しました」の案内&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年9月29日付の「「医薬品に関する評価中のリスク等の情報について」を掲載しました」の案内&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 2026年9月29日付の「第13回日台医薬交流会議のご案内を掲載しました」のイベント情報&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_8b8edae.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261014093955/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本保険薬局協会: 追加: 事務局からのお知らせとして、2026.10.14付で「骨太方針2026等を踏まえた薬局・薬剤師政策に関する当協会の考え方」の公表について追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/nipponpaorg/b74d65969824156c4685e7e5fc3c9d078b2f6519</id>
-    <updated>2026-10-14T07:33:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nipponpaorg/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 事務局からのお知らせとして、2026.10.14付で「骨太方針2026等を踏まえた薬局・薬剤師政策に関する当協会の考え方」の公表について追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://secure.nippon-pa.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nipponpaorg/diff_b74d659.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261015015332/https://secure.nippon-pa.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
