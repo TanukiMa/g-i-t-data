@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本内科学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/naika.xml</id>
-  <updated>2026-10-21T07:33:44Z</updated>
+  <updated>2026-10-22T03:35:23Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/naika.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/naika/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本内科学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/naika/fa3b73a1dd28c472eef34729579fc13a577093ce</id>
+    <updated>2026-10-22T03:35:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/naika/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.naika.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/naika/diff_fa3b73a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本内科学会: 変更：「会場内禁煙について」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/naika/056d8f0dbf1fe5a2b562bffd5a2b4956ba7ad29c</id>
