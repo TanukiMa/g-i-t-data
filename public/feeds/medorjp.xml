@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/medorjp.xml</id>
-  <updated>2026-10-20T07:33:57Z</updated>
+  <updated>2026-10-22T07:36:55Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/medorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医師会: 変更：医師向け情報共有サイトのリンク先が「https://mamis.med.or.jp/login」に変更され、名称が「◇MAMIS」となりました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/04816dfaac68532617b0b7598e7ce79e53cbd1b8</id>
+    <updated>2026-10-22T07:36:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：医師向け情報共有サイトのリンク先が「https://mamis.med.or.jp/login」に変更され、名称が「◇MAMIS」となりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「発送停止・再開フォーム」のバナーに「(工事中)」の文言が追加され、alt属性が空欄に変更されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「◆医師会事務局向け情報共有サイト」（会員情報システム）およびイベント情報の予約フォームへのリンクが消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_04816df.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医師会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/0fdbd0e9811bce203e3d1fbb21da844529537eab</id>
