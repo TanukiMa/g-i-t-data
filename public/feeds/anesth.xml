@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本麻酔科学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/anesth.xml</id>
-  <updated>2026-10-21T07:33:39Z</updated>
+  <updated>2026-10-23T22:34:32Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/anesth.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/anesth/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本麻酔科学会: 追加：「Webサイト（一般ページ）のアクセス停止のお詫びと一部復旧のお知らせ」（2026.10.23）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/anesth/0058e8e74570ea789629a10e61b628b68d060e7c</id>
+    <updated>2026-10-23T22:34:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/anesth/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：「Webサイト（一般ページ）のアクセス停止のお詫びと一部復旧のお知らせ」（2026.10.23）&lt;/li&gt;&lt;li&gt;変更：「新会員専用ページの稼働開始後の事象発生について」（2025.04.08）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://anesth.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/anesth/diff_0058e8e.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本麻酔科学会: 追加：「「麻酔の日」休日特別開館 報告」（2026.10.21）の記載が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/anesth/afec64f41ef135c31b8af9c502c5e8b482b69a6d</id>

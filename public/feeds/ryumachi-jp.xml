@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本リウマチ学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/ryumachi-jp.xml</id>
-  <updated>2026-10-22T22:34:32Z</updated>
+  <updated>2026-10-23T22:34:35Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/ryumachi-jp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ryumachi-jp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本リウマチ学会: 追加: 「JCR Modern Webinar」に関する案内およびバナー画像が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/ryumachi-jp/f7639ed6f35d69ec39fa3b43bce5dd6950654a9a</id>
+    <updated>2026-10-23T22:34:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ryumachi-jp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「JCR Modern Webinar」に関する案内およびバナー画像が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ryumachi-jp.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ryumachi-jp/diff_f7639ed.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本リウマチ学会: 変更: 「JCR Modern Webinar」に関するバナー画像およびリンクの記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ryumachi-jp/1e3079a88651621e364cd10f969fdd3de6cdb5e1</id>

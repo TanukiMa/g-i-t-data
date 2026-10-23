@@ -2,53 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 放射線・画像・検査</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-aec86b6d.xml</id>
-  <updated>2026-10-23T07:36:00Z</updated>
+  <updated>2026-10-23T22:34:34Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-aec86b6d.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>画像診断ガイドライン: 追加: 「総論」へのリンクが追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jrs-guideline/1216e6e6d23fae89730526cbcfd4e20807bf1090</id>
+    <updated>2026-10-23T22:34:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jrs-guideline/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「総論」へのリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「作成委員/利益相反」へのリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jrs-gl.radiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jrs-guideline/diff_1216e6e.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>日本医学放射線学会: 追加: 2026年10月23日「【JIRA（日本画像医療システム工業会）】2026年度 画像医療システム産業研究会 開催のご案内」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/radiology/a1a81dc9389e90d5edb7d60119872719aa6f5ee9</id>
     <updated>2026-10-23T07:36:00Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/radiology/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月23日「【JIRA（日本画像医療システム工業会）】2026年度 画像医療システム産業研究会 開催のご案内」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月23日「【保健･医療･福祉情報セキュアネットワーク基盤普及促進コンソーシアム】HEASNETフォーラム2026開催のご案内」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年10月13日」「AOSR - Webinar(10/26) – AsiaSafe [Chinese Taipei]」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年度 放射線科専門医 施設認定の更新申請・新規申請について」「第67回日本脈管学会学術総会」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.radiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/radiology/diff_a1a81dc.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月23日「【JIRA（日本画像医療システム工業会）】2026年度 画像医療システム産業研究会 開催のご案内」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月23日「【保健･医療･福祉情報セキュアネットワーク基盤普及促進コンソーシアム】HEASNETフォーラム2026開催のご案内」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年10月13日」「AOSR - Webinar(10/26) – AsiaSafe [Chinese Taipei]」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年度 放射線科専門医 施設認定の更新申請・新規申請について」「第67回日本脈管学会学術総会」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.radiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/radiology/diff_a1a81dc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023135922/https://www.radiology.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本臨床細胞学会: 追加: 「第86回細胞検査士教育セミナー　視聴サイトメンテナンス実施のお知らせ」（2026年10月23日）の掲載</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jscc/b3afe72d49e0bd5d856a1fe3dc9abfb92ca59569</id>
     <updated>2026-10-23T07:35:57Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jscc/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第86回細胞検査士教育セミナー　視聴サイトメンテナンス実施のお知らせ」（2026年10月23日）の掲載&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第92回細胞検査士ワークショップ　アクセス障害復旧完了および視聴期間延長のお知らせ」（2026年10月6日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jscc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jscc/diff_b3afe72.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第86回細胞検査士教育セミナー　視聴サイトメンテナンス実施のお知らせ」（2026年10月23日）の掲載&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第92回細胞検査士ワークショップ　アクセス障害復旧完了および視聴期間延長のお知らせ」（2026年10月6日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jscc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jscc/diff_b3afe72.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023141834/https://jscc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本放射線腫瘍学会: 変更: 「第14回放射線治療・物理学セミナー（2026年7月11日）」、「第27回 放射線腫瘍学夏季セミナー（2026年8月1日〜8月2日）」、「第11回日本-台湾シンポジウム（…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jastro/822e5a706f4b6ef3c9e825edd042be9fbca3e2f6</id>
     <updated>2026-10-23T07:35:56Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jastro/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「第14回放射線治療・物理学セミナー（2026年7月11日）」、「第27回 放射線腫瘍学夏季セミナー（2026年8月1日〜8月2日）」、「第11回日本-台湾シンポジウム（2026年9月5日）」、「第11回小児がん放射線治療セミナー（2026年9月12日）」、「第45回がん放射線治療看護セミナー（2026年10月3日）」ほか 5 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jastro.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jastro/diff_822e5a7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「第14回放射線治療・物理学セミナー（2026年7月11日）」、「第27回 放射線腫瘍学夏季セミナー（2026年8月1日〜8月2日）」、「第11回日本-台湾シンポジウム（2026年9月5日）」、「第11回小児がん放射線治療セミナー（2026年9月12日）」、「第45回がん放射線治療看護セミナー（2026年10月3日）」ほか 5 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jastro.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jastro/diff_822e5a7.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023140747/https://www.jastro.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本医学放射線学会: 追加: 2026年10月23日付けで「日本医学放射線和学会賞」「【医療放射線防護連絡協議会】 令和8年度「医療放射線安全管理講習会」開催のお知らせ」「【医療放射線防護連絡協議会】…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/radiology/436d7890b2bff83874cb2597713fde55c4a20f9b</id>
     <updated>2026-10-23T03:35:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/radiology/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月23日付けで「日本医学放射線和学会賞」「【医療放射線防護連絡協議会】 令和8年度「医療放射線安全管理講習会」開催のお知らせ」「【医療放射線防護連絡協議会】令和8年度「医療放射線安全管理講習会」開催のお知らせ」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年10月05日」「第62回秋季臨床大会 JRS-NEXT企画 開催報告」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.radiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/radiology/diff_436d789.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月23日付けで「日本医学放射線和学会賞」「【医療放射線防護連絡協議会】 令和8年度「医療放射線安全管理講習会」開催のお知らせ」「【医療放射線防護連絡協議会】令和8年度「医療放射線安全管理講習会」開催のお知らせ」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年10月05日」「第62回秋季臨床大会 JRS-NEXT企画 開催報告」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.radiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/radiology/diff_436d789.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023135922/https://www.radiology.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本病理学会: 追加: 2026.10.23付で「【続報】会員専用サイトのサービス再開について」が追加されました（リンク先：https://www.pathology.or.jp/news/me…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pathology/6356c5cf9a848cabef26b3c2350e9073f33d6bb7</id>
     <updated>2026-10-23T03:35:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pathology/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.23付で「【続報】会員専用サイトのサービス再開について」が追加されました（リンク先：https://www.pathology.or.jp/news/members/notices/php.html）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pathology.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pathology/diff_6356c5c.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.23付で「【続報】会員専用サイトのサービス再開について」が追加されました（リンク先：https://www.pathology.or.jp/news/members/notices/php.html）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pathology.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pathology/diff_6356c5c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023135730/https://www.pathology.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本神経病理学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsnp/f8fa6e6779a7614951f640a587dd4fab7ec7fb63</id>
     <updated>2026-10-23T03:35:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsnp/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsnp.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsnp/diff_f8fa6e6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsnp.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsnp/diff_f8fa6e6.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023101923/https://www.jsnp.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本病理学会: 追加：2026.10.22付で「【再掲】【周知依頼】日本医学会「第168回日本医学会シンポジウム AIの実臨床応用」（2026/10/24）」の案内が追加されました。</title>
@@ -350,12 +357,5 @@
     <updated>2026-10-06T03:33:53Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jscc/history.html" />
     <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jscc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jscc/diff_ec43e96.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006035710/https://jscc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本医学放射線学会: 削除: 令和8年度専門医試験結果（2026年08月27日）の掲載</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/radiology/7586cea9d0265e27850e075ec832122e70506c7d</id>
-    <updated>2026-10-05T09:40:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/radiology/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 令和8年度専門医試験結果（2026年08月27日）の掲載&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第62回秋季臨床大会 JRS-NEXT企画 開催報告（2026年10月05日）の掲載&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.radiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/radiology/diff_7586cea.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
