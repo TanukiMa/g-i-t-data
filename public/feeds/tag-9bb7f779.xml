@@ -2,18 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 診療報酬・保険</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-9bb7f779.xml</id>
-  <updated>2026-10-22T22:34:31Z</updated>
+  <updated>2026-10-23T03:35:08Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-9bb7f779.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>国民健康保険中央会: 追加：「県在宅保健師等会会報を掲載いたしました。」（2026年10月5日／保健事業情報）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/kokuho/e85814bd0d88ca236182be598c7a8cdf6df0025a</id>
+    <updated>2026-10-23T03:35:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/kokuho/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：「県在宅保健師等会会報を掲載いたしました。」（2026年10月5日／保健事業情報）&lt;/li&gt;&lt;li&gt;変更：「令和８年10月請求におけるオンライン請求システム接続障害について」ほか6件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kokuho.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kokuho/diff_e85814b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/3c993420df2a99bd1e108ac84ba6ae3bd3f1460b</id>
+    <updated>2026-10-23T03:35:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_3c99342.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>協会けんぽ: 変更：「情報提供サービス」の一部メニューおよびけんぽアプリの一時停止の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/kyoukaikenpo/84fa2e21e29a2aff7139966c5e9df0255b708c5e</id>
     <updated>2026-10-22T22:34:31Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/kyoukaikenpo/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「情報提供サービス」の一部メニューおよびけんぽアプリの一時停止の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「情報提供サービス」の一部メニューの一時停止が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kyoukaikenpo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kyoukaikenpo/diff_84fa2e2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「情報提供サービス」の一部メニューおよびけんぽアプリの一時停止の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「情報提供サービス」の一部メニューの一時停止が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kyoukaikenpo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kyoukaikenpo/diff_84fa2e2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023022225/https://www.kyoukaikenpo.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>協会けんぽ: 変更：「電子申請サービス、情報提供サービスおよびけんぽアプリの一時停止」の記載が消えました。</title>
@@ -301,19 +315,5 @@
     <updated>2026-10-07T06:16:35Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;追加: 【医療機関等の皆様へ】照会連絡先が一部変更となっています（リンク先：&lt;code&gt;/user_iryo/index.html&lt;/code&gt;）&lt;/li&gt;&lt;li&gt;削除: 障害者雇用率は法定基準を上回っています（リンク先：&lt;code&gt;/about/kohoshi/Divercity/hoteikoyo.html&lt;/code&gt;）&lt;/li&gt;&lt;li&gt;削除: オンライン請求システムでダウンロード可能なエクセルファイルの拡張子の変更について（リンク先：&lt;code&gt;https://www.hpdx.or.jp/seikyushiharai/iryokikan/index.files/080501_oshirase.pdf&lt;/code&gt;）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_ceef4fa.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008083202/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: 「医療情報基盤・診療報酬審査支払機構の概要（発足式ショートムービー）を掲載しました」のお知らせリンクが追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/e2c4712266038acf2ee2640e0abcd848fb0bc06b</id>
-    <updated>2026-10-06T11:11:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「医療情報基盤・診療報酬審査支払機構の概要（発足式ショートムービー）を掲載しました」のお知らせリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_e2c4712.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006194905/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/0172c89c3121e9c246f863a5291d0844877a9d55</id>
-    <updated>2026-10-06T03:33:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_0172c89.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006032727/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

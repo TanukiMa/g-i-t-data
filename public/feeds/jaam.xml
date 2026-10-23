@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本救急医学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jaam.xml</id>
-  <updated>2026-10-19T22:33:42Z</updated>
+  <updated>2026-10-23T03:35:06Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jaam.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jaam/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本救急医学会: 追加: 2026/10/22付で学会から「はじめての学会参加の手引き（Ver.1）」公開のお知らせが掲載されました（info/2026/info-20261022.html）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jaam/538c2df41f272ab5cf8cc75998735b2d2411a5ec</id>
+    <updated>2026-10-23T03:35:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jaam/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026/10/22付で学会から「はじめての学会参加の手引き（Ver.1）」公開のお知らせが掲載されました（info/2026/info-20261022.html）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jaam.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jaam/diff_538c2df.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本救急医学会: 変更: 「SMAQ救急フェスのご案内」（2026/08/19）、「第12回 全国医学生BLS選手権大会のご案内 ※申込受付開始」（2026/06/09）の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jaam/5a278de18a810971f5d893984efc295f0436fdd6</id>
