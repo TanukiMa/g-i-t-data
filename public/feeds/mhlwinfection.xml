@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省 - 感染症情報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlwinfection.xml</id>
-  <updated>2026-10-22T03:35:22Z</updated>
+  <updated>2026-10-23T07:35:59Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlwinfection.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlwinfection/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 感染症情報: 変更: 「特定接種管理システムの一時停止について」（2026年10月22日掲載）の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlwinfection/9a0ccf2bc5c462ed8ea902f6dd52b1f4059562af</id>
+    <updated>2026-10-23T07:35:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlwinfection/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「特定接種管理システムの一時停止について」（2026年10月22日掲載）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「薬剤耐性(AMR)に関する記者勉強会のお知らせ」（2026年10月21日掲載）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「結核の啓発ツールを更新しました」（2026年10月20日更新）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 新型コロナウイルス感染症に関する報道発表資料を更新しました（2026年10月23日更新）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました（2026年10月23日更新）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: インフルエンザの発生状況を更新しました（2026年10月23日掲載）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlwinfection/diff_9a0ccf2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 感染症情報: 追加: 「特定接種管理システムの一時停止について」（2026年10月22日掲載）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlwinfection/42589c655f5462734d08d11d64d841524559ca89</id>

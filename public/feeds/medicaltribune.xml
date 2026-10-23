@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t メディカルトリビューン</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/medicaltribune.xml</id>
-  <updated>2026-10-23T03:35:08Z</updated>
+  <updated>2026-10-23T07:35:58Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/medicaltribune.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>メディカルトリビューン: 追加: 「CLL/SLL、ピルトブルチニブの前倒しに期待」の記載が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/3b6e5ed8f31f7325ff9b6c33240eb928a0075742</id>
+    <updated>2026-10-23T07:35:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「CLL/SLL、ピルトブルチニブの前倒しに期待」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「CPAP×減量」で挑む肥満合併睡眠時無呼吸」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_3b6e5ed.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>メディカルトリビューン: 追加: 連載記事「処方時に「有効性は不確実」と伝えられますか」および「伝達後の同意率を検討したRCTから」の記載が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/f3b36963a80acce307ced1be108bcc9a2f55f37f</id>

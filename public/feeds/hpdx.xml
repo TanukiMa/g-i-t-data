@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 医療情報基盤・診療報酬審査支払機構（DX審査支払機構）</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/hpdx.xml</id>
-  <updated>2026-10-23T03:35:05Z</updated>
+  <updated>2026-10-23T07:35:55Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/hpdx.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/e2bb97d63479f007af33513f8ed54fe7bd62c587</id>
+    <updated>2026-10-23T07:35:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_e2bb97d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/3c993420df2a99bd1e108ac84ba6ae3bd3f1460b</id>
