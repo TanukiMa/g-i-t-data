@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 薬局ヒヤリ・ハット事例収集・分析事業</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/yakkyoku-hiyari.xml</id>
-  <updated>2026-10-22T22:34:33Z</updated>
+  <updated>2026-10-26T03:33:28Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/yakkyoku-hiyari.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakkyoku-hiyari/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>薬局ヒヤリ・ハット事例収集・分析事業: 追加: 2026.10.26付で「【システム停止のお知らせ】」が掲載され、日時（2026年10月30日（金）18:00～11月1日（日）18:00）および対象システム（「ホームペ…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakkyoku-hiyari/176f3f95eb8c39d300ff3c8a6cad4e70c7b8fb25</id>
+    <updated>2026-10-26T03:33:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakkyoku-hiyari/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.26付で「【システム停止のお知らせ】」が掲載され、日時（2026年10月30日（金）18:00～11月1日（日）18:00）および対象システム（「ホームページ」「参加登録システム」「事例報告システム」「各種検索システム」「お問合せシステム」）が案内されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.10.26付で「「共有すべき事例」2026年 No.10」が公開されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakkyoku-hiyari.jcqhc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakkyoku-hiyari/diff_176f3f9.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>薬局ヒヤリ・ハット事例収集・分析事業: 追加：2026.10.22 - PHPに関する脆弱性に関して、薬局ヒヤリ・ハット事例収集・分析事業で使用しているシステムではPHPを使用していない旨の告知が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakkyoku-hiyari/5d3b8e7b56dc8e11285bc970f82e35aedb5d6147</id>
