@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlw.xml</id>
-  <updated>2026-10-26T03:33:27Z</updated>
+  <updated>2026-10-26T07:33:29Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlw.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省: 追加: 総合職（数理・デジタル系）の説明会情報の更新</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/d239bd41dfc89322d03654bf61fbf95abff0bf3f</id>
+    <updated>2026-10-26T07:33:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 総合職（数理・デジタル系）の説明会情報の更新&lt;/li&gt;&lt;li&gt;追加: 「第３回　令和８年度医師の働き方改革の推進等に関する検討会：開催案内」&lt;/li&gt;&lt;li&gt;追加: 「令和８年度第３回「団体等検定制度についての出張相談会」を開催します」&lt;/li&gt;&lt;li&gt;追加: 「第4回　困難な問題を抱える女性への支援に関する検討会を開催いたします」&lt;/li&gt;&lt;li&gt;変更: 「【医系技官採用】医系技官採用情報に令和8年度後期試験の日程を掲載しました。」ほか 5 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_d239bd4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省: 追加: 医系技官採用情報に令和8年度後期試験の日程を掲載しました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/ef7b9532bcbf8f440ec375adc07b944c3311a08d</id>

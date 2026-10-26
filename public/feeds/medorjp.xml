@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/medorjp.xml</id>
-  <updated>2026-10-23T07:35:58Z</updated>
+  <updated>2026-10-26T07:33:28Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/medorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医師会: 変更: 「MAMIS」のリンク先が https://mamis.member-sys.info/ から https://mamis.member-sys.info/ に変更されま…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/70b3f3627fe51a6e8cd164ce3055f67d966b8aa9</id>
+    <updated>2026-10-26T07:33:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「MAMIS」のリンク先が &lt;code&gt;https://mamis.member-sys.info/&lt;/code&gt; から &lt;code&gt;https://mamis.member-sys.info/&lt;/code&gt; に変更されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「◇MAMIS」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「◇医師会会員向け MAMIS」の記載とリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「◆医師会事務局向け 情報共有サイト」の記載、リンク、および画像が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_70b3f36.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医師会: 追加: 「2026.10.23 PHPの脆弱性対応に伴う一部コンテンツ・サービスの一時停止について」の記載が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/f11f6abfa7df656eb9a69404e84ef54dec067aa8</id>
