@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 医療情報基盤・診療報酬審査支払機構（DX審査支払機構）</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/hpdx.xml</id>
-  <updated>2026-10-23T22:34:33Z</updated>
+  <updated>2026-10-27T22:33:26Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/hpdx.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: プレスリリース「医療情報化推進担当理事（ＣＩＯ）に 浅沼 尚氏が就任」（令和8年10月27日）が掲載されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/db5da7d0947e7bd1647c6e509410f9639c50935f</id>
+    <updated>2026-10-27T22:33:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: プレスリリース「医療情報化推進担当理事（ＣＩＯ）に 浅沼 尚氏が就任」（令和8年10月27日）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: プレスリリース「10月定例記者会見を開催」（令和8年10月27日）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「審査の差異の可視化レポート」の「多くの付箋がつくコンピュータチェック事例」の再フォローアップ検証(医科2事例)、「審査の一般的な取扱い事例」のフォローアップ検証(医科8事例)のレポートを掲載しました（令和8年10月23日）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「電子点数表（医科）を更新しました」（令和8年10月13日）ほか1件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_db5da7d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 変更：「ＤＸ審査支払機構システムメンテナンスのお知らせ」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/d656f46477a2187cc762a20b6ab05634d62c602c</id>

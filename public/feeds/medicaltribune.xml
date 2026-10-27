@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t メディカルトリビューン</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/medicaltribune.xml</id>
-  <updated>2026-10-27T07:33:26Z</updated>
+  <updated>2026-10-27T22:33:27Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/medicaltribune.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>メディカルトリビューン: 追加: 「イプタコパン、東アジア人IgA腎症でも腎機能低下を抑制」の記載が加わりました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/2a3f3e8129df9e6685f5678a5461cb022284fcfe</id>
+    <updated>2026-10-27T22:33:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「イプタコパン、東アジア人IgA腎症でも腎機能低下を抑制」の記載が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「自己免疫疾患の女性患者は精神疾患と誤診されやすい」の記載が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「前立腺がんへのデノスマブ、長期投与で顎骨壊死が増加」ほか5件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_2a3f3e8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>メディカルトリビューン: 変更: 「多発性硬化症へのリツキシマブでIBDリスク上昇」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/f286c0229fa13636b2ab30b73c06bb838e652ef0</id>
