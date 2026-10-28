@@ -1,0 +1,3 @@
+# The patch of a diff page is a record of a change: keep it byte for byte, whatever core.autocrlf says on a computer
+# that commits it (the job in the container writes it on Linux, scripts/migrate_diff_pages.py can write it on Windows).
+*.patch.txt -text
