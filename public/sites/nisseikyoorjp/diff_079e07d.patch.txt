@@ -1,0 +1,34 @@
+diff --git a/sites/nisseikyoorjp/jp/or/nisseikyo/index.html b/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
+index 10a6541a3..bd250d48e 100644
+--- a/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
++++ b/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
+@@ -650,6 +650,14 @@
+ 						</h3>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								2026-10-13
++							</span>
++							<a href="https://www.nisseikyo.or.jp/gyousei/tsuuchi/2026_list.php" rel="noopener noreferrer">
++								行政情報　厚労省等通達を更新しました
++							</a>
++						</li>
+ 						<li>
+ 							<span>
+ 								2026-10-09
+@@ -682,14 +690,6 @@
+ 								日精協TOPICS　世界メンタルヘルスデー 2026
+ 							</a>
+ 						</li>
+-						<li>
+-							<span>
+-								2026-09-30
+-							</span>
+-							<a href="https://www.nisseikyo.or.jp/about/hojokin/2026_anshin.php" rel="noopener noreferrer">
+-								令和8年度精神科医療体制確保研修事業「精神科病院における安心・安全な医療を提供するための研修」を掲載しました
+-							</a>
+-						</li>
+ 					</ul>
+ 					<br>
+ 					<br>

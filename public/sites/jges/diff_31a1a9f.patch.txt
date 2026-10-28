@@ -1,0 +1,54 @@
+diff --git a/sites/jges/net/jges/index.html b/sites/jges/net/jges/index.html
+index ac6a736ae..a3fa5f8ba 100644
+--- a/sites/jges/net/jges/index.html
++++ b/sites/jges/net/jges/index.html
+@@ -2019,6 +2019,25 @@
+ 				</div>
+ 			</div>
+ 			<ul>
++				<li>
++					<div>
++						<div>
++							<span>
++								2026年10月23日
++							</span>
++							<a href="https://www.jges.net/news/news-official" rel="noopener noreferrer">
++								学会
++							</a>
++						</div>
++						<div>
++							<a href="https://www.jges.net/report/2026/10/23/113951" rel="noopener noreferrer">
++								「ENDO 2026 参加レポート」掲載のご案内（閲覧には会員ログインが必要です）
++							</a>
++							<div>
++							</div>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<div>
+ 						<div>
+@@ -2178,23 +2197,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<div>
+-						<div>
+-							<span>
+-								2026年10月13日
+-							</span>
+-							<a href="https://www.jges.net/news/news-international" rel="noopener noreferrer">
+-								国際関係
+-							</a>
+-						</div>
+-						<div>
+-							<a href="https://www.jges.net/news/news-international/2026/10/13/113980" rel="noopener noreferrer">
+-								A-PSDEからResearch Grant 2026 の案内がございました（申請〆切：2026年11月10日）
+-							</a>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 		</div>
+ 		<div>

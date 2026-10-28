@@ -1,0 +1,52 @@
+diff --git a/sites/digitalmeddx/jp/go/digital/resources-govdashboard-healthcare-dx.html b/sites/digitalmeddx/jp/go/digital/resources-govdashboard-healthcare-dx.html
+index 752a97ac7..5ecbbe94c 100644
+--- a/sites/digitalmeddx/jp/go/digital/resources-govdashboard-healthcare-dx.html
++++ b/sites/digitalmeddx/jp/go/digital/resources-govdashboard-healthcare-dx.html
+@@ -399,7 +399,7 @@
+ 				</dt>
+ 				<dd>
+ 					<time>
+-						2026年9月30日
++						2026年10月16日
+ 					</time>
+ 				</dd>
+ 			</dl>
+@@ -426,7 +426,7 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						2026年9月30日 データを更新しました
++						2026年10月16日 データを更新しました
+ 					</li>
+ 				</ul>
+ 				<h2>
+@@ -495,7 +495,7 @@
+ 					このダッシュボードでは、医療DXに関する施策であるマイナ保険証、オンライン資格確認、電子カルテ、電子カルテ情報共有サービス、電子処方箋、電子処方箋管理サービス、自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）、マイナポータルでの医療情報閲覧、PHR（パーソナルヘルスレコード）等の医療DX全体の進捗状況を把握するデータを取り扱っています。
+ 				</p>
+ 				<p>
+-					<img alt="「医療DX｜主要な施策と指標」と題した体系図。上部に4つの領域（保険資格確認、診察、処方・調剤、健康管理）のアイコンが横並びで示されている。 中段上行には、各領域に対応する個別施策として「マイナ保険証」「電子カルテ」「電子処方箋」「マイナポータル」が配置され、それぞれに「導入」「活用」「効果」の区分で指標が列挙されている。中段下行には、「オンライン資格確認」「電子カルテ情報共有サービス」「電子処方箋管理サービス」「PHR（パーソナルヘルスレコード）」が配置され、双方向の矢印で上行の施策と連携関係が示されている。 最下段には「自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）」として、医療費助成・母子保健・自治体検診・予防接種・介護情報基盤の5分野にわたる指標が一覧化されている。自治体検診、予防接種、介護情報基盤は今後掲載予定。" src="/assets/contents/node/basic_page/field_ref_images/52fb1b27-3544-48d3-832f-999aaf2ef86d/9212c328/20260911_%E5%8C%BB%E7%99%82DX%EF%BD%9C%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%83%A2%E3%83%87%E3%83%AB%E5%9B%B3.png">
++					<img alt="「医療DX｜主要な施策と指標」と題した体系図。上部に4つの領域（保険資格確認、診察、処方・調剤、健康管理）のアイコンが横並びで示されている。 中段上行には、各領域に対応する個別施策として「マイナ保険証」「電子カルテ」「電子処方箋」「マイナポータル」が配置され、それぞれに「導入」「活用」「効果」の区分で指標が列挙されている。中段下行には、「オンライン資格確認」「電子カルテ情報共有サービス」「電子処方箋管理サービス」「PHR（パーソナルヘルスレコード）」が配置され、双方向の矢印で上行の施策と連携関係が示されている。 最下段には「自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）」として、医療費助成・母子保健・自治体検診・予防接種・介護情報基盤の5分野にわたる指標が一覧化されている。自治体検診、予防接種、介護情報基盤は今後掲載予定。" src="/assets/contents/node/basic_page/field_ref_images/52fb1b27-3544-48d3-832f-999aaf2ef86d/00d3b84c/20261016_%E5%8C%BB%E7%99%82DX%EF%BD%9C%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%83%A2%E3%83%87%E3%83%AB%E5%9B%B3.png">
+ 				</p>
+ 				<h3>
+ 					主要な指標の最新値
+@@ -653,16 +653,16 @@
+ 						構造データ化したデータを合わせて公開します。
+ 						<ul>
+ 							<li>
+-								<a href="/assets/contents/node/basic_page/field_ref_resources/52fb1b27-3544-48d3-832f-999aaf2ef86d/ca7606a2/20260930_resources_govdashboard_healthcare_dx.xlsx" rel="noopener noreferrer">
++								<a href="/assets/contents/node/basic_page/field_ref_resources/52fb1b27-3544-48d3-832f-999aaf2ef86d/f95fd9fe/20261016_resources_govdashboard_healthcare_dx.xlsx" rel="noopener noreferrer">
+ 									データテーブル（Excel／14KB）
+ 								</a>
+-								（2026年9月30日更新）
++								（2026年10月16日更新）
+ 							</li>
+ 							<li>
+-								<a href="/assets/contents/node/basic_page/field_ref_resources/52fb1b27-3544-48d3-832f-999aaf2ef86d/9ddbd576/20260930_resources_govdashboard_healthcare_dx.csv" rel="noopener noreferrer">
++								<a href="/assets/contents/node/basic_page/field_ref_resources/52fb1b27-3544-48d3-832f-999aaf2ef86d/ddd7131c/20261016_resources_govdashboard_healthcare_dx.csv" rel="noopener noreferrer">
+ 									データテーブル（CSV／5KB）
+ 								</a>
+-								（2026年9月30日更新）
++								（2026年10月16日更新）
+ 							</li>
+ 						</ul>
+ 					</li>

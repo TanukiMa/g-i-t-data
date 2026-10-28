@@ -1,0 +1,43 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index ec91f1dac..9691fc721 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -3000,9 +3000,6 @@
+ 												<p>
+ 													全製品
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													医薬品・医療機器等安全性情報 No.432（厚生労働省発行）を掲載しました
+ 												</p>
+@@ -3016,9 +3013,6 @@
+ 												<p>
+ 													医薬品
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「医薬品に関する評価中のリスク等の情報について」を掲載しました
+ 												</p>
+@@ -3263,9 +3257,6 @@
+ 												<p>
+ 													イベント
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													第13回日台医薬交流会議のご案内を掲載しました
+ 												</p>
+@@ -3540,7 +3531,7 @@
+ 						</li>
+ 						<li>
+ 							<a href="/safety/info-services/medical-safety-info/0001.html" rel="noopener noreferrer">
+-								<img alt="PMDA医療安全情報" src="/files/000253602.jpg">
++								<img alt="PMDA医療安全情報" src="/files/000283183.jpg">
+ 							</a>
+ 						</li>
+ 						<li>

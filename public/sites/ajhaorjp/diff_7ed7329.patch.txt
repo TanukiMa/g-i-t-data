@@ -1,0 +1,52 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index aeb73a408..8f7311805 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1659,16 +1659,16 @@
+ 								<br>
+ 								<span>
+ 									<span>
+-										全日本病院学会in埼玉　学会企画３　　　２面
++										全日本病院学会ｉｎ埼玉　学会企画３　　２面
+ 									</span>
+ 								</span>
+ 								<br>
+ 								<span>
+-									全日本病院学会in埼玉　学会企画５　　　３面
++									全日本病院学会ｉｎ埼玉　学会企画５　　３面
+ 								</span>
+ 								<br>
+ 								<span>
+-									介護報酬改定へ全日病が7点を要望　　　 ４面
++									介護報酬改定へ全日病が７点を要望　　　４面
+ 								</span>
+ 							</a>
+ 						</div>
+@@ -1809,6 +1809,9 @@
+ 					<a href="/hms/tokuteikoui/" rel="noopener noreferrer">
+ 						<img alt="看護師特定行為に関するご案内" src="/images/top/subnavi_tokuteikoui_clearpdf.gif">
+ 					</a>
++					<a href="https://nursemgr.vexon.jp/" rel="noopener noreferrer">
++						<img alt="急性期病院看護管理者研修" src="/images/top/nursemgr_vexon.png">
++					</a>
+ 				</div>
+ 				<div>
+ 					<a href="https://s-que.net/nursing-training/" rel="noopener noreferrer">
+@@ -2259,7 +2262,7 @@
+ 					<a href="https://www.ajha.or.jp/seminar/other/pdf/260917_4.pdf" rel="noopener noreferrer">
+ 						<div>
+ 							<span>
+-								好評！
++								締切間近
+ 							</span>
+ 							<h4>
+ 								2026年度 医療機関のためのサイバーセキュリティ研修
+@@ -2283,7 +2286,7 @@
+ 					<a href="https://www.ajha.or.jp/seminar/kojinad/pdf/260519_6.pdf" rel="noopener noreferrer">
+ 						<div>
+ 							<span>
+-								好評！
++								締切間近
+ 							</span>
+ 							<h4>
+ 								2026年度

@@ -1,0 +1,73 @@
+diff --git a/sites/jsan-net/jp/jsan-net/index.html b/sites/jsan-net/jp/jsan-net/index.html
+index 5f043dffe..e2843ace2 100644
+--- a/sites/jsan-net/jp/jsan-net/index.html
++++ b/sites/jsan-net/jp/jsan-net/index.html
+@@ -88,6 +88,11 @@
+ 								学会誌
+ 							</span>
+ 						</a>
++						<a href="https://jsan-net.jp/ninteishi" rel="noopener noreferrer">
++							<span>
++								認定士
++							</span>
++						</a>
+ 						<a href="https://jsan-net.jp/coi" rel="noopener noreferrer">
+ 							<span>
+ 								利益相反に関する指針
+@@ -223,10 +228,21 @@
+ 									</a>
+ 								</p>
+ 							</li>
++							<li>
++								<p>
++									<a href="https://jsan-net.jp/ninteishi" rel="noopener noreferrer">
++										認定士
++									</a>
++								</p>
++							</li>
+ 							<li>
+ 								<p>
+ 									<a href="https://jsan-net.jp/coi" rel="noopener noreferrer">
+-										利益相反に関する指針
++										利益相反
++										<span>
++											に関する
++										</span>
++										指針
+ 									</a>
+ 								</p>
+ 							</li>
+@@ -369,6 +385,16 @@
+ 				</div>
+ 			</div>
+ 			<div>
++				<p>
++					<a href="https://jsan-net.jp/news/news-1466/" rel="noopener noreferrer">
++						<span>
++							2026.10.07
++						</span>
++						<span>
++							日本自律神経学会認定士認定制度規約・「日本自律神経学会認定士」認定実施要項　を公開しました。
++						</span>
++					</a>
++				</p>
+ 				<p>
+ 					<a href="https://jsan-net.jp/journal/" rel="noopener noreferrer">
+ 						<span>
+@@ -419,16 +445,6 @@
+ 						</span>
+ 					</a>
+ 				</p>
+-				<p>
+-					<a href="https://jsan-net.jp/news/news-1273/" rel="noopener noreferrer">
+-						<span>
+-							2025.08.04
+-						</span>
+-						<span>
+-							事務局：夏季休業のご案内 – 2025年8月9日（土）～2025年8月17日（日）
+-						</span>
+-					</a>
+-				</p>
+ 				<div>
+ 					<a href="https://crosswell.co.jp/" rel="noopener noreferrer">
+ 						<img alt="きりつ名人" src="https://jsan-net.jp/_contents/wp-content/themes/jiritsu/images/bn_kiritsu.png">

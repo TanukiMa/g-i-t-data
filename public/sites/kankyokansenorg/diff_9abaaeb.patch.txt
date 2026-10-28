@@ -1,0 +1,44 @@
+diff --git a/sites/kankyokansenorg/org/kankyokansen/index.html b/sites/kankyokansenorg/org/kankyokansen/index.html
+index a6a5ee3af..9d42797c1 100644
+--- a/sites/kankyokansenorg/org/kankyokansen/index.html
++++ b/sites/kankyokansenorg/org/kankyokansen/index.html
+@@ -490,6 +490,19 @@
+ 									各種委員会からのお知らせ・ご報告等
+ 								</h2>
+ 								<div>
++									<div>
++										<span>
++											教育
++										</span>
++									</div>
++									<div>
++										<a href="https://www.kankyokansen.org/news/20261026/" rel="noopener noreferrer">
++											動画配信サイトに第41回総会・学術集会の動画を公開しました
++										</a>
++										<span>
++											（2026年10月26日			）
++										</span>
++									</div>
+ 									<div>
+ 										<span>
+ 											教育
+@@ -607,19 +620,6 @@
+ 											（2026年3月17日							）
+ 										</span>
+ 									</div>
+-									<div>
+-										<span>
+-											NICU感染対策
+-										</span>
+-									</div>
+-									<div>
+-										<a href="https://www.kankyokansen.org/news/20260313/" rel="noopener noreferrer">
+-											NICU感染対策検討委員会 「NICUにおける感染対策 ベーシックコース」Webセミナー開催のお知らせ
+-										</a>
+-										<span>
+-											（2026年3月13日							）
+-										</span>
+-									</div>
+ 								</div>
+ 							</div>
+ 							<div>

@@ -1,0 +1,481 @@
+diff --git a/sites/gemmed/com/ghc-j/gemmed/index.html b/sites/gemmed/com/ghc-j/gemmed/index.html
+index 7b9891868..c452f6e21 100644
+--- a/sites/gemmed/com/ghc-j/gemmed/index.html
++++ b/sites/gemmed/com/ghc-j/gemmed/index.html
+@@ -176,15 +176,15 @@
+ 										<dd>
+ 											<i>
+ 											</i>
+-											<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-												2027介護報酬改定
++											<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
++												2026診療報酬改定
+ 											</a>
+ 										</dd>
+ 										<dd>
+ 											<i>
+ 											</i>
+-											<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
+-												2026診療報酬改定
++											<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
++												2027介護報酬改定
+ 											</a>
+ 										</dd>
+ 										<dd>
+@@ -568,13 +568,13 @@
+ 			</header>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-12-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=76999" rel="noopener noreferrer">
++						<img alt="" height="427" src="https://gemmed.ghc-j.com/wp-content/uploads/2015/10/b8eda64225d44c60513f77f806aa0235_s.jpg" width="640">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
+-						2025年度の1か月医療費上位1―5位は脊髄性筋萎縮症患者で各々1億7000万円程度、1000万円超レセは2907件で過去最高更新―健保連
++					<a href="https://gemmed.ghc-j.com/?p=76999" rel="noopener noreferrer">
++						外科医療確保特別加算、「手術料の15％」を算定できるが、その「手術料」の中には乳幼児加算などの「通則加算」は含まれない
+ 					</a>
+ 				</h2>
+ 				<p>
+@@ -583,8 +583,8 @@
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-								医療保険制度
++							<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
++								2026診療報酬改定
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -597,23 +597,23 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=76973" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5f63f49b6b7d98988e1002a4a4f2d6d5-3-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=76994" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-13-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=76973" rel="noopener noreferrer">
+-						2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは「対象品目を少なく」せよ、支払側は「多く」せよとの考え―中医協
++					<a href="https://gemmed.ghc-j.com/?p=76994" rel="noopener noreferrer">
++						「食道がんに対するニボルマブ（オプジーボ）併用療法」、5年間の長期追跡で長期的な有効性・安全性を確認—国がん
+ 					</a>
+ 				</h2>
+ 				<p>
+-					2026.10.7.（水）
++					2026.10.8.（木）
+ 				</p>
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-								医療保険制度
++							<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++								医療現場から
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -626,17 +626,17 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=76968" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-10-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-12-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=76968" rel="noopener noreferrer">
+-						協会けんぽ全体の後発品割合、2026年5月にDPC等含めて91.0％・調剤分だけで92.7％に上昇してはいるが・・・
++					<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
++						2025年度の1か月医療費上位1―5位は脊髄性筋萎縮症患者で各々1億7000万円程度、1000万円超レセは2907件で過去最高更新―健保連
+ 					</a>
+ 				</h2>
+ 				<p>
+-					2026.10.7.（水）
++					2026.10.8.（木）
+ 				</p>
+ 				<div>
+ 					<ul>
+@@ -655,13 +655,13 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=76959" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-8-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=76973" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5f63f49b6b7d98988e1002a4a4f2d6d5-3-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=76959" rel="noopener noreferrer">
+-						褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA
++					<a href="https://gemmed.ghc-j.com/?p=76973" rel="noopener noreferrer">
++						2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは「対象品目を少なく」せよ、支払側は「多く」せよとの考え―中医協
+ 					</a>
+ 				</h2>
+ 				<p>
+@@ -670,8 +670,8 @@
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=39" rel="noopener noreferrer">
+-								その他医療・介護政策
++							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++								医療保険制度
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -684,23 +684,23 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=76946" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-6-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=76968" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-10-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=76946" rel="noopener noreferrer">
+-						有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）
++					<a href="https://gemmed.ghc-j.com/?p=76968" rel="noopener noreferrer">
++						協会けんぽ全体の後発品割合、2026年5月にDPC等含めて91.0％・調剤分だけで92.7％に上昇してはいるが・・・
+ 					</a>
+ 				</h2>
+ 				<p>
+-					2026.10.6.（火）
++					2026.10.7.（水）
+ 				</p>
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
+-								医療提供体制改革
++							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++								医療保険制度
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -771,6 +771,64 @@
+ 			</h2>
+ 			<div>
+ 				<div>
++					<div>
++						<figure>
++							<a href="https://gemmed.ghc-j.com/?p=76999" rel="noopener noreferrer">
++								<img alt="" height="200" src="https://gemmed.ghc-j.com/wp-content/uploads/2015/10/b8eda64225d44c60513f77f806aa0235_s.jpg" width="300">
++							</a>
++						</figure>
++						<h3>
++							<a href="https://gemmed.ghc-j.com/?p=76999" rel="noopener noreferrer">
++								外科医療確保特別加算、「手術料の15％」を算定できるが、その「手術料」の中には乳幼児加算などの「通則加算」は含まれない
++							</a>
++						</h3>
++						<p>
++							2026.10.8.（木）
++						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
++										2026診療報酬改定
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++										ピックアップ
++									</a>
++								</li>
++							</ul>
++						</div>
++					</div>
++					<div>
++						<figure>
++							<a href="https://gemmed.ghc-j.com/?p=76994" rel="noopener noreferrer">
++								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-13-300x300.png" width="300">
++							</a>
++						</figure>
++						<h3>
++							<a href="https://gemmed.ghc-j.com/?p=76994" rel="noopener noreferrer">
++								「食道がんに対するニボルマブ（オプジーボ）併用療法」、5年間の長期追跡で長期的な有効性・安全性を確認—国がん
++							</a>
++						</h3>
++						<p>
++							2026.10.8.（木）
++						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++										医療現場から
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++										ピックアップ
++									</a>
++								</li>
++							</ul>
++						</div>
++					</div>
+ 					<div>
+ 						<figure>
+ 							<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
+@@ -1071,69 +1129,6 @@
+ 							</ul>
+ 						</div>
+ 					</div>
+-					<div>
+-						<figure>
+-							<a href="https://gemmed.ghc-j.com/?p=76876" rel="noopener noreferrer">
+-								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/shussann-kentokai-P-261001-300x300.jpg" width="300">
+-							</a>
+-						</figure>
+-						<h3>
+-							<a href="https://gemmed.ghc-j.com/?p=76876" rel="noopener noreferrer">
+-								「正常分娩に対する新たな保険給付」、産科医療の現場からは「少なくとも75万円以上とせよ」との要望—出産検討会
+-							</a>
+-						</h3>
+-						<p>
+-							2026.10.2.（金）
+-						</p>
+-						<div>
+-							<ul>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-										医療保険制度
+-									</a>
+-								</li>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-										ピックアップ
+-									</a>
+-								</li>
+-							</ul>
+-						</div>
+-					</div>
+-					<div>
+-						<figure>
+-							<a href="https://gemmed.ghc-j.com/?p=76915" rel="noopener noreferrer">
+-								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2019/09/IMG_9886-300x300.jpg" width="300">
+-							</a>
+-						</figure>
+-						<h3>
+-							<a href="https://gemmed.ghc-j.com/?p=76915" rel="noopener noreferrer">
+-								白血病等治療薬の「ロイスタチン注」がヒト乳汁へ移行することを確認、投与後7日間は授乳を避けよ—厚労省
+-							</a>
+-						</h3>
+-						<p>
+-							2026.10.2.（金）
+-						</p>
+-						<div>
+-							<ul>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
+-										がん対策
+-									</a>
+-								</li>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=39" rel="noopener noreferrer">
+-										その他医療・介護政策
+-									</a>
+-								</li>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-										ピックアップ
+-									</a>
+-								</li>
+-							</ul>
+-						</div>
+-					</div>
+ 				</div>
+ 			</div>
+ 			<div>
+@@ -1170,13 +1165,13 @@
+ 				</h2>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-12-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=76999" rel="noopener noreferrer">
++							<img alt="" height="427" src="https://gemmed.ghc-j.com/wp-content/uploads/2015/10/b8eda64225d44c60513f77f806aa0235_s.jpg" width="640">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
+-							2025年度の1か月医療費上位1―5位は脊髄性筋萎縮症患者で各々1億7000万円程度、1000万円超レセは2907件で過去最高更新―健保連
++						<a href="https://gemmed.ghc-j.com/?p=76999" rel="noopener noreferrer">
++							外科医療確保特別加算、「手術料の15％」を算定できるが、その「手術料」の中には乳幼児加算などの「通則加算」は含まれない
+ 						</a>
+ 					</h3>
+ 					<p>
+@@ -1185,8 +1180,8 @@
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-									医療保険制度
++								<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
++									2026診療報酬改定
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1199,23 +1194,23 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=76973" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5f63f49b6b7d98988e1002a4a4f2d6d5-3-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=76994" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-13-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=76973" rel="noopener noreferrer">
+-							2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは「対象品目を少なく」せよ、支払側は「多く」せよとの考え―中医協
++						<a href="https://gemmed.ghc-j.com/?p=76994" rel="noopener noreferrer">
++							「食道がんに対するニボルマブ（オプジーボ）併用療法」、5年間の長期追跡で長期的な有効性・安全性を確認—国がん
+ 						</a>
+ 					</h3>
+ 					<p>
+-						2026.10.7.（水）
++						2026.10.8.（木）
+ 					</p>
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-									医療保険制度
++								<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++									医療現場から
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1228,17 +1223,17 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=76968" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-10-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-12-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=76968" rel="noopener noreferrer">
+-							協会けんぽ全体の後発品割合、2026年5月にDPC等含めて91.0％・調剤分だけで92.7％に上昇してはいるが・・・
++						<a href="https://gemmed.ghc-j.com/?p=76981" rel="noopener noreferrer">
++							2025年度の1か月医療費上位1―5位は脊髄性筋萎縮症患者で各々1億7000万円程度、1000万円超レセは2907件で過去最高更新―健保連
+ 						</a>
+ 					</h3>
+ 					<p>
+-						2026.10.7.（水）
++						2026.10.8.（木）
+ 					</p>
+ 					<div>
+ 						<ul>
+@@ -1257,13 +1252,13 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=76959" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-8-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=76973" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5f63f49b6b7d98988e1002a4a4f2d6d5-3-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=76959" rel="noopener noreferrer">
+-							褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA
++						<a href="https://gemmed.ghc-j.com/?p=76973" rel="noopener noreferrer">
++							2027年度薬価改定（薬価の引き下げ）、診療側・メーカーは「対象品目を少なく」せよ、支払側は「多く」せよとの考え―中医協
+ 						</a>
+ 					</h3>
+ 					<p>
+@@ -1272,8 +1267,8 @@
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=39" rel="noopener noreferrer">
+-									その他医療・介護政策
++								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++									医療保険制度
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1286,23 +1281,23 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=76946" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-6-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=76968" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-10-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=76946" rel="noopener noreferrer">
+-							有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）
++						<a href="https://gemmed.ghc-j.com/?p=76968" rel="noopener noreferrer">
++							協会けんぽ全体の後発品割合、2026年5月にDPC等含めて91.0％・調剤分だけで92.7％に上昇してはいるが・・・
+ 						</a>
+ 					</h3>
+ 					<p>
+-						2026.10.6.（火）
++						2026.10.7.（水）
+ 					</p>
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
+-									医療提供体制改革
++								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++									医療保険制度
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1340,7 +1335,7 @@
+ 							<p>
+ 								2019.9.5.（木）
+ 								<span>
+-									18,900
++									19,500
+ 								</span>
+ 								ビュー
+ 							</p>
+@@ -1417,7 +1412,7 @@
+ 							<p>
+ 								2026.9.8.（火）
+ 								<span>
+-									7,200
++									7,000
+ 								</span>
+ 								ビュー
+ 							</p>
+@@ -1685,13 +1680,13 @@
+ 							カテゴリー
+ 						</dt>
+ 						<dd>
+-							<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-								2027介護報酬改定
++							<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
++								2026診療報酬改定
+ 							</a>
+ 						</dd>
+ 						<dd>
+-							<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
+-								2026診療報酬改定
++							<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
++								2027介護報酬改定
+ 							</a>
+ 						</dd>
+ 						<dd>

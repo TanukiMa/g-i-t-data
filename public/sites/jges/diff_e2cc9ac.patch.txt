@@ -1,0 +1,93 @@
+diff --git a/sites/jges/net/jges/index.html b/sites/jges/net/jges/index.html
+index a3fa5f8ba..f5e8c40c3 100644
+--- a/sites/jges/net/jges/index.html
++++ b/sites/jges/net/jges/index.html
+@@ -1957,6 +1957,14 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						<span>
++							2026年10月22日
++						</span>
++						<a href="https://www.jges.net/news/news-official/2026/10/22/114137" rel="noopener noreferrer">
++							システムメンテナンスに伴う『専攻医カリキュラム登録システム』一時停止のお知らせ
++						</a>
++					</li>
+ 					<li>
+ 						<span>
+ 							2026年10月01日
+@@ -1989,14 +1997,6 @@
+ 							JDDW 2026 参加登録受付中です
+ 						</a>
+ 					</li>
+-					<li>
+-						<span>
+-							2026年08月24日
+-						</span>
+-						<a href="https://www.jges.net/news/2026/08/24/113085" rel="noopener noreferrer">
+-							「令和8年熊本地震」で被災された会員の皆様へ会費免除のご案内
+-						</a>
+-					</li>
+ 				</ul>
+ 			</div>
+ 			<p>
+@@ -2038,25 +2038,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<div>
+-						<div>
+-							<span>
+-								2026年10月22日
+-							</span>
+-							<a href="https://www.jges.net/news/news-official" rel="noopener noreferrer">
+-								学会
+-							</a>
+-						</div>
+-						<div>
+-							<a href="https://www.jges.net/news/news-official/2026/10/22/114137" rel="noopener noreferrer">
+-								システムメンテナンスに伴う『専攻医カリキュラム登録システム』一時停止のお知らせ
+-							</a>
+-							<div>
+-							</div>
+-						</div>
+-					</div>
+-				</li>
+ 				<li>
+ 					<div>
+ 						<div>
+@@ -2090,8 +2071,6 @@
+ 							<a href="https://www.jges.net/specialist/exam/commentary" rel="noopener noreferrer">
+ 								日本消化器内視鏡学会 専門医学術試験問題とその解説 第343回を公開しました（公開日：10月20日）
+ 							</a>
+-							<div>
+-							</div>
+ 						</div>
+ 					</div>
+ 				</li>
+@@ -2197,6 +2176,23 @@
+ 						</div>
+ 					</div>
+ 				</li>
++				<li>
++					<div>
++						<div>
++							<span>
++								2026年10月13日
++							</span>
++							<a href="https://www.jges.net/news/news-international" rel="noopener noreferrer">
++								国際関係
++							</a>
++						</div>
++						<div>
++							<a href="https://www.jges.net/news/news-international/2026/10/13/113980" rel="noopener noreferrer">
++								A-PSDEからResearch Grant 2026 の案内がございました（申請〆切：2026年11月10日）
++							</a>
++						</div>
++					</div>
++				</li>
+ 			</ul>
+ 		</div>
+ 		<div>

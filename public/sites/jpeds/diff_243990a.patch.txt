@@ -1,0 +1,90 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index b2c8a029e..b362dea10 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,23 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/23
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-pediatrician" rel="noopener noreferrer">
++												専門医・認定資格等
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-159888.html" rel="noopener noreferrer">
++												Kids’ Doctors milestone Smart System（KIDS）緊急メンテナンス終了について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/08/27
+-											</time>
+-										</td>
+-										<td>
+-											<a href="/members-only/members-news" rel="noopener noreferrer">
+-												会員限定のお知らせ
+-											</a>
+-										</td>
+-										<td>
+-											<a href="/members-only/" rel="noopener noreferrer">
+-												会員専用ホームページに新しいお知らせを掲載しました
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2253,6 +2253,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/23
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-159888.html" rel="noopener noreferrer">
++												Kids’ Doctors milestone Smart System（KIDS）緊急メンテナンス終了について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2325,18 +2337,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/08
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-pediatrician/post-159405.html" rel="noopener noreferrer">
+-												単位取得講演一覧（現地・WEB：2026年9月承認分）の追加掲載について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

@@ -1,0 +1,125 @@
+diff --git a/sites/answersnews/jp/and-pro/answers/pharmanews.html b/sites/answersnews/jp/and-pro/answers/pharmanews.html
+index be384fc6e..7f08419d0 100644
+--- a/sites/answersnews/jp/and-pro/answers/pharmanews.html
++++ b/sites/answersnews/jp/and-pro/answers/pharmanews.html
+@@ -222,16 +222,16 @@
+ 				<div>
+ 					<div>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33337/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33348/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261014101927/pixta_62872765_M-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101705/pixta_65164912_M-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										連載・コラム
++										ニュース解説
+ 									</span>
+ 									<h2>
+-										異国の地で感じた「日本の医療の良さ」これからも残していくためには【コラム】
++										スタルガルト病、初の治療薬登場に期待…ビライトバイオが申請、啓発活動に力
+ 									</h2>
+ 									<time>
+ 										2026/10/15
+@@ -240,19 +240,19 @@
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33342/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33337/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261014180004/nxera_1-1-196x195.png" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261014101927/pixta_62872765_M-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										きょうのニュース
++										連載・コラム
+ 									</span>
+ 									<h2>
+-										ネクセラ「クービビック」台湾企業とアジア太平洋8カ国のライセンス契約／リズムファーマ「イムシブリー」発売、日本市場に本格参入 など｜製薬業界きょうのニュースまとめ読み（2026年10月14日）
++										異国の地で感じた「日本の医療の良さ」これからも残していくためには【コラム】
+ 									</h2>
+ 									<time>
+-										2026/10/14
++										2026/10/15
+ 									</time>
+ 								</div>
+ 							</a>
+@@ -275,6 +275,24 @@
+ 								</div>
+ 							</a>
+ 						</article>
++						<article>
++							<a href="https://answers.and-pro.jp/pharmanews/33342/" rel="noopener noreferrer">
++								<div>
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261014180004/nxera_1-1-196x195.png" width="157">
++								</div>
++								<div>
++									<span>
++										きょうのニュース
++									</span>
++									<h2>
++										ネクセラ「クービビック」台湾企業とアジア太平洋8カ国のライセンス契約／リズムファーマ「イムシブリー」発売、日本市場に本格参入 など｜製薬業界きょうのニュースまとめ読み（2026年10月14日）
++									</h2>
++									<time>
++										2026/10/14
++									</time>
++								</div>
++							</a>
++						</article>
+ 						<article>
+ 							<a href="https://answers.and-pro.jp/pharmanews/33327/" rel="noopener noreferrer">
+ 								<div>
+@@ -383,24 +401,6 @@
+ 								</div>
+ 							</a>
+ 						</article>
+-						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33310/" rel="noopener noreferrer">
+-								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261007120643/image-2-196x195.jpg" width="157">
+-								</div>
+-								<div>
+-									<span>
+-										連載・コラム
+-									</span>
+-									<h2>
+-										「世界の工場」から「創薬国」へ…新薬開発で台頭する中国【薬の地政学 #2】
+-									</h2>
+-									<time>
+-										2026/10/08
+-									</time>
+-								</div>
+-							</a>
+-						</article>
+ 					</div>
+ 					<div>
+ 						<span>
+@@ -415,8 +415,8 @@
+ 						<span>
+ 							…
+ 						</span>
+-						<a href="https://answers.and-pro.jp/pharmanews/page/433/" rel="noopener noreferrer">
+-							433
++						<a href="https://answers.and-pro.jp/pharmanews/page/434/" rel="noopener noreferrer">
++							434
+ 						</a>
+ 						<a href="https://answers.and-pro.jp/pharmanews/page/2/" rel="noopener noreferrer">
+ 							次へ >>
+@@ -854,11 +854,11 @@
+ 							</div>
+ 							<p>
+ 								<span>
+-									10/14
++									10/15
+ 								</span>
+ 								の求人件数
+ 								<span>
+-									1670
++									1673
+ 								</span>
+ 								件
+ 							</p>

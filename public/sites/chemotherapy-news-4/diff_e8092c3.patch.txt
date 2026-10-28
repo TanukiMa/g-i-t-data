@@ -1,0 +1,19 @@
+diff --git a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+index 0a29dbc59..75a210a22 100644
+--- a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
++++ b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+@@ -826,6 +826,14 @@
+ 					全てのお知らせ
+ 				</h1>
+ 				<div>
++					<div>
++						2026年10月23日
++					</div>
++					<div>
++						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=228" rel="noopener noreferrer">
++							2026感染症・化学療法 東日本合同学会 開催のご案内
++						</a>
++					</div>
+ 					<div>
+ 						2026年10月22日
+ 					</div>

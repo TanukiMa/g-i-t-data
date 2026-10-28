@@ -1,0 +1,39 @@
+diff --git a/sites/jspn/jp/or/jspn/index.html b/sites/jspn/jp/or/jspn/index.html
+index d76959c39..2d6352d03 100644
+--- a/sites/jspn/jp/or/jspn/index.html
++++ b/sites/jspn/jp/or/jspn/index.html
+@@ -1402,6 +1402,18 @@
+ 					</div>
+ 					<div>
+ 						<ul>
++							<li>
++								2026年10月7日
++								<span>
++									見解・声明
++								</span>
++								<br>
++								<a href="https://www.jspn.or.jp/modules/info/index.php?content_id=1345" rel="noopener noreferrer">
++									<span>
++										非自発的入院及び権利擁護に関する学会見解
++									</span>
++								</a>
++							</li>
+ 							<li>
+ 								2026年9月30日
+ 								<span>
+@@ -1558,15 +1570,6 @@
+ 									</span>
+ 								</a>
+ 							</li>
+-							<li>
+-								2026年7月29日
+-								<br>
+-								<a href="https://www.jspn.or.jp/modules/info/index.php?content_id=1328" rel="noopener noreferrer">
+-									<span>
+-										妊婦に対する炭酸リチウム投与の禁忌解除を受けて ─適正使用に関するお願い─
+-									</span>
+-								</a>
+-							</li>
+ 						</ul>
+ 					</div>
+ 				</div>

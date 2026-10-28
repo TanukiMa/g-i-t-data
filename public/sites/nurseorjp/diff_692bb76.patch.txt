@@ -1,0 +1,95 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index ae4618288..d9c572ea1 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -341,18 +341,6 @@
+ 							</a>
+ 						</div>
+ 					</li>
+-					<li>
+-						<div>
+-							<a href="https://www.nurse.or.jp/aim/simin/episode/index.html#bosyu" rel="noopener noreferrer">
+-								<img alt="忘れられないエピソード募集_20261008_pc" src="/assets/episode_20261008_pc.png">
+-							</a>
+-						</div>
+-						<div>
+-							<a href="https://www.nurse.or.jp/aim/simin/episode/index.html#bosyu" rel="noopener noreferrer">
+-								<img alt="忘れられないエピソード募集_20261008_sp" src="/assets/episode_20261008_sp.png">
+-							</a>
+-						</div>
+-					</li>
+ 					<li>
+ 						<div>
+ 							<a href="/nursing/shift_n_share/guideline/index.html#seminar" rel="noopener noreferrer">
+@@ -489,6 +477,34 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/10/16
++					</span>
++					<span>
++						協会ニュース
++					</span>
++					<div>
++						<a href="/home/about/kyokainews/index.html#a10" rel="noopener noreferrer">
++							「協会ニュース」2026年10月号を掲載しました。
++						</a>
++						<div>
++						</div>
++					</div>
++				</li>
++				<li>
++					<span>
++						2026/10/16
++					</span>
++					<span>
++						募集のお知らせ
++					</span>
++					<div>
++						<a href="/news/baiseki_20261015.html" rel="noopener noreferrer">
++							12月22日に開催する2026年度第2回「看護職賠償責任保険制度」研修会（Web）の受け付けを開始しました。
++						</a>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/10/15
+@@ -612,36 +628,6 @@
+ 						</a>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/10/01
+-					</span>
+-					<span>
+-						掲載のお知らせ
+-					</span>
+-					<div>
+-						<a href="/nursing/shuroanzen/n_harassment/index.html#harassment" rel="noopener noreferrer">
+-							「第77回　全国労働衛生週間（2026年10月1日～7日）」に合わせ、看護職への暴言・暴力・ハラスメントに関する会長からのメッセージ動画を公開しました。
+-						</a>
+-						<div>
+-						</div>
+-					</div>
+-				</li>
+-				<li>
+-					<span>
+-						2026/10/01
+-					</span>
+-					<span>
+-						掲載のお知らせ
+-					</span>
+-					<div>
+-						<a href="/nursing/zaitaku/houmonkango/index.html#kaitei" rel="noopener noreferrer">
+-							「訪問看護の処遇改善に向けた訪問看護ベースアップ評価料・介護職員等処遇改善加算 活用のポイント」を掲載しました。
+-						</a>
+-						<div>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>

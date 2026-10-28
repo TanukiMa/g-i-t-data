@@ -1,0 +1,332 @@
+diff --git a/sites/answersnews/jp/and-pro/answers/pharmanews.html b/sites/answersnews/jp/and-pro/answers/pharmanews.html
+index 6212d670b..efea5d5e4 100644
+--- a/sites/answersnews/jp/and-pro/answers/pharmanews.html
++++ b/sites/answersnews/jp/and-pro/answers/pharmanews.html
+@@ -222,37 +222,37 @@
+ 				<div>
+ 					<div>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33362/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33373/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260602124657/2026-05-31T133333Z_1_LYNXMPEM4U083_RTROPTP_4_REVOLUTION-CANCER-PANCREATIC-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261020100533/chiseigaku_4-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										ニュース解説
++										連載・コラム
+ 									</span>
+ 									<h2>
+-										ダラクソンラシブ、米国外での単独展開に自信…RevMed、欧州でも近く承認へ
++										バイオを分断する「見えない国境線」【薬の地政学 #4】
+ 									</h2>
+ 									<time>
+-										2026/10/20
++										2026/10/21
+ 									</time>
+ 								</div>
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33369/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33378/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261019192418/2026_1019-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261020180757/UCB_1-1-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+ 										きょうのニュース
+ 									</span>
+ 									<h2>
+-										インスメッド「ブリヌスプリ」発売／サノフィ、サークリサ皮下注のOBI「サークリック」承認 など｜製薬業界きょうのニュースまとめ読み（2026年10月19日）
++										ユーシービー、来年6月に本社移転…現本社と同じ西新宿エリアで など｜製薬業界きょうのニュースまとめ読み（2026年10月20日）
+ 									</h2>
+ 									<time>
+-										2026/10/19
++										2026/10/20
+ 									</time>
+ 								</div>
+ 							</a>
+@@ -276,106 +276,106 @@
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33358/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33362/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261016103751/StartupSupport-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260602124657/2026-05-31T133333Z_1_LYNXMPEM4U083_RTROPTP_4_REVOLUTION-CANCER-PANCREATIC-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+ 										ニュース解説
+ 									</span>
+ 									<h2>
+-										外資製薬企業、日本でスタートアップ支援…創薬の初期段階から関与、エコシステム構築狙う
++										ダラクソンラシブ、米国外での単独展開に自信…RevMed、欧州でも近く承認へ
+ 									</h2>
+ 									<time>
+-										2026/10/19
++										2026/10/20
+ 									</time>
+ 								</div>
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33364/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33369/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261016183131/pixta_47020112_S-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261019192418/2026_1019-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+ 										きょうのニュース
+ 									</span>
+ 									<h2>
+-										三和化学の熊本工場、19日に生産再開…7月の地震で被災／「MR君」に不正アクセス、医師や製薬企業担当者の情報漏洩 など｜製薬業界きょうのニュースまとめ読み（2026年10月16日）
++										インスメッド「ブリヌスプリ」発売／サノフィ、サークリサ皮下注のOBI「サークリック」承認 など｜製薬業界きょうのニュースまとめ読み（2026年10月19日）
+ 									</h2>
+ 									<time>
+-										2026/10/16
++										2026/10/19
+ 									</time>
+ 								</div>
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33346/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33358/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101212/chiseigaku_3_eyecatch-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261016103751/StartupSupport-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										連載・コラム
++										ニュース解説
+ 									</span>
+ 									<h2>
+-										米国の医薬品関税「安全保障への脅威」盾に【薬の地政学 #3】
++										外資製薬企業、日本でスタートアップ支援…創薬の初期段階から関与、エコシステム構築狙う
+ 									</h2>
+ 									<time>
+-										2026/10/16
++										2026/10/19
+ 									</time>
+ 								</div>
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33355/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33364/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240116175722/takeda_1-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261016183131/pixta_47020112_S-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+ 										きょうのニュース
+ 									</span>
+ 									<h2>
+-										武田薬品、ナルコレプシー薬「オーゼイフル」日本と中国で発売 など｜製薬業界きょうのニュースまとめ読み（2026年10月15日）
++										三和化学の熊本工場、19日に生産再開…7月の地震で被災／「MR君」に不正アクセス、医師や製薬企業担当者の情報漏洩 など｜製薬業界きょうのニュースまとめ読み（2026年10月16日）
+ 									</h2>
+ 									<time>
+-										2026/10/15
++										2026/10/16
+ 									</time>
+ 								</div>
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33348/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33346/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101705/pixta_65164912_M-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101212/chiseigaku_3_eyecatch-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										ニュース解説
++										連載・コラム
+ 									</span>
+ 									<h2>
+-										スタルガルト病、初の治療薬登場に期待…ビライトバイオが申請、啓発活動に力
++										米国の医薬品関税「安全保障への脅威」盾に【薬の地政学 #3】
+ 									</h2>
+ 									<time>
+-										2026/10/15
++										2026/10/16
+ 									</time>
+ 								</div>
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33337/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33355/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261014101927/pixta_62872765_M-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240116175722/takeda_1-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										連載・コラム
++										きょうのニュース
+ 									</span>
+ 									<h2>
+-										異国の地で感じた「日本の医療の良さ」これからも残していくためには【コラム】
++										武田薬品、ナルコレプシー薬「オーゼイフル」日本と中国で発売 など｜製薬業界きょうのニュースまとめ読み（2026年10月15日）
+ 									</h2>
+ 									<time>
+ 										2026/10/15
+@@ -384,19 +384,19 @@
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33342/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33348/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261014180004/nxera_1-1-196x195.png" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101705/pixta_65164912_M-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										きょうのニュース
++										ニュース解説
+ 									</span>
+ 									<h2>
+-										ネクセラ「クービビック」台湾企業とアジア太平洋8カ国のライセンス契約／リズムファーマ「イムシブリー」発売、日本市場に本格参入 など｜製薬業界きょうのニュースまとめ読み（2026年10月14日）
++										スタルガルト病、初の治療薬登場に期待…ビライトバイオが申請、啓発活動に力
+ 									</h2>
+ 									<time>
+-										2026/10/14
++										2026/10/15
+ 									</time>
+ 								</div>
+ 							</a>
+@@ -428,15 +428,15 @@
+ 						</h2>
+ 						<ul>
+ 							<li>
+-								<a href="https://answers.and-pro.jp/pharmanews/33369/" rel="noopener noreferrer">
++								<a href="https://answers.and-pro.jp/pharmanews/33378/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261019192418/2026_1019.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261020180757/UCB_1-1.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										インスメッド「ブリヌスプリ」発売／サノフィ、サークリサ皮下注のOBI「サークリック」承認 など｜製薬業界きょうのニュースまとめ読み（2026年10月19日）
++										ユーシービー、来年6月に本社移転…現本社と同じ西新宿エリアで など｜製薬業界きょうのニュースまとめ読み（2026年10月20日）
+ 									</h3>
+ 									<time>
+-										2026/10/19
++										2026/10/20
+ 									</time>
+ 								</a>
+ 							</li>
+@@ -537,28 +537,28 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/pharmanews/33327/" rel="noopener noreferrer">
++								<a href="/pharmanews/33362/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195832/career_monthly_report_eye-1.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260602124657/2026-05-31T133333Z_1_LYNXMPEM4U083_RTROPTP_4_REVOLUTION-CANCER-PANCREATIC.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										MR、選択肢豊富な状況続く…製造やメディカルなども堅調｜製薬業界 今月の転職求人動向レポート（2026年10月）
++										ダラクソンラシブ、米国外での単独展開に自信…RevMed、欧州でも近く承認へ
+ 									</h3>
+ 									<time>
+-										2026/10/14
++										2026/10/20
+ 									</time>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/pharmanews/33362/" rel="noopener noreferrer">
++								<a href="/pharmanews/33346/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260602124657/2026-05-31T133333Z_1_LYNXMPEM4U083_RTROPTP_4_REVOLUTION-CANCER-PANCREATIC.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101212/chiseigaku_3_eyecatch.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										ダラクソンラシブ、米国外での単独展開に自信…RevMed、欧州でも近く承認へ
++										米国の医薬品関税「安全保障への脅威」盾に【薬の地政学 #3】
+ 									</h3>
+ 									<time>
+-										2026/10/20
++										2026/10/16
+ 									</time>
+ 								</a>
+ 							</li>
+@@ -581,15 +581,15 @@
+ 					</h3>
+ 					<ul>
+ 						<li>
+-							<a href="https://answers.and-pro.jp/pharmanews/33369/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33378/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261019192418/2026_1019.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261020180757/UCB_1-1.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									インスメッド「ブリヌスプリ」発売／サノフィ、サークリサ皮下注のOBI「サークリック」承認 など｜製薬業界きょうのニュースまとめ読み（2026年10月19日）
++									ユーシービー、来年6月に本社移転…現本社と同じ西新宿エリアで など｜製薬業界きょうのニュースまとめ読み（2026年10月20日）
+ 								</h4>
+ 								<time>
+-									2026/10/19
++									2026/10/20
+ 								</time>
+ 							</a>
+ 						</li>
+@@ -690,28 +690,28 @@
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/pharmanews/33327/" rel="noopener noreferrer">
++							<a href="/pharmanews/33362/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195832/career_monthly_report_eye-1.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260602124657/2026-05-31T133333Z_1_LYNXMPEM4U083_RTROPTP_4_REVOLUTION-CANCER-PANCREATIC.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									MR、選択肢豊富な状況続く…製造やメディカルなども堅調｜製薬業界 今月の転職求人動向レポート（2026年10月）
++									ダラクソンラシブ、米国外での単独展開に自信…RevMed、欧州でも近く承認へ
+ 								</h4>
+ 								<time>
+-									2026/10/14
++									2026/10/20
+ 								</time>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/pharmanews/33362/" rel="noopener noreferrer">
++							<a href="/pharmanews/33346/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260602124657/2026-05-31T133333Z_1_LYNXMPEM4U083_RTROPTP_4_REVOLUTION-CANCER-PANCREATIC.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101212/chiseigaku_3_eyecatch.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									ダラクソンラシブ、米国外での単独展開に自信…RevMed、欧州でも近く承認へ
++									米国の医薬品関税「安全保障への脅威」盾に【薬の地政学 #3】
+ 								</h4>
+ 								<time>
+-									2026/10/20
++									2026/10/16
+ 								</time>
+ 							</a>
+ 						</li>
+@@ -858,7 +858,7 @@
+ 								</span>
+ 								の求人件数
+ 								<span>
+-									1675
++									1674
+ 								</span>
+ 								件
+ 							</p>

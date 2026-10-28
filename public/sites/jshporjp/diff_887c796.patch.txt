@@ -1,0 +1,28 @@
+diff --git a/sites/jshporjp/jp/or/jshp/index.html b/sites/jshporjp/jp/or/jshp/index.html
+index 40825133e..f3c69aaae 100644
+--- a/sites/jshporjp/jp/or/jshp/index.html
++++ b/sites/jshporjp/jp/or/jshp/index.html
+@@ -409,6 +409,11 @@
+ 				<div>
+ 					<div>
+ 						<div>
++							<div>
++								<a href="banner/hoken.html" rel="noopener noreferrer">
++									<img height="200" src="img/topimg-s17.jpg" width="400">
++								</a>
++							</div>
+ 							<div>
+ 								<a href="content/2026/0709-4.html" rel="noopener noreferrer">
+ 									<img height="200" src="img/topimg-s16.jpg" width="400">
+@@ -424,11 +429,6 @@
+ 									<img height="200" src="img/topimg-s13.jpg" width="400">
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="banner/hoken.html" rel="noopener noreferrer">
+-									<img height="200" src="img/topimg-s10.jpg" width="400">
+-								</a>
+-							</div>
+ 							<div>
+ 								<a href="content/2025/0901-9.html" rel="noopener noreferrer">
+ 									<img height="200" src="img/topimg-s9.jpg" width="400">

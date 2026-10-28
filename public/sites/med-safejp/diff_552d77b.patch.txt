@@ -1,0 +1,37 @@
+diff --git a/sites/med-safejp/jp/med-safe/index.html b/sites/med-safejp/jp/med-safe/index.html
+index 732fb07e0..c5c58d022 100644
+--- a/sites/med-safejp/jp/med-safe/index.html
++++ b/sites/med-safejp/jp/med-safe/index.html
+@@ -194,6 +194,32 @@
+ 					</div>
+ 				</a>
+ 				<div>
++					<div>
++						<strong>
++							2026.10.26
++						</strong>
++						<br>
++						【システム停止のお知らせ】
++						<br>
++						システムメンテナンスのため、下記の日時でシステムを停止いたします。
++						<br>
++						今回のメンテナンスは、定期的なシステム保守作業です。
++						<br>
++						期間中はシステムをご利用いただけません。
++						<br>
++						<br>
++						○日時：2026年10月30日（金）18:00～11月1日（日）18:00
++						<br>
++						○対象となるシステム：
++						<br>
++						「ホームページ」「参加登録システム」「事例報告システム」「各種検索システム」「お問合せシステム」
++						<br>
++						<br>
++						なお、作業が終了次第、アクセスが可能となります。
++						<br>
++						ご不便おかけいたしますが、ご理解、ご協力をお願い申し上げます。
++						<br>
++					</div>
+ 					<div>
+ 						<strong>
+ 							2026.10.22

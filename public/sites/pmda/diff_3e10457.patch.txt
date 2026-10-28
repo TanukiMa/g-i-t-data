@@ -1,0 +1,203 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 089c3a4c9..27430dd51 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2337,6 +2337,54 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/review-services/drug-reviews/about-reviews/devices/0048.html" rel="noopener noreferrer">
++												<p>
++													2026年10月14日
++												</p>
++												<p>
++													審査
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													プログラム医療機器のページを更新（「生成AIを活用した医療機器の審査ポイント(Draft)」の英訳を公開、対面助言調整可能時期の更新）しました。
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/review-services/drug-reviews/about-reviews/p-drugs/0034.html" rel="noopener noreferrer">
++												<p>
++													2026年10月14日
++												</p>
++												<p>
++													審査
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「バイオ後続品」のページを更新しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/review-services/drug-reviews/review-information/p-drugs/0013.html" rel="noopener noreferrer">
++												<p>
++													2026年10月14日
++												</p>
++												<p>
++													審査
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													未承認薬データベースを更新しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/0371.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2580,22 +2628,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/review-information/p-drugs/0013.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月7日
+-												</p>
+-												<p>
+-													審査
+-												</p>
+-												<p>
+-													New
+-												</p>
+-												<p>
+-													未承認薬データベースを更新しました
+-												</p>
+-											</a>
+-										</li>
+ 										<li>
+ 											<a href="/about-pmda/outline/0016.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2604,9 +2636,6 @@
+ 												<p>
+ 													その他
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													専門委員名簿を更新しました
+ 												</p>
+@@ -2625,32 +2654,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/procurements/public-bidding/general-competition-government/0237.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月6日
+-												</p>
+-												<p>
+-													調達
+-												</p>
+-												<p>
+-													一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入に伴う医薬品安全対策支援システム改修業務）
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/rs-std-jp/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月6日
+-												</p>
+-												<p>
+-													その他
+-												</p>
+-												<p>
+-													「申請電子データを活用した解析」のページを更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2670,9 +2673,25 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/review-services/trials/0022.html" rel="noopener noreferrer">
++											<a href="/review-services/drug-reviews/about-reviews/devices/0048.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月8日
++													2026年10月14日
++												</p>
++												<p>
++													医療機器
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													プログラム医療機器のページを更新（「生成AIを活用した医療機器の審査ポイント(Draft)」の英訳を公開、対面助言調整可能時期の更新）しました。
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/review-services/drug-reviews/about-reviews/p-drugs/0034.html" rel="noopener noreferrer">
++												<p>
++													2026年10月14日
+ 												</p>
+ 												<p>
+ 													医薬品
+@@ -2681,14 +2700,14 @@
+ 													New
+ 												</p>
+ 												<p>
+-													「治験計画等の届出に関するFAQ」を更新しました
++													「バイオ後続品」のページを更新しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+ 											<a href="/review-services/drug-reviews/review-information/p-drugs/0013.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月7日
++													2026年10月14日
+ 												</p>
+ 												<p>
+ 													医薬品
+@@ -2701,6 +2720,22 @@
+ 												</p>
+ 											</a>
+ 										</li>
++										<li>
++											<a href="/review-services/trials/0022.html" rel="noopener noreferrer">
++												<p>
++													2026年10月8日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「治験計画等の届出に関するFAQ」を更新しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/drug-reviews/foreign-mfr/0003.html" rel="noopener noreferrer">
+ 												<p>
+@@ -3333,9 +3368,6 @@
+ 												<p>
+ 													その他
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													専門委員名簿を更新しました
+ 												</p>

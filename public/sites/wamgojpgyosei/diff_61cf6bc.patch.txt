@@ -1,0 +1,209 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index 89f6cbf3f..07fdf1a7f 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2051,12 +2051,12 @@
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					審議会
++																					医療
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22940&amp;ct=010020270" rel="noopener noreferrer" title="第78回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年10月8日開催）">
+-																					第78回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年10月8日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22941&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月9日更新）">
++																					インフルエンザ最新情報（令和8年10月9日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2067,20 +2067,20 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22939&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月2日更新）">
+-																					インフルエンザ最新情報（令和8年10月2日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22944&amp;ct=030010140" rel="noopener noreferrer" title="第158回 先進医療会議（令和8年10月9日開催）">
++																					第158回 先進医療会議（令和8年10月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					医療
++																					審議会
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22931&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月6日更新）">
+-																					風しん最新情報（令和8年10月6日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22943&amp;ct=010020020" rel="noopener noreferrer" title="第150回 厚生科学審議会 科学技術部会（令和8年10月9日開催）">
++																					第150回 厚生科学審議会 科学技術部会（令和8年10月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2091,20 +2091,20 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22936&amp;ct=010010220" rel="noopener noreferrer" title="第62回 社会保障審議会 生活保護基準部会（令和8年10月6日開催）">
+-																					第62回 社会保障審議会 生活保護基準部会（令和8年10月6日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22942&amp;ct=010010020" rel="noopener noreferrer" title="第269回 社会保障審議会 介護給付費分科会（令和8年10月9日開催）">
++																					第269回 社会保障審議会 介護給付費分科会（令和8年10月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					子ども・家庭
++																					審議会
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22934&amp;ct=090080225" rel="noopener noreferrer" title="第16回 こども家庭審議会 科学技術部会 ヒト受精胚を用いる生殖補助医療研究等に関する専門委員会（令和8年10月7日開催）">
+-																					第16回 こども家庭審議会 科学技術部会 ヒト受精胚を用いる生殖補助医療研究等に関する専門委員会（令和8年10月7日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22940&amp;ct=010020270" rel="noopener noreferrer" title="第78回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年10月8日開催）">
++																					第78回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年10月8日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2115,8 +2115,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22933&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月6日更新）">
+-																					麻しん最新情報（令和8年10月6日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22939&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月2日更新）">
++																					インフルエンザ最新情報（令和8年10月2日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2125,12 +2125,12 @@
+ 																				<div>
+ 																				</div>
+ 																				<div>
+-																					高齢・介護
++																					医療
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22911&amp;ct=020050010" rel="noopener noreferrer" title="介護保険事務処理システム変更に係る参考資料（その１）（令和8年10月6日事務連絡）">
+-																					介護保険事務処理システム変更に係る参考資料（その１）（令和8年10月6日事務連絡）
++																				<a href="/gyoseiShiryou/detail?gno=22931&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月6日更新）">
++																					風しん最新情報（令和8年10月6日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2164,8 +2164,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22940&amp;ct=010020270" rel="noopener noreferrer" title="第78回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年10月8日開催）">
+-																					第78回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年10月8日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22942&amp;ct=010010020" rel="noopener noreferrer" title="第269回 社会保障審議会 介護給付費分科会（令和8年10月9日開催）">
++																					第269回 社会保障審議会 介護給付費分科会（令和8年10月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2176,8 +2176,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22936&amp;ct=010010220" rel="noopener noreferrer" title="第62回 社会保障審議会 生活保護基準部会（令和8年10月6日開催）">
+-																					第62回 社会保障審議会 生活保護基準部会（令和8年10月6日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22943&amp;ct=010020020" rel="noopener noreferrer" title="第150回 厚生科学審議会 科学技術部会（令和8年10月9日開催）">
++																					第150回 厚生科学審議会 科学技術部会（令和8年10月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2188,8 +2188,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22912&amp;ct=010010265" rel="noopener noreferrer" title="第48回 匿名医療情報等の提供に関する専門委員会（令和8年10月5日開催）">
+-																					第48回 匿名医療情報等の提供に関する専門委員会（令和8年10月5日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22940&amp;ct=010020270" rel="noopener noreferrer" title="第78回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年10月8日開催）">
++																					第78回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年10月8日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2200,8 +2200,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22906&amp;ct=010010050" rel="noopener noreferrer" title="第217回 社会保障審議会 医療保険部会（令和8年10月1日開催）">
+-																					第217回 社会保障審議会 医療保険部会（令和8年10月1日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22936&amp;ct=010010220" rel="noopener noreferrer" title="第62回 社会保障審議会 生活保護基準部会（令和8年10月6日開催）">
++																					第62回 社会保障審議会 生活保護基準部会（令和8年10月6日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2212,8 +2212,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22907&amp;ct=010010020" rel="noopener noreferrer" title="第268回 社会保障審議会 介護給付費分科会（令和8年9月30日開催）">
+-																					第268回 社会保障審議会 介護給付費分科会（令和8年9月30日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22912&amp;ct=010010265" rel="noopener noreferrer" title="第48回 匿名医療情報等の提供に関する専門委員会（令和8年10月5日開催）">
++																					第48回 匿名医療情報等の提供に関する専門委員会（令和8年10月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2330,8 +2330,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22939&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月2日更新）">
+-																					インフルエンザ最新情報（令和8年10月2日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22941&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月9日更新）">
++																					インフルエンザ最新情報（令和8年10月9日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2342,8 +2342,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22931&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月6日更新）">
+-																					風しん最新情報（令和8年10月6日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22944&amp;ct=030010140" rel="noopener noreferrer" title="第158回 先進医療会議（令和8年10月9日開催）">
++																					第158回 先進医療会議（令和8年10月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2354,8 +2354,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22933&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月6日更新）">
+-																					麻しん最新情報（令和8年10月6日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22939&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月2日更新）">
++																					インフルエンザ最新情報（令和8年10月2日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2366,8 +2366,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22909&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月1日更新）">
+-																					風しん最新情報（令和8年10月1日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22931&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月6日更新）">
++																					風しん最新情報（令和8年10月6日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2378,8 +2378,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22910&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月1日更新）">
+-																					麻しん最新情報（令和8年10月1日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22933&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月6日更新）">
++																					麻しん最新情報（令和8年10月6日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>

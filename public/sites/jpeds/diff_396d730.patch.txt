@@ -1,0 +1,61 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 03a6f179a..3383955db 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,23 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/19
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
++												イベント
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
++												小児診療初期対応（JPLS）コース募集情報更新について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -1288,23 +1305,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/10/07
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
+-												イベント
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
+-												小児診療初期対応（JPLS）コース募集情報更新について
+-											</a>
+-										</td>
+-									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2154,7 +2154,7 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/07
++												2026/10/19
+ 											</time>
+ 										</td>
+ 										<td>

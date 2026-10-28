@@ -1,0 +1,73 @@
+diff --git a/sites/medorjpnew/jp/or/med/new-html.html b/sites/medorjpnew/jp/or/med/new-html.html
+index ebb94283b..61d641423 100644
+--- a/sites/medorjpnew/jp/or/med/new-html.html
++++ b/sites/medorjpnew/jp/or/med/new-html.html
+@@ -423,6 +423,30 @@
+ 						</div>
+ 					</div>
+ 					<ul>
++						<li>
++							<dl>
++								<dt>
++									2026年10月20日
++								</dt>
++								<dd>
++									<a href="https://www.med.or.jp/doctor/hospital_based/nichiinews/000306.html" rel="noopener noreferrer">
++										勤務医のページ(勤務医関連の記事)
++									</a>
++								</dd>
++							</dl>
++						</li>
++						<li>
++							<dl>
++								<dt>
++									2026年10月20日
++								</dt>
++								<dd>
++									<a href="https://www.med.or.jp/dl-med/people/plaza/607.pdf" rel="noopener noreferrer">
++										子宮内膜症 －月経痛が強くなってきていませんか？－【健康ぷらざNo.607】
++									</a>
++								</dd>
++							</dl>
++						</li>
+ 						<li>
+ 							<dl>
+ 								<dt>
+@@ -615,18 +639,6 @@
+ 								</dd>
+ 							</dl>
+ 						</li>
+-						<li>
+-							<dl>
+-								<dt>
+-									2026年09月20日
+-								</dt>
+-								<dd>
+-									<a href="https://www.med.or.jp/doctor/hospital_based/nichiinews/000306.html" rel="noopener noreferrer">
+-										勤務医のページ(勤務医関連の記事)
+-									</a>
+-								</dd>
+-							</dl>
+-						</li>
+ 						<li>
+ 							<dl>
+ 								<dt>
+@@ -1022,18 +1034,6 @@
+ 								</dd>
+ 							</dl>
+ 						</li>
+-						<li>
+-							<dl>
+-								<dt>
+-									2026年06月22日
+-								</dt>
+-								<dd>
+-									<a href="https://www.med.or.jp/dl-med/doctor/chiiki/kyodo/kyodosoukai31.pdf" rel="noopener noreferrer">
+-										第31回全国医師会共同利用施設総会記録集（5.4MB）
+-									</a>
+-								</dd>
+-							</dl>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						年別表記

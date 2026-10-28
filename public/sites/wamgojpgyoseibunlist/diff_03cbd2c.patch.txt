@@ -1,0 +1,39 @@
+diff --git a/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html b/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
+index 905f4e721..3828a40f1 100644
+--- a/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
++++ b/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
+@@ -1968,6 +1968,17 @@
+ 											</tr>
+ 										</thead>
+ 										<tbody>
++											<tr>
++												<td>
++													<img alt="" src="/content/css/img/icon_szl_new.gif" title="新着アイコン">
++													<a href="detail-list?bun=010010030" rel="noopener noreferrer" title="介護保険部会">
++														介護保険部会
++													</a>
++												</td>
++												<td>
++													2026/10/26
++												</td>
++											</tr>
+ 											<tr>
+ 												<td>
+ 													<img alt="" src="/content/css/img/icon_szl_new.gif" title="新着アイコン">
+@@ -2031,16 +2042,6 @@
+ 													2026/09/28
+ 												</td>
+ 											</tr>
+-											<tr>
+-												<td>
+-													<a href="detail-list?bun=010010030" rel="noopener noreferrer" title="介護保険部会">
+-														介護保険部会
+-													</a>
+-												</td>
+-												<td>
+-													2026/09/18
+-												</td>
+-											</tr>
+ 											<tr>
+ 												<td>
+ 													<a href="detail-list?bun=010010040" rel="noopener noreferrer" title="医療部会">

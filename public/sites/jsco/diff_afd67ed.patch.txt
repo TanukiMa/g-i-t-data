@@ -1,0 +1,169 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index cf5576b35..fcc56f749 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -1387,7 +1387,7 @@
+ 												<ul>
+ 													<li>
+ 														<div>
+-															2026年10月20日
++															2026年10月22日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1398,16 +1398,14 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=642&amp;dispmid=767" rel="noopener noreferrer">
+-																<span>
+-																	10月20日(火)～26日(月)　本学会へのお問い合わせについて
+-																</span>
++															<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
+ 															</a>
+ 														</div>
+ 													</li>
+ 													<li>
+ 														<div>
+-															2026年09月29日
++															2026年10月20日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1418,14 +1416,16 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=1140&amp;dispmid=767" rel="noopener noreferrer">
+-																「がんチューブ(一般社団法人日本癌治療学会公式YouTubeチャンネル)」のご紹介
++															<a href="/news/detail.html?itemid=642&amp;dispmid=767" rel="noopener noreferrer">
++																<span>
++																	10月20日(火)～26日(月)　本学会へのお問い合わせについて
++																</span>
+ 															</a>
+ 														</div>
+ 													</li>
+ 													<li>
+ 														<div>
+-															2026年09月07日
++															2026年09月29日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1436,12 +1436,8 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=1109&amp;dispmid=767" rel="noopener noreferrer">
+-																年会費(再請求)についてのお知らせのご送付について【9/4発送】
+-																<br>
+-																<span>
+-																	※「ご退職された方宛てに届いた場合」や「既にお支払い済みの場合」もこちらをご確認ください
+-																</span>
++															<a href="/news/detail.html?itemid=1140&amp;dispmid=767" rel="noopener noreferrer">
++																「がんチューブ(一般社団法人日本癌治療学会公式YouTubeチャンネル)」のご紹介
+ 															</a>
+ 														</div>
+ 													</li>
+@@ -1519,6 +1515,24 @@
+ 														<div>
+ 															<div>
+ 																<ul>
++																	<li>
++																		<div>
++																			2026年10月22日
++																		</div>
++																		<div>
++																			<span>
++																				重要
++																			</span>
++																			<span>
++																				学会
++																			</span>
++																		</div>
++																		<div>
++																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++																			</a>
++																		</div>
++																	</li>
+ 																	<li>
+ 																		<div>
+ 																			2026年10月22日
+@@ -1584,21 +1598,6 @@
+ 																			</a>
+ 																		</div>
+ 																	</li>
+-																	<li>
+-																		<div>
+-																			2026年10月13日
+-																		</div>
+-																		<div>
+-																			<span>
+-																				その他
+-																			</span>
+-																		</div>
+-																		<div>
+-																			<a href="/news/detail.html?itemid=1151&amp;dispmid=767" rel="noopener noreferrer">
+-																				ノバルティス ファーマ株式会社：ゾメタ点滴静注4mg/5mLおよびゾメタ点滴静注4mg/100mL販売中止のご案内
+-																			</a>
+-																		</div>
+-																	</li>
+ 																</ul>
+ 																<div>
+ 																	<p>
+@@ -1618,6 +1617,26 @@
+ 														<div>
+ 															<div>
+ 																<ul>
++																	<li>
++																		<div>
++																			2026年10月22日
++																		</div>
++																		<div>
++																			<span>
++																				重要
++																			</span>
++																			<span>
++																				学会
++																			</span>
++																		</div>
++																		<div>
++																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++																			</a>
++																		</div>
++																		<div>
++																		</div>
++																	</li>
+ 																	<li>
+ 																		<div>
+ 																			2026年10月22日
+@@ -1691,26 +1710,6 @@
+ 																		<div>
+ 																		</div>
+ 																	</li>
+-																	<li>
+-																		<div>
+-																			2026年09月29日
+-																		</div>
+-																		<div>
+-																			<span>
+-																				重要
+-																			</span>
+-																			<span>
+-																				学会
+-																			</span>
+-																		</div>
+-																		<div>
+-																			<a href="/news/detail.html?itemid=1140&amp;dispmid=767" rel="noopener noreferrer">
+-																				「がんチューブ(一般社団法人日本癌治療学会公式YouTubeチャンネル)」のご紹介
+-																			</a>
+-																		</div>
+-																		<div>
+-																		</div>
+-																	</li>
+ 																</ul>
+ 																<div>
+ 																	<p>

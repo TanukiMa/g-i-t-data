@@ -1,0 +1,25 @@
+diff --git a/sites/jsmbe/org/jsmbe/index.html b/sites/jsmbe/org/jsmbe/index.html
+index 20cd70a58..da59e43e9 100644
+--- a/sites/jsmbe/org/jsmbe/index.html
++++ b/sites/jsmbe/org/jsmbe/index.html
+@@ -381,6 +381,20 @@
+ 				<div>
+ 					<div>
+ 						<ul>
++							<li>
++								2026.10.07
++								<a href="announce.html" rel="noopener noreferrer">
++									各種お知らせ
++								</a>
++								情報を追加しました．
++							</li>
++							<li>
++								2026.10.07
++								<a href="grant.html" rel="noopener noreferrer">
++									助成金
++								</a>
++								情報を追加しました．
++							</li>
+ 							<li>
+ 								2026.09.28
+ 								<a href="http://jsmbe.org/award.html" rel="noopener noreferrer">

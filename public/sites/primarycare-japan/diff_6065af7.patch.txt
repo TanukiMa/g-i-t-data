@@ -1,0 +1,57 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index 05c627c83..138362529 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -779,6 +779,27 @@
+ 				</ul>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1933" rel="noopener noreferrer">
++								<p>
++									<img alt="本学術集会サイトメンテナンスのお知らせ" src="/pics/news/news-thumb-1933.jpg">
++								</p>
++								<h2>
++									本学術集会サイトメンテナンスのお知らせ
++								</h2>
++								<p>
++									東京大学の定期電源設備保守作業に伴うUMINサーバーのメンテナンスのため、以下の期間は本学術大会ホ…
++								</p>
++								<p>
++									<time>
++										2026.10.19
++									</time>
++									<span>
++										オススメ
++									</span>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1931" rel="noopener noreferrer">
+ 								<p>
+@@ -2504,24 +2525,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1731" rel="noopener noreferrer">
+-								<p>
+-									<img alt="プライマリ・ケア診療各論／家族をみるためのFamily Kampo⑥　ー妊婦の風邪と漢方ー" src="/pics/news/news-thumb-1731.jpg">
+-								</p>
+-								<h2>
+-									プライマリ・ケア診療各論／家族をみるためのFamily Kampo⑥　ー妊婦の風邪と漢方ー
+-								</h2>
+-								<p>
+-									「家族をみるための Family Kampo」と題して、女性に頻用する漢方薬を紹介している。前回に…
+-								</p>
+-								<p>
+-									<time>
+-										2026.07.28
+-									</time>
+-								</p>
+-							</a>
+-						</li>
+ 					</ul>
+ 					<p>
+ 						<a rel="noopener noreferrer">

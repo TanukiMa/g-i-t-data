@@ -1,0 +1,90 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 1c2335e65..1e9f6b91d 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,23 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/27
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
++												イベント
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/event/post-159899.html" rel="noopener noreferrer">
++												国際学会の情報を更新いたしました（第20回ASPR）
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/08/27
+-											</time>
+-										</td>
+-										<td>
+-											<a href="/members-only/members-news" rel="noopener noreferrer">
+-												会員限定のお知らせ
+-											</a>
+-										</td>
+-										<td>
+-											<a href="/members-only/" rel="noopener noreferrer">
+-												会員専用ホームページに新しいお知らせを掲載しました
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2151,6 +2151,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/27
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/event/post-159899.html" rel="noopener noreferrer">
++												国際学会の情報を更新いたしました（第20回ASPR）
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2223,18 +2235,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/03/23
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/event/post-155220.html" rel="noopener noreferrer">
+-												第129回日本小児科学会学術集会企画（JPLS、café、災害医療研修会）の情報を掲載いたしました
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

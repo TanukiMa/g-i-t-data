@@ -1,0 +1,21 @@
+diff --git a/sites/jmwh/jp/jmwh/index.html b/sites/jmwh/jp/jmwh/index.html
+index 6672830a9..73eed1277 100644
+--- a/sites/jmwh/jp/jmwh/index.html
++++ b/sites/jmwh/jp/jmwh/index.html
+@@ -159,6 +159,16 @@
+ 					</div>
+ 					<div>
+ 						<ul>
++							<li>
++								<div>
++									2026/10/23
++								</div>
++								<div>
++									<a href="n-oshirase.html#20261023" rel="noopener noreferrer">
++										PHPの脆弱性に関するお知らせ
++									</a>
++								</div>
++							</li>
+ 							<li>
+ 								<div>
+ 									2026/10/13

@@ -1,0 +1,87 @@
+diff --git a/sites/haigan/jp/gr/haigan/index.html b/sites/haigan/jp/gr/haigan/index.html
+index 51d3c391d..b3765dace 100644
+--- a/sites/haigan/jp/gr/haigan/index.html
++++ b/sites/haigan/jp/gr/haigan/index.html
+@@ -627,39 +627,6 @@
+ 				<h3>
+ 					直近のイベント
+ 				</h3>
+-				<article>
+-					<a href="https://www.haigan.gr.jp/event/8769/" rel="noopener noreferrer">
+-						<time>
+-							<span>
+-								2026
+-							</span>
+-							<span>
+-								10.17
+-							</span>
+-							<span>
+-								（土）
+-							</span>
+-						</time>
+-						<div>
+-							<div>
+-								<span>
+-									市民公開講座
+-								</span>
+-							</div>
+-							<div>
+-								<span>
+-									一般の方
+-								</span>
+-							</div>
+-							<p>
+-								みんなのための肺がんまるわかり教室＠那覇
+-							</p>
+-						</div>
+-						<div>
+-							沖縄県
+-						</div>
+-					</a>
+-				</article>
+ 				<article>
+ 					<a href="https://www.haigan.gr.jp/event/8773/" rel="noopener noreferrer">
+ 						<time>
+@@ -810,6 +777,42 @@
+ 						</div>
+ 					</a>
+ 				</article>
++				<article>
++					<a href="https://www.haigan.gr.jp/event/11049/" rel="noopener noreferrer">
++						<time>
++							<span>
++								2027
++							</span>
++							<span>
++								02.06
++							</span>
++							<span>
++								（土）
++							</span>
++						</time>
++						<div>
++							<div>
++								<span>
++									支部会
++								</span>
++							</div>
++							<div>
++								<span>
++									医療従事者向け
++								</span>
++								<span>
++									医学生・研修医の方
++								</span>
++							</div>
++							<p>
++								第130回日本肺癌学会中部支部学術集会
++							</p>
++						</div>
++						<div>
++							中部支部
++						</div>
++					</a>
++				</article>
+ 				<div>
+ 					<a href="/event/calendar/" rel="noopener noreferrer">
+ 						他のイベントを見る

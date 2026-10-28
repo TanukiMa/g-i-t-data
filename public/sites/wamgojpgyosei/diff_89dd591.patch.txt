@@ -1,0 +1,42 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index 824d5d093..374655a4b 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2805,18 +2805,6 @@
+ 															<div>
+ 																<table>
+ 																	<tbody>
+-																		<tr>
+-																			<td>
+-																				<div>
+-																					障害者福祉
+-																				</div>
+-																			</td>
+-																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22967&amp;ct=070010040" rel="noopener noreferrer">
+-																					第66回 障害福祉報酬改定検討チーム（令和8年10月22日開催予定）
+-																				</a>
+-																			</td>
+-																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+@@ -2865,6 +2853,18 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
++																		<tr>
++																			<td>
++																				<div>
++																					福祉全般
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=22972&amp;ct=070010010" rel="noopener noreferrer">
++																					第24回成年後見制度利用促進専門家会議について（令和8年10月27日開催予定）
++																				</a>
++																			</td>
++																		</tr>
+ 																	</tbody>
+ 																</table>
+ 															</div>

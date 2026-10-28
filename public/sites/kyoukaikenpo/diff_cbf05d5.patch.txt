@@ -1,0 +1,39 @@
+diff --git a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+index 93318e536..f1d1f9e3e 100644
+--- a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
++++ b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+@@ -548,18 +548,6 @@
+ 					重要
+ 				</h2>
+ 				<ul>
+-					<li>
+-						<article>
+-							<time>
+-								令和08年10月22日
+-							</time>
+-							<h3>
+-								<a href="/news/r08_oct/6667.html" rel="noopener noreferrer">
+-									「情報提供サービス」の一部メニューの一時停止
+-								</a>
+-							</h3>
+-						</article>
+-					</li>
+ 					<li>
+ 						<article>
+ 							<time>
+@@ -1250,14 +1238,9 @@
+ 								</div>
+ 								<h3>
+ 									<a href="/news/r08_oct/6667.html" rel="noopener noreferrer">
+-										「情報提供サービス」の一部メニューの一時停止
++										【復旧】「情報提供サービス」の一部メニューの一時停止
+ 									</a>
+ 								</h3>
+-								<ul>
+-									<li>
+-										重要
+-									</li>
+-								</ul>
+ 							</article>
+ 						</li>
+ 						<li>

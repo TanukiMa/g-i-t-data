@@ -1,0 +1,42 @@
+diff --git a/sites/nipponpaorg/org/nippon-pa/secure/index.html b/sites/nipponpaorg/org/nippon-pa/secure/index.html
+index 69342be22..5396f98ff 100644
+--- a/sites/nipponpaorg/org/nippon-pa/secure/index.html
++++ b/sites/nipponpaorg/org/nippon-pa/secure/index.html
+@@ -318,6 +318,37 @@
+ 					最新のお知らせ
+ 				</h2>
+ 				<div>
++					<dl>
++						<dt>
++							<div>
++								事務局からのお知らせ
++							</div>
++							2026.10.14
++						</dt>
++						<dd>
++							<b>
++								「
++								<a href="/pdf/policy_2026_10.pdf" rel="noopener noreferrer">
++									骨太方針2026等を踏まえた薬局・薬剤師政策に関する当協会の考え方
++								</a>
++								」の公表について
++							</b>
++							<br>
++							当協会は、秋の臨時国会での議論を見据え、骨太方針2026等を踏まえた薬局・薬剤師政策に関する考え方を取りまとめ、公表しました。
++							<br>
++							本資料では、次の三つを柱として、当協会の考え方を示しています。
++							<br>
++							１　管理薬剤師の賃上げを含む賃上げ・物価高騰への対応と、薬局機能の適正評価
++							<br>
++							２　「攻めの予防医療」における薬局・薬剤師の位置付け
++							<br>
++							３　社会保障審議会の医療保険部会・医療部会及び中医協への保険薬局事業者の代表の参画
++							<br>
++							あわせて、ドラッグロスへの懸念、治験支援を通じた創薬への貢献、AI・デジタル技術による生産性向上についても言及しています。
++							<br>
++							当協会は、患者・地域住民の利益に資する薬局機能と医薬品提供体制の維持・強化に向け、引き続き政策の検討・実施に積極的に関わってまいります。
++						</dd>
++					</dl>
+ 					<dl>
+ 						<dt>
+ 							<div>

@@ -1,0 +1,38 @@
+diff --git a/sites/jshg/jp/jshg/index.html b/sites/jshg/jp/jshg/index.html
+index 890aa27fc..4d2105ef5 100644
+--- a/sites/jshg/jp/jshg/index.html
++++ b/sites/jshg/jp/jshg/index.html
+@@ -163,6 +163,16 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						<time>
++							2026.10.26
++						</time>
++						<span>
++							【ご報告】PHPの脆弱性に関する状況について
++						</span>
++						<a href="https://jshg.jp/news/11653/" rel="noopener noreferrer">
++						</a>
++					</li>
+ 					<li>
+ 						<time>
+ 							2026.10.05
+@@ -203,16 +213,6 @@
+ 						<a href="https://jshg.jp/news/11504/" rel="noopener noreferrer">
+ 						</a>
+ 					</li>
+-					<li>
+-						<time>
+-							2026.08.06
+-						</time>
+-						<span>
+-							日本遺伝子診療学会より第29回臨床遺伝情報検索講習会開催のご案内が届きました。
+-						</span>
+-						<a href="https://jshg.jp/news/11480/" rel="noopener noreferrer">
+-						</a>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://jshg.jp/news/" rel="noopener noreferrer">

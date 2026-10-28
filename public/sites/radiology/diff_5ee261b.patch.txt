@@ -1,0 +1,38 @@
+diff --git a/sites/radiology/jp/radiology/index.html b/sites/radiology/jp/radiology/index.html
+index 28f4eac62..0d4348547 100644
+--- a/sites/radiology/jp/radiology/index.html
++++ b/sites/radiology/jp/radiology/index.html
+@@ -478,6 +478,16 @@
+ 						What's New
+ 					</h2>
+ 					<dl>
++						<dt>
++							<time>
++								2026年10月15日
++							</time>
++						</dt>
++						<dd>
++							<a href="member_info/relation/20261015_01.html" rel="noopener noreferrer">
++								【日本乳癌画像研究会】第36回日本乳癌画像研究会学術総会開催のお知らせ
++							</a>
++						</dd>
+ 						<dt>
+ 							<time>
+ 								2026年10月14日
+@@ -568,16 +578,6 @@
+ 								【厚生労働省】令和7年度医療用医薬品の販売情報提供活動調査事業報告書
+ 							</a>
+ 						</dd>
+-						<dt>
+-							<time>
+-								2026年09月10日
+-							</time>
+-						</dt>
+-						<dd>
+-							<a href="member_info/news_member/20260817_01.html" rel="noopener noreferrer">
+-								日本医学放射線学会 国際人材育成助成金制度 締切間近（9/20まで）
+-							</a>
+-						</dd>
+ 					</dl>
+ 					<p>
+ 						<a href="past_info.html" rel="noopener noreferrer">

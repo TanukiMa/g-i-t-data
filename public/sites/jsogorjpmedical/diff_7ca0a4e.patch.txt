@@ -1,0 +1,54 @@
+diff --git a/sites/jsogorjpmedical/jp/or/jsog/medical-368.html b/sites/jsogorjpmedical/jp/or/jsog/medical-368.html
+index e81d1b1c8..7c814a587 100644
+--- a/sites/jsogorjpmedical/jp/or/jsog/medical-368.html
++++ b/sites/jsogorjpmedical/jp/or/jsog/medical-368.html
+@@ -470,37 +470,40 @@
+ 												医療安全に関する指針一覧
+ 											</a>
+ 										</div>
++										<div>
++											<a href="https://www.jsog.or.jp/medical/614/" rel="noopener noreferrer">
++												過去の医療安全に関する指針一覧
++											</a>
++										</div>
+ 									</div>
+ 									<div>
+ 										<div>
+ 											<a href="https://www.jsog.or.jp/medical/12753/" rel="noopener noreferrer">
+-												留意点
++												留意点一覧
+ 											</a>
+ 										</div>
+-									</div>
+-									<div>
+ 										<div>
+-											<a href="https://www.jsog.or.jp/medical/11831/" rel="noopener noreferrer">
+-												留意すべき法令・通知等
++											<a href="https://www.jsog.or.jp/medical/12755/" rel="noopener noreferrer">
++												過去の留意点一覧
+ 											</a>
+ 										</div>
+ 									</div>
+ 									<div>
+ 										<div>
+-											<a href="https://www.jsog.or.jp/medical/614/" rel="noopener noreferrer">
+-												宣言一覧
++											<a href="https://www.jsog.or.jp/medical/11831/" rel="noopener noreferrer">
++												留意すべき法令・通知等
+ 											</a>
+ 										</div>
+ 									</div>
+ 									<div>
+ 										<div>
+ 											<a href="https://www.jsog.or.jp/medical/574/" rel="noopener noreferrer">
+-												声明一覧
++												提言・宣言・声明一覧
+ 											</a>
+ 										</div>
+ 										<div>
+ 											<a href="https://www.jsog.or.jp/medical/577/" rel="noopener noreferrer">
+-												過去の声明一覧
++												過去の提言・宣言・声明一覧
+ 											</a>
+ 										</div>
+ 									</div>

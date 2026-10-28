@@ -1,0 +1,40 @@
+diff --git a/sites/caicmdata/jp/go/caicm/action-data.html b/sites/caicmdata/jp/go/caicm/action-data.html
+index eb4c8fa41..e7670ebc5 100644
+--- a/sites/caicmdata/jp/go/caicm/action-data.html
++++ b/sites/caicmdata/jp/go/caicm/action-data.html
+@@ -40,6 +40,35 @@
+ 				</div>
+ 				<div>
+ 					<div>
++						<div>
++							<ul>
++								<li>
++									<a href="#surveillance" rel="noopener noreferrer">
++										全数把握と定点把握
++									</a>
++								</li>
++								<li>
++									<a href="#preliminary-data" rel="noopener noreferrer">
++										速報データ
++									</a>
++								</li>
++								<li>
++									<a href="#notable-diseases" rel="noopener noreferrer">
++										注目すべき感染症について
++									</a>
++								</li>
++								<li>
++									<a href="#risk-assessment" rel="noopener noreferrer">
++										感染症リスク評価について
++									</a>
++								</li>
++								<li>
++									<a href="#infectious-status" rel="noopener noreferrer">
++										海外における感染症発生状況について
++									</a>
++								</li>
++							</ul>
++						</div>
+ 						<p>
+ 							国では、感染症の発生情報の正確な把握と分析、その結果の国民や医療機関への迅速な提供・公開により、感染症に対する有効かつ的確な予防・診断・治療に係る対策を図り、多様な感染症の発生及びまん延を防止することを目的として、感染症発生動向調査を行っております。
+ 							<br>

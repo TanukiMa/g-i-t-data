@@ -1,0 +1,48 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index f570f264e..613f4c1b4 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -692,6 +692,21 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<div>
++											<span>
++												令和8年10月13日
++											</span>
++											<div>
++												<span>
++													トピックス
++												</span>
++											</div>
++										</div>
++										<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
++											（情報更新）「公募カレンダー」最新情報を掲載しました
++										</a>
++									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+@@ -752,21 +767,6 @@
+ 											（令和8年11月7日～令和9年3月17日開催）「難治性疾患実用化研究事業 2026年度 活動・成果報告会『研究結...
+ 										</a>
+ 									</li>
+-									<li>
+-										<div>
+-											<span>
+-												令和8年10月6日
+-											</span>
+-											<div>
+-												<span>
+-													トピックス
+-												</span>
+-											</div>
+-										</div>
+-										<a href="/news/topics/20261006.html" rel="noopener noreferrer">
+-											AMED Global Hub（Boston）活動開始しました！
+-										</a>
+-									</li>
+ 								</ul>
+ 								<ul>
+ 									<li>

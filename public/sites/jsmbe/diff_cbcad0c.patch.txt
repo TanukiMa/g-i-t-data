@@ -1,0 +1,18 @@
+diff --git a/sites/jsmbe/org/jsmbe/index.html b/sites/jsmbe/org/jsmbe/index.html
+index da59e43e9..15be17b36 100644
+--- a/sites/jsmbe/org/jsmbe/index.html
++++ b/sites/jsmbe/org/jsmbe/index.html
+@@ -381,6 +381,13 @@
+ 				<div>
+ 					<div>
+ 						<ul>
++							<li>
++								2026.10.15
++								<a href="recruit.html" rel="noopener noreferrer">
++									求人
++								</a>
++								情報を更新しました．
++							</li>
+ 							<li>
+ 								2026.10.07
+ 								<a href="announce.html" rel="noopener noreferrer">

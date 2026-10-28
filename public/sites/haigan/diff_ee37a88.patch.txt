@@ -1,0 +1,160 @@
+diff --git a/sites/haigan/jp/gr/haigan/index.html b/sites/haigan/jp/gr/haigan/index.html
+index d97a5b48f..9d04a9f49 100644
+--- a/sites/haigan/jp/gr/haigan/index.html
++++ b/sites/haigan/jp/gr/haigan/index.html
+@@ -427,53 +427,59 @@
+ 				</h3>
+ 				<ol>
+ 					<li>
+-						<a href="https://www.haigan.gr.jp/news/11215/" rel="noopener noreferrer">
++						<a href="https://www.haigan.gr.jp/news/11532/" rel="noopener noreferrer">
+ 							<div>
+ 								<time>
+-									2026年09月03日
++									2026年10月05日
+ 								</time>
+ 								<div>
+ 									<span>
+ 										委員会より
+ 									</span>
++									<span>
++										New
++									</span>
+ 								</div>
+ 							</div>
+ 							<div>
+-								「人を対象とする生命科学・医学系研究に関する倫理指針」一部改訂について
++								英文誌 International Journal of Lung Cancer Volume 1, Issue 3 公開のご案内
+ 							</div>
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="https://www.haigan.gr.jp/news/11022/" rel="noopener noreferrer">
++						<a href="https://www.haigan.gr.jp/news/11525/" rel="noopener noreferrer">
+ 							<div>
+ 								<time>
+-									2026年08月04日
++									2026年10月05日
+ 								</time>
+ 								<div>
+ 									<span>
+ 										委員会より
+ 									</span>
++									<span>
++										New
++									</span>
+ 								</div>
+ 							</div>
+ 							<div>
+-								肺癌バイオマーカー各種検査の手引きを更新しました
++								第1回 肺癌認定医試験　試験結果について
+ 							</div>
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="https://www.haigan.gr.jp/news/10958/" rel="noopener noreferrer">
++						<a href="https://www.haigan.gr.jp/news/11215/" rel="noopener noreferrer">
+ 							<div>
+ 								<time>
+-									2026年08月01日
++									2026年09月03日
+ 								</time>
+ 								<div>
+ 									<span>
+-										学会より
++										委員会より
+ 									</span>
+ 								</div>
+ 							</div>
+ 							<div>
+-								認定医試験の実施およびご案内について
++								「人を対象とする生命科学・医学系研究に関する倫理指針」一部改訂について
+ 							</div>
+ 						</a>
+ 					</li>
+@@ -627,42 +633,6 @@
+ 				<h3>
+ 					直近のイベント
+ 				</h3>
+-				<article>
+-					<a href="https://www.haigan.gr.jp/event/10439/" rel="noopener noreferrer">
+-						<time>
+-							<span>
+-								2026
+-							</span>
+-							<span>
+-								10.04
+-							</span>
+-							<span>
+-								（日）
+-							</span>
+-						</time>
+-						<div>
+-							<div>
+-								<span>
+-									支部会
+-								</span>
+-							</div>
+-							<div>
+-								<span>
+-									医療従事者向け
+-								</span>
+-								<span>
+-									医学生・研修医の方
+-								</span>
+-							</div>
+-							<p>
+-								第54回日本肺癌学会北海道支部学術集会　　　　　　　　（第5回呼吸器関連5学会合同北海道地方会内）
+-							</p>
+-						</div>
+-						<div>
+-							北海道支部
+-						</div>
+-					</a>
+-				</article>
+ 				<article>
+ 					<a href="https://www.haigan.gr.jp/event/8769/" rel="noopener noreferrer">
+ 						<time>
+@@ -810,6 +780,42 @@
+ 						</div>
+ 					</a>
+ 				</article>
++				<article>
++					<a href="https://www.haigan.gr.jp/event/9355/" rel="noopener noreferrer">
++						<time>
++							<span>
++								2026
++							</span>
++							<span>
++								12.12
++							</span>
++							<span>
++								（土）
++							</span>
++						</time>
++						<div>
++							<div>
++								<span>
++									支部会
++								</span>
++							</div>
++							<div>
++								<span>
++									医療従事者向け
++								</span>
++								<span>
++									医学生・研修医の方
++								</span>
++							</div>
++							<p>
++								第206回日本肺癌学会関東支部学術集会
++							</p>
++						</div>
++						<div>
++							関東支部
++						</div>
++					</a>
++				</article>
+ 				<div>
+ 					<a href="/event/calendar/" rel="noopener noreferrer">
+ 						他のイベントを見る

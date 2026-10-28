@@ -1,0 +1,122 @@
+diff --git a/sites/jns-official/jp/jns-official/index.html b/sites/jns-official/jp/jns-official/index.html
+index 553f363d7..ea2796310 100644
+--- a/sites/jns-official/jp/jns-official/index.html
++++ b/sites/jns-official/jp/jns-official/index.html
+@@ -449,12 +449,12 @@
+ 																<th>
+ 																	»
+ 																	<span>
+-																		2026年10月02日
++																		2026年10月07日
+ 																	</span>
+ 																</th>
+ 																<td>
+-																	<a href="https://jns-official.jp/topics/20261002/22016" rel="noopener noreferrer">
+-																		第62回（2027年）専門医認定試験のお知らせ
++																	<a href="https://jns-official.jp/topics/20261007/22037" rel="noopener noreferrer">
++																		再掲）医療倫理講習会、FDコース開催のご案内（10/22.23札幌）
+ 																	</a>
+ 																</td>
+ 															</tr>
+@@ -462,12 +462,12 @@
+ 																<th>
+ 																	»
+ 																	<span>
+-																		2026年09月28日
++																		2026年10月02日
+ 																	</span>
+ 																</th>
+ 																<td>
+-																	<a href="https://jns-official.jp/topics/20260928/21989" rel="noopener noreferrer">
+-																		「クロイツフェルト・ヤコブ病及びその疑いの取扱い」の一部改正について
++																	<a href="https://jns-official.jp/topics/20261002/22016" rel="noopener noreferrer">
++																		第62回（2027年）専門医認定試験のお知らせ
+ 																	</a>
+ 																</td>
+ 															</tr>
+@@ -479,8 +479,8 @@
+ 																	</span>
+ 																</th>
+ 																<td>
+-																	<a href="https://jns-official.jp/topics/20260928/21980" rel="noopener noreferrer">
+-																		医療倫理講習会、FDコース開催のご案内（10/22.23札幌）
++																	<a href="https://jns-official.jp/topics/20260928/21989" rel="noopener noreferrer">
++																		「クロイツフェルト・ヤコブ病及びその疑いの取扱い」の一部改正について
+ 																	</a>
+ 																</td>
+ 															</tr>
+@@ -488,12 +488,12 @@
+ 																<th>
+ 																	»
+ 																	<span>
+-																		2026年09月03日
++																		2026年09月28日
+ 																	</span>
+ 																</th>
+ 																<td>
+-																	<a href="https://jns-official.jp/topics/20260903/21873" rel="noopener noreferrer">
+-																		第61回専門医認定試験 最終結果通知について
++																	<a href="https://jns-official.jp/topics/20260928/21980" rel="noopener noreferrer">
++																		医療倫理講習会、FDコース開催のご案内（10/22.23札幌）
+ 																	</a>
+ 																</td>
+ 															</tr>
+@@ -524,12 +524,12 @@
+ 												<th>
+ 													»
+ 													<span>
+-														2026年10月02日
++														2026年10月07日
+ 													</span>
+ 												</th>
+ 												<td>
+-													<a href="https://jns-official.jp/topics/20261002/22018" rel="noopener noreferrer" title="医薬品・医療機器等安全性情報（No.432）のご案内">
+-														医薬品・医療機器等安全性情報（No.432）のご案内
++													<a href="https://jns-official.jp/topics/20261007/22041" rel="noopener noreferrer" title="一般社団法人中部日本臓器提供支援協会（CODA）の業務稼働について">
++														一般社団法人中部日本臓器提供支援協会（CODA）の業務稼働について
+ 													</a>
+ 												</td>
+ 											</tr>
+@@ -541,8 +541,8 @@
+ 													</span>
+ 												</th>
+ 												<td>
+-													<a href="https://jns-official.jp/topics/20261002/22013" rel="noopener noreferrer" title="2026年版SANS問題集のご案内">
+-														2026年版SANS問題集のご案内
++													<a href="https://jns-official.jp/topics/20261002/22018" rel="noopener noreferrer" title="医薬品・医療機器等安全性情報（No.432）のご案内">
++														医薬品・医療機器等安全性情報（No.432）のご案内
+ 													</a>
+ 												</td>
+ 											</tr>
+@@ -550,12 +550,12 @@
+ 												<th>
+ 													»
+ 													<span>
+-														2026年09月30日
++														2026年10月02日
+ 													</span>
+ 												</th>
+ 												<td>
+-													<a href="https://jns-official.jp/topics/20260930/21998" rel="noopener noreferrer" title="パブリックコメント募集のお知らせ（日本聴神経腫瘍研究会）">
+-														パブリックコメント募集のお知らせ（日本聴神経腫瘍研究会）
++													<a href="https://jns-official.jp/topics/20261002/22013" rel="noopener noreferrer" title="2026年版SANS問題集のご案内">
++														2026年版SANS問題集のご案内
+ 													</a>
+ 												</td>
+ 											</tr>
+@@ -563,12 +563,12 @@
+ 												<th>
+ 													»
+ 													<span>
+-														2026年09月25日
++														2026年09月30日
+ 													</span>
+ 												</th>
+ 												<td>
+-													<a href="https://jns-official.jp/topics/20260925/21971" rel="noopener noreferrer" title="UMINサービス停止のお知らせ（10/23（金）20:00 ～ 10/24（土）17:00）">
+-														UMINサービス停止のお知らせ（10/23（金）20:00 ～ 10/24（土）17:00）
++													<a href="https://jns-official.jp/topics/20260930/21998" rel="noopener noreferrer" title="パブリックコメント募集のお知らせ（日本聴神経腫瘍研究会）">
++														パブリックコメント募集のお知らせ（日本聴神経腫瘍研究会）
+ 													</a>
+ 												</td>
+ 											</tr>

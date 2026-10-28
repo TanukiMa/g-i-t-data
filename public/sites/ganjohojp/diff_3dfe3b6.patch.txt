@@ -1,0 +1,45 @@
+diff --git a/sites/ganjohojp/jp/ganjoho/index.html b/sites/ganjohojp/jp/ganjoho/index.html
+index b7b8cfbb3..8299cda6e 100644
+--- a/sites/ganjohojp/jp/ganjoho/index.html
++++ b/sites/ganjohojp/jp/ganjoho/index.html
+@@ -3306,40 +3306,6 @@
+ 					</ul>
+ 				</div>
+ 			</div>
+-			<div>
+-				<div>
+-					<div>
+-						<h2>
+-							ご意見をお聞かせください
+-						</h2>
+-						<div>
+-							<p>
+-								がん情報サービスでは9月24日～11月2日、皆様のご意見をアンケートにておうかがいしています。アンケートにかかる時間は約10分～15分です。ぜひご協力ください。
+-							</p>
+-							<ul>
+-								<li>
+-									「今すぐ回答する」：アンケート画面に遷移します。
+-								</li>
+-								<li>
+-									「あとで回答する」：画面左下に「アンケートに回答する」が表示されます。ご回答いただけるタイミングで「アンケートに回答する」ボタンからアンケート画面にお入りください。
+-								</li>
+-							</ul>
+-						</div>
+-						<a href="https://rsch.jp/78631c70ae7265a0/login.php" rel="noopener noreferrer" title="「がん情報サービス」利用者アンケート">
+-							今すぐ回答する
+-						</a>
+-						あとで回答する
+-			回答しない
+-					</div>
+-				</div>
+-				<div>
+-					<a href="https://rsch.jp/78631c70ae7265a0/login.php" rel="noopener noreferrer" title="「がん情報サービス」利用者アンケート">
+-						アンケートに
+-						<br>
+-						回答する
+-					</a>
+-				</div>
+-			</div>
+ 		</div>
+ 	</body>
+ </html>

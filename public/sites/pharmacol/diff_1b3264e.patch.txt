@@ -1,0 +1,18 @@
+diff --git a/sites/pharmacol/jp/or/pharmacol/index.html b/sites/pharmacol/jp/or/pharmacol/index.html
+index c3429cc50..780bc6860 100644
+--- a/sites/pharmacol/jp/or/pharmacol/index.html
++++ b/sites/pharmacol/jp/or/pharmacol/index.html
+@@ -507,6 +507,13 @@
+ 										アーカイブリスト 一覧
+ 									</a>
+ 								</li>
++								<li>
++									<a href="/archive/" rel="noopener noreferrer">
++										過去資料ｱｰｶｲﾌﾞ（会員限定）
++									</a>
++								</li>
++								<li>
++								</li>
+ 							</ul>
+ 						</div>
+ 					</li>

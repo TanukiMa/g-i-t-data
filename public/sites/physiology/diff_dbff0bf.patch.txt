@@ -1,0 +1,292 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index 6bc0d005d..b99aed538 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -646,6 +646,29 @@
+ 									NEWS
+ 								</h2>
+ 								<ul>
++									<li>
++										<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
++											<div>
++												<div>
++													<p>
++														<time>
++															2026-10-16
++														</time>
++													</p>
++													<div>
++														<p>
++															サイエンストピックス
++														</p>
++													</div>
++												</div>
++												<p>
++													<em>
++														197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
++													</em>
++												</p>
++											</div>
++										</a>
++									</li>
+ 									<li>
+ 										<a href="https://www.physiology.jp/mainnews/hold/34879/" rel="noopener noreferrer">
+ 											<div>
+@@ -764,29 +787,6 @@
+ 											</div>
+ 										</a>
+ 									</li>
+-									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34856/" rel="noopener noreferrer">
+-											<div>
+-												<div>
+-													<p>
+-														<time>
+-															2026-10-08
+-														</time>
+-													</p>
+-													<div>
+-														<p>
+-															研究助成
+-														</p>
+-													</div>
+-												</div>
+-												<p>
+-													<em>
+-														金原一郎記念医学医療振興財団
+-													</em>
+-												</p>
+-											</div>
+-										</a>
+-									</li>
+ 								</ul>
+ 								<div>
+ 									<div>
+@@ -2221,12 +2221,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-30
++																2026-10-16
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2237,19 +2237,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
++															197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-24
++																2026-09-30
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2260,19 +2260,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
++															196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/34318/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-07-23
++																2026-09-24
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2283,19 +2283,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															194. 心筋細胞のサルコメアは「1カ所ずつ」連携を切り替える　— 局所的な同期の切り替えは、広がりの異なる長さ再配分と結び付く —
++															195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/33596/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34318/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-05-26
++																2026-07-23
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2306,19 +2306,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															193. 日本産ワサビ成分は象牙質を再生する
++															194. 心筋細胞のサルコメアは「1カ所ずつ」連携を切り替える　— 局所的な同期の切り替えは、広がりの異なる長さ再配分と結び付く —
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/33592/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/33596/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-05-18
++																2026-05-26
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2329,19 +2329,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															192. チック障害に関与する心と身体をつなぐ新たな神経回路を解明
++															193. 日本産ワサビ成分は象牙質を再生する
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/33591/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/33592/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-05-15
++																2026-05-18
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2352,7 +2352,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															191. tRNAをチオメチル化修飾する酵素の異常は翻訳効率を低下させ腎機能を低下させる
++															192. チック障害に関与する心と身体をつなぐ新たな神経回路を解明
+ 														</em>
+ 													</p>
+ 												</div>
+@@ -2476,73 +2476,73 @@
+ 									<div>
+ 										<ul>
+ 											<li>
+-												<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
++												<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
+ 													<p>
+-														<img alt="" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/no__image.png">
++														<img alt="" height="198" src="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/10/299377688f5d9bb523994311df050dff-300x198.jpg" width="300">
+ 													</p>
+ 													<div>
+ 														<div>
+ 															<p>
+ 																<time>
+-																	2026-09-30
++																	2026-10-16
+ 																</time>
+ 															</p>
+ 														</div>
+ 														<p>
+ 															<em>
+-																196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
++																197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
+ 															</em>
+ 														</p>
+ 														<p>
+-															Jaehun Jung（前島隆司）金沢大学医薬保健研究域医学系　統合神経生理学
++															鹿野健史朗（花田礼子）大分大学医学部生理学講座
+ 														</p>
+ 													</div>
+ 												</a>
+ 											</li>
+ 											<li>
+-												<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
++												<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
+ 													<p>
+-														<img alt="" height="229" src="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/09/29d877e4931792cd4c27cf981ceff3bd-300x229.jpg" width="300">
++														<img alt="" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/no__image.png">
+ 													</p>
+ 													<div>
+ 														<div>
+ 															<p>
+ 																<time>
+-																	2026-09-24
++																	2026-09-30
+ 																</time>
+ 															</p>
+ 														</div>
+ 														<p>
+ 															<em>
+-																195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
++																196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
+ 															</em>
+ 														</p>
+ 														<p>
+-															竹内綾子1、嶋吉隆夫2　1岡山大学学術研究院医歯薬学域（薬）生理機能情報学分野、2岡山大学 AI・数理データサイエンスセンター
++															Jaehun Jung（前島隆司）金沢大学医薬保健研究域医学系　統合神経生理学
+ 														</p>
+ 													</div>
+ 												</a>
+ 											</li>
+ 											<li>
+-												<a href="https://www.physiology.jp/mainnews/science-topic/34318/" rel="noopener noreferrer">
++												<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
+ 													<p>
+-														<img alt="" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/no__image.png">
++														<img alt="" height="229" src="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/09/29d877e4931792cd4c27cf981ceff3bd-300x229.jpg" width="300">
+ 													</p>
+ 													<div>
+ 														<div>
+ 															<p>
+ 																<time>
+-																	2026-07-23
++																	2026-09-24
+ 																</time>
+ 															</p>
+ 														</div>
+ 														<p>
+ 															<em>
+-																194. 心筋細胞のサルコメアは「1カ所ずつ」連携を切り替える　— 局所的な同期の切り替えは、広がりの異なる長さ再配分と結び付く —
++																195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
+ 															</em>
+ 														</p>
+ 														<p>
+-															研究者：新谷正嶺　中部大学　生命健康科学部　生命医科学科
++															竹内綾子1、嶋吉隆夫2　1岡山大学学術研究院医歯薬学域（薬）生理機能情報学分野、2岡山大学 AI・数理データサイエンスセンター
+ 														</p>
+ 													</div>
+ 												</a>

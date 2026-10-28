@@ -1,0 +1,74 @@
+diff --git a/sites/nisseikyoorjp/jp/or/nisseikyo/index.html b/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
+index bd250d48e..76ecebb0b 100644
+--- a/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
++++ b/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
+@@ -461,31 +461,31 @@
+ 				</h3>
+ 				<ul>
+ 					<li>
+-						<a href="/news/topic/detail.php?@DB_ID@=745" rel="noopener noreferrer">
++						<a href="/news/topic/detail.php?@DB_ID@=746" rel="noopener noreferrer">
+ 							<figure>
+-								<img src="/images/News/News2_VZ3UMBVqUzZrFwipFYQE2UY9HNS2SekEJqsTqKpZPbxbpbTa13kXi7auKVzUAWN7_1.jpg" width="260">
++								<img src="/images/News/News2_XiQw4pnA9v1VXxXJLpbrjFRMzh63V2BmqHr75mT28k8w9uJFeqg9bqHau5FP9DbU_1.jpg" width="260">
+ 							</figure>
+ 							<div>
+ 								<p>
+-									精神科および心療内科領域におけるオンライン診療について
++									熊本地震 におけるDPAT活動報告
+ 								</p>
+ 								<p>
+-									令和8年9月29日、日本精神科病院協会は、患者さんの安全を確保するため、精神科・心療内科領域のオンライン診療に関する...
++									日本精神科病院協会は、平成27年より厚生労働省から委託を受けDPAT事務局を運営しています。DPATとは、災害派遣...
+ 								</p>
+ 							</div>
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="/news/topic/detail.php?@DB_ID@=743" rel="noopener noreferrer">
++						<a href="/news/topic/detail.php?@DB_ID@=745" rel="noopener noreferrer">
+ 							<figure>
+-								<img src="/images/News/News2_F9w1fb3XbJLBriByhswDpt9rBGqUpIHwUpRqAxR6frQnSYmfi4b58k7KPRdDu1Mv_1.jpg" width="260">
++								<img src="/images/News/News2_VZ3UMBVqUzZrFwipFYQE2UY9HNS2SekEJqsTqKpZPbxbpbTa13kXi7auKVzUAWN7_1.jpg" width="260">
+ 							</figure>
+ 							<div>
+ 								<p>
+-									世界メンタルヘルスデー 2026
++									精神科および心療内科領域におけるオンライン診療について
+ 								</p>
+ 								<p>
+-									世界精神保健連盟（World Federation for Mental Health）は、1992年より毎年10月10日を世界メンタルヘ...
++									令和8年9月29日、日本精神科病院協会は、患者さんの安全を確保するため、精神科・心療内科領域のオンライン診療に関する...
+ 								</p>
+ 							</div>
+ 						</a>
+@@ -650,6 +650,14 @@
+ 						</h3>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								2026-10-15
++							</span>
++							<a href="https://www.nisseikyo.or.jp/news/topic/detail.php?@DB_ID@=746" rel="noopener noreferrer">
++								日精協TOPICS　熊本地震 におけるDPAT活動報告
++							</a>
++						</li>
+ 						<li>
+ 							<span>
+ 								2026-10-13
+@@ -682,14 +690,6 @@
+ 								行政情報　厚労省等通達を更新しました
+ 							</a>
+ 						</li>
+-						<li>
+-							<span>
+-								2026-10-01
+-							</span>
+-							<a href="https://www.nisseikyo.or.jp/news/topic/detail.php?@DB_ID@=743" rel="noopener noreferrer">
+-								日精協TOPICS　世界メンタルヘルスデー 2026
+-							</a>
+-						</li>
+ 					</ul>
+ 					<br>
+ 					<br>

@@ -1,0 +1,73 @@
+diff --git a/sites/jsnfs/jp/or/jsnfs/index.html b/sites/jsnfs/jp/or/jsnfs/index.html
+index c43668e11..17a516af4 100644
+--- a/sites/jsnfs/jp/or/jsnfs/index.html
++++ b/sites/jsnfs/jp/or/jsnfs/index.html
+@@ -203,6 +203,12 @@
+ 									<ul>
+ 									</ul>
+ 									<ul>
++										<li>
++											【公募・助成】
++											<a href="https://www.jsnfs.or.jp/job_grant/grant_20270201.html" rel="noopener noreferrer">
++												公益財団法人 山田科学振興財団2027年度研究援助申請について
++											</a>
++										</li>
+ 										<li>
+ 											【公募・助成】
+ 											<a href="https://www.jsnfs.or.jp/job_grant/grant_20261130-4.html" rel="noopener noreferrer">
+@@ -281,12 +287,6 @@
+ 												第85回日本栄養・食糧学会中部支部大会開催案内
+ 											</a>
+ 										</li>
+-										<li>
+-											【公募・助成】
+-											<a href="https://www.jsnfs.or.jp/job_grant/grant_20261007.html" rel="noopener noreferrer">
+-												飯島藤十郎記念食品科学振興財団2026年度 学術研究助成
+-											</a>
+-										</li>
+ 									</ul>
+ 									<p>
+ 										»
+@@ -447,6 +447,12 @@
+ 								</div>
+ 								<div>
+ 									<ul>
++										<li>
++											【公募·助成】
++											<a href="https://www.jsnfs.or.jp/job_grant/grant_20270201.html" rel="noopener noreferrer">
++												公益財団法人 山田科学振興財団2027年度研究援助申請について
++											</a>
++										</li>
+ 										<li>
+ 											【公募·助成】
+ 											<a href="https://www.jsnfs.or.jp/job_grant/grant_20261130-4.html" rel="noopener noreferrer">
+@@ -501,12 +507,6 @@
+ 												飯島藤十郎記念食品科学振興財団2026年度 学術研究助成
+ 											</a>
+ 										</li>
+-										<li>
+-											【公募·助成】
+-											<a href="https://www.jsnfs.or.jp/job_grant/grant_20261130-2.html" rel="noopener noreferrer">
+-												飯島藤十郎記念食品科学振興財団2026年度外国人留学生研究助成募集のお知らせ
+-											</a>
+-										</li>
+ 									</ul>
+ 									<p>
+ 										»
+@@ -518,12 +518,13 @@
+ 							</div>
+ 						</div>
+ 						<div>
++							<a href="https://www.c-linkage.co.jp/jsnfs2027/" rel="noopener noreferrer">
++								<img alt="第81回日本栄養·食糧学会大会" src="https://www.jsnfs.or.jp/wp-content/uploads/file/top/images/top_jsnfs81.jpg">
++							</a>
+ 							<p>
+-								<a href="https://www.c-linkage.co.jp/jsnfs2027/index.html" rel="noopener noreferrer">
++								<a href="https://www.c-linkage.co.jp/jsnfs2027/" rel="noopener noreferrer">
+ 									<strong>
+ 										<span>
+-											日本栄養・食糧学会
+-											<br>
+ 											第81回 年次大会
+ 											<br>
+ 											（藤沢･神奈川）

@@ -1,0 +1,372 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index b09ef159a..29b1eba84 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1481,13 +1481,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="【緊急寄稿】ステミラック本承認で残された疑問" src="https://asset.mtweb.jp/media/2026/07/30171626/com_outsider_thum_w440h275_old.jpg">
++																<img alt="小児慢性疾患の病診連携、実施率23％" src="https://asset.mtweb.jp/media/2026/10/20151050/ChatGPT-Image-2026%E5%B9%B410%E6%9C%8820%E6%97%A5-15_06_02.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
+-																			【緊急寄稿】ステミラック本承認で残された疑問
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618622" rel="noopener noreferrer">
++																			小児慢性疾患の病診連携、実施率23％
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1530,13 +1530,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="早期パーキンソン病へのニコチンアミドリボシドは無益" src="https://asset.mtweb.jp/media/2026/10/12130452/Nicotinamide-ribosidexPD_TOP.jpg">
++																<img alt="エプコリタマブ＋R-CHOP、初発びまん性大細胞型B細胞リンパ腫のPFS改善" src="https://asset.mtweb.jp/media/2026/10/20151348/com_pressr_thum_w440h275_pink-1.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617766" rel="noopener noreferrer">
+-																			早期パーキンソン病へのニコチンアミドリボシドは無益
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618687" rel="noopener noreferrer">
++																			エプコリタマブ＋R-CHOP、初発びまん性大細胞型B細胞リンパ腫のPFS改善
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1579,20 +1579,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="患者の「AIに聞いてきた」にどう対応すべき？" src="https://asset.mtweb.jp/media/2026/09/16123947/com_digitalhealth26_thum_w440h275-1.png">
++																<img alt="医師の一言が禁煙の鍵に" src="https://asset.mtweb.jp/media/2026/10/14132052/com_jcskanto_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617774" rel="noopener noreferrer">
+-																			患者の「AIに聞いてきた」にどう対応すべき？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618494" rel="noopener noreferrer">
++																			医師の一言が禁煙の鍵に
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-19
++																			2026-10-20
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1628,20 +1628,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="乳児の疝痛と湿疹に関連する妊娠中の食事は？" src="https://asset.mtweb.jp/media/2026/10/19114906/ChatGPT-Image-2026%E5%B9%B410%E6%9C%8819%E6%97%A5-10_49_03.jpg">
++																<img alt="【緊急寄稿】ステミラック本承認で残された疑問" src="https://asset.mtweb.jp/media/2026/07/30171626/com_outsider_thum_w440h275_old.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618531" rel="noopener noreferrer">
+-																			乳児の疝痛と湿疹に関連する妊娠中の食事は？
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
++																			【緊急寄稿】ステミラック本承認で残された疑問
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-19
++																			2026-10-20
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1677,20 +1677,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="肥満症対策を「攻めの予防医療」の柱に" src="https://asset.mtweb.jp/media/2026/10/16150250/70087_photo01.jpg">
++																<img alt="早期パーキンソン病へのニコチンアミドリボシドは無益" src="https://asset.mtweb.jp/media/2026/10/12130452/Nicotinamide-ribosidexPD_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618285" rel="noopener noreferrer">
+-																			肥満症対策を「攻めの予防医療」の柱に
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617766" rel="noopener noreferrer">
++																			早期パーキンソン病へのニコチンアミドリボシドは無益
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-19
++																			2026-10-20
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1726,13 +1726,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="抗インフルエンザ薬の予防投与、やはり有効" src="https://asset.mtweb.jp/media/2026/06/19183756/com_drwatanabe_thum_w440h275_old.jpg">
++																<img alt="患者の「AIに聞いてきた」にどう対応すべき？" src="https://asset.mtweb.jp/media/2026/09/16123947/com_digitalhealth26_thum_w440h275-1.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618072" rel="noopener noreferrer">
+-																			抗インフルエンザ薬の予防投与、やはり有効
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617774" rel="noopener noreferrer">
++																			患者の「AIに聞いてきた」にどう対応すべき？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1775,20 +1775,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="皮膚症状だけではない、デュピルマブの改善効果" src="https://asset.mtweb.jp/media/2026/06/18130059/com_dr_hashiro_thum_w440h275.jpg">
++																<img alt="乳児の疝痛と湿疹に関連する妊娠中の食事は？" src="https://asset.mtweb.jp/media/2026/10/19114906/ChatGPT-Image-2026%E5%B9%B410%E6%9C%8819%E6%97%A5-10_49_03.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
+-																			皮膚症状だけではない、デュピルマブの改善効果
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618531" rel="noopener noreferrer">
++																			乳児の疝痛と湿疹に関連する妊娠中の食事は？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-18
++																			2026-10-19
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1841,19 +1841,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
+-																					<img alt="【緊急寄稿】ステミラック本承認で残された疑問" src="/assets/images/rensai/thumbnails/com_outsider_thum_w440h275_new.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618687" rel="noopener noreferrer">
++																					<img alt="エプコリタマブ＋R-CHOP、初発びまん性大細胞型B細胞リンパ腫のPFS改善" src="/assets/images/rensai/thumbnails/com_multi_hum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618687" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-20
+ 																						</time>
+ 																						<h2>
+-																							【緊急寄稿】ステミラック本承認で残された疑問
++																							エプコリタマブ＋R-CHOP、初発びまん性大細胞型B細胞リンパ腫のPFS改善
+ 																						</h2>
+ 																						<p>
+-																							プラセボとの「改善差」はどこまで「治療効果」に帰属するのか
++																							アッヴィ／ジェンマブ
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1862,20 +1862,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									0
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									16
++																									0
+ 																								</span>
+ 																								<span>
+-																									16件「いいね！」されています
++																									0件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1892,19 +1892,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617774" rel="noopener noreferrer">
+-																					<img alt="患者の「AIに聞いてきた」にどう対応すべき？" src="/assets/images/rensai/thumbnails/com_digitalhealth26_thum_w440h275.png">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
++																					<img alt="【緊急寄稿】ステミラック本承認で残された疑問" src="/assets/images/rensai/thumbnails/com_outsider_thum_w440h275_new.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617774" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-19
++																							2026-10-20
+ 																						</time>
+ 																						<h2>
+-																							患者の「AIに聞いてきた」にどう対応すべき？
++																							【緊急寄稿】ステミラック本承認で残された疑問
+ 																						</h2>
+ 																						<p>
+-																							外来で押さえたい3つのポイント
++																							プラセボとの「改善差」はどこまで「治療効果」に帰属するのか
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1923,10 +1923,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									40
++																									17
+ 																								</span>
+ 																								<span>
+-																									40件「いいね！」されています
++																									17件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1943,19 +1943,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618072" rel="noopener noreferrer">
+-																					<img alt="抗インフルエンザ薬の予防投与、やはり有効" src="/assets/images/rensai/thumbnails/com_drwatanabe_thum_w440h275_new.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617774" rel="noopener noreferrer">
++																					<img alt="患者の「AIに聞いてきた」にどう対応すべき？" src="/assets/images/rensai/thumbnails/com_digitalhealth26_thum_w440h275.png">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618072" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617774" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-19
+ 																						</time>
+ 																						<h2>
+-																							抗インフルエンザ薬の予防投与、やはり有効
++																							患者の「AIに聞いてきた」にどう対応すべき？
+ 																						</h2>
+ 																						<p>
+-																							臨床試験の解析から導く、予防投与の『真なる効果』
++																							外来で押さえたい3つのポイント
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1974,10 +1974,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									41
++																									42
+ 																								</span>
+ 																								<span>
+-																									41件「いいね！」されています
++																									42件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1994,19 +1994,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
+-																					<img alt="皮膚症状だけではない、デュピルマブの改善効果" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618072" rel="noopener noreferrer">
++																					<img alt="抗インフルエンザ薬の予防投与、やはり有効" src="/assets/images/rensai/thumbnails/com_drwatanabe_thum_w440h275_new.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618072" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-18
++																							2026-10-19
+ 																						</time>
+ 																						<h2>
+-																							皮膚症状だけではない、デュピルマブの改善効果
++																							抗インフルエンザ薬の予防投与、やはり有効
+ 																						</h2>
+ 																						<p>
+-																							アトピー性皮膚炎患者の抑うつ・疲労に着目
++																							臨床試験の解析から導く、予防投与の『真なる効果』
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2015,10 +2015,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									4
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+@@ -2045,19 +2045,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617866" rel="noopener noreferrer">
+-																					<img alt="全身型重症筋無力症にCAR-T療法は有効か" src="/assets/images/rensai/doceye/thumbnails/鈴木重明（脳神経内科）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
++																					<img alt="皮膚症状だけではない、デュピルマブの改善効果" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617866" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-17
++																							2026-10-18
+ 																						</time>
+ 																						<h2>
+-																							全身型重症筋無力症にCAR-T療法は有効か
++																							皮膚症状だけではない、デュピルマブの改善効果
+ 																						</h2>
+ 																						<p>
+-																							BCMAを標的とする新たな治療アプローチ
++																							アトピー性皮膚炎患者の抑うつ・疲労に着目
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2066,20 +2066,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									5
++																									3
+ 																								</span>
+ 																								<span>
+-																									5件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									37
++																									43
+ 																								</span>
+ 																								<span>
+-																									37件「いいね！」されています
++																									43件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

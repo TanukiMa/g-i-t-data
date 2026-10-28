@@ -1,0 +1,82 @@
+diff --git a/sites/jsmm/org/jsmm/main-html.html b/sites/jsmm/org/jsmm/main-html.html
+index 1dd2383c5..5cc4be5e6 100644
+--- a/sites/jsmm/org/jsmm/main-html.html
++++ b/sites/jsmm/org/jsmm/main-html.html
+@@ -85,38 +85,18 @@
+ 						<td>
+ 							<span>
+ 								・
+-								<a href="pdf/attention.pdf" rel="noopener noreferrer">
+-									【重要・注意喚起】日本医真菌学会役員を騙る詐欺メールについて
++								<a href="pdf/aspergillus_guideline.pdf" rel="noopener noreferrer">
++									アスペルギルス症の診断・治療ガイドライン2026発刊のお知らせ
+ 								</a>
+-							</span>
+-						</td>
+-					</tr>
+-					<tr>
+-						<td align="left">
+-							<img height="3" src="common/spacer.gif" width="1">
+-						</td>
+-					</tr>
+-					<tr>
+-						<td>
+-							<span>
++								<br>
+ 								・
+-								<a href="pdf/Candida_auris.pdf" rel="noopener noreferrer">
+-									AMR対策臨床セミナー “Candida auris” 「カンジダ・アウリス対策啓発セミナー 2026」 ～感染対策､アウトブレイクへの備え～
++								<a href="pdf/about_apply.pdf" rel="noopener noreferrer">
++									会員への配布の申込み手続きについて（2027年8月31日締切）
+ 								</a>
+-							</span>
+-						</td>
+-					</tr>
+-					<tr>
+-						<td align="left">
+-							<img height="3" src="common/spacer.gif" width="1">
+-						</td>
+-					</tr>
+-					<tr>
+-						<td>
+-							<span>
++								<br>
+ 								・
+-								<a href="aspergillus_guideline.html" rel="noopener noreferrer">
+-									アスペルギルス症の診断・治療ガイドライン2026（案）に関するパブリックコメントの募集
++								<a href="guidline.html" rel="noopener noreferrer">
++									購入希望の方は左の【医真菌学会ガイドライン】からお入りください
+ 								</a>
+ 							</span>
+ 						</td>
+@@ -126,17 +106,12 @@
+ 							<img height="3" src="common/spacer.gif" width="1">
+ 						</td>
+ 					</tr>
+-					<tr>
+-						<td align="left">
+-							<img height="3" src="common/spacer.gif" width="1">
+-						</td>
+-					</tr>
+ 					<tr>
+ 						<td>
+ 							<span>
+ 								・
+-								<a href="minasama.html" rel="noopener noreferrer">
+-									「抗微生物薬適正使用支援プログラム実践のためのガイダンス2024年度改訂版」発刊のお知らせ
++								<a href="pdf/attention.pdf" rel="noopener noreferrer">
++									【重要・注意喚起】日本医真菌学会役員を騙る詐欺メールについて
+ 								</a>
+ 							</span>
+ 						</td>
+@@ -150,8 +125,8 @@
+ 						<td>
+ 							<span>
+ 								・
+-								<a href="pdf/20240620_guideline_hakko.pdf" rel="noopener noreferrer">
+-									希少深在性真菌症の診断・治療ガイドライン発刊のお知らせ
++								<a href="minasama.html" rel="noopener noreferrer">
++									「抗微生物薬適正使用支援プログラム実践のためのガイダンス2024年度改訂版」発刊のお知らせ
+ 								</a>
+ 							</span>
+ 						</td>

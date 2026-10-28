@@ -1,0 +1,39 @@
+diff --git a/sites/pathology/jp/or/pathology/index.html b/sites/pathology/jp/or/pathology/index.html
+index c6ce9c620..d5f7cd76a 100644
+--- a/sites/pathology/jp/or/pathology/index.html
++++ b/sites/pathology/jp/or/pathology/index.html
+@@ -402,6 +402,13 @@
+ 											</a>
+ 										</li>
+ 										<hr>
++										<li>
++											2026.10.22
++											<a href="https://www.pathology.or.jp/news/members/notices/php.html" rel="noopener noreferrer">
++												【重要】PHPの重大な脆弱性に伴う会員専用サイトの緊急停止について
++											</a>
++										</li>
++										<hr>
+ 									</ul>
+ 								</div>
+ 							</div>
+@@ -413,6 +420,20 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											2026.10.22
++											<a href="https://www.pathology.or.jp/news/members/notices/php.html" rel="noopener noreferrer">
++												【重要】会員専用サイトの緊急停止について
++											</a>
++										</li>
++										<hr>
++										<li>
++											2026.10.22
++											<a href="https://www.pathology.or.jp/news/members/consult/post-20261022.html" rel="noopener noreferrer">
++												コンサルテーションシステム一時停止のお知らせ
++											</a>
++										</li>
++										<hr>
+ 										<li>
+ 											2026.10.21
+ 											<a href="https://www.pathology.or.jp/senmoni/20261206mp.html" rel="noopener noreferrer">

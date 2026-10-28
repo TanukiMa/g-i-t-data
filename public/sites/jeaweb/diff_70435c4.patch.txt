@@ -1,0 +1,44 @@
+diff --git a/sites/jeaweb/jp/jeaweb/index.html b/sites/jeaweb/jp/jeaweb/index.html
+index 6ba0aac49..d3971bd6e 100644
+--- a/sites/jeaweb/jp/jeaweb/index.html
++++ b/sites/jeaweb/jp/jeaweb/index.html
+@@ -269,6 +269,19 @@
+ 							お知らせ
+ 						</h2>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026年10月15日
++									</time>
++									<span>
++										事務局から
++									</span>
++									<a href="https://jeaweb.jp/jeanews/individual.html?entry_id=2864" rel="noopener noreferrer">
++										日本疫学会ニュースレターNo.68 発行しました
++									</a>
++								</h3>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -321,19 +334,6 @@
+ 									</a>
+ 								</h3>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2026年07月31日
+-									</time>
+-									<span>
+-										募集
+-									</span>
+-									<a href="https://jeaweb.jp/jeanews/individual.html?entry_id=2781" rel="noopener noreferrer">
+-										海外在住若手研究者のための学術総会参加費補助（トラベルグラント）の募集を開始します
+-									</a>
+-								</h3>
+-							</article>
+ 						</div>
+ 						<div>
+ 							<a href="https://jeaweb.jp/jeanews/index.html" rel="noopener noreferrer">

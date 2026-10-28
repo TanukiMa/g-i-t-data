@@ -1,0 +1,138 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 5f48dae52..4b91234c2 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2337,6 +2337,38 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/rs-std-jp/standards-development/jp/0262.html" rel="noopener noreferrer">
++												<p>
++													2026年10月19日
++												</p>
++												<p>
++													薬局方
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													第二十改正日本薬局方作成基本方針を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
++												<p>
++													2026年10月19日
++												</p>
++												<p>
++													基準
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/adr-info/suspected-adr/0005.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2555,19 +2587,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月9日
+-												</p>
+-												<p>
+-													基準
+-												</p>
+-												<p>
+-													後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）の英訳を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2620,19 +2639,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/trials/0022.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月8日
+-												</p>
+-												<p>
+-													審査
+-												</p>
+-												<p>
+-													「治験計画等の届出に関するFAQ」を更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2932,9 +2938,9 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/rs-std-jp/standards-development/jp/0021.html" rel="noopener noreferrer">
++											<a href="/rs-std-jp/standards-development/jp/0262.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月13日
++													2026年10月19日
+ 												</p>
+ 												<p>
+ 													薬局方
+@@ -2943,20 +2949,39 @@
+ 													New
+ 												</p>
+ 												<p>
+-													日局におけるPDG調和文書への対応状況（試験法等）を更新しました
++													第二十改正日本薬局方作成基本方針を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+ 											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月9日
++													2026年10月19日
+ 												</p>
+ 												<p>
+ 													基準
+ 												</p>
+ 												<p>
+-													後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）の英訳を掲載しました
++													New
++												</p>
++												<p>
++													「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/rs-std-jp/standards-development/jp/0021.html" rel="noopener noreferrer">
++												<p>
++													2026年10月13日
++												</p>
++												<p>
++													薬局方
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													日局におけるPDG調和文書への対応状況（試験法等）を更新しました
+ 												</p>
+ 											</a>
+ 										</li>

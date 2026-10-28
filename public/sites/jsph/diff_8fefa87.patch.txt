@@ -1,0 +1,44 @@
+diff --git a/sites/jsph/jp/jsph/index.html b/sites/jsph/jp/jsph/index.html
+index 44236877f..0d3d16c9f 100644
+--- a/sites/jsph/jp/jsph/index.html
++++ b/sites/jsph/jp/jsph/index.html
+@@ -563,6 +563,19 @@
+ 							What's new
+ 						</h2>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026.10.27
++									</time>
++									<a href="https://www.jsph.jp/information/individual.html?entry_id=1155" rel="noopener noreferrer" title="学会総会にともなう事務所不在のお知らせ">
++										学会総会にともなう事務所不在のお知らせ
++									</a>
++								</h3>
++								<p>
++									2026年10月29日から10月31日の期間中、事務局スタッフは不在です。
++								</p>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -593,19 +606,6 @@
+ 									10月29日(木)の19:00〜20:30 (自由集会22, 新宿NSビル3F 北ブロック)では、参加者を大募集中です!!
+ 								</p>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2026.10.20
+-									</time>
+-									<a href="https://www.niph.go.jp/staff-recruit/" rel="noopener noreferrer" title="国立保健医療科学院　職員募集">
+-										国立保健医療科学院　職員募集
+-									</a>
+-								</h3>
+-								<p>
+-									国立保健医療科学院では、職員を公募しております。
+-								</p>
+-							</article>
+ 						</div>
+ 						<div>
+ 							<a href="https://www.jsph.jp/information/index.html" rel="noopener noreferrer">

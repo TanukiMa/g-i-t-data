@@ -1,0 +1,216 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index b6b94df74..279536dc0 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1415,7 +1415,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															10月25日の新着ニュース
++															10月26日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1432,20 +1432,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「輸液反応性」と「輸液忍容性」は別物" src="https://asset.mtweb.jp/media/2026/06/18104626/com_dr_tanpo_thum_w440h275.jpg">
++																<img alt="入院患者のVTEリスクに肥満パラドックス？" src="https://asset.mtweb.jp/media/2026/10/22181258/ChatGPT-Image-20261022_Paradoxical.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
+-																			「輸液反応性」と「輸液忍容性」は別物
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618970" rel="noopener noreferrer">
++																			入院患者のVTEリスクに肥満パラドックス？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-24
++																			2026-10-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1481,20 +1481,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="スタチンは高齢者の「何」を守るのか？" src="https://asset.mtweb.jp/media/2026/06/19141047/com_dr_kojima_thum_w440h275.jpg">
++																<img alt="「輸液反応性」と「輸液忍容性」は別物" src="https://asset.mtweb.jp/media/2026/06/18104626/com_dr_tanpo_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
+-																			スタチンは高齢者の「何」を守るのか？
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
++																			「輸液反応性」と「輸液忍容性」は別物
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-23
++																			2026-10-24
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1530,13 +1530,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="白内障と緑内障を同時に治療する新型人工水晶体、臨床試験で有望な結果" src="https://asset.mtweb.jp/media/2026/10/23163325/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8822%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
++																<img alt="スタチンは高齢者の「何」を守るのか？" src="https://asset.mtweb.jp/media/2026/06/19141047/com_dr_kojima_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619157" rel="noopener noreferrer">
+-																			白内障と緑内障を同時に治療する新型人工水晶体、臨床試験で有望な結果
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
++																			スタチンは高齢者の「何」を守るのか？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1579,13 +1579,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="CLL/SLL、ピルトブルチニブの前倒しに期待" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
++																<img alt="白内障と緑内障を同時に治療する新型人工水晶体、臨床試験で有望な結果" src="https://asset.mtweb.jp/media/2026/10/23163325/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8822%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618927" rel="noopener noreferrer">
+-																			CLL/SLL、ピルトブルチニブの前倒しに期待
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619157" rel="noopener noreferrer">
++																			白内障と緑内障を同時に治療する新型人工水晶体、臨床試験で有望な結果
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1628,13 +1628,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="処方時に「有効性は不確実」と伝えられますか" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
++																<img alt="CLL/SLL、ピルトブルチニブの前倒しに期待" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
+-																			処方時に「有効性は不確実」と伝えられますか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618927" rel="noopener noreferrer">
++																			CLL/SLL、ピルトブルチニブの前倒しに期待
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1677,13 +1677,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="セトメラノチド、日本人でもBMI低下" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
++																<img alt="処方時に「有効性は不確実」と伝えられますか" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618767" rel="noopener noreferrer">
+-																			セトメラノチド、日本人でもBMI低下
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
++																			処方時に「有効性は不確実」と伝えられますか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1726,20 +1726,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="自己犠牲や滅私奉公を受け入れがちな医師とは？" src="https://asset.mtweb.jp/media/2026/10/22101832/ChatGPT-Image-20261021_HDMC.jpg">
++																<img alt="セトメラノチド、日本人でもBMI低下" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618877" rel="noopener noreferrer">
+-																			自己犠牲や滅私奉公を受け入れがちな医師とは？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618767" rel="noopener noreferrer">
++																			セトメラノチド、日本人でもBMI低下
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-22
++																			2026-10-23
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,7 +1772,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															10月25日の新着連載
++															10月26日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1823,10 +1823,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									21
++																									24
+ 																								</span>
+ 																								<span>
+-																									21件「いいね！」されています
++																									24件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1874,10 +1874,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									29
++																									32
+ 																								</span>
+ 																								<span>
+-																									29件「いいね！」されています
++																									32件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1915,20 +1915,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									20
++																									24
+ 																								</span>
+ 																								<span>
+-																									20件「いいね！」されています
++																									24件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

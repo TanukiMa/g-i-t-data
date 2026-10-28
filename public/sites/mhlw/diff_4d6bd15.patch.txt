@@ -1,0 +1,192 @@
+diff --git a/sites/mhlw/jp/go/mhlw/index.html b/sites/mhlw/jp/go/mhlw/index.html
+index 447cc2b6d..b87f0f762 100644
+--- a/sites/mhlw/jp/go/mhlw/index.html
++++ b/sites/mhlw/jp/go/mhlw/index.html
+@@ -1445,83 +1445,83 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/08.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76925.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	統計情報
++																	審議会等
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																「人口動態統計速報」令和８（2026）年08月分
++																第33回キャリアコンサルタント登録制度等に関する検討会（会議資料）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/rezeptsystem/index.html" rel="noopener noreferrer">
++													<a href="/stf/kaiken/daijin/0000194708_00981.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	政策分野
++																	大臣会見等
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																労災レセプト電算処理システム　受付前点検チェック条件表
++																令和８年１０月２３日付大臣会見概要
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76931.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/08.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	審議会等
++																	統計情報
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																「第３回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）
++																「人口動態統計速報」令和８（2026）年08月分
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76814.html" rel="noopener noreferrer">
++													<a href="/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/rezeptsystem/index.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	審議会等
++																	政策分野
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																薬事審議会　指定薬物部会を開催します
++																労災レセプト電算処理システム　受付前点検チェック条件表
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76788.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76931.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+@@ -1534,7 +1534,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第38回アルコール健康障害対策関係者会議の開催について
++																「第３回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）
+ 															</span>
+ 														</div>
+ 													</a>
+@@ -1695,7 +1695,7 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/newpage_76931.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76925.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+@@ -1708,13 +1708,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																「第３回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）
++																第33回キャリアコンサルタント登録制度等に関する検討会（会議資料）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76814.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76931.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+@@ -1727,13 +1727,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																薬事審議会　指定薬物部会を開催します
++																「第３回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76788.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76814.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+@@ -1746,13 +1746,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第38回アルコール健康障害対策関係者会議の開催について
++																薬事審議会　指定薬物部会を開催します
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76755.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76788.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+@@ -1765,13 +1765,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第33回社会保障審議会介護給付費分科会介護報酬改定検証・研究委員会（Web会議）を開催します
++																第38回アルコール健康障害対策関係者会議の開催について
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76440.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76755.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月23日
+@@ -1784,7 +1784,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第214回労働政策審議会労働条件分科会　開催案内
++																第33回社会保障審議会介護給付費分科会介護報酬改定検証・研究委員会（Web会議）を開催します
+ 															</span>
+ 														</div>
+ 													</a>

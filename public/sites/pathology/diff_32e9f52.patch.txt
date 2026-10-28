@@ -1,0 +1,15 @@
+diff --git a/sites/pathology/jp/or/pathology/index.html b/sites/pathology/jp/or/pathology/index.html
+index 2f7e584af..072621ced 100644
+--- a/sites/pathology/jp/or/pathology/index.html
++++ b/sites/pathology/jp/or/pathology/index.html
+@@ -1540,8 +1540,8 @@ images/JP-AID_thumnail.gif" width="90">
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.idtdna.com/pages/landing/cancer-research-solutions" rel="noopener noreferrer">
+-										<img alt="Integrated DNA Technologies 株式会社" height="58" src="images/IDT-banner.jpg" width="190">
++									<a href="https://sg.idtdna.com/page/solutions/applications/cancer-research-solutions" rel="noopener noreferrer">
++										<img alt="Integrated DNA Technologies 株式会社" src="images/IDT-banner.gif" width="190">
+ 									</a>
+ 								</li>
+ 								<li>

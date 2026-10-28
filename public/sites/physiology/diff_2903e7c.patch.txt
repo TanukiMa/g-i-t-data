@@ -1,0 +1,291 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index e1f551460..2e2b16039 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -647,7 +647,7 @@
+ 								</h2>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34897/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -657,66 +657,66 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															お知らせ
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														京都大学・理学研究科・生物科学専攻　助教
++														自然科学研究機構Open Mix Lab（OML）公募研究プログラム
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34897/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-16
++															2026-10-19
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															サイエンストピックス
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
++														京都大学・理学研究科・生物科学専攻　助教
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/hold/34879/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-15
++															2026-10-16
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															セミナー情報
++															サイエンストピックス
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														第8回生理学若手研究者フォーラム
++														197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34874/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/hold/34879/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -726,62 +726,59 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															セミナー情報
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														大阪大学大学院医学系研究科　特任助教（常勤）公募
++														第8回生理学若手研究者フォーラム
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34874/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-13
++															2026-10-15
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															お知らせ
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
++														大阪大学大学院医学系研究科　特任助教（常勤）公募
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/offer/34862/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-09
++															2026-10-13
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															募集情報
+-														</p>
+-														<p>
+-															研究助成
++															お知らせ
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														第68回藤原賞受賞候補者推薦について
++														第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
+ 													</em>
+ 												</p>
+ 											</div>
+@@ -805,12 +802,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-13
++																2026-10-19
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -821,19 +818,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
++															自然科学研究機構Open Mix Lab（OML）公募研究プログラム
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34835/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-06
++																2026-10-13
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -844,14 +841,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告
++															第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34835/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -867,19 +864,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第31回　久野寧記念賞・候補論文の募集について
++															TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-09
++																2026-10-06
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -890,19 +887,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
++															第31回　久野寧記念賞・候補論文の募集について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34714/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-08-24
++																2026-09-09
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -913,14 +910,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															日本医学会連合 加盟学会連携フォーラム共催事業についてのご案内
++															【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34687/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34714/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -936,7 +933,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【日本生理学会】学会賞候補者の募集（〆切：10/19(月)）※延長しました
++															日本医学会連合 加盟学会連携フォーラム共催事業についてのご案内
+ 														</em>
+ 													</p>
+ 												</div>

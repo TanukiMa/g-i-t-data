@@ -1,0 +1,124 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 54334785c..49b260889 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -799,6 +799,12 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015639" rel="noopener noreferrer">
++							長崎大学 原爆後障害医療研究所　分子腫瘍・診断学 助教公募
++						</a>
++					</li>
+ 					<li>
+ 						[教職員公募]
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015634" rel="noopener noreferrer">
+@@ -853,12 +859,6 @@
+ 							鹿児島大学 大学院医歯学総合研究科先進治療科学専攻神経病学講座（歯科機能形態学分野） 教授公募
+ 						</a>
+ 					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015624" rel="noopener noreferrer">
+-							山口大学 大学院医学系研究科保健学専攻　基礎看護学講座 教授公募
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">
+@@ -1012,63 +1012,63 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						株式会社アイメックＲＤ：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072040" rel="noopener noreferrer">
+-							認知機能維持に対する研究食品の有効性評価試験
++						山口大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072125" rel="noopener noreferrer">
++							WEAR-PD study
+ 						</a>
+ 					</li>
+ 					<li>
+-						新潟医療福祉大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072051" rel="noopener noreferrer">
+-							短下肢装具の底屈制動力の違いによる歩行時の下肢関節角度と筋活動の比較
++						日本赤十字豊田看護大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072219" rel="noopener noreferrer">
++							母親が希望する授乳を目指した 授乳時間を短縮するための母乳育児プログラムの検証
+ 						</a>
+ 					</li>
+ 					<li>
+-						東北大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072103" rel="noopener noreferrer">
+-							緑内障患者における照明条件が生体反応に及ぼす影響
++						東京都立大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072123" rel="noopener noreferrer">
++							月経痛に関する調査
+ 						</a>
+ 					</li>
+ 					<li>
+-						筑波大学国際統合睡眠医科学研究機構：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072224" rel="noopener noreferrer">
+-							看護職の夜勤後運転時眠気研究
++						Kokura memorial hospital：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072300" rel="noopener noreferrer">
++							心不全患者の後ろ向き並び前向き観察研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						帝塚山大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072329" rel="noopener noreferrer">
+-							中鎖脂肪酸の朝食・夕食摂取比較研究（2026年度）
++						順天堂大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072339" rel="noopener noreferrer">
++							IBD患者のおける唾液中の分泌型イムノグロブリンA（s-IgA）観察研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						桐蔭横浜大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072352" rel="noopener noreferrer">
+-							Lactiplantibacillus plantarum 22A-3摂取による大学男子サッカー選手に対する効果の検証
++						早稲田大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072382" rel="noopener noreferrer">
++							膝手術後向け振動フィードバックデバイス
+ 						</a>
+ 					</li>
+ 					<li>
+-						昭和女子大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072361" rel="noopener noreferrer">
+-							健康成人女性D-アラニン摂取研究
++						仙台市立病院：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072384" rel="noopener noreferrer">
++							PEARL trial
+ 						</a>
+ 					</li>
+ 					<li>
+-						総合病院　土浦協同病院救急集中治療科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072355" rel="noopener noreferrer">
+-							穿通性頸部外傷CTA SR/MA
++						株式会社アイメックＲＤ：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072040" rel="noopener noreferrer">
++							認知機能維持に対する研究食品の有効性評価試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						江戸川病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072372" rel="noopener noreferrer">
+-							慢性腎臓病を有する2型糖尿病患者におけるフィネレノン低用量（10 mg/日）投与の有効性および安全性
++						新潟医療福祉大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072051" rel="noopener noreferrer">
++							短下肢装具の底屈制動力の違いによる歩行時の下肢関節角度と筋活動の比較
+ 						</a>
+ 					</li>
+ 					<li>
+-						小林製薬株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072256" rel="noopener noreferrer">
+-							健康な成人女性における仕様の異なるおりものシートの着用が主観的使用感および生体指標に及ぼす影響の検証
++						東北大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072103" rel="noopener noreferrer">
++							緑内障患者における照明条件が生体反応に及ぼす影響
+ 						</a>
+ 					</li>
+ 				</ul>
