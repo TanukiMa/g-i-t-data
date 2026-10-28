@@ -1,0 +1,280 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index 2d6d6af5..6353fa46 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -407,20 +407,26 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
+-								【日薬／RAD-AR】小学校から「くすり教育」を‐市販薬の乱用背景に要望
++							<a href="https://www.yakuji.co.jp/entry141036.html" rel="noopener noreferrer">
++								【西日本セルフMフェア】要指導薬など注目集まる‐業界関係者1300人が来場
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年10月28日 (水) 08:31
++						2026年10月29日 (木) 06:31
+ 					</div>
+ 					<div>
++						<div>
++							<img alt="約1300人が来場し盛況となったフェア" height="356" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_06-01.jpg" width="540">
++							<p>
++								約1300人が来場し盛況となったフェア
++							</p>
++						</div>
+ 						<p>
+-							日本薬剤師会とくすりの適正使用協議会（RAD-AR）は、2028年度以降に順次実施予定の次期学習指導要領をめぐり、小学校から「くすり教育」を導入するよう求めている。一般用医薬品や処方薬の過剰使用によるオーバードーズが社会問題化する中、小学校段階から医薬品の正しい使い方を系統的に学べるよう教育の充実を要望。10年前の改訂では実現しなかった小学校への導入を改めて働きかける。
++							ドラッグストア・一般店向けの展示会「第44回西日本セルフメディケーションフェア」が21、22の両日、大阪市の大阪マーチャンダイズ・マート（OMM）で開催された。主催は親和会卸3社（アルフレッサヘルスケア、大木、PALTAC）。2日間で約1300人の量販店・一般店関係者が来場し、盛況となった。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry141036.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -442,14 +448,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141036.html" rel="noopener noreferrer">
++									<img alt="約1300人が来場し盛況となったフェア" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_06-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
+-									【日薬／RAD-AR】小学校から「くすり教育」を‐市販薬の乱用背景に要望
++								<a href="https://www.yakuji.co.jp/entry141036.html" rel="noopener noreferrer">
++									【西日本セルフMフェア】要指導薬など注目集まる‐業界関係者1300人が来場
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月28日 (水)
++									2026年10月29日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -458,15 +465,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141038.html" rel="noopener noreferrer">
+-									<img alt="柏原氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141041.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141038.html" rel="noopener noreferrer">
+-									【ノバルティスファーマ】腎臓病治療は新潮流へ‐経口薬「ファビハルタ」登場で
++								<a href="https://www.yakuji.co.jp/entry141041.html" rel="noopener noreferrer">
++									【大塚製薬】腎イベントリスク97％減‐新規IgA腎症治療薬
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月28日 (水)
++									2026年10月29日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -475,11 +481,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141031.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141031.html" rel="noopener noreferrer">
+-									【日病薬地方連絡協議会】5疾病6事業にも「薬剤師」‐第8次医療計画見直しで
++								<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
++									【日薬／RAD-AR】小学校から「くすり教育」を‐市販薬の乱用背景に要望
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -492,10 +497,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141034.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141038.html" rel="noopener noreferrer">
++									<img alt="柏原氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_07-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141034.html" rel="noopener noreferrer">
+-									【厚労省】適合性調査で経過措置‐短期間での再調査避ける
++								<a href="https://www.yakuji.co.jp/entry141038.html" rel="noopener noreferrer">
++									【ノバルティスファーマ】腎臓病治療は新潮流へ‐経口薬「ファビハルタ」登場で
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -508,14 +514,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140934.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141031.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140934.html" rel="noopener noreferrer">
+-									【がん研など5者】ネオアンチゲン研究が加速‐NEDO実証事業に採択
++								<a href="https://www.yakuji.co.jp/entry141031.html" rel="noopener noreferrer">
++									【日病薬地方連絡協議会】5疾病6事業にも「薬剤師」‐第8次医療計画見直しで
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月27日 (火)
++									2026年10月28日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -524,14 +531,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140926.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141034.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140926.html" rel="noopener noreferrer">
+-									【神奈川県薬】ルーキーメンバー100人超‐正会員移行が今後の課題
++								<a href="https://www.yakuji.co.jp/entry141034.html" rel="noopener noreferrer">
++									【厚労省】適合性調査で経過措置‐短期間での再調査避ける
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月27日 (火)
++									2026年10月28日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1703,14 +1710,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141058.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141036.html" rel="noopener noreferrer">
++									<img alt="約1300人が来場し盛況となったフェア" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_06-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141058.html" rel="noopener noreferrer">
+-									行政情報リスト　2026/10/28
++								<a href="https://www.yakuji.co.jp/entry141036.html" rel="noopener noreferrer">
++									【西日本セルフMフェア】要指導薬など注目集まる‐業界関係者1300人が来場
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月28日 (水)
++									2026年10月29日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1719,14 +1727,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141070.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141041.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141070.html" rel="noopener noreferrer">
+-									プレスリリース・タイトルリスト　2026/10/28
++								<a href="https://www.yakuji.co.jp/entry141041.html" rel="noopener noreferrer">
++									【大塚製薬】腎イベントリスク97％減‐新規IgA腎症治療薬
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月28日 (水)
++									2026年10月29日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1735,10 +1743,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141063.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141058.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141063.html" rel="noopener noreferrer">
+-									11月27日に「第12回DIA医療機器開発シンポジウム」開催　ディー・アイ・エー・ジャパン
++								<a href="https://www.yakuji.co.jp/entry141058.html" rel="noopener noreferrer">
++									行政情報リスト　2026/10/28
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1751,10 +1759,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141070.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
+-									【日薬／RAD-AR】小学校から「くすり教育」を‐市販薬の乱用背景に要望
++								<a href="https://www.yakuji.co.jp/entry141070.html" rel="noopener noreferrer">
++									プレスリリース・タイトルリスト　2026/10/28
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1767,11 +1775,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141038.html" rel="noopener noreferrer">
+-									<img alt="柏原氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141063.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141038.html" rel="noopener noreferrer">
+-									【ノバルティスファーマ】腎臓病治療は新潮流へ‐経口薬「ファビハルタ」登場で
++								<a href="https://www.yakuji.co.jp/entry141063.html" rel="noopener noreferrer">
++									11月27日に「第12回DIA医療機器開発シンポジウム」開催　ディー・アイ・エー・ジャパン
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1784,10 +1791,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141028.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141028.html" rel="noopener noreferrer">
+-									【NECオンコイミュニティ】「PREPAIR-VAC」プロジェクトに参画‐迅速なワクチン開発パイプライ…
++								<a href="https://www.yakuji.co.jp/entry141030.html" rel="noopener noreferrer">
++									【日薬／RAD-AR】小学校から「くすり教育」を‐市販薬の乱用背景に要望
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1800,10 +1807,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141027.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141038.html" rel="noopener noreferrer">
++									<img alt="柏原氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13234_07-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141027.html" rel="noopener noreferrer">
+-									12月5日に「スポーツ障害」でオンラインセミナー　コニカミノルタJ、キヤノンMS
++								<a href="https://www.yakuji.co.jp/entry141038.html" rel="noopener noreferrer">
++									【ノバルティスファーマ】腎臓病治療は新潮流へ‐経口薬「ファビハルタ」登場で
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1816,11 +1824,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141013.html" rel="noopener noreferrer">
+-									<img alt="イオンクロマトグラフ「Nexera IC」" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/202610280732_1027ka2-1-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141028.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141013.html" rel="noopener noreferrer">
+-									【島津製作所】「Nexera IC」と「Nexis GC-2060」、グッドデザイン賞を受賞
++								<a href="https://www.yakuji.co.jp/entry141028.html" rel="noopener noreferrer">
++									【NECオンコイミュニティ】「PREPAIR-VAC」プロジェクトに参画‐迅速なワクチン開発パイプライ…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1844,7 +1851,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年10月  (338)
++		 2026年10月  (340)
+ 	 2026年9月  (341)
+ 	 2026年8月  (320)
+ 	 2026年7月  (386)
