@@ -2,18 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t gemmed</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/gemmed.xml</id>
-  <updated>2026-10-28T03:33:42Z</updated>
+  <updated>2026-10-28T16:31:32Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/gemmed.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>gemmed: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/3cd347025b71399c79b954fbc109c624ac0bef52</id>
+    <updated>2026-10-28T16:31:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_3cd3470.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>gemmed: 追加: 「2027年度薬価中間年改定、「医薬品の安定供給確保」や「逆ザヤ（薬価＜医薬品の購入価格）の解消」も重要要素—中医協」</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/82c359bbce3eb5cae2b97d49dff988179ef19b9f</id>
+    <updated>2026-10-28T07:34:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2027年度薬価中間年改定、「医薬品の安定供給確保」や「逆ザヤ（薬価＜医薬品の購入価格）の解消」も重要要素—中医協」&lt;/li&gt;&lt;li&gt;変更: 「「介護認定審査会の簡素化」の拡充、「がん患者等の要介護認定の審査期間短縮」に向けた取り組みを進める—社保審・介護保険部会（1）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 「地域の関係者が集う協議体で「地域の特性・事情を踏まえた看護師確保策」を構築・実施することが重要—看護職員養成・確保検討会」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261028111018/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>gemmed: 追加: 「地域医療構想の実現に向け「病院の機能分化」論議進めたいが、「個々の病院の診療データ」が示されず議論が進まない—日病・相澤会長」（2026.10.28.）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/bf3558a6a3c508567446237e95654a9f79bbf6fb</id>
     <updated>2026-10-28T03:33:42Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療構想の実現に向け「病院の機能分化」論議進めたいが、「個々の病院の診療データ」が示されず議論が進まない—日病・相澤会長」（2026.10.28.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「病院の施設・設備整備、看護職員をはじめとする医療人材の確保・定着などについて財政的・制度的支援が必要—8病院団体」（2026.10.26.）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「血管炎等治療薬の「タブネオス」、新規患者への投与は控えよ！投与中患者では中止・代替療法への切り替えを！—厚労省」（2026.10.22.）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_bf3558a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療構想の実現に向け「病院の機能分化」論議進めたいが、「個々の病院の診療データ」が示されず議論が進まない—日病・相澤会長」（2026.10.28.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「病院の施設・設備整備、看護職員をはじめとする医療人材の確保・定着などについて財政的・制度的支援が必要—8病院団体」（2026.10.26.）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「血管炎等治療薬の「タブネオス」、新規患者への投与は控えよ！投与中患者では中止・代替療法への切り替えを！—厚労省」（2026.10.22.）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_bf3558a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261028022024/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 「高脂血症治療薬「レクビオ」に過敏症の副作用、アトピー治療薬「プロトピック」を生後6か月以上の幼児に使用可に—厚労省」（2026.10.28）</title>
@@ -343,19 +357,5 @@
     <updated>2026-10-06T23:50:14Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_676a898.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>gemmed: 変更: バナーリンクおよび画像が「1029ミニセミナー」（URL: https://www.ghc-j.com/20261029gm）から「病院ダッシュボードΧ ZERO」（UR…</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/b8b927e439c860c8bc4bc25977dce2f5b946a2fd</id>
-    <updated>2026-10-06T17:20:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「1029ミニセミナー」（URL: &lt;code&gt;https://www.ghc-j.com/20261029gm&lt;/code&gt;）から「病院ダッシュボードΧ ZERO」（URL: &lt;code&gt;https://www.ghc-j.com/zero-byoushou-gairai-2026-gm&lt;/code&gt;、代替テキスト：病床機能報告・外来機能報告　ワンクリックでデータ作成　無料で利用できる　病院ダッシュボードΧ ZERO）に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_b8b927e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006195605/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>gemmed: 追加: 記事「有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）」（2026年10月6日）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/4f5a645cb7ad9faba474e3e9bb92d3c78a637f51</id>
-    <updated>2026-10-06T11:11:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;p&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）」（2026年10月6日） &lt;strong&gt;変更&lt;/strong&gt;: バナー広告が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」へ差し替え&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_4f5a645.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006141233/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
