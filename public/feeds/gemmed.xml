@@ -2,25 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t gemmed</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/gemmed.xml</id>
-  <updated>2026-10-28T22:33:16Z</updated>
+  <updated>2026-10-29T03:33:32Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/gemmed.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>gemmed: 追加: 「薬剤師は「誤った情報を処方医に提供していないか」「不適切な薬剤変更を処方医に提案していないか」確認を—医療機能評価機構」（2026.10.29.）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/181dc6bd234d4ca847236e5953bbf78662487278</id>
+    <updated>2026-10-29T03:33:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「薬剤師は「誤った情報を処方医に提供していないか」「不適切な薬剤変更を処方医に提案していないか」確認を—医療機能評価機構」（2026.10.29.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「腹痛等の消化器症状で受診した小児患者、「腸管絞扼等による壊死や穿孔で死亡」する事故散発―医療安全調査機構警鐘（7）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「北海道の市立室蘭総合病院・製鉄記念室蘭病院・日鋼記念病院の機能再編等を国が重点支援―厚労省」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_181dc6b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>gemmed: 追加: 「各都道府県にプラットフォーム（協議体）設け、医療従事者の確保、養成、業務効率化・勤務環境改善を検討—医療職種養成・確保検討会」（2026.10.29.）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/d8d77532bc265cc37bcaf9db82acdb30915b2542</id>
     <updated>2026-10-28T22:33:16Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「各都道府県にプラットフォーム（協議体）設け、医療従事者の確保、養成、業務効率化・勤務環境改善を検討—医療職種養成・確保検討会」（2026.10.29.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「新たな『免疫チェックポイント阻害剤投与』＋『セロトニン等の神経伝達物質を標的とした治療』の可能性—国がん他」（2026.10.27.）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「抗がん剤『テモダール』、イリノテカンと併用して『再発または難治性の神経芽腫』治療に用いることを保険診療の中で認める―厚労省」（2026.10.23.）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_d8d7753.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「各都道府県にプラットフォーム（協議体）設け、医療従事者の確保、養成、業務効率化・勤務環境改善を検討—医療職種養成・確保検討会」（2026.10.29.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「新たな『免疫チェックポイント阻害剤投与』＋『セロトニン等の神経伝達物質を標的とした治療』の可能性—国がん他」（2026.10.27.）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「抗がん剤『テモダール』、イリノテカンと併用して『再発または難治性の神経芽腫』治療に用いることを保険診療の中で認める―厚労省」（2026.10.23.）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_d8d7753.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261028232945/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/3cd347025b71399c79b954fbc109c624ac0bef52</id>
     <updated>2026-10-28T16:31:32Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_3cd3470.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_3cd3470.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261028232945/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加: 「2027年度薬価中間年改定、「医薬品の安定供給確保」や「逆ザヤ（薬価＜医薬品の購入価格）の解消」も重要要素—中医協」</title>
@@ -350,12 +357,5 @@
     <updated>2026-10-07T02:48:27Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;追加: 協会けんぽ全体の後発品割合、2026年5月にDPC等含めて91.0％・調剤分だけで92.7％に上昇してはいるが・・・（2026.10.7）&lt;/li&gt;&lt;li&gt;削除: 「OTC類似薬の患者特別負担」の詳細を解説する通知を発出、長期使用など特別負担が生じないケースの具体例も提示—厚労省（2026.10.5）&lt;/li&gt;&lt;li&gt;削除: 大病院向けの標準型・クラウド型電子カルテ開発までの「医療DX対応に向けた電子カルテ改修」対応にも支援が必要―四病協（2026.10.1）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_acd6a62.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>gemmed: 変更: バナーリンクおよび画像が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」に変更された（リンク先: https://www.…</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/d082b8f9ac7446639995f3e75e9760956948447b</id>
-    <updated>2026-10-07T00:46:45Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: バナーリンクおよび画像が「地域包括医療病棟の運用状況を可視化」から「業務改善支援　見える化と実行支援による看護業務改善」に変更された（リンク先: &lt;code&gt;https://www.ghc-j.com/gyoumukaizen-gm&lt;/code&gt;）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_d082b8f.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007035151/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

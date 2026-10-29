@@ -1,0 +1,158 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 073006f8..ce7ca614 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2217,23 +2217,6 @@
+ 				</div>
+ 			</header>
+ 			<div>
+-				<div>
+-					<div>
+-						<div>
+-							<p>
+-								<span>
+-									<strong>
+-										「医療機器基準等情報提供ホームページ」メンテナンスのお知らせ
+-									</strong>
+-									<br>
+-									2026年10月29日(木) にシステムメンテナンスのため、その前後も含めて医療機器基準等情報提供ホームページの閲覧ができない場合があります。
+-									<br>
+-									ご了承ください。
+-								</span>
+-							</p>
+-						</div>
+-					</div>
+-				</div>
+ 				<div>
+ 					<div>
+ 						<ul>
+@@ -2354,6 +2337,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/procurements/contract-info/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年10月29日
++												</p>
++												<p>
++													調達
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													契約締結状況について
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/0371.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2656,27 +2655,11 @@
+ 												<p>
+ 													イベント
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月21日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													「アバコパン製剤の使用に当たっての留意事項について」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2794,45 +2777,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/about-reviews/devices/0048.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月14日
+-												</p>
+-												<p>
+-													医療機器
+-												</p>
+-												<p>
+-													プログラム医療機器のページを更新（「生成AIを活用した医療機器の審査ポイント(Draft)」の英訳を公開、対面助言調整可能時期の更新）しました。
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/about-reviews/p-drugs/0034.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月14日
+-												</p>
+-												<p>
+-													医薬品
+-												</p>
+-												<p>
+-													「バイオ後続品」のページを更新しました
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/review-information/p-drugs/0013.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月14日
+-												</p>
+-												<p>
+-													医薬品
+-												</p>
+-												<p>
+-													未承認薬データベースを更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3098,9 +3042,6 @@
+ 												<p>
+ 													イベント
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました
+ 												</p>
+@@ -3213,6 +3154,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/procurements/contract-info/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年10月29日
++												</p>
++												<p>
++													調達
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													契約締結状況について
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/about-pmda/symposia/0030.html" rel="noopener noreferrer">
+ 												<p>

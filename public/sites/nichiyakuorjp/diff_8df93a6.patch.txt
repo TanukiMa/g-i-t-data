@@ -1,0 +1,18 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 5ed836bf..7e43d872 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -277,6 +277,13 @@
+ 				<div>
+ 					<div>
+ 						<ul>
++							<li>
++								<div>
++									<a href="/news/detail?id=1733&amp;is_top=yes" rel="noopener noreferrer">
++										【重要】WEBサイト等への不正アクセス事案多発を踏まえたセキュリティ対策についての注意喚起
++									</a>
++								</div>
++							</li>
+ 							<li>
+ 								<div>
+ 									<a href="/news/detail?id=1718&amp;is_top=yes" rel="noopener noreferrer">
