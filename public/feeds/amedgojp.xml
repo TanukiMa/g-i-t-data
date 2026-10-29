@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医療研究開発機構(AMED)</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/amedgojp.xml</id>
-  <updated>2026-10-28T03:33:42Z</updated>
+  <updated>2026-10-29T22:33:27Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/amedgojp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/amedgojp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医療研究開発機構(AMED): 変更 イベント「（令和9年1月22日開催）『ライフコースを通じた健康とウェルビーイングの実現　～ライフコースアプローチ研究が拓く...』」（令和8年10月29日付）の記載が追加さ…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/amedgojp/c2dad9a67c8bfe5f1af4dce6c88225a6a30eabc7</id>
+    <updated>2026-10-29T22:33:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/amedgojp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; イベント「（令和9年1月22日開催）『ライフコースを通じた健康とウェルビーイングの実現　～ライフコースアプローチ研究が拓く...』」（令和8年10月29日付）の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; 「（情報更新）『公募カレンダー』最新情報を掲載しました」（令和8年10月26日付）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.amed.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/amedgojp/diff_c2dad9a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医療研究開発機構(AMED): 追加: （令和8年12月7日開催）「AI時代の研究データ管理」開催のお知らせ</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/amedgojp/ca5694c71659429b6aa0dd7834abf4c053abc0d9</id>

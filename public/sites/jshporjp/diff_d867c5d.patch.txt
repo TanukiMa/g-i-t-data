@@ -1,0 +1,44 @@
+diff --git a/sites/jshporjp/jp/or/jshp/index.html b/sites/jshporjp/jp/or/jshp/index.html
+index f3c69aaa..2bb05b02 100644
+--- a/sites/jshporjp/jp/or/jshp/index.html
++++ b/sites/jshporjp/jp/or/jshp/index.html
+@@ -385,10 +385,8 @@
+ 						</a>
+ 					</div>
+ 				</div>
+-				<a href="activity/saigai-2026.html" rel="noopener noreferrer">
+-					<i>
+-					</i>
+-					令和８年（2026年）　熊本地震　災害医療支援関連情報
++				<a href="findwork/index.html" rel="noopener noreferrer">
++					日本病院薬剤師会　就職ポータルサイト　（病院薬剤師の求人・求職）
+ 				</a>
+ 				<br>
+ 				<div>
+@@ -460,16 +458,20 @@
+ 				</div>
+ 				<br>
+ 				<br>
+-				<a href="findwork/index.html" rel="noopener noreferrer">
+-					日本病院薬剤師会　就職ポータルサイト　（病院薬剤師の求人・求職）
+-				</a>
+-				<br>
++				<div>
++					<a href="content/2026/1022-5.html" rel="noopener noreferrer">
++						令和８年度　診療報酬改定特別調査
++					</a>
++					<a href="content/2026/1029-3.pdf" rel="noopener noreferrer">
++						令和８年度　病院薬剤師の労働条件等調査
++					</a>
++				</div>
+ 				<div>
+ 					<a href="content/2026/0305-5.html" rel="noopener noreferrer">
+ 						令和８年度　診療報酬改定について
+ 					</a>
+-					<a href="https://www.jmb.co.jp/jshp2026/" rel="noopener noreferrer">
+-						令和８年度　病院薬剤部門の現状調査
++					<a href="content/2026/1029-4.html" rel="noopener noreferrer">
++						令和８年度　診療所薬剤部門の現状調査
+ 					</a>
+ 				</div>
+ 				<div>
