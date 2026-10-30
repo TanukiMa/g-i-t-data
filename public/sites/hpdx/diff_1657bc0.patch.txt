@@ -1,0 +1,69 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 12fde19f..64ad5437 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -374,15 +374,30 @@
+ 						<li>
+ 							<span>
+ 								<span>
+-									令和8年10月27日
++									令和8年10月30日
+ 								</span>
+ 								<span>
+-									プレスリリース
++									医療機関・保険者
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_081027_1.html" rel="noopener noreferrer">
+-									医療情報化推進担当理事（ＣＩＯ）に 浅沼 尚氏が就任
++								<a href="/shinryohoshu/saikaisyou_torikumi/kashikarepo/index.html" rel="noopener noreferrer">
++									「審査の差異の可視化レポート」の検証後レポート(医科8事例)を掲載しました
++								</a>
++							</span>
++						</li>
++						<li>
++							<span>
++								<span>
++									令和8年10月30日
++								</span>
++								<span>
++									ベンダー
++								</span>
++							</span>
++							<span>
++								<a href="/user_ippan/vendor/vendor_01.html" rel="noopener noreferrer">
++									レセ電通信（医科）を掲載しました。
+ 								</a>
+ 							</span>
+ 						</li>
+@@ -396,23 +411,23 @@
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_r081027_2.html" rel="noopener noreferrer">
+-									10月定例記者会見を開催
++								<a href="/pressrelease/pressrelease_r08/press_081027_1.html" rel="noopener noreferrer">
++									医療情報化推進担当理事（ＣＩＯ）に 浅沼 尚氏が就任
+ 								</a>
+ 							</span>
+ 						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+-									令和8年10月23日
++									令和8年10月27日
+ 								</span>
+ 								<span>
+-									医療機関・保険者
++									プレスリリース
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="/shinryohoshu/saikaisyou_torikumi/kashikarepo/index.html" rel="noopener noreferrer">
+-									「審査の差異の可視化レポート」の「多くの付箋がつくコンピュータチェック事例」の再フォローアップ検証(医科2事例)、「審査の一般的な取扱い事例」のフォローアップ検証(医科8事例)のレポートを掲載しました
++								<a href="/pressrelease/pressrelease_r08/press_r081027_2.html" rel="noopener noreferrer">
++									10月定例記者会見を開催
+ 								</a>
+ 							</span>
+ 						</li>

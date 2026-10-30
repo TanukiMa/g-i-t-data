@@ -1,0 +1,42 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 5cd41ce4..99187dd3 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -2355,6 +2355,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/30
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159971.html" rel="noopener noreferrer">
++												医療従事者による２年に一度の届出（三師届・業務従事者届）について（厚生労働省）
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2583,18 +2595,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/08
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159410.html" rel="noopener noreferrer">
+-												感染症危機管理専門家養成プログラム研修生採用案内について（厚生労働省）
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

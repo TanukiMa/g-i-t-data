@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本薬剤師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/nichiyakuorjp.xml</id>
-  <updated>2026-10-29T03:33:37Z</updated>
+  <updated>2026-10-30T03:35:37Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/nichiyakuorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nichiyakuorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本薬剤師会: 追加: 2026.10.29「第60回日本薬剤師会学術大会（福島大会）の大会ホームページが開設されました」</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/nichiyakuorjp/3adaf61d7a09b404315e6739e908bc7b428e6629</id>
+    <updated>2026-10-30T03:35:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nichiyakuorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026.10.29「第60回日本薬剤師会学術大会（福島大会）の大会ホームページが開設されました」&lt;/li&gt;&lt;li&gt;変更: 「【重要】生涯学習支援システム【JPALS】、 健康サポート薬局e-ラーニング研修システムの緊急メンテナンスのお知らせ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.nichiyaku.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nichiyakuorjp/diff_3adaf61.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本薬剤師会: 追加: 【重要】WEBサイト等への不正アクセス事案多発を踏まえたセキュリティ対策についての注意喚起（ID: 1733）が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/nichiyakuorjp/8df93a6263485ca55027ff737b113ca1f4b5c295</id>

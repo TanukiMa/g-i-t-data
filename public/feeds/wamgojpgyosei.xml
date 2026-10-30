@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 福祉医療機構- 行政情報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/wamgojpgyosei.xml</id>
-  <updated>2026-10-29T03:33:37Z</updated>
+  <updated>2026-10-30T03:35:38Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/wamgojpgyosei.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyosei/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>福祉医療機構- 行政情報: 追加: 「第159回 先進医療会議（令和8年11月5日開催予定）」の掲載（医療）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyosei/04e7709f92afbc8fabf06a8587e5ea5d078183f2</id>
+    <updated>2026-10-30T03:35:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyosei/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第159回 先進医療会議（令和8年11月5日開催予定）」の掲載（医療）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第63回 社会保障審議会 生活保護基準部会（令和8年11月5日開催予定）」の掲載（福祉全般）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/top"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyosei/diff_04e7709.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>福祉医療機構- 行政情報: 追加: 「第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyosei/786f201705bf60b9df4f755f9799602a7756a0e5</id>
