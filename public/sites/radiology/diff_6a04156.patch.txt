@@ -1,0 +1,58 @@
+diff --git a/sites/radiology/jp/radiology/index.html b/sites/radiology/jp/radiology/index.html
+index 814be5aa..9324e56e 100644
+--- a/sites/radiology/jp/radiology/index.html
++++ b/sites/radiology/jp/radiology/index.html
+@@ -483,6 +483,26 @@
+ 						What's New
+ 					</h2>
+ 					<dl>
++						<dt>
++							<time>
++								2026年10月30日
++							</time>
++						</dt>
++						<dd>
++							<a href="member_info/relation/20261030_01.html" rel="noopener noreferrer">
++								【厚生労働省】医薬品の適応外使用に係るかかる保険診療上の取扱いについて
++							</a>
++						</dd>
++						<dt>
++							<time>
++								2026年10月30日
++							</time>
++						</dt>
++						<dd>
++							<a href="member_info/news_member/2015042808.html" rel="noopener noreferrer">
++								メンテナンス情報（11/4）
++							</a>
++						</dd>
+ 						<dt>
+ 							<time>
+ 								2026年10月30日
+@@ -563,26 +583,6 @@
+ 								【HELICS協議会】HELICSチュートリアル（第46回 日本医療情報学連合大会）開催のご案内
+ 							</a>
+ 						</dd>
+-						<dt>
+-							<time>
+-								2026年10月19日
+-							</time>
+-						</dt>
+-						<dd>
+-							<a href="next/info/20261019_01.html" rel="noopener noreferrer">
+-								JRS-NEXT 施設紹介、医学生・研修医へのメッセージ
+-							</a>
+-						</dd>
+-						<dt>
+-							<time>
+-								2026年10月15日
+-							</time>
+-						</dt>
+-						<dd>
+-							<a href="member_info/relation/20261015_01.html" rel="noopener noreferrer">
+-								【日本乳癌画像研究会】第36回日本乳癌画像研究会学術総会開催のお知らせ
+-							</a>
+-						</dd>
+ 					</dl>
+ 					<p>
+ 						<a href="past_info.html" rel="noopener noreferrer">

@@ -1,0 +1,240 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index d3744a8b..0a4b8569 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -1387,7 +1387,7 @@
+ 												<ul>
+ 													<li>
+ 														<div>
+-															2026年10月26日
++															2026年10月30日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1398,8 +1398,8 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=904&amp;dispmid=767" rel="noopener noreferrer">
+-																参加証(ネームカード)・領収書について(第64回日本癌治療学会学術集会)
++															<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																【重要】myがんち等のサービス再開のお知らせ
+ 															</a>
+ 														</div>
+ 													</li>
+@@ -1416,20 +1416,14 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
+-																【
+-																<span>
+-																	<strong>
+-																		参加登録期間延長：10月30(金)まで
+-																	</strong>
+-																</span>
+-																】参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
++															<a href="/news/detail.html?itemid=904&amp;dispmid=767" rel="noopener noreferrer">
++																参加証(ネームカード)・領収書について(第64回日本癌治療学会学術集会)
+ 															</a>
+ 														</div>
+ 													</li>
+ 													<li>
+ 														<div>
+-															2026年10月22日
++															2026年10月26日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1440,8 +1434,14 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
+-																【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++															<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
++																【
++																<span>
++																	<strong>
++																		参加登録期間延長：10月30(金)まで
++																	</strong>
++																</span>
++																】参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
+ 															</a>
+ 														</div>
+ 													</li>
+@@ -1521,16 +1521,19 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026年10月29日
++																			2026年10月30日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+-																				関連団体
++																				重要
++																			</span>
++																			<span>
++																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1163&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本医療研究開発機構（AMED）：令和9年度 「革新的がん医療実用化研究事業」に係る公募について
++																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																				【重要】myがんち等のサービス再開のお知らせ
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1544,8 +1547,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1162&amp;dispmid=767" rel="noopener noreferrer">
+-																				公益財団法人医療機器センター：【研究助成公募開始】2027年度自然科学系研究者向け研究助成（医療技術研究開発）のご案内
++																			<a href="/news/detail.html?itemid=1163&amp;dispmid=767" rel="noopener noreferrer">
++																				日本医療研究開発機構（AMED）：令和9年度 「革新的がん医療実用化研究事業」に係る公募について
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1559,14 +1562,14 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1161&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本緩和医療学会：第42回教育セミナー開催のご案内
++																			<a href="/news/detail.html?itemid=1162&amp;dispmid=767" rel="noopener noreferrer">
++																				公益財団法人医療機器センター：【研究助成公募開始】2027年度自然科学系研究者向け研究助成（医療技術研究開発）のご案内
+ 																			</a>
+ 																		</div>
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月27日
++																			2026年10月29日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1574,26 +1577,23 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1159&amp;dispmid=767" rel="noopener noreferrer">
+-																				ASCO Breakthrough 2027のご案内
++																			<a href="/news/detail.html?itemid=1161&amp;dispmid=767" rel="noopener noreferrer">
++																				日本緩和医療学会：第42回教育セミナー開催のご案内
+ 																			</a>
+ 																		</div>
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月26日
++																			2026年10月27日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+-																				重要
+-																			</span>
+-																			<span>
+-																				学会
++																				関連団体
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=904&amp;dispmid=767" rel="noopener noreferrer">
+-																				参加証(ネームカード)・領収書について(第64回日本癌治療学会学術集会)
++																			<a href="/news/detail.html?itemid=1159&amp;dispmid=767" rel="noopener noreferrer">
++																				ASCO Breakthrough 2027のご案内
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1618,7 +1618,7 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026年10月26日
++																			2026年10月30日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1629,8 +1629,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=904&amp;dispmid=767" rel="noopener noreferrer">
+-																				参加証(ネームカード)・領収書について(第64回日本癌治療学会学術集会)
++																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																				【重要】myがんち等のサービス再開のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1649,14 +1649,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
+-																				【
+-																				<span>
+-																					<strong>
+-																						参加登録期間延長：10月30(金)まで
+-																					</strong>
+-																				</span>
+-																				】参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
++																			<a href="/news/detail.html?itemid=904&amp;dispmid=767" rel="noopener noreferrer">
++																				参加証(ネームカード)・領収書について(第64回日本癌治療学会学術集会)
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1664,16 +1658,25 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月23日
++																			2026年10月26日
+ 																		</div>
+ 																		<div>
++																			<span>
++																				重要
++																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1158&amp;dispmid=767" rel="noopener noreferrer">
+-																				『大腸癌・婦人科癌治療におけるLynch症候群診断の意義に関する見解書』パブリックコメントご協力のお願い
++																			<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
++																				【
++																				<span>
++																					<strong>
++																						参加登録期間延長：10月30(金)まで
++																					</strong>
++																				</span>
++																				】参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1681,19 +1684,16 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月22日
++																			2026年10月23日
+ 																		</div>
+ 																		<div>
+-																			<span>
+-																				重要
+-																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
+-																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++																			<a href="/news/detail.html?itemid=1158&amp;dispmid=767" rel="noopener noreferrer">
++																				『大腸癌・婦人科癌治療におけるLynch症候群診断の意義に関する見解書』パブリックコメントご協力のお願い
+ 																			</a>
+ 																		</div>
+ 																		<div>
