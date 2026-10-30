@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlw.xml</id>
-  <updated>2026-10-30T03:35:36Z</updated>
+  <updated>2026-10-30T07:36:13Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlw.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省: 追加: 輸入食品に対する検査命令の実施 - （中国産おくら、その加工品）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/9262c1f37fc716fceeec3345ce8fff1c874c722f</id>
+    <updated>2026-10-30T07:36:13Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 輸入食品に対する検査命令の実施 - （中国産おくら、その加工品）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 労災レセプト電算処理システム　「四肢加算に対するコメント記録がない場合、令和8年11月請求分から【受付不能エラー】となります。」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第273回社会保障審議会介護給付費分科会（Web会議）を開催します&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第１回「令和８年度管理栄養士国家試験出題基準（ガイドライン）改定検討会」開催案内&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「年金業務システム（フェーズ２）に係る設計・開発等」関連の調達情報ほか11件の記載が消えました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_9262c1f.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省: 追加: 「年金業務システム（フェーズ２）に係る設計・開発等（記録照会サブシステムに係る設計・開発業務　一式（その３））」（2026年10月30日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/a50ce14dfc7eb6c9233a012f2504bb20b8fdfcca</id>
@@ -350,12 +357,5 @@
     <updated>2026-10-06T23:50:15Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;追加: 統計情報「毎月勤労統計調査ー2026（令和8）年８月分結果速報」（2026年10月7日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_3074182.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261007040153/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省: 追加: 第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します（2026年10月6日）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/0b440bc6c33783ffaf2a38f8023bf4043de3dd5d</id>
-    <updated>2026-10-06T11:11:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 令和８年１０月６日付大臣会見概要（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第５回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第13回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第26回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）　資料（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 第68回厚生科学審議会疾病対策部会指定難病検討委員会 議事録（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 「人口動態統計月報（概数）」令和８（2026）年５月分（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 食品中の放射性物質の検査結果について（１５１５報）（2026年10月6日）&lt;/li&gt;&lt;li&gt;追加: 令和８年度第６回化学物質管理に係る専門家検討会を開催します（2026年10月6日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_0b440bc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261006173207/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

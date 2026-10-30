@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 外科系</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-07c47f10.xml</id>
-  <updated>2026-10-30T03:35:35Z</updated>
+  <updated>2026-10-30T07:36:09Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-07c47f10.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本癌治療学会 - がん診療ガイドライン: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gstuguideline/a7303a110afe1f1ae80489f88c10eb04f5a4407f</id>
+    <updated>2026-10-30T07:36:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gstuguideline/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gstu.members-web.com/gstu/guideline/index.php?category_id=9"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gstuguideline/diff_a7303a1.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本大腸肛門病学会: 追加: 「2027年10月27日 ［外保連］令和8年度医療機関等の経営状況に係る臨時調査の協力依頼について」の記載が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/coloproctology/a0cca2aea165d205a986ba24500b62d58416318d</id>
+    <updated>2026-10-30T07:36:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/coloproctology/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2027年10月27日 ［外保連］令和8年度医療機関等の経営状況に係る臨時調査の協力依頼について」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年9月1日 ［日本医学会］【通知】「人を対象とする生命科学・医学系研究に関する倫理指針」の一部改正について」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.coloproctology.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/coloproctology/diff_a0cca2a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本消化器病学会ガイドライン: 変更：「消化性潰瘍診療ガイドライン・MASLD診療ガイドラインの最新版が公開されました。」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsgeguideline/89ada63f44bdecc5b92a3abd61b7538841d4bc9a</id>
@@ -343,19 +357,5 @@
     <updated>2026-10-16T22:34:56Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jacsurg/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026/10/16付で「日本医療安全調査機構より医療事故調査制度の現況報告（9月）」が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026/10/16付で日本学術会議より公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」（11/2開催）のお知らせが掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「日本医学会より第169回日本医学会シンポジウム「AIの実臨床応用」開催のお知らせ」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「日本医療安全調査機構より医療事故調査制度の現況報告（8月）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jacsurg.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jacsurg/diff_4d35656.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261016231958/https://jacsurg.gr.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本外科学会: 追加: 「令和8年度：新制度外科専門医試験の結果について」（2026年10月16日）が掲載されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jssoc/5cec7778034393fd40ccfcc2435e46433f9f0e8a</id>
-    <updated>2026-10-16T07:34:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jssoc/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8年度：新制度外科専門医試験の結果について」（2026年10月16日）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「案内INDEX」（2026年10月7日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jssoc.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jssoc/diff_5cec777.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261017065445/https://www.jssoc.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本小児外科学会: 追加: 【エボロクマブ（遺伝子組換え）製剤の最適使用推進ガイドラインの簡略版への切替えについて】（2026.10.16）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsps/4f59466405850a25cf987192e65862d1b7565918</id>
-    <updated>2026-10-16T07:34:10Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsps/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 【エボロクマブ（遺伝子組換え）製剤の最適使用推進ガイドラインの簡略版への切替えについて】（2026.10.16）&lt;/li&gt;&lt;li&gt;追加: 【医療事故情報収集等事業第86回報告書の公表について】（2026.10.16）&lt;/li&gt;&lt;li&gt;追加: 【「日本医学会e-News No.14」の発行について】（2026.10.16）&lt;/li&gt;&lt;li&gt;追加: 【チスレリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（上咽頭癌）の作成及び最適使用推進ガイドライン（食道癌及び胃癌）の一部改正について】（2026.10.16）&lt;/li&gt;&lt;li&gt;追加: 【ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌）について】（2026.10.16）&lt;/li&gt;&lt;li&gt;追加: 【第169回日本医学会シンポジウム「AIの実臨床応用」開催のお知らせについて】（2026.10.16）&lt;/li&gt;&lt;li&gt;変更: 「輸血療法実践ガイドの再周知について」「日本CAKUT・RNフォーラム WEBセミナー開催のお知らせ：小児の腎機能とCAKUT・RNの長期予後」「第60回日本小児外科学会 関東甲信越地方会 会告」ほか 4 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.jsps.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsps/diff_4f59466.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261016231303/http://www.jsps.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

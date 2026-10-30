@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 薬事日報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/yakujicojp.xml</id>
-  <updated>2026-10-30T03:35:38Z</updated>
+  <updated>2026-10-30T07:36:15Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/yakujicojp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>薬事日報: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/9586f16f129b06c7ec30dc49f1c0b8de80a70897</id>
+    <updated>2026-10-30T07:36:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_9586f16.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>薬事日報: 追加: 【薬価部会】安定供給へ薬価引上げを‐政策効果検証求める声も</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/03f3b22d9271e8585496c449e55e757848c5573f</id>

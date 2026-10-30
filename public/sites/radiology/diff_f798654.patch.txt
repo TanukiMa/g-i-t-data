@@ -1,0 +1,48 @@
+diff --git a/sites/radiology/jp/radiology/index.html b/sites/radiology/jp/radiology/index.html
+index 60980d15..814be5aa 100644
+--- a/sites/radiology/jp/radiology/index.html
++++ b/sites/radiology/jp/radiology/index.html
+@@ -485,14 +485,24 @@
+ 					<dl>
+ 						<dt>
+ 							<time>
+-								2026年10月29日
++								2026年10月30日
+ 							</time>
+ 						</dt>
+ 						<dd>
+-							<a href="guideline/20261029_01.html" rel="noopener noreferrer">
++							<a href="guideline/20261030_01.html" rel="noopener noreferrer">
+ 								肝MRIによる脂肪定量の撮像・管理指針、細則
+ 							</a>
+ 						</dd>
++						<dt>
++							<time>
++								2026年10月28日
++							</time>
++						</dt>
++						<dd>
++							<a href="member_info/aosr.html" rel="noopener noreferrer">
++								[AOSR] Education & Training
++							</a>
++						</dd>
+ 						<dt>
+ 							<time>
+ 								2026年10月23日
+@@ -573,16 +583,6 @@
+ 								【日本乳癌画像研究会】第36回日本乳癌画像研究会学術総会開催のお知らせ
+ 							</a>
+ 						</dd>
+-						<dt>
+-							<time>
+-								2026年10月15日
+-							</time>
+-						</dt>
+-						<dd>
+-							<a href="member_info/aosr.html" rel="noopener noreferrer">
+-								[AOSR] AsiaSafe
+-							</a>
+-						</dd>
+ 					</dl>
+ 					<p>
+ 						<a href="past_info.html" rel="noopener noreferrer">

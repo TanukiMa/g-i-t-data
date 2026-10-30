@@ -1,0 +1,16 @@
+diff --git a/sites/gstuguideline/com/members-web/gstu/gstu-guideline-index-php-category-id-9.html b/sites/gstuguideline/com/members-web/gstu/gstu-guideline-index-php-category-id-9.html
+index 939d5980..13a34bc7 100644
+--- a/sites/gstuguideline/com/members-web/gstu/gstu-guideline-index-php-category-id-9.html
++++ b/sites/gstuguideline/com/members-web/gstu/gstu-guideline-index-php-category-id-9.html
+@@ -21,6 +21,11 @@
+ 						</div>
+ 					</a>
+ 				</div>
++				<div>
++					<i>
++					</i>
++					検索
++				</div>
+ 				<div>
+ 					<a href="https://gstu.members-web.com/gstu/usage/" rel="noopener noreferrer">
+ 						<i>

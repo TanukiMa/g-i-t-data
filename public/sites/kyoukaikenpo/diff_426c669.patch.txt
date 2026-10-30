@@ -1,0 +1,65 @@
+diff --git a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+index d7276b00..211dc766 100644
+--- a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
++++ b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+@@ -1164,7 +1164,7 @@
+ 					<ul>
+ 						<li>
+ 							<a href="/about/business/dependent_status/001/" rel="noopener noreferrer">
+-								<img alt="" height="109" src="/assets/%E8%A2%AB%E6%89%B6%E9%A4%8A%E8%80%85%E8%B3%87%E6%A0%BC%E5%86%8D%E7%A2%BA%E8%AA%8DHP%E3%83%90%E3%83%8A%E3%83%BC%28245%C3%97184%29.jpg" width="145">
++								<img alt="" height="184" src="/assets/%E3%83%9E%E3%83%83%E3%83%81%E3%83%A7%E3%83%90%E3%83%8A%E3%83%BC.jpg" width="245">
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -1237,8 +1237,8 @@
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_oct/5461.html" rel="noopener noreferrer">
+-										本部における事務処理誤り等の発生状況について（令和8年4月～6月）
++									<a href="/news/r08_oct/6818.html" rel="noopener noreferrer">
++										本部における事務処理誤り等の発生状況について（令和8年7月～9月）
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -1247,14 +1247,19 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年10月30日
++										令和08年10月28日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_oct/6818.html" rel="noopener noreferrer">
+-										本部における事務処理誤り等の発生状況について（令和8年7月～9月）
++									<a href="/about/business/dependent_status/001/" rel="noopener noreferrer">
++										被扶養者資格の再確認にご協力をお願いします
+ 									</a>
+ 								</h3>
++								<ul>
++									<li>
++										重要
++									</li>
++								</ul>
+ 							</article>
+ 						</li>
+ 						<li>
+@@ -1265,15 +1270,10 @@
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/about/business/dependent_status/001/" rel="noopener noreferrer">
+-										被扶養者資格の再確認にご協力をお願いします
++									<a href="/news/r08_oct/6844.html" rel="noopener noreferrer">
++										健康保険の任意継続被保険者の11月分の保険料の納付期限は11月10日です
+ 									</a>
+ 								</h3>
+-								<ul>
+-									<li>
+-										重要
+-									</li>
+-								</ul>
+ 							</article>
+ 						</li>
+ 					</ul>
