@@ -1,0 +1,33 @@
+diff --git a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+index a3738b204..5058c1357 100644
+--- a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
++++ b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+@@ -385,8 +385,8 @@
+ 						<div>
+ 							<div>
+ 								<div>
+-									<a href="shukai_tihou/tihoukai/tokai/index.html" rel="noopener noreferrer">
+-										<img alt="第37回東海地方会　演題登録受付中" src="common/images/banner_tokai_37_02.jpg">
++									<a href="shukai_tihou/tihoukai/chugoku/index.html" rel="noopener noreferrer">
++										<img alt="第38回中国地方会　演題登録受付中" src="common/images/banner_chugoku_38_01.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+@@ -400,13 +400,13 @@
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="shukai_tihou/tihoukai/chugoku/index.html" rel="noopener noreferrer">
+-										<img alt="第38回中国地方会　演題登録受付中" src="common/images/banner_chugoku_38_01.jpg">
++									<a href="shukai_tihou/tihoukai/tohoku/index.html" rel="noopener noreferrer">
++										<img alt="第37回東北地方会　演題登録受付中" src="common/images/banner_tohoku_37v3.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="shukai_tihou/tihoukai/tohoku/index.html" rel="noopener noreferrer">
+-										<img alt="第37回東北地方会　演題登録受付中" src="common/images/banner_tohoku_37v3.jpg">
++									<a href="shukai_tihou/tihoukai/kinki/index.html" rel="noopener noreferrer">
++										<img alt="第37回近畿地方会　演題登録受付中" src="common/images/banner_kinki_37.jpg">
+ 									</a>
+ 								</div>
+ 								<div>

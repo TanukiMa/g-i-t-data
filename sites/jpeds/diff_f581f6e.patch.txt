@@ -1,0 +1,90 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index f227daccc..ff542c35a 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,23 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/22
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-pediatrician" rel="noopener noreferrer">
++												専門医・認定資格等
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-159870.html" rel="noopener noreferrer">
++												Kids’ Doctors milestone Smart System（KIDS）緊急メンテナンスについて
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/08/19
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
+-												学会の活動
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/post-158867.html" rel="noopener noreferrer">
+-												リレーコラム　キャリアの積み方―私の場合 コラム58掲載について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2253,6 +2253,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/22
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-159870.html" rel="noopener noreferrer">
++												Kids’ Doctors milestone Smart System（KIDS）緊急メンテナンスについて
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2325,18 +2337,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/08/05
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-pediatrician/post-158634.html" rel="noopener noreferrer">
+-												2026年度小児科専門医試験　受験票発送と託児について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

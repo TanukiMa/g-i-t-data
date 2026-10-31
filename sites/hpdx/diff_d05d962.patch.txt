@@ -1,0 +1,18 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index e23ba7eb7..b8e6441c5 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -325,13 +325,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<a href="https://www.hpdx.or.jp/seikyushiharai/iryokikan/index.files/080605_oshirase.pdf" rel="noopener noreferrer">
+-									オンライン請求システムを利用されているDPC対象医療機関及び電子媒体によりコーディングを提出しているDPC対象医療機関の皆様へのお知らせ
+-								</a>
+-							</span>
+-						</li>
+ 						<li>
+ 							<span>
+ 								<a href="/user_ippan/vendor/kyotsusantei_module.html" rel="noopener noreferrer">

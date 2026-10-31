@@ -1,0 +1,498 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index dffa2de45..2bbe4a6a3 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -407,21 +407,20 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry140930.html" rel="noopener noreferrer">
+-								【サノフィ日本法人】血小板減少症に新薬‐病態形成過程などに作用
++							<a href="https://www.yakuji.co.jp/entry140932.html" rel="noopener noreferrer">
++								【製薬団体、薬剤師会など】薬業界にもPHP問題直撃‐ウェブサイト閲覧不可に
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年10月26日 (月) 06:33
++						2026年10月26日 (月) 08:31
+ 					</div>
+ 					<div>
+-						<img alt="" height="357" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_07-01.jpg" width="540">
+ 						<p>
+-							サノフィ日本法人は21日、新規作用の持続性・慢性免疫性血小板減少症の治療薬「ウェイリズ錠400mg」（一般名：リルザブルチニブ）を新発売した。既存治療で十分に効果がない患者に対する新たな治療選択肢となる。
++							ウェブサイトなどで広く使われるプログラミング言語「PHP」の深刻な脆弱性が21日23時に公表されたことを受け、製薬関連団体のウェブサイトが閲覧できなくなったり、薬剤師会が提供しているシステムの運用が停止するなどの影響が相次いだ。各団体はサーバーの一時停止や緊急メンテナンスなどの対応に追われた。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry140930.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry140932.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -443,11 +442,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140930.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140932.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140930.html" rel="noopener noreferrer">
+-									【サノフィ日本法人】血小板減少症に新薬‐病態形成過程などに作用
++								<a href="https://www.yakuji.co.jp/entry140932.html" rel="noopener noreferrer">
++									【製薬団体、薬剤師会など】薬業界にもPHP問題直撃‐ウェブサイト閲覧不可に
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -460,10 +458,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140928.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140931.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140928.html" rel="noopener noreferrer">
+-									外国価格調整の米除外、衆院厚労委で問題視
++								<a href="https://www.yakuji.co.jp/entry140931.html" rel="noopener noreferrer">
++									【キッセイ、腎臓学会ら】タブネオスで対応動き出す‐学会は中止後治療方針公表
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -476,10 +474,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140875.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140930.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_07-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140875.html" rel="noopener noreferrer">
+-									【レジリア】安定供給リスク分析を支援‐厚労省「行動計画」に対応
++								<a href="https://www.yakuji.co.jp/entry140930.html" rel="noopener noreferrer">
++									【サノフィ日本法人】血小板減少症に新薬‐病態形成過程などに作用
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -492,10 +491,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140874.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140928.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140874.html" rel="noopener noreferrer">
+-									【ツルハHD】多摩美大と共同研究開始‐「スローショッピング」基軸に
++								<a href="https://www.yakuji.co.jp/entry140928.html" rel="noopener noreferrer">
++									外国価格調整の米除外、衆院厚労委で問題視
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -508,14 +507,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140868.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140875.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140868.html" rel="noopener noreferrer">
+-									【厚労省】タブネオス、有効性検証されず‐新患投与中止と代替治療へ
++								<a href="https://www.yakuji.co.jp/entry140875.html" rel="noopener noreferrer">
++									【レジリア】安定供給リスク分析を支援‐厚労省「行動計画」に対応
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月23日 (金)
++									2026年10月26日 (月)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -524,14 +523,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140876.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140874.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140876.html" rel="noopener noreferrer">
+-									便秘薬の出荷調整広がる‐EAファーマなど、出荷停止予定の製剤も
++								<a href="https://www.yakuji.co.jp/entry140874.html" rel="noopener noreferrer">
++									【ツルハHD】多摩美大と共同研究開始‐「スローショッピング」基軸に
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月23日 (金)
++									2026年10月26日 (月)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -641,10 +640,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140906.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140909.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140906.html" rel="noopener noreferrer">
+-									【三重大】健康管理アプリ「ハートサイン」用いた研究、AMEDの2026年度事業に採択
++								<a href="https://www.yakuji.co.jp/entry140909.html" rel="noopener noreferrer">
++									【NECグループ】個別化ネオアンチゲン療法「NECVAX-NEO1」、第I／II相臨床試験で良好な成績
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -657,14 +656,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140831.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140905.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140831.html" rel="noopener noreferrer">
+-									【花王／島津製作所】共同研究で“舌ケア”の重要性を示唆‐機器分析で歯垢のつきやすさに新知見
++								<a href="https://www.yakuji.co.jp/entry140905.html" rel="noopener noreferrer">
++									【オムロンHC】「日本公衆衛生学会総会」に出展
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月23日 (金)
++									2026年10月26日 (月)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -735,11 +734,11 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140922.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_07-02-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140910.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/7ca5bc5e29980959688d5c7c7fff6ffe-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140922.html" rel="noopener noreferrer">
+-									【新製品】小児向けの内用液発売‐「リンヴォック」新剤形　アッヴィ日本法人
++								<a href="https://www.yakuji.co.jp/entry140910.html" rel="noopener noreferrer">
++									【新製品】rom&ndから“メイクのためのスキンケア”が登場‐ドン・キホーテ系列店舗限定ブランド…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -752,10 +751,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140920.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140922.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_07-02-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140920.html" rel="noopener noreferrer">
+-									【新製品】細胞ファイバ製造装置、2製品を日米で発売　セルファイバ
++								<a href="https://www.yakuji.co.jp/entry140922.html" rel="noopener noreferrer">
++									【新製品】小児向けの内用液発売‐「リンヴォック」新剤形　アッヴィ日本法人
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -915,15 +915,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry139254.html" rel="noopener noreferrer">
+-									<img alt="久保田氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_04-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140957.html" rel="noopener noreferrer">
++									<img alt="昌原氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_04-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry139254.html" rel="noopener noreferrer">
+-									【医薬品市販後の安全性情報管理】アリスグローバル
++								<a href="https://www.yakuji.co.jp/entry140957.html" rel="noopener noreferrer">
++									【MR支援 ～これからの時代に求められるMRとは】MIフォース株式会社
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年09月11日 (金)
++									2026年10月26日 (月)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -932,15 +932,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry139258.html" rel="noopener noreferrer">
+-									<img alt="室谷氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_05-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140965.html" rel="noopener noreferrer">
++									<img alt="新川氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_05-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry139258.html" rel="noopener noreferrer">
+-									【医薬品市販後の安全性情報管理】トランスパーフェクト
++								<a href="https://www.yakuji.co.jp/entry140965.html" rel="noopener noreferrer">
++									【MR支援 ～これからの時代に求められるMRとは】株式会社アピックス
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年09月11日 (金)
++									2026年10月26日 (月)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -949,15 +949,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry139261.html" rel="noopener noreferrer">
+-									<img alt="菊池氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_05-03-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140959.html" rel="noopener noreferrer">
++									<img alt="荒木氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_05-02-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry139261.html" rel="noopener noreferrer">
+-									【医薬品市販後の安全性情報管理】オラクル
++								<a href="https://www.yakuji.co.jp/entry140959.html" rel="noopener noreferrer">
++									【MR支援 ～これからの時代に求められるMRとは】リープ株式会社
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年09月11日 (金)
++									2026年10月26日 (月)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -966,11 +966,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry139263.html" rel="noopener noreferrer">
+-									<img alt="アプデシュ氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_06-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry139254.html" rel="noopener noreferrer">
++									<img alt="久保田氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_04-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry139263.html" rel="noopener noreferrer">
+-									【医薬品市販後の安全性情報管理】IQVIA
++								<a href="https://www.yakuji.co.jp/entry139254.html" rel="noopener noreferrer">
++									【医薬品市販後の安全性情報管理】アリスグローバル
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -983,11 +983,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry139266.html" rel="noopener noreferrer">
+-									<img alt="阿久津氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry139258.html" rel="noopener noreferrer">
++									<img alt="室谷氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_05-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry139266.html" rel="noopener noreferrer">
+-									【医薬品市販後の安全性情報管理】ネクストローブ
++								<a href="https://www.yakuji.co.jp/entry139258.html" rel="noopener noreferrer">
++									【医薬品市販後の安全性情報管理】トランスパーフェクト
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1000,11 +1000,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry139268.html" rel="noopener noreferrer">
+-									<img alt="明保能氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_07-02-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry139261.html" rel="noopener noreferrer">
++									<img alt="菊池氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_05-03-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry139268.html" rel="noopener noreferrer">
+-									【医薬品市販後の安全性情報管理】Veeva
++								<a href="https://www.yakuji.co.jp/entry139261.html" rel="noopener noreferrer">
++									【医薬品市販後の安全性情報管理】オラクル
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1017,11 +1017,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry139270.html" rel="noopener noreferrer">
+-									<img alt="竹内氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_08-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry139263.html" rel="noopener noreferrer">
++									<img alt="アプデシュ氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_06-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry139270.html" rel="noopener noreferrer">
+-									【医薬品市販後の安全性情報管理】サイネオス・ヘルス・ジャパン
++								<a href="https://www.yakuji.co.jp/entry139263.html" rel="noopener noreferrer">
++									【医薬品市販後の安全性情報管理】IQVIA
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1034,11 +1034,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry139272.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_09-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry139266.html" rel="noopener noreferrer">
++									<img alt="阿久津氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/09/y13216_07-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry139272.html" rel="noopener noreferrer">
+-									【医薬品市販後の安全性情報管理】シャペロン
++								<a href="https://www.yakuji.co.jp/entry139266.html" rel="noopener noreferrer">
++									【医薬品市販後の安全性情報管理】ネクストローブ
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1160,15 +1160,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140821.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/202610230730_1022ichi1_1-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140878.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/syneos_webinar_660-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140821.html" rel="noopener noreferrer">
+-									「第33回牛窓オリーブ収穫祭2026」を10月24日に開催　日本オリーブ
++								<a href="https://www.yakuji.co.jp/entry140878.html" rel="noopener noreferrer">
++									11月5日にウェビナー「臨床開発組織の進化と最適なオペレーティングモデル」開催　サイネオス…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月23日 (金)
++									2026年10月26日 (月)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1177,10 +1177,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140860.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140821.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/202610230730_1022ichi1_1-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140860.html" rel="noopener noreferrer">
+-									11月に「医薬品等の戦略立案のためのプログラム＆プロジェクトマネジメント（P2M）入門コース…
++								<a href="https://www.yakuji.co.jp/entry140821.html" rel="noopener noreferrer">
++									「第33回牛窓オリーブ収穫祭2026」を10月24日に開催　日本オリーブ
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1702,10 +1703,11 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140906.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140957.html" rel="noopener noreferrer">
++									<img alt="昌原氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_04-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140906.html" rel="noopener noreferrer">
+-									【三重大】健康管理アプリ「ハートサイン」用いた研究、AMEDの2026年度事業に採択
++								<a href="https://www.yakuji.co.jp/entry140957.html" rel="noopener noreferrer">
++									【MR支援 ～これからの時代に求められるMRとは】MIフォース株式会社
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1718,11 +1720,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140930.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140965.html" rel="noopener noreferrer">
++									<img alt="新川氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_05-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140930.html" rel="noopener noreferrer">
+-									【サノフィ日本法人】血小板減少症に新薬‐病態形成過程などに作用
++								<a href="https://www.yakuji.co.jp/entry140965.html" rel="noopener noreferrer">
++									【MR支援 ～これからの時代に求められるMRとは】株式会社アピックス
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1735,10 +1737,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140928.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140959.html" rel="noopener noreferrer">
++									<img alt="荒木氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_05-02-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140928.html" rel="noopener noreferrer">
+-									外国価格調整の米除外、衆院厚労委で問題視
++								<a href="https://www.yakuji.co.jp/entry140959.html" rel="noopener noreferrer">
++									【MR支援 ～これからの時代に求められるMRとは】リープ株式会社
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1751,10 +1754,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140875.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140878.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/syneos_webinar_660-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140875.html" rel="noopener noreferrer">
+-									【レジリア】安定供給リスク分析を支援‐厚労省「行動計画」に対応
++								<a href="https://www.yakuji.co.jp/entry140878.html" rel="noopener noreferrer">
++									11月5日にウェビナー「臨床開発組織の進化と最適なオペレーティングモデル」開催　サイネオス…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1767,10 +1771,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140874.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140932.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140874.html" rel="noopener noreferrer">
+-									【ツルハHD】多摩美大と共同研究開始‐「スローショッピング」基軸に
++								<a href="https://www.yakuji.co.jp/entry140932.html" rel="noopener noreferrer">
++									【製薬団体、薬剤師会など】薬業界にもPHP問題直撃‐ウェブサイト閲覧不可に
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1783,11 +1787,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140922.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13233_07-02-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140931.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140922.html" rel="noopener noreferrer">
+-									【新製品】小児向けの内用液発売‐「リンヴォック」新剤形　アッヴィ日本法人
++								<a href="https://www.yakuji.co.jp/entry140931.html" rel="noopener noreferrer">
++									【キッセイ、腎臓学会ら】タブネオスで対応動き出す‐学会は中止後治療方針公表
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1800,10 +1803,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140920.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140910.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/7ca5bc5e29980959688d5c7c7fff6ffe-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140920.html" rel="noopener noreferrer">
+-									【新製品】細胞ファイバ製造装置、2製品を日米で発売　セルファイバ
++								<a href="https://www.yakuji.co.jp/entry140910.html" rel="noopener noreferrer">
++									【新製品】rom&ndから“メイクのためのスキンケア”が登場‐ドン・キホーテ系列店舗限定ブランド…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1816,10 +1820,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140919.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140909.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140919.html" rel="noopener noreferrer">
+-									【新製品】超低温フリーザー刷新‐操作・利便性を向上　PHC
++								<a href="https://www.yakuji.co.jp/entry140909.html" rel="noopener noreferrer">
++									【NECグループ】個別化ネオアンチゲン療法「NECVAX-NEO1」、第I／II相臨床試験で良好な成績
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1843,7 +1847,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年10月  (298)
++		 2026年10月  (309)
+ 	 2026年9月  (341)
+ 	 2026年8月  (320)
+ 	 2026年7月  (386)

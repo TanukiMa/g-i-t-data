@@ -1,0 +1,28 @@
+diff --git a/sites/jrs-guideline/jp/radiology/jrs-gl/index.html b/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
+index 88177cc87..b6d286302 100644
+--- a/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
++++ b/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
+@@ -1123,11 +1123,6 @@
+ 									本ガイドラインについて
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="/general/" rel="noopener noreferrer">
+-									総論
+-								</a>
+-							</div>
+ 							<div>
+ 								<a rel="noopener noreferrer">
+ 									部位一覧
+@@ -1189,11 +1184,6 @@
+ 									お問い合わせ
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="/committee/" rel="noopener noreferrer">
+-									作成委員/利益相反
+-								</a>
+-							</div>
+ 							<div>
+ 								<a href="https://www.radiology.jp/jrs_about/privacy.html" rel="noopener noreferrer">
+ 									免責事項/プライバシーポリシー

@@ -1,0 +1,97 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index e3941cf81..fbd592662 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -1298,14 +1298,14 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140279.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140316.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140279.html" rel="noopener noreferrer">
+-									薬事日報　2026/10/09
++								<a href="https://www.yakuji.co.jp/entry140316.html" rel="noopener noreferrer">
++									薬事日報　2026/10/12　秋季特集号
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月09日 (金)
++									2026年10月12日 (月)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1314,14 +1314,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140154.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140279.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140154.html" rel="noopener noreferrer">
+-									薬事日報　2026/10/07
++								<a href="https://www.yakuji.co.jp/entry140279.html" rel="noopener noreferrer">
++									薬事日報　2026/10/09
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月07日 (水)
++									2026年10月09日 (金)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1703,6 +1703,22 @@
+ 						新着記事
+ 					</div>
+ 					<ul>
++						<li>
++							<div>
++								<a href="https://www.yakuji.co.jp/entry140316.html" rel="noopener noreferrer">
++								</a>
++								<a href="https://www.yakuji.co.jp/entry140316.html" rel="noopener noreferrer">
++									薬事日報　2026/10/12　秋季特集号
++								</a>
++								<br>
++								<span>
++									2026年10月12日 (月)
++								</span>
++							</div>
++							<div>
++								<hr>
++							</div>
++						</li>
+ 						<li>
+ 							<div>
+ 								<a href="https://www.yakuji.co.jp/entry140368.html" rel="noopener noreferrer">
+@@ -1817,22 +1833,6 @@
+ 								<hr>
+ 							</div>
+ 						</li>
+-						<li>
+-							<div>
+-								<a href="https://www.yakuji.co.jp/entry140304.html" rel="noopener noreferrer">
+-								</a>
+-								<a href="https://www.yakuji.co.jp/entry140304.html" rel="noopener noreferrer">
+-									【日本マイクロポートCRM】新世代植込み型除細動器「TALENTIA ICD」、大阪警察病院で国内初症…
+-								</a>
+-								<br>
+-								<span>
+-									2026年10月09日 (金)
+-								</span>
+-							</div>
+-							<div>
+-								<hr>
+-							</div>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						<a href="https://www.yakuji.co.jp/updated-news" rel="noopener noreferrer">
+@@ -1846,7 +1846,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年10月  (122)
++		 2026年10月  (123)
+ 	 2026年9月  (341)
+ 	 2026年8月  (320)
+ 	 2026年7月  (386)

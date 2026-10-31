@@ -1,0 +1,34 @@
+diff --git a/sites/jses/jp/or/jses/index.html b/sites/jses/jp/or/jses/index.html
+index c861f4f09..27a9ef9da 100644
+--- a/sites/jses/jp/or/jses/index.html
++++ b/sites/jses/jp/or/jses/index.html
+@@ -440,6 +440,14 @@
+ 				<div>
+ 					<article>
+ 						<div>
++							<div>
++								2026年10月23日
++							</div>
++							<div>
++								<a href="https://www.jses.or.jp/modules/Important_notice/index.php?content_id=53" rel="noopener noreferrer">
++									PHPの重大な脆弱性の報告への対応について
++								</a>
++							</div>
+ 							<div>
+ 								2026年10月19日
+ 							</div>
+@@ -512,14 +520,6 @@
+ 									第39回総会　演題募集について
+ 								</a>
+ 							</div>
+-							<div>
+-								2025年11月25日
+-							</div>
+-							<div>
+-								<a href="https://www.jses.or.jp/modules/Important_notice/index.php?content_id=43" rel="noopener noreferrer">
+-									2026年度　環境問題に関する研究助成　募集のお知らせ
+-								</a>
+-							</div>
+ 						</div>
+ 					</article>
+ 				</div>

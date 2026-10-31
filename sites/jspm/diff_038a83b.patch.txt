@@ -1,0 +1,52 @@
+diff --git a/sites/jspm/jp/ne/jspm/index.html b/sites/jspm/jp/ne/jspm/index.html
+index e965799d6..69d8ba9c4 100644
+--- a/sites/jspm/jp/ne/jspm/index.html
++++ b/sites/jspm/jp/ne/jspm/index.html
+@@ -590,6 +590,28 @@
+ 							</a>
+ 						</div>
+ 						<div>
++							<div>
++								<h3>
++									<span>
++										<span>
++											2026.10.13
++										</span>
++										<span>
++											<a href="https://www.jspm.ne.jp/important/index.html" rel="noopener noreferrer">
++												重要
++											</a>
++										</span>
++										<span>
++											<a href="https://www.jspm.ne.jp/members/index.html" rel="noopener noreferrer">
++												会員
++											</a>
++										</span>
++									</span>
++									<a href="https://www.jspm.ne.jp/news/individual.html?entry_id=3216" rel="noopener noreferrer" title="2026年度専門医・認定登録医筆記試験 横浜会場における試験開始の遅延について">
++										2026年度専門医・認定登録医筆記試験 横浜会場における試験開始の遅延について
++									</a>
++								</h3>
++							</div>
+ 							<div>
+ 								<h3>
+ 									<span>
+@@ -713,18 +735,6 @@
+ 									</a>
+ 								</h3>
+ 							</div>
+-							<div>
+-								<h3>
+-									<span>
+-										<span>
+-											2026.09.10
+-										</span>
+-									</span>
+-									<a href="https://doi.org/10.2512/jspm.21.209" rel="noopener noreferrer" title="オンラインジャーナルに「メサドン導入方法の検討 」が公開されました">
+-										オンラインジャーナルに「メサドン導入方法の検討 」が公開されました
+-									</a>
+-								</h3>
+-							</div>
+ 						</div>
+ 						<a href="https://www.jspm.ne.jp/news/index.html" rel="noopener noreferrer">
+ 							一覧へ

@@ -1,0 +1,196 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 10ae4062..71ad95cf 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -277,6 +277,13 @@
+ 				<div>
+ 					<div>
+ 						<ul>
++							<li>
++								<div>
++									<a href="/news/detail?id=1738&amp;is_top=yes" rel="noopener noreferrer">
++										【重要】「日薬アプリ」新機能追加のお知らせ
++									</a>
++								</div>
++							</li>
+ 							<li>
+ 								<div>
+ 									<a href="/news/detail?id=1733&amp;is_top=yes" rel="noopener noreferrer">
+@@ -298,13 +305,6 @@
+ 									</a>
+ 								</div>
+ 							</li>
+-							<li>
+-								<div>
+-									<a href="/news/detail?id=1566&amp;is_top=yes" rel="noopener noreferrer">
+-										【重要】「日薬アプリ」リリースのお知らせ
+-									</a>
+-								</div>
+-							</li>
+ 							<li>
+ 								<div>
+ 									<a href="/news/detail?id=908&amp;is_top=yes" rel="noopener noreferrer">
+@@ -541,8 +541,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1740&amp;is_top=yes" rel="noopener noreferrer">
+-														【日薬ホームページ メンテナンスのお知らせ】
++													<a href="/news/detail?id=1743&amp;is_top=yes" rel="noopener noreferrer">
++														【重要】「日薬アプリ」新機能追加のお知らせ
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -551,7 +551,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.29
++														2026.10.30
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -560,8 +560,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1735&amp;is_top=yes" rel="noopener noreferrer">
+-														第60回日本薬剤師会学術大会（福島大会）の大会ホームページが開設されました
++													<a href="/news/detail?id=1740&amp;is_top=yes" rel="noopener noreferrer">
++														【日薬ホームページ メンテナンスのお知らせ】
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -570,7 +570,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.27
++														2026.10.29
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -579,8 +579,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1728&amp;is_top=yes" rel="noopener noreferrer">
+-														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1735&amp;is_top=yes" rel="noopener noreferrer">
++														第60回日本薬剤師会学術大会（福島大会）の大会ホームページが開設されました
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -589,7 +589,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.26
++														2026.10.27
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -598,8 +598,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1727&amp;is_top=yes" rel="noopener noreferrer">
+-														メディア掲載・出演情報を更新しました（毎日新聞朝刊、令和8年10月26日）
++													<a href="/news/detail?id=1728&amp;is_top=yes" rel="noopener noreferrer">
++														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -608,7 +608,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.23
++														2026.10.26
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -617,8 +617,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1724&amp;is_top=yes" rel="noopener noreferrer">
+-														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1727&amp;is_top=yes" rel="noopener noreferrer">
++														メディア掲載・出演情報を更新しました（毎日新聞朝刊、令和8年10月26日）
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -644,8 +644,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1741" rel="noopener noreferrer">
+-														【日薬ホームページ メンテナンスのお知らせ】
++													<a href="/member/news/detail?id=1744" rel="noopener noreferrer">
++														【重要】「日薬アプリ」新機能追加のお知らせ
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -654,7 +654,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.14
++														2026.10.30
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -663,8 +663,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1703" rel="noopener noreferrer">
+-														セルフメディケーション税制対象品目リスト（11月分）を掲載しました。
++													<a href="/member/news/detail?id=1741" rel="noopener noreferrer">
++														【日薬ホームページ メンテナンスのお知らせ】
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -682,8 +682,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1697" rel="noopener noreferrer">
+-														新医薬品の薬価収載について
++													<a href="/member/news/detail?id=1703" rel="noopener noreferrer">
++														セルフメディケーション税制対象品目リスト（11月分）を掲載しました。
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -692,7 +692,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.01
++														2026.10.14
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -701,8 +701,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1691" rel="noopener noreferrer">
+-														日薬ニュース第326号
++													<a href="/member/news/detail?id=1697" rel="noopener noreferrer">
++														新医薬品の薬価収載について
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -720,8 +720,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1668" rel="noopener noreferrer">
+-														日薬メールナビアーカイブサービスのIDとパスワードの変更
++													<a href="/member/news/detail?id=1691" rel="noopener noreferrer">
++														日薬ニュース第326号
+ 													</a>
+ 												</div>
+ 											</div>

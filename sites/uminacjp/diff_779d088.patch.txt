@@ -1,0 +1,132 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 936bb5934..fbf39aa30 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -1008,6 +1008,18 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						帝京大学外科学講座：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000059996" rel="noopener noreferrer">
++							下部内視鏡を用いた膿瘍形成憩室炎に対する内視鏡的排膿術の有用性に関する検討
++						</a>
++					</li>
++					<li>
++						青森県立保健大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072477" rel="noopener noreferrer">
++							経頭蓋静磁場刺激が学習プロセスに及ぼす影響
++						</a>
++					</li>
+ 					<li>
+ 						東京大学：
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072267" rel="noopener noreferrer">
+@@ -1056,108 +1068,6 @@
+ 							VISION study(WJOG21625B)
+ 						</a>
+ 					</li>
+-					<li>
+-						埼玉医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072461" rel="noopener noreferrer">
+-							声と骨密度の研究
+-						</a>
+-					</li>
+-					<li>
+-						株式会社マクロミルケアネット：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072464" rel="noopener noreferrer">
+-							日常生活における飲料選択と生体データの関係性に関する検討（観察研究）
+-						</a>
+-					</li>
+-					<li>
+-						新潟医療福祉大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072465" rel="noopener noreferrer">
+-							擬似的回旋斜視体験用レンズの検証
+-						</a>
+-					</li>
+-					<li>
+-						社会医療法人春回会 井上病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072466" rel="noopener noreferrer">
+-							ナイトグラフとPSGの比較研究
+-						</a>
+-					</li>
+-					<li>
+-						常葉大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072447" rel="noopener noreferrer">
+-							認知課題・運動学習研究
+-						</a>
+-					</li>
+-					<li>
+-						EAファーマ株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072402" rel="noopener noreferrer">
+-							COMMIT study
+-						</a>
+-					</li>
+-					<li>
+-						EAファーマ株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072407" rel="noopener noreferrer">
+-							CIRCULAR survey
+-						</a>
+-					</li>
+-					<li>
+-						柴田学園大学生活創生学部 こども発達学科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072379" rel="noopener noreferrer">
+-							解決志向アプローチに基づく介入によるレジリエンス向上のメカニズムの検証
+-						</a>
+-					</li>
+-					<li>
+-						EAファーマ株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072468" rel="noopener noreferrer">
+-							日本のIBD治療の変遷に関するレセプトデータ研究: SHIFT-IBD
+-						</a>
+-					</li>
+-					<li>
+-						虎の門病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072469" rel="noopener noreferrer">
+-							SIP-ICI 研究
+-						</a>
+-					</li>
+-					<li>
+-						島根大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072467" rel="noopener noreferrer">
+-							AIを用いた培養軟骨移植術（MACI）の成績予測
+-						</a>
+-					</li>
+-					<li>
+-						秋田大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072474" rel="noopener noreferrer">
+-							経頭蓋直流電気刺激前後における下肢運動パフォーマンスおよび姿勢制御の評価
+-						</a>
+-					</li>
+-					<li>
+-						名古屋経済大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072462" rel="noopener noreferrer">
+-							「人生のためのマインドフルネス」の効果に関する研究
+-						</a>
+-					</li>
+-					<li>
+-						日本体育大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072473" rel="noopener noreferrer">
+-							カフェイン摂取が持久性パフォーマンスに与える影響の性差
+-						</a>
+-					</li>
+-					<li>
+-						東京都済生会中央病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072470" rel="noopener noreferrer">
+-							SmO2ステップ試験
+-						</a>
+-					</li>
+-					<li>
+-						Universiti Malaya：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000072475" rel="noopener noreferrer">
+-							GEP-PS
+-						</a>
+-					</li>
+-					<li>
+-						山形大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072481" rel="noopener noreferrer">
+-							山形救急EIT研究
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="https://center9.umin.ac.jp/nuhs/news" rel="noopener noreferrer">

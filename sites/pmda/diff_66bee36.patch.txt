@@ -1,0 +1,205 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 66b5ddd71..02f4fb370 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2337,6 +2337,70 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/safety-info/0166.html" rel="noopener noreferrer">
++												<p>
++													2026年10月27日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													医薬品・医療機器等安全性情報 No.433（厚生労働省発行）を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html" rel="noopener noreferrer">
++												<p>
++													2026年10月27日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													使用上の注意の改訂指示通知（医薬品）2026年10月27日付（厚生労働省より発出）を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年10月27日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/risk-communications/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年10月27日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「医薬品に関する評価中のリスク等の情報について」を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/drug-reviews/procedures/0023.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2596,58 +2660,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/recruit/0429.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月20日
+-												</p>
+-												<p>
+-													採用
+-												</p>
+-												<p>
+-													事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/rs-std-jp/standards-development/jp/0262.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月19日
+-												</p>
+-												<p>
+-													薬局方
+-												</p>
+-												<p>
+-													第二十改正日本薬局方作成基本方針を掲載しました
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月19日
+-												</p>
+-												<p>
+-													基準
+-												</p>
+-												<p>
+-													「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/adr-info/suspected-adr/0005.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月16日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													「副作用が疑われる症例報告に関する情報」に2026年6月分の情報を追加しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2806,6 +2818,70 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/safety-info/0166.html" rel="noopener noreferrer">
++												<p>
++													2026年10月27日
++												</p>
++												<p>
++													全製品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													医薬品・医療機器等安全性情報 No.433（厚生労働省発行）を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html" rel="noopener noreferrer">
++												<p>
++													2026年10月27日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													使用上の注意の改訂指示通知（医薬品）2026年10月27日付（厚生労働省より発出）を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年10月27日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/risk-communications/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年10月27日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「医薬品に関する評価中のリスク等の情報について」を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html" rel="noopener noreferrer">
+ 												<p>

@@ -1,0 +1,103 @@
+diff --git a/sites/jartjp/jp/jart/index.html b/sites/jartjp/jp/jart/index.html
+index 916097bd0..10730df9e 100644
+--- a/sites/jartjp/jp/jart/index.html
++++ b/sites/jartjp/jp/jart/index.html
+@@ -535,10 +535,10 @@
+ 															<div>
+ 																<div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261021-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/2026102201" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/21
++																					2026/10/22
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -547,15 +547,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【お詫び】メールマガジン本文中のリンク(URL)からページが開かない現象について
++																				【重要】「JARTIS」の一時閉鎖について (PHP脆弱性対応)
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261019-3" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261021-01" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/19
++																					2026/10/21
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -564,12 +564,12 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【お詫びとご案内】eラーニング視聴不具合の復旧と年会費の納入について
++																				【お詫び】メールマガジン本文中のリンク(URL)からページが開かない現象について
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261019-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261019-3" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+ 																					2026/10/19
+@@ -581,15 +581,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				(入札広告) 「日本診療放射線技師会誌ＪＡＲＴ」の編集・印刷・梱包発送、情報誌「Network Now」及 び英文誌「Journal of JART English edition」の制作業務
++																				【お詫びとご案内】eラーニング視聴不具合の復旧と年会費の納入について
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261015-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261019-01" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/15
++																					2026/10/19
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -598,27 +598,24 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				eラーニングが視聴できない事案について
++																				(入札広告) 「日本診療放射線技師会誌ＪＡＲＴ」の編集・印刷・梱包発送、情報誌「Network Now」及 び英文誌「Journal of JART English edition」の制作業務
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261014-03" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261015-01" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/14
++																					2026/10/15
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+-																						告示研修
+-																					</li>
+-																					<li>
+-																						会告/告示
++																						お知らせ
+ 																					</li>
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				告示研修（実技研修）2026年度 開催日程（2026/10/14更新）
++																				eラーニングが視聴できない事案について
+ 																			</p>
+ 																		</a>
+ 																	</div>

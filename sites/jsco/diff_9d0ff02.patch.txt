@@ -1,0 +1,212 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index a796e7fda..b5dd7159a 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -1517,6 +1517,21 @@
+ 														<div>
+ 															<div>
+ 																<ul>
++																	<li>
++																		<div>
++																			2026年10月13日
++																		</div>
++																		<div>
++																			<span>
++																				その他
++																			</span>
++																		</div>
++																		<div>
++																			<a href="/news/detail.html?itemid=1151&amp;dispmid=767" rel="noopener noreferrer">
++																				ノバルティス ファーマ株式会社：ゾメタ点滴静注4mg/5mLおよびゾメタ点滴静注4mg/100mL販売中止のご案内
++																			</a>
++																		</div>
++																	</li>
+ 																	<li>
+ 																		<div>
+ 																			2026年10月08日
+@@ -1577,21 +1592,6 @@
+ 																			</a>
+ 																		</div>
+ 																	</li>
+-																	<li>
+-																		<div>
+-																			2026年10月02日
+-																		</div>
+-																		<div>
+-																			<span>
+-																				官公庁
+-																			</span>
+-																		</div>
+-																		<div>
+-																			<a href="/news/detail.html?itemid=1145&amp;dispmid=767" rel="noopener noreferrer">
+-																				厚生労働省：医薬品・医療機器等安全性情報No.432
+-																			</a>
+-																		</div>
+-																	</li>
+ 																</ul>
+ 																<div>
+ 																	<p>
+@@ -2149,7 +2149,7 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026年10月05日
++																			2026年10月13日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -2157,8 +2157,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1149&amp;dispmid=767" rel="noopener noreferrer">
+-																				協和キリン株式会社：アブストラル舌下錠_製造販売承認の承継のご案内
++																			<a href="/news/detail.html?itemid=1151&amp;dispmid=767" rel="noopener noreferrer">
++																				ノバルティス ファーマ株式会社：ゾメタ点滴静注4mg/5mLおよびゾメタ点滴静注4mg/100mL販売中止のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -2174,8 +2174,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1148&amp;dispmid=767" rel="noopener noreferrer">
+-																				協和キリン株式会社：フェントステープ_協和キリンの販売終了のお知らせ
++																			<a href="/news/detail.html?itemid=1149&amp;dispmid=767" rel="noopener noreferrer">
++																				協和キリン株式会社：アブストラル舌下錠_製造販売承認の承継のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -2183,7 +2183,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年09月29日
++																			2026年10月05日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -2191,8 +2191,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1139&amp;dispmid=767" rel="noopener noreferrer">
+-																				第一三共株式会社：ダトロウェイ点滴静注用 100mg 適正使用へのご協力のお願い
++																			<a href="/news/detail.html?itemid=1148&amp;dispmid=767" rel="noopener noreferrer">
++																				協和キリン株式会社：フェントステープ_協和キリンの販売終了のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -2208,8 +2208,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1138&amp;dispmid=767" rel="noopener noreferrer">
+-																				第一三共株式会社：エンハーツ点滴静注用 100mg 適正使用へのご協力のお願い
++																			<a href="/news/detail.html?itemid=1139&amp;dispmid=767" rel="noopener noreferrer">
++																				第一三共株式会社：ダトロウェイ点滴静注用 100mg 適正使用へのご協力のお願い
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -2217,7 +2217,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年09月25日
++																			2026年09月29日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -2225,8 +2225,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1132&amp;dispmid=767" rel="noopener noreferrer">
+-																				協和キリン株式会社：抗悪性腫瘍経口黄体ホルモン製剤「ヒスロン®H錠200mg」限定出荷に関するお詫びとお知らせ（第4報）
++																			<a href="/news/detail.html?itemid=1138&amp;dispmid=767" rel="noopener noreferrer">
++																				第一三共株式会社：エンハーツ点滴静注用 100mg 適正使用へのご協力のお願い
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -2260,7 +2260,7 @@
+ 											<ul>
+ 												<li>
+ 													<div>
+-														2026年10月05日
++														2026年10月13日
+ 													</div>
+ 													<div>
+ 														<span>
+@@ -2268,8 +2268,8 @@
+ 														</span>
+ 													</div>
+ 													<div>
+-														<a href="/news/detail.html?itemid=1149&amp;dispmid=767" rel="noopener noreferrer">
+-															協和キリン株式会社：アブストラル舌下錠_製造販売承認の承継のご案内
++														<a href="/news/detail.html?itemid=1151&amp;dispmid=767" rel="noopener noreferrer">
++															ノバルティス ファーマ株式会社：ゾメタ点滴静注4mg/5mLおよびゾメタ点滴静注4mg/100mL販売中止のご案内
+ 														</a>
+ 													</div>
+ 													<div>
+@@ -2285,8 +2285,8 @@
+ 														</span>
+ 													</div>
+ 													<div>
+-														<a href="/news/detail.html?itemid=1148&amp;dispmid=767" rel="noopener noreferrer">
+-															協和キリン株式会社：フェントステープ_協和キリンの販売終了のお知らせ
++														<a href="/news/detail.html?itemid=1149&amp;dispmid=767" rel="noopener noreferrer">
++															協和キリン株式会社：アブストラル舌下錠_製造販売承認の承継のご案内
+ 														</a>
+ 													</div>
+ 													<div>
+@@ -2294,7 +2294,7 @@
+ 												</li>
+ 												<li>
+ 													<div>
+-														2026年09月29日
++														2026年10月05日
+ 													</div>
+ 													<div>
+ 														<span>
+@@ -2302,8 +2302,8 @@
+ 														</span>
+ 													</div>
+ 													<div>
+-														<a href="/news/detail.html?itemid=1139&amp;dispmid=767" rel="noopener noreferrer">
+-															第一三共株式会社：ダトロウェイ点滴静注用 100mg 適正使用へのご協力のお願い
++														<a href="/news/detail.html?itemid=1148&amp;dispmid=767" rel="noopener noreferrer">
++															協和キリン株式会社：フェントステープ_協和キリンの販売終了のお知らせ
+ 														</a>
+ 													</div>
+ 													<div>
+@@ -2319,8 +2319,8 @@
+ 														</span>
+ 													</div>
+ 													<div>
+-														<a href="/news/detail.html?itemid=1138&amp;dispmid=767" rel="noopener noreferrer">
+-															第一三共株式会社：エンハーツ点滴静注用 100mg 適正使用へのご協力のお願い
++														<a href="/news/detail.html?itemid=1139&amp;dispmid=767" rel="noopener noreferrer">
++															第一三共株式会社：ダトロウェイ点滴静注用 100mg 適正使用へのご協力のお願い
+ 														</a>
+ 													</div>
+ 													<div>
+@@ -2328,7 +2328,7 @@
+ 												</li>
+ 												<li>
+ 													<div>
+-														2026年09月25日
++														2026年09月29日
+ 													</div>
+ 													<div>
+ 														<span>
+@@ -2336,8 +2336,8 @@
+ 														</span>
+ 													</div>
+ 													<div>
+-														<a href="/news/detail.html?itemid=1132&amp;dispmid=767" rel="noopener noreferrer">
+-															協和キリン株式会社：抗悪性腫瘍経口黄体ホルモン製剤「ヒスロン®H錠200mg」限定出荷に関するお詫びとお知らせ（第4報）
++														<a href="/news/detail.html?itemid=1138&amp;dispmid=767" rel="noopener noreferrer">
++															第一三共株式会社：エンハーツ点滴静注用 100mg 適正使用へのご協力のお願い
+ 														</a>
+ 													</div>
+ 													<div>

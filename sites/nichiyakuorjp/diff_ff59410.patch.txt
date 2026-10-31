@@ -1,0 +1,108 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index ff131a57b..aece400b9 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -621,7 +621,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.01
++														2026.10.14
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -630,8 +630,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1691" rel="noopener noreferrer">
+-														日薬ニュース第326号
++													<a href="/member/news/detail?id=1703" rel="noopener noreferrer">
++														セルフメディケーション税制対象品目リスト（11月分）を掲載しました。
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -640,7 +640,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.01
++														2026.10.14
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -649,8 +649,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1668" rel="noopener noreferrer">
+-														日薬メールナビアーカイブサービスのIDとパスワードの変更
++													<a href="/member/news/detail?id=1697" rel="noopener noreferrer">
++														新医薬品の薬価収載について
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -659,17 +659,17 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.09.14
++														2026.10.01
+ 													</time>
+ 												</p>
+ 												<p>
+ 													<span>
+-														薬剤師向け
++														会員向け
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1678&amp;is_top=yes" rel="noopener noreferrer">
+-														医薬品販売制度に関する自己点検の実施について
++													<a href="/member/news/detail?id=1691" rel="noopener noreferrer">
++														日薬ニュース第326号
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -678,7 +678,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.09.10
++														2026.10.01
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -687,8 +687,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1676" rel="noopener noreferrer">
+-														セルフメディケーション税制対象品目リスト（10月分）を掲載しました。
++													<a href="/member/news/detail?id=1668" rel="noopener noreferrer">
++														日薬メールナビアーカイブサービスのIDとパスワードの変更
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -697,17 +697,17 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.09.01
++														2026.09.14
+ 													</time>
+ 												</p>
+ 												<p>
+ 													<span>
+-														会員向け
++														薬剤師向け
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1652" rel="noopener noreferrer">
+-														日薬メールナビアーカイブサービスのIDとパスワードの変更
++													<a href="/news/detail?id=1678&amp;is_top=yes" rel="noopener noreferrer">
++														医薬品販売制度に関する自己点検の実施について
+ 													</a>
+ 												</div>
+ 											</div>

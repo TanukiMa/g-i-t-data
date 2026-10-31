@@ -1,0 +1,93 @@
+diff --git a/sites/naika/jp/or/naika/index.html b/sites/naika/jp/or/naika/index.html
+index a64fec9d3..f450c3740 100644
+--- a/sites/naika/jp/or/naika/index.html
++++ b/sites/naika/jp/or/naika/index.html
+@@ -996,6 +996,23 @@
+ 								</div>
+ 								<div>
+ 									<ul>
++										<li>
++											<span>
++												2026年10月13日
++											</span>
++											<span>
++												<div>
++													<a href="/info-cat/nenji/" rel="noopener noreferrer">
++														年次講演会
++													</a>
++												</div>
++											</span>
++											<span>
++												<a href="https://www.naika.or.jp/info/123-nenji-ondemand-start-1013/" rel="noopener noreferrer">
++													「第123回日本内科学会講演会」オンデマンド配信公開のご案内
++												</a>
++											</span>
++										</li>
+ 										<li>
+ 											<span>
+ 												2026年10月05日
+@@ -1248,29 +1265,27 @@
+ 												</a>
+ 											</span>
+ 										</li>
++									</ul>
++								</div>
++								<div>
++									<ul>
+ 										<li>
+ 											<span>
+-												2026年07月08日
++												2026年10月13日
+ 											</span>
+ 											<span>
+ 												<div>
+-													<a href="/info-cat/%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%83%a1%e3%83%b3%e3%83%86%e3%83%8a%e3%83%b3%e3%82%b9/" rel="noopener noreferrer">
+-														メンテナンス
++													<a href="/info-cat/nenji/" rel="noopener noreferrer">
++														年次講演会
+ 													</a>
+ 												</div>
+ 											</span>
+ 											<span>
+-												<a href="https://www.naika.or.jp/info/sysinfo20260717/" rel="noopener noreferrer">
+-													<strong>
+-														[J-CaseMap]システムメンテナンスのお知らせ（7月17日14:00～18:00）
+-													</strong>
++												<a href="https://www.naika.or.jp/info/123-nenji-ondemand-start-1013/" rel="noopener noreferrer">
++													「第123回日本内科学会講演会」オンデマンド配信公開のご案内
+ 												</a>
+ 											</span>
+ 										</li>
+-									</ul>
+-								</div>
+-								<div>
+-									<ul>
+ 										<li>
+ 											<span>
+ 												2026年07月21日
+@@ -1557,25 +1572,6 @@
+ 												</span>
+ 											</strong>
+ 										</li>
+-										<li>
+-											<strong>
+-												<span>
+-													2022年04月13日
+-												</span>
+-												<span>
+-													<div>
+-														<a href="/info-cat/nenji/" rel="noopener noreferrer">
+-															年次講演会
+-														</a>
+-													</div>
+-												</span>
+-												<span>
+-													<a href="https://www.naika.or.jp/info/20220413/" rel="noopener noreferrer">
+-														予防ワーキンググループ企画シンポジウムの開催について
+-													</a>
+-												</span>
+-											</strong>
+-										</li>
+ 									</ul>
+ 									<strong>
+ 									</strong>

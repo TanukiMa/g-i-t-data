@@ -1,0 +1,34 @@
+diff --git a/sites/jsir-guideline/jp/or/jsir/about-guide-line.html b/sites/jsir-guideline/jp/or/jsir/about-guide-line.html
+index 2a5fba357..9b2ae5d68 100644
+--- a/sites/jsir-guideline/jp/or/jsir/about-guide-line.html
++++ b/sites/jsir-guideline/jp/or/jsir/about-guide-line.html
+@@ -306,7 +306,7 @@
+ 										</dd>
+ 										<dd>
+ 											<a href="https://www.jsir.or.jp/about/guide_line/ivr-procedures/" rel="noopener noreferrer">
+-												IVR手技施工に関する診療体制についてのガイドライン
++												IVR手技施行に関する診療体制についてのガイドライン
+ 											</a>
+ 										</dd>
+ 										<dd>
+@@ -409,11 +409,6 @@
+ 												VAIVTガイドライン
+ 											</a>
+ 										</dd>
+-										<dd>
+-											<a href="https://www.jsir.or.jp/guide_line/ivr_syugiteigen/" rel="noopener noreferrer">
+-												IVR手技施行に関する診療体制についての提言
+-											</a>
+-										</dd>
+ 										<dd>
+ 											<a href="https://www.jsir.or.jp/wp-content/uploads/2025/12/0f78d73f49f7d202694cc06ba838ace0.pdf" rel="noopener noreferrer">
+ 												医療従事者の放射線安全に関するガイドライン
+@@ -431,7 +426,7 @@
+ 										</a>
+ 									</p>
+ 									<p>
+-										更新日: 2026年10月15日
++										更新日: 2026年10月16日
+ 									</p>
+ 								</article>
+ 							</div>

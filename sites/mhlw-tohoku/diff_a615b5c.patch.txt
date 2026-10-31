@@ -1,0 +1,113 @@
+diff --git a/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html b/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
+index bc09dd2a4..69a7109c6 100644
+--- a/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
++++ b/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
+@@ -952,45 +952,45 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/tohoku/shido_kansa/tuuti-r4_00012.html" rel="noopener noreferrer">
++										<a href="/tohoku/gyomu/gyomu/shakaihoken_kyogi/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月8日
++													2026年10月13日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													医療保険関係通知一覧（令和8年度）
++													第46回東北地方社会保険医療協議会の議事要旨を掲載しました
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tohoku/gyomu/gyomu/hokeni_yakuzaishi/index.html" rel="noopener noreferrer">
++										<a href="/tohoku/shido_kansa/tuuti-r4_00012.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月8日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														通知・通達
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医・保険薬剤師関係
++													医療保険関係通知一覧（令和8年度）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tohoku/gyomu/gyomu/hoken_kikan/itiran.html" rel="noopener noreferrer">
++										<a href="/tohoku/gyomu/gyomu/hokeni_yakuzaishi/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月8日
+@@ -1003,26 +1003,26 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													管内保険医療機関・保険薬局の指定に関する公示及び指定状況等一覧
++													保険医・保険薬剤師関係
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tohoku/gyomu/gyomu/shakaihoken_kyogi/index.html" rel="noopener noreferrer">
++										<a href="/tohoku/gyomu/gyomu/hoken_kikan/itiran.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月5日
++													2026年10月8日
+ 												</time>
+ 												<em>
+ 													<span>
+-														開催案内
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													第46回東北地方社会保険医療協議会の開催案内を掲載しました
++													管内保険医療機関・保険薬局の指定に関する公示及び指定状況等一覧
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -1069,16 +1069,18 @@
+ 									</h2>
+ 								</div>
+ 								<div>
+-									<a href="/tohoku/kikaku/photoreport080909.html" rel="noopener noreferrer">
++									<a href="/tohoku/kikaku/photoreport081013.html" rel="noopener noreferrer">
+ 										<div>
+-											<img alt="" src="/tohoku/000500366.jpg">
++											<img alt="" src="/tohoku/000504270.jpg">
+ 										</div>
+ 										<div>
+ 											<p>
+-												地域医療構想等東北ブロック担当者意見交換会が開催されました
++												福島県南会津町における「地域づくり加速化事業」第1回現地支援を実施しました。
+ 											</p>
+ 											<p>
+-												令和8年9月1日に、東北6県の担当者が新たな地域医療構想の策定などについて意見交換を行い、交流を図りました。
++												福島県南会津町では、高齢者の自立や社会参加の更なる促進を目指し、「地域づくり加速化事業」を活用して、介護予防・日常生活支援総合事業等の見直しに取り組んでいます。
++												<br>
++												令和8年9月28日に...
+ 											</p>
+ 										</div>
+ 									</a>

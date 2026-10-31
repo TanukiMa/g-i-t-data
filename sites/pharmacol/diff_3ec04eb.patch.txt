@@ -1,0 +1,44 @@
+diff --git a/sites/pharmacol/jp/or/pharmacol/index.html b/sites/pharmacol/jp/or/pharmacol/index.html
+index e3d4dda60..a72adf2a7 100644
+--- a/sites/pharmacol/jp/or/pharmacol/index.html
++++ b/sites/pharmacol/jp/or/pharmacol/index.html
+@@ -930,6 +930,19 @@
+ 							お知らせ
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="https://pharmacol.or.jp/2026/10/post-7.html" rel="noopener noreferrer">
++									<span>
++										公募情報
++									</span>
++									<span>
++										2026年10月20日(火)
++									</span>
++									<p>
++										岩手医科大学薬学部病態薬理学講座薬剤治療学分野　教員（講師または助教）公募について
++									</p>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://pharmacol.or.jp/2026/10/DocArch.html" rel="noopener noreferrer">
+ 									<span>
+@@ -982,19 +995,6 @@
+ 									</p>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="https://pharmacol.or.jp/2026/10/post-77.html" rel="noopener noreferrer">
+-									<span>
+-										公募情報
+-									</span>
+-									<span>
+-										2026年10月 1日(木)
+-									</span>
+-									<p>
+-										東邦大学 薬理学講座 講師候補者の公募について
+-									</p>
+-								</a>
+-							</li>
+ 						</ul>
+ 						<div>
+ 							<a href="/information.html" rel="noopener noreferrer">

@@ -1,0 +1,38 @@
+diff --git a/sites/jahisorjp/jp/jahis/index.html b/sites/jahisorjp/jp/jahis/index.html
+index 7b3eaa286..86ce84d11 100644
+--- a/sites/jahisorjp/jp/jahis/index.html
++++ b/sites/jahisorjp/jp/jahis/index.html
+@@ -314,6 +314,16 @@
+ 								</h2>
+ 								<table>
+ 									<tbody>
++										<tr>
++											<th>
++												2026/10/14
++											</th>
++											<td>
++												<a href="https://www.jahis.jp/standard/detail/id=1260" rel="noopener noreferrer">
++													JAHIS標準「JAHIS生理検査データ交換規約Ver.3.2C」の正誤表に基づく修正版が掲載されました
++												</a>
++											</td>
++										</tr>
+ 										<tr>
+ 											<th>
+ 												2026/10/05
+@@ -504,16 +514,6 @@
+ 												</a>
+ 											</td>
+ 										</tr>
+-										<tr>
+-											<th>
+-												2025/05/19
+-											</th>
+-											<td>
+-												<a href="https://www.jahis.jp/action/id=1182?contents_type=20" rel="noopener noreferrer">
+-													「2024年度　戦略企画部　業務報告会／特別講演」を開催いたしました
+-												</a>
+-											</td>
+-										</tr>
+ 									</tbody>
+ 								</table>
+ 							</div>

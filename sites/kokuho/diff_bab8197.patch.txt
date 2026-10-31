@@ -1,0 +1,57 @@
+diff --git a/sites/kokuho/jp/or/kokuho/index.html b/sites/kokuho/jp/or/kokuho/index.html
+index cc07f6da..71d345b5 100644
+--- a/sites/kokuho/jp/or/kokuho/index.html
++++ b/sites/kokuho/jp/or/kokuho/index.html
+@@ -200,6 +200,32 @@
+ 			</h2>
+ 			<div>
+ 				<ul>
++					<li>
++						<p>
++							2026年10月29日
++						</p>
++						<p>
++							統計情報
++						</p>
++						<p>
++							<a href="https://www.kokuho.or.jp/statistics/iryouhi/2026-0729-0946-11.html" rel="noopener noreferrer">
++								「医療費速報　令和8年7月診療分」等を掲載しました。
++							</a>
++						</p>
++					</li>
++					<li>
++						<p>
++							2026年10月29日
++						</p>
++						<p>
++							統計情報
++						</p>
++						<p>
++							<a href="statistics/kaigo/index.html" rel="noopener noreferrer">
++								「介護給付費の状況 令和8年7月」等を掲載しました。
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<p>
+ 							2026年10月28日
+@@ -326,19 +352,6 @@
+ 							</a>
+ 						</p>
+ 					</li>
+-					<li>
+-						<p>
+-							2026年09月30日
+-						</p>
+-						<p>
+-							統計情報
+-						</p>
+-						<p>
+-							<a href="statistics/kaigo/index.html" rel="noopener noreferrer">
+-								「介護給付費の状況 令和8年6月」等を掲載しました。
+-							</a>
+-						</p>
+-					</li>
+ 					<li>
+ 						<p>
+ 							2026年9月9日

@@ -1,0 +1,233 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index 43b40a985..444b04d68 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -1519,6 +1519,21 @@
+ 														<div>
+ 															<div>
+ 																<ul>
++																	<li>
++																		<div>
++																			2026年10月27日
++																		</div>
++																		<div>
++																			<span>
++																				関連団体
++																			</span>
++																		</div>
++																		<div>
++																			<a href="/news/detail.html?itemid=1159&amp;dispmid=767" rel="noopener noreferrer">
++																				ASCO Breakthrough 2027のご案内
++																			</a>
++																		</div>
++																	</li>
+ 																	<li>
+ 																		<div>
+ 																			2026年10月26日
+@@ -1563,19 +1578,16 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月22日
++																			2026年10月23日
+ 																		</div>
+ 																		<div>
+-																			<span>
+-																				重要
+-																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
+-																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++																			<a href="/news/detail.html?itemid=1158&amp;dispmid=767" rel="noopener noreferrer">
++																				『大腸癌・婦人科癌治療におけるLynch症候群診断の意義に関する見解書』パブリックコメントご協力のお願い
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1585,27 +1597,15 @@
+ 																		</div>
+ 																		<div>
+ 																			<span>
+-																				学会
++																				重要
+ 																			</span>
+-																		</div>
+-																		<div>
+-																			<a href="/news/detail.html?itemid=1152&amp;dispmid=767" rel="noopener noreferrer">
+-																				MRD見解書第2版・MCED見解書第1版公開のお知らせ
+-																			</a>
+-																		</div>
+-																	</li>
+-																	<li>
+-																		<div>
+-																			2026年10月20日
+-																		</div>
+-																		<div>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1155&amp;dispmid=767" rel="noopener noreferrer">
+-																				「第2回がんちスタジオWebinar」(メディカルノート×日本癌治療学会連携)のオンデマンド配信のお知らせ
++																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1676,19 +1676,16 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月22日
++																			2026年10月23日
+ 																		</div>
+ 																		<div>
+-																			<span>
+-																				重要
+-																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
+-																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++																			<a href="/news/detail.html?itemid=1158&amp;dispmid=767" rel="noopener noreferrer">
++																				『大腸癌・婦人科癌治療におけるLynch症候群診断の意義に関する見解書』パブリックコメントご協力のお願い
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1699,13 +1696,16 @@
+ 																			2026年10月22日
+ 																		</div>
+ 																		<div>
++																			<span>
++																				重要
++																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1152&amp;dispmid=767" rel="noopener noreferrer">
+-																				MRD見解書第2版・MCED見解書第1版公開のお知らせ
++																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1713,7 +1713,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月20日
++																			2026年10月22日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1721,8 +1721,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1155&amp;dispmid=767" rel="noopener noreferrer">
+-																				「第2回がんちスタジオWebinar」(メディカルノート×日本癌治療学会連携)のオンデマンド配信のお知らせ
++																			<a href="/news/detail.html?itemid=1152&amp;dispmid=767" rel="noopener noreferrer">
++																				MRD見解書第2版・MCED見解書第1版公開のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1853,7 +1853,7 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026年10月15日
++																			2026年10月27日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1861,8 +1861,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1153&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本産科婦人科遺伝診療学会 ：第12回日本産科婦人科遺伝診療学会学術講演会のご案内
++																			<a href="/news/detail.html?itemid=1159&amp;dispmid=767" rel="noopener noreferrer">
++																				ASCO Breakthrough 2027のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1870,7 +1870,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月08日
++																			2026年10月15日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1878,8 +1878,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1150&amp;dispmid=767" rel="noopener noreferrer">
+-																				ファイザー株式会社:ベバシズマブ及びトラスツズマブBS「ファイザー」の販売中止のご案内
++																			<a href="/news/detail.html?itemid=1153&amp;dispmid=767" rel="noopener noreferrer">
++																				日本産科婦人科遺伝診療学会 ：第12回日本産科婦人科遺伝診療学会学術講演会のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1887,7 +1887,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年09月24日
++																			2026年10月08日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1895,8 +1895,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1131&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本遺伝カウンセリング学会： ウェビナー「ゲノム医療の推進と現状　―令和10年度診療報酬改定に向けて」開催のお知らせ
++																			<a href="/news/detail.html?itemid=1150&amp;dispmid=767" rel="noopener noreferrer">
++																				ファイザー株式会社:ベバシズマブ及びトラスツズマブBS「ファイザー」の販売中止のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1904,7 +1904,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年09月11日
++																			2026年09月24日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1912,8 +1912,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="https://apbcs.org/" rel="noopener noreferrer">
+-																				15th Asia-Pacific Breast Cancer Summit (APBCS)開催のご案内
++																			<a href="/news/detail.html?itemid=1131&amp;dispmid=767" rel="noopener noreferrer">
++																				日本遺伝カウンセリング学会： ウェビナー「ゲノム医療の推進と現状　―令和10年度診療報酬改定に向けて」開催のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1929,8 +1929,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1125&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本医療研究開発機構（AMED）：【AMED革新がん】支持療法・緩和ケア領域 シンポジウムおよびワークショップ
++																			<a href="https://apbcs.org/" rel="noopener noreferrer">
++																				15th Asia-Pacific Breast Cancer Summit (APBCS)開催のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>

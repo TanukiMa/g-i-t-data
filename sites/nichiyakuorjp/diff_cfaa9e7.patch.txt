@@ -1,0 +1,96 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 6b3c2fc37..ff131a57b 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -28,6 +28,38 @@
+ 							</div>
+ 							<div>
+ 								<div>
++									<div>
++										<ul>
++											<li>
++												<a href="https://x.com/jpa_koho" rel="noopener noreferrer" title="X">
++													<span>
++														X
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.instagram.com/jpa_koho" rel="noopener noreferrer" title="Instagram">
++													<span>
++														Instagram
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.facebook.com/jpakoho" rel="noopener noreferrer" title="Facebook">
++													<span>
++														Facebook
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.youtube.com/channel/UCFX1ZQXsnAWeTVAWjgC9TzA" rel="noopener noreferrer" title="YouTube">
++													<span>
++														YouTube
++													</span>
++												</a>
++											</li>
++										</ul>
++									</div>
+ 									<div>
+ 										<div>
+ 											<ul>
+@@ -41,6 +73,38 @@
+ 											</ul>
+ 										</div>
+ 									</div>
++									<div>
++										<ul>
++											<li>
++												<a href="https://x.com/jpa_koho" rel="noopener noreferrer" title="X">
++													<span>
++														X
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.instagram.com/jpa_koho" rel="noopener noreferrer" title="Instagram">
++													<span>
++														Instagram
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.facebook.com/jpakoho" rel="noopener noreferrer" title="Facebook">
++													<span>
++														Facebook
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.youtube.com/channel/UCFX1ZQXsnAWeTVAWjgC9TzA" rel="noopener noreferrer" title="YouTube">
++													<span>
++														YouTube
++													</span>
++												</a>
++											</li>
++										</ul>
++									</div>
+ 								</div>
+ 								<div>
+ 									<div>
+@@ -1025,6 +1089,13 @@
+ 												</span>
+ 											</a>
+ 										</li>
++										<li>
++											<a href="/sns-policy/" rel="noopener noreferrer">
++												<span>
++													公式SNSアカウント運用ポリシー
++												</span>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/sitemap/" rel="noopener noreferrer">
+ 												<span>

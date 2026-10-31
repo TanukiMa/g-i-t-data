@@ -1,0 +1,36 @@
+diff --git a/sites/jahisorjp/jp/jahis/index.html b/sites/jahisorjp/jp/jahis/index.html
+index c897c3829..9ddc4936b 100644
+--- a/sites/jahisorjp/jp/jahis/index.html
++++ b/sites/jahisorjp/jp/jahis/index.html
+@@ -314,6 +314,14 @@
+ 								</h2>
+ 								<table>
+ 									<tbody>
++										<tr>
++											<th>
++												2026/10/26
++											</th>
++											<td>
++												【本日午前10時運用再開】ホームページの緊急点検及び修正プログラムの適用作業が完了し安全性を確認できましたので運用を再開いたしました。ご利用の皆様にはご不便とご迷惑をおかけしましたことをお詫びいたします。
++											</td>
++										</tr>
+ 										<tr>
+ 											<th>
+ 												2026/10/21
+@@ -502,16 +510,6 @@
+ 												</a>
+ 											</td>
+ 										</tr>
+-										<tr>
+-											<th>
+-												2025/08/13
+-											</th>
+-											<td>
+-												<a href="https://www.jahis.jp/action/contents_type=22" rel="noopener noreferrer">
+-													JAHIS会誌（会誌75号）を発行しました
+-												</a>
+-											</td>
+-										</tr>
+ 									</tbody>
+ 								</table>
+ 							</div>

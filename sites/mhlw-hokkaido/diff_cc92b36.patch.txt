@@ -1,0 +1,230 @@
+diff --git a/sites/mhlw-hokkaido/jp/go/mhlw/kouseikyoku/hokkaido.html b/sites/mhlw-hokkaido/jp/go/mhlw/kouseikyoku/hokkaido.html
+index b3f22a82b..d03d0b6bd 100644
+--- a/sites/mhlw-hokkaido/jp/go/mhlw/kouseikyoku/hokkaido.html
++++ b/sites/mhlw-hokkaido/jp/go/mhlw/kouseikyoku/hokkaido.html
+@@ -788,10 +788,10 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/hokkaido/shinsei/shido_kansa/hoken_shitei/index_00016.html" rel="noopener noreferrer">
++										<a href="/hokkaido/iryo_shido/shisetsukijyun_ns.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月9日
++													2026年10月15日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -804,16 +804,16 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													【注意喚起】ベースアップ評価料等の実績・中間報告書が未提出となっている保険医療機関等について
++													訪問看護ステーションの『基準の受理状況』はこちらからご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/iryo_shido/shoshin.html" rel="noopener noreferrer">
++										<a href="/hokkaido/iryo_shido/shisetsukijyun_iryoukikan.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月6日
++													2026年10月15日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -826,38 +826,38 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													初診料及び外来診療料の注2、注3に規定する紹介割合等の報告が必要です
++													保険医療機関・保険薬局の『施設基準の受理状況』はこちらからご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/newpage_00770.html" rel="noopener noreferrer">
++										<a href="/hokkaido/shinsei/shido_kansa/hoken_shitei/index_00016.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月1日
++													2026年10月9日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局等の皆様へ
++													【注意喚起】ベースアップ評価料等の実績・中間報告書が未提出となっている保険医療機関等について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/iryo_shido/shisetsukijyun_ns.html" rel="noopener noreferrer">
++										<a href="/hokkaido/iryo_shido/shoshin.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月1日
++													2026年10月6日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -870,13 +870,13 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													訪問看護ステーションの『基準の受理状況』はこちらからご確認ください。
++													初診料及び外来診療料の注2、注3に規定する紹介割合等の報告が必要です
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/iryo_shido/shisetsukijyun_iryoukikan.html" rel="noopener noreferrer">
++										<a href="/hokkaido/newpage_00770.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月1日
+@@ -885,14 +885,14 @@
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															医療機関等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局の『施設基準の受理状況』はこちらからご確認ください。
++													保険医療機関・保険薬局等の皆様へ
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -921,29 +921,29 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/hokkaido/somu/888_00014.html" rel="noopener noreferrer">
++										<a href="/hokkaido/iryo_shido/shisetsukijyun_ns.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月9日
++													2026年10月15日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														申請・届出
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													契約に係る情報の公表（令和8年度）
++													訪問看護ステーションの『基準の受理状況』はこちらからご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/shinsei/shido_kansa/hoken_shitei/index_00016.html" rel="noopener noreferrer">
++										<a href="/hokkaido/iryo_shido/shisetsukijyun_iryoukikan.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月9日
++													2026年10月15日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -953,64 +953,64 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													【注意喚起】ベースアップ評価料等の実績・中間報告書が未提出となっている保険医療機関等について
++													保険医療機関・保険薬局の『施設基準の受理状況』はこちらからご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/iryo_shido/hoken-kikan.html" rel="noopener noreferrer">
++										<a href="/hokkaido/info/tsuchi/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月9日
++													2026年10月15日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														通知・通達
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局等の管内指定状況等について
++													医療保険関係通知等を掲載しています。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/iryo_shido/shoshin.html" rel="noopener noreferrer">
++										<a href="/hokkaido/somu/888_00014.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月6日
++													2026年10月9日
+ 												</time>
+ 												<em>
+ 													<span>
+-														申請・届出
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													初診料及び外来診療料の注2、注3に規定する紹介割合等の報告が必要です
++													契約に係る情報の公表（令和8年度）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/newpage_00770.html" rel="noopener noreferrer">
++										<a href="/hokkaido/shinsei/shido_kansa/hoken_shitei/index_00016.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月1日
++													2026年10月9日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														申請・届出
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局等の皆様へ
++													【注意喚起】ベースアップ評価料等の実績・中間報告書が未提出となっている保険医療機関等について
+ 												</span>
+ 											</div>
+ 										</a>

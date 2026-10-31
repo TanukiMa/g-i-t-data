@@ -1,0 +1,44 @@
+diff --git a/sites/nihon-eisei/org/nihon-eisei/index.html b/sites/nihon-eisei/org/nihon-eisei/index.html
+index 3634edc83..934ac2ba0 100644
+--- a/sites/nihon-eisei/org/nihon-eisei/index.html
++++ b/sites/nihon-eisei/org/nihon-eisei/index.html
+@@ -350,6 +350,19 @@
+ 					最新情報
+ 				</h3>
+ 				<ul>
++					<li>
++						<span>
++							2026年10月16日
++						</span>
++						<span>
++							講演会・セミナーのお知らせ
++						</span>
++						<p>
++							<a href="activity/seminars/" rel="noopener noreferrer">
++								第45回（2026年度 第3回）DOHaD疫学セミナー
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<span>
+ 							2026年10月16日
+@@ -468,19 +481,6 @@
+ 							令和8年8月千葉豪雨により被災された方へ
+ 						</p>
+ 					</li>
+-					<li>
+-						<span>
+-							2026年8月26日
+-						</span>
+-						<span>
+-							その他
+-						</span>
+-						<p>
+-							<a href="https://www.nihon-eisei.org/activity/expert_home/application/" rel="noopener noreferrer">
+-								2026年度衛生学エキスパート申請受付を開始いたしました
+-							</a>
+-						</p>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://www.nihon-eisei.org/?cat=2" rel="noopener noreferrer">

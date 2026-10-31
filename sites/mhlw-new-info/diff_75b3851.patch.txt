@@ -1,0 +1,240 @@
+diff --git a/sites/mhlw-new-info/jp/go/mhlw/stf-new-info.html b/sites/mhlw-new-info/jp/go/mhlw/stf-new-info.html
+index fc511d9ec..6886f1936 100644
+--- a/sites/mhlw-new-info/jp/go/mhlw/stf-new-info.html
++++ b/sites/mhlw-new-info/jp/go/mhlw/stf-new-info.html
+@@ -1313,6 +1313,166 @@
+ 							</h2>
+ 						</div>
+ 						<ul>
++							<li>
++								<a href="/kouseiroudoushou/kanbumeibo/index.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												その他
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											令和８年10月20日付幹部名簿
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76811.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											2026年9月18日　第136回社会保障審議会介護保険部会　議事録
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76757.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											第137回社会保障審議会介護保険部会の開催について
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76732.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											食品中の放射性物質の検査結果について（１５１７報）
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76682.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											令和８年度第２回 厚生科学審議会医薬品医療機器制度部会の開催について（Web併用）
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76548.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											第79回労働政策審議会人材開発分科会監理団体審査部会 開催案内
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76436.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											第399回労働政策審議会職業安定分科会労働力需給制度部会　資料
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76434.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											第399回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/shingi/shingi-hosho_126734.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											社会保障審議会（介護保険部会）
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/shingi/shingi-rousei_474670.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											労働政策審議会 (人材開発分科会監理団体審査部会)
++										</span>
++									</div>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://www.mhlw.go.jp/toukei/saikin/hw/judan/taishousha/tn_00.html" rel="noopener noreferrer">
+ 									<div>
+@@ -3804,22 +3964,6 @@
+ 									</div>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="/kouseiroudoushou/kanbumeibo/index.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												その他
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											令和８年10月１日付幹部名簿
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+ 							<li>
+ 								<a href="/stf/newpage_76519.html" rel="noopener noreferrer">
+ 									<div>
+@@ -5789,22 +5933,6 @@
+ 									</div>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="/stf/shingi/shingi-hosho_126734.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												審議会等
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											社会保障審議会（介護保険部会）
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+ 						</ul>
+ 						<div>
+ 							<h2>
+@@ -5924,22 +6052,6 @@
+ 									</div>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="/stf/shingi/shingi-rousei_474670.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												審議会等
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											労働政策審議会 (人材開発分科会監理団体審査部会)
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+ 							<li>
+ 								<a href="/stf/wp/hakusyo/kousei/26/index.html" rel="noopener noreferrer">
+ 									<div>

@@ -1,0 +1,27 @@
+diff --git a/sites/ajha4byou/jp/or/ajha/topics-4byou.html b/sites/ajha4byou/jp/or/ajha/topics-4byou.html
+index ff9bee09c..7893add9b 100644
+--- a/sites/ajha4byou/jp/or/ajha/topics-4byou.html
++++ b/sites/ajha4byou/jp/or/ajha/topics-4byou.html
+@@ -2877,6 +2877,22 @@
+ 							</a>
+ 						</li>
+ 					</ul>
++					<ul>
++						<li>
++							<a href="https://portal.ajha.or.jp/login" rel="noopener noreferrer">
++								会員情報の
++								<br>
++								変更申請は
++								<br>
++								こちら
++							</a>
++						</li>
++						<li>
++							情報セキュリティ確保のため、会員情報変更申請サイトの公開を一時停止しております。
++							<br>
++							皆様にはご不便をおかけいたしますが、ご理解賜りますようお願い申し上げます。
++						</li>
++					</ul>
+ 				</nav>
+ 			</div>
+ 			<a href="#" rel="noopener noreferrer">

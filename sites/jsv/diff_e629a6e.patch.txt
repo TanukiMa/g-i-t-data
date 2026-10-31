@@ -1,0 +1,18 @@
+diff --git a/sites/jsv/jp/umin/jsv/index.html b/sites/jsv/jp/umin/jsv/index.html
+index 690834a2d..d601ffad4 100644
+--- a/sites/jsv/jp/umin/jsv/index.html
++++ b/sites/jsv/jp/umin/jsv/index.html
+@@ -152,6 +152,13 @@
+ 											</a>
+ 										</td>
+ 									</tr>
++									<tr>
++										<td>
++											<a href="https://journals.asm.org/journal/jvi" rel="noopener noreferrer">
++												<img alt="" height="45" src="images/JVI-logo-red-no-reg(1).jpg" width="210">
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 										</td>

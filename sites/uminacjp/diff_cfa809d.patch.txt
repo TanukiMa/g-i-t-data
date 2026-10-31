@@ -1,0 +1,28 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index dd468f124..9bb6b9798 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -738,6 +738,11 @@
+ 						Drug、Clinical Trial、Epidemiology、Statistics（医薬品、臨床試験、疫学、統計リンク集）
+ 					</h5>
+ 					<ul>
++						<li>
++							<a href="https://www.hosp.kobe-u.ac.jp/ctrc/researcher/documents/seminar/seminar_20261102.pdf" rel="noopener noreferrer">
++								11/2 認定臨床研究審査委員会等委員対象セミナー（神戸大学）「特定臨床研究実施中の留意点、事例紹介」
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://s-hds.org/conferences/#online_seminar2" rel="noopener noreferrer">
+ 								ヘルスデータサイエンス学会設立5周年記念オンラインセミナー「ヘルスデータサイエンスのためのデータアーキテクチャ入門」出版記念
+@@ -768,11 +773,6 @@
+ 								第12回PMDA　RS研究会：臨床試験の新たなデザインについて、RSの視点から考える
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.hosp.kobe-u.ac.jp/ctrc/researcher/documents/seminar/seminar_20260930.pdf" rel="noopener noreferrer">
+-								9/30 臨床研究推進セミナー（神戸大学）「先進医療・患者申出療養などの保険外併用療養について～考え方、運用、出口や周辺制度など～」
+-							</a>
+-						</li>
+ 					</ul>
+ 				</ul>
+ 				<h2>

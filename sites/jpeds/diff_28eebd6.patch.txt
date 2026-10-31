@@ -1,0 +1,42 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index e950967f..2c099b6e 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -2355,6 +2355,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/29
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159958.html" rel="noopener noreferrer">
++												ピボキシル基を有する小児用抗菌薬における重篤な低カルニチン血症、重篤な低血糖について（厚生労働省）
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2583,18 +2595,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/02
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159245.html" rel="noopener noreferrer">
+-												医療事故の再発防止に向けた提言第22号の公表について（厚生労働省）
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

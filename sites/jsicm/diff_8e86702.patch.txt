@@ -1,0 +1,95 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index bf2a0c54f..5aeaced65 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1433,6 +1433,25 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<a href="https://www.jsicm.org/commitee/ccu/#t6" rel="noopener noreferrer">
++										</a>
++										<div>
++											<div>
++												2026年10月26日
++											</div>
++											<div>
++												学会より
++											</div>
++										</div>
++										<div>
++											<div>
++												循環器集中治療委員会
++												<br>
++												PCAS・ECPRセミナー開催報告を掲載しました
++											</div>
++										</div>
++									</li>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261026.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1594,12 +1613,18 @@
+ 											</div>
+ 										</div>
+ 									</li>
++								</ul>
++								<span>
++								</span>
++							</div>
++							<div>
++								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news260928_3.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/commitee/ccu/#t6" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年9月29日
++												2026年10月26日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1607,16 +1632,12 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												サーバーメンテナンスに伴う学会ホームページとセミナー管理システムの一時休止について
++												循環器集中治療委員会
++												<br>
++												PCAS・ECPRセミナー開催報告を掲載しました
+ 											</div>
+ 										</div>
+ 									</li>
+-								</ul>
+-								<span>
+-								</span>
+-							</div>
+-							<div>
+-								<ul>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261026.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1778,23 +1799,6 @@
+ 											</div>
+ 										</div>
+ 									</li>
+-									<li>
+-										<a href="https://www.jsicm.org/news/news260928_3.html" rel="noopener noreferrer">
+-										</a>
+-										<div>
+-											<div>
+-												2026年9月29日
+-											</div>
+-											<div>
+-												学会より
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												サーバーメンテナンスに伴う学会ホームページとセミナー管理システムの一時休止について
+-											</div>
+-										</div>
+-									</li>
+ 								</ul>
+ 								<span>
+ 								</span>

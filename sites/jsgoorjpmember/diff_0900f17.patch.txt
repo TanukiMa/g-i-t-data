@@ -1,0 +1,13 @@
+diff --git a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+index 46c52420f..5fce06513 100644
+--- a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
++++ b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+@@ -435,7 +435,7 @@
+ 									</div>
+ 								</div>
+ 								<div>
+-									<a rel="noopener noreferrer">
++									<a href="https://igcsmeeting.com/" rel="noopener noreferrer">
+ 										<img alt="IGCS2027" src="/common/images/banner/IGCS2027.jpg">
+ 									</a>
+ 									<a href="https://jsgo.or.jp/entry_member/news/20260724/4329/" rel="noopener noreferrer">

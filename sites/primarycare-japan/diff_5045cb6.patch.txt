@@ -1,0 +1,93 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index 28d8e2ce6..05c627c83 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -885,23 +885,20 @@
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1900" rel="noopener noreferrer">
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1740" rel="noopener noreferrer">
+ 								<p>
+-									<img alt="【ご案内】一般公募受付開始のお知らせ（第22回若手医師のための家庭医療学冬期セミナー）" src="/pics/news/news-thumb-1900.png">
++									<img alt="プライマリ・ケア診療各論（漢方）／家族をみるためのFamily Kampo⑩　ー虚弱な小児に小建中湯ー" src="/pics/news/news-thumb-1740.jpg">
+ 								</p>
+ 								<h2>
+-									【ご案内】一般公募受付開始のお知らせ（第22回若手医師のための家庭医療学冬期セミナー）
++									プライマリ・ケア診療各論（漢方）／家族をみるためのFamily Kampo⑩　ー虚弱な小児に小建中湯ー
+ 								</h2>
+ 								<p>
+-									9月29日（火）正午より、第22回若手医師のための家庭医療学冬期セミナー公募が開始されます。詳細に…
++									漢方外来には老若男女を問わず幅広い世代の患者が受診する。家庭医の先生が漢方治療を身につければ、年代…
+ 								</p>
+ 								<p>
+ 									<time>
+-										2026.09.28
++										2026.10.19
+ 									</time>
+-									<span>
+-										オススメ
+-									</span>
+ 								</p>
+ 							</a>
+ 						</li>
+@@ -1337,6 +1334,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1900" rel="noopener noreferrer">
++								<p>
++									<img alt="【ご案内】一般公募受付開始のお知らせ（第22回若手医師のための家庭医療学冬期セミナー）" src="/pics/news/news-thumb-1900.png">
++								</p>
++								<h2>
++									【ご案内】一般公募受付開始のお知らせ（第22回若手医師のための家庭医療学冬期セミナー）
++								</h2>
++								<p>
++									9月29日（火）正午より、第22回若手医師のための家庭医療学冬期セミナー公募が開始されます。詳細に…
++								</p>
++								<p>
++									<time>
++										2026.09.28
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1899" rel="noopener noreferrer">
+ 								<p>
+@@ -2507,24 +2522,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1820" rel="noopener noreferrer">
+-								<p>
+-									<img alt="Vol.66／「目の前の人の生活と尊厳を守る医師でありたいんです」【専攻医】荒木さくら先生" src="/pics/news/news-thumb-1820.jpg">
+-								</p>
+-								<h2>
+-									Vol.66／「目の前の人の生活と尊厳を守る医師でありたいんです」【専攻医】荒木さくら先生
+-								</h2>
+-								<p>
+-									熊本で総合診療専攻医として研鑽を積みながら、若手医療者による平和活動のメンバーとしても精力的に活動…
+-								</p>
+-								<p>
+-									<time>
+-										2026.07.27
+-									</time>
+-								</p>
+-							</a>
+-						</li>
+ 					</ul>
+ 					<p>
+ 						<a rel="noopener noreferrer">
+@@ -3135,9 +3132,6 @@
+ 									<time>
+ 										2026.09.28
+ 									</time>
+-									<span>
+-										オススメ
+-									</span>
+ 								</p>
+ 							</a>
+ 						</li>

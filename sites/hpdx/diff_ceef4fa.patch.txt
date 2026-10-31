@@ -1,0 +1,46 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index aa6eff8fe..308b2c46f 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -276,6 +276,13 @@
+ 						</h2>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								<a href="/user_iryo/index.html" rel="noopener noreferrer">
++									【医療機関等の皆様へ】照会連絡先が一部変更となっています
++								</a>
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								<a href="/about/s_kaikaku/dxkikou_oshirase_1.html" rel="noopener noreferrer">
+@@ -325,13 +332,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<a href="/about/kohoshi/Divercity/hoteikoyo.html" rel="noopener noreferrer">
+-									障害者雇用率は法定基準を上回っています
+-								</a>
+-							</span>
+-						</li>
+ 						<li>
+ 							<span>
+ 								<a href="https://www.hpdx.or.jp/seikyushiharai/iryokikan/index.files/080605_oshirase.pdf" rel="noopener noreferrer">
+@@ -353,13 +353,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<a href="https://www.hpdx.or.jp/seikyushiharai/iryokikan/index.files/080501_oshirase.pdf" rel="noopener noreferrer">
+-									オンライン請求システムでダウンロード可能なエクセルファイルの拡張子の変更について
+-								</a>
+-							</span>
+-						</li>
+ 						<li>
+ 							<span>
+ 								<a href="/oshirase/coronavirus_oshirase.html" rel="noopener noreferrer">

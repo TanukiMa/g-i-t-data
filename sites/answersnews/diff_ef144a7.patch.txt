@@ -1,0 +1,206 @@
+diff --git a/sites/answersnews/jp/and-pro/answers/pharmanews.html b/sites/answersnews/jp/and-pro/answers/pharmanews.html
+index b68ccb429..a0c03eaa6 100644
+--- a/sites/answersnews/jp/and-pro/answers/pharmanews.html
++++ b/sites/answersnews/jp/and-pro/answers/pharmanews.html
+@@ -222,34 +222,34 @@
+ 				<div>
+ 					<div>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33326/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33319/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240724184234/tohoHD-196x195.png" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260929183544/tanabe_2-2-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										きょうのニュース
++										ニュース解説
+ 									</span>
+ 									<h2>
+-										東邦HD、PHC買収「検討を終了」／キッセイ薬品子会社会社に不正アクセス、個人情報流出の可能性 など｜製薬業界きょうのニュースまとめ読み（2026年10月9日）
++										田辺ファーマ、競争激しいgMGに新薬投入…免疫領域、牽引役として成長期待
+ 									</h2>
+ 									<time>
+-										2026/10/09
++										2026/10/13
+ 									</time>
+ 								</div>
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33315/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33326/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261008110135/2026-10-07T200542Z_3_LYNXMPEM960U8_RTROPTP_4_AI-HEALTH-CLINICAL-TRIALS-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240724184234/tohoHD-196x195.png" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										ニュース解説
++										きょうのニュース
+ 									</span>
+ 									<h2>
+-										AIが予測していたノバルティスの最終治験失敗…AI企業、シミュレーションで臨床試験の成功率向上目指す
++										東邦HD、PHC買収「検討を終了」／キッセイ薬品子会社会社に不正アクセス、個人情報流出の可能性 など｜製薬業界きょうのニュースまとめ読み（2026年10月9日）
+ 									</h2>
+ 									<time>
+ 										2026/10/09
+@@ -275,6 +275,24 @@
+ 								</div>
+ 							</a>
+ 						</article>
++						<article>
++							<a href="https://answers.and-pro.jp/pharmanews/33315/" rel="noopener noreferrer">
++								<div>
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261008110135/2026-10-07T200542Z_3_LYNXMPEM960U8_RTROPTP_4_AI-HEALTH-CLINICAL-TRIALS-196x195.jpg" width="157">
++								</div>
++								<div>
++									<span>
++										ニュース解説
++									</span>
++									<h2>
++										AIが予測していたノバルティスの最終治験失敗…AI企業、シミュレーションで臨床試験の成功率向上目指す
++									</h2>
++									<time>
++										2026/10/09
++									</time>
++								</div>
++							</a>
++						</article>
+ 						<article>
+ 							<a href="https://answers.and-pro.jp/pharmanews/33318/" rel="noopener noreferrer">
+ 								<div>
+@@ -383,24 +401,6 @@
+ 								</div>
+ 							</a>
+ 						</article>
+-						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33287/" rel="noopener noreferrer">
+-								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261005101606/pixta_123486870_M-196x195.jpg" width="157">
+-								</div>
+-								<div>
+-									<span>
+-										ニュース解説
+-									</span>
+-									<h2>
+-										「高額レセプト」25年度は前年比25%増…「やや高額で継続投与」の医薬品が件数押し上げ
+-									</h2>
+-									<time>
+-										2026/10/06
+-									</time>
+-								</div>
+-							</a>
+-						</article>
+ 					</div>
+ 					<div>
+ 						<span>
+@@ -524,41 +524,41 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/pharmanews/33298/" rel="noopener noreferrer">
++								<a href="/pharmanews/33310/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195836/FDA1_R-1.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261007120643/image-2.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										アストラゼネカの経口SERD「Etcamah」やウルトラジェニクスの遺伝子治療薬「Fayuvi」など承認―2026年9月に米FDAが承認した新薬
++										「世界の工場」から「創薬国」へ…新薬開発で台頭する中国【薬の地政学 #2】
+ 									</h3>
+ 									<time>
+-										2026/10/07
++										2026/10/08
+ 									</time>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/pharmanews/33310/" rel="noopener noreferrer">
++								<a href="/pharmanews/33298/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261007120643/image-2.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195836/FDA1_R-1.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										「世界の工場」から「創薬国」へ…新薬開発で台頭する中国【薬の地政学 #2】
++										アストラゼネカの経口SERD「Etcamah」やウルトラジェニクスの遺伝子治療薬「Fayuvi」など承認―2026年9月に米FDAが承認した新薬
+ 									</h3>
+ 									<time>
+-										2026/10/08
++										2026/10/07
+ 									</time>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/pharmanews/32962/" rel="noopener noreferrer">
++								<a href="/pharmanews/32473/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260804150645/income_rank_2026_eye.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260522162849/Japan_financial_results_ranking_2026_eye_.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										【2026年版】製薬会社年収ランキング 2022万円のサンバイオが1位…新薬大手トップは1350万円の中外製薬
++										【2026年版】国内製薬会社ランキング―売り上げトップ武田は4.5兆円…2位は大塚HD、アステラスと第一三共は初の2兆円突破
+ 									</h3>
+ 									<time>
+-										2026/08/05
++										2026/05/25
+ 									</time>
+ 								</a>
+ 							</li>
+@@ -677,41 +677,41 @@
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/pharmanews/33298/" rel="noopener noreferrer">
++							<a href="/pharmanews/33310/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195836/FDA1_R-1.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261007120643/image-2.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									アストラゼネカの経口SERD「Etcamah」やウルトラジェニクスの遺伝子治療薬「Fayuvi」など承認―2026年9月に米FDAが承認した新薬
++									「世界の工場」から「創薬国」へ…新薬開発で台頭する中国【薬の地政学 #2】
+ 								</h4>
+ 								<time>
+-									2026/10/07
++									2026/10/08
+ 								</time>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/pharmanews/33310/" rel="noopener noreferrer">
++							<a href="/pharmanews/33298/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261007120643/image-2.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195836/FDA1_R-1.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									「世界の工場」から「創薬国」へ…新薬開発で台頭する中国【薬の地政学 #2】
++									アストラゼネカの経口SERD「Etcamah」やウルトラジェニクスの遺伝子治療薬「Fayuvi」など承認―2026年9月に米FDAが承認した新薬
+ 								</h4>
+ 								<time>
+-									2026/10/08
++									2026/10/07
+ 								</time>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/pharmanews/32962/" rel="noopener noreferrer">
++							<a href="/pharmanews/32473/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260804150645/income_rank_2026_eye.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260522162849/Japan_financial_results_ranking_2026_eye_.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									【2026年版】製薬会社年収ランキング 2022万円のサンバイオが1位…新薬大手トップは1350万円の中外製薬
++									【2026年版】国内製薬会社ランキング―売り上げトップ武田は4.5兆円…2位は大塚HD、アステラスと第一三共は初の2兆円突破
+ 								</h4>
+ 								<time>
+-									2026/08/05
++									2026/05/25
+ 								</time>
+ 							</a>
+ 						</li>

@@ -1,0 +1,56 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index fbf39aa30..f040971f8 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -796,6 +796,12 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015661" rel="noopener noreferrer">
++							弘前大学 大学院医学研究科歯科口腔外科学講座 教授公募
++						</a>
++					</li>
+ 					<li>
+ 						[教職員公募]
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015658" rel="noopener noreferrer">
+@@ -850,12 +856,6 @@
+ 							国立大学法人筑波大学 医学医療系　災害・地域精神医学分野 その他公募
+ 						</a>
+ 					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015649" rel="noopener noreferrer">
+-							国立大学法人筑波大学 医学医療系　古河・坂東地域医療教育センター その他公募
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">
+@@ -1008,6 +1008,12 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						株式会社TESホールディングス：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072376" rel="noopener noreferrer">
++							試験食品摂取による認知機能に及ぼす影響の探索
++						</a>
++					</li>
+ 					<li>
+ 						帝京大学外科学講座：
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000059996" rel="noopener noreferrer">
+@@ -1062,12 +1068,6 @@
+ 							C6-EIT抜管研究
+ 						</a>
+ 					</li>
+-					<li>
+-						西日本がん研究機構：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000070703" rel="noopener noreferrer">
+-							VISION study(WJOG21625B)
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="https://center9.umin.ac.jp/nuhs/news" rel="noopener noreferrer">

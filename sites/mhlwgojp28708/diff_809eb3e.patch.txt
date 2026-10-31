@@ -1,0 +1,36 @@
+diff --git a/sites/mhlwgojp28708/jp/go/mhlw/stf-newpage-28708-html.html b/sites/mhlwgojp28708/jp/go/mhlw/stf-newpage-28708-html.html
+index 1bc22f887..7ab514003 100644
+--- a/sites/mhlwgojp28708/jp/go/mhlw/stf-newpage-28708-html.html
++++ b/sites/mhlwgojp28708/jp/go/mhlw/stf-newpage-28708-html.html
+@@ -1424,11 +1424,6 @@
+ 													<a href="/stf/newpage_76502.html" rel="noopener noreferrer">
+ 														資料等
+ 													</a>
+-													<span>
+-														<time>
+-															10月1日
+-														</time>
+-													</span>
+ 												</li>
+ 											</ul>
+ 										</td>
+@@ -1503,7 +1498,18 @@
+ 											</ol>
+ 										</td>
+ 										<td>
+-											－
++											<ul>
++												<li>
++													<a href="/stf/newpage_76736.html" rel="noopener noreferrer">
++														議事録
++													</a>
++													<span>
++														<time>
++															10月15日
++														</time>
++													</span>
++												</li>
++											</ul>
+ 										</td>
+ 										<td>
+ 											<ul>

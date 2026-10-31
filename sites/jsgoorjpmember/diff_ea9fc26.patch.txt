@@ -1,0 +1,32 @@
+diff --git a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+index 10b302d43..46c52420f 100644
+--- a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
++++ b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+@@ -347,6 +347,27 @@
+ 						</div>
+ 						<div>
+ 							<div>
++								<div>
++									<h2>
++										重要なお知らせ
++									</h2>
++								</div>
++								<div>
++									<table>
++										<tbody>
++											<tr>
++												<th>
++													2026/10/26
++												</th>
++												<td>
++													<a href="/wp-content/uploads/2026/10/34179c8edc173bc9d510506b9692f484.pdf" rel="noopener noreferrer">
++														『大腸癌・婦人科癌治療におけるLynch症候群診断の意義に関する見解書』 パブリックコメントご協力のお願い
++													</a>
++												</td>
++											</tr>
++										</tbody>
++									</table>
++								</div>
+ 								<h2>
+ 									お知らせ
+ 								</h2>

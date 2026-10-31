@@ -1,0 +1,449 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 1120efac7..84f195a77 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1417,7 +1417,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															10月26日の新着ニュース
++															10月27日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1434,20 +1434,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="多発性硬化症へのリツキシマブでIBDリスク上昇" src="https://asset.mtweb.jp/media/2026/10/23142820/ChatGPT-Image-20261023_RTXxIBDxMS.jpg">
++																<img alt="前立腺がんへのデノスマブ、長期投与で顎骨壊死が増加" src="https://asset.mtweb.jp/media/2026/10/26103402/ChatGPT-Image-20261023_Denosumab.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619109" rel="noopener noreferrer">
+-																			多発性硬化症へのリツキシマブでIBDリスク上昇
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619202" rel="noopener noreferrer">
++																			前立腺がんへのデノスマブ、長期投与で顎骨壊死が増加
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-26
++																			2026-10-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1483,20 +1483,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="入院患者のVTEリスクに肥満パラドックス？" src="https://asset.mtweb.jp/media/2026/10/22181258/ChatGPT-Image-20261022_Paradoxical.jpg">
++																<img alt="プロポフォールでがん手術後の生存・再発改善せず" src="https://asset.mtweb.jp/media/2026/10/23161225/ChatGPT-Image-20261022_Propofol.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618970" rel="noopener noreferrer">
+-																			入院患者のVTEリスクに肥満パラドックス？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619152" rel="noopener noreferrer">
++																			プロポフォールでがん手術後の生存・再発改善せず
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-26
++																			2026-10-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1532,20 +1532,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「輸液反応性」と「輸液忍容性」は別物" src="https://asset.mtweb.jp/media/2026/06/18104626/com_dr_tanpo_thum_w440h275.jpg">
++																<img alt="ケトン体に新時代、「味方」にするための指針" src="https://asset.mtweb.jp/media/2026/06/16162232/com_dr_yamada_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
+-																			「輸液反応性」と「輸液忍容性」は別物
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
++																			ケトン体に新時代、「味方」にするための指針
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-24
++																			2026-10-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1581,20 +1581,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="スタチンは高齢者の「何」を守るのか？" src="https://asset.mtweb.jp/media/2026/06/19141047/com_dr_kojima_thum_w440h275.jpg">
++																<img alt="『高尿酸血症・痛風の治療GL』改訂の要点は？" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
+-																			スタチンは高齢者の「何」を守るのか？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619292" rel="noopener noreferrer">
++																			『高尿酸血症・痛風の治療GL』改訂の要点は？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-23
++																			2026-10-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1630,20 +1630,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="白内障と緑内障を同時に治療する新型人工水晶体、臨床試験で有望な結果" src="https://asset.mtweb.jp/media/2026/10/23163325/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8822%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
++																<img alt="魚鱗癬患者の負担、症状より社会的障壁が深刻" src="https://asset.mtweb.jp/media/2026/10/26114245/ChatGPT-Image-20261023_Ichthyosis.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619157" rel="noopener noreferrer">
+-																			白内障と緑内障を同時に治療する新型人工水晶体、臨床試験で有望な結果
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619221" rel="noopener noreferrer">
++																			魚鱗癬患者の負担、症状より社会的障壁が深刻
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-23
++																			2026-10-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1679,20 +1679,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="CLL/SLL、ピルトブルチニブの前倒しに期待" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
++																<img alt="多発性硬化症へのリツキシマブでIBDリスク上昇" src="https://asset.mtweb.jp/media/2026/10/23142820/ChatGPT-Image-20261023_RTXxIBDxMS.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618927" rel="noopener noreferrer">
+-																			CLL/SLL、ピルトブルチニブの前倒しに期待
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619109" rel="noopener noreferrer">
++																			多発性硬化症へのリツキシマブでIBDリスク上昇
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-23
++																			2026-10-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1728,20 +1728,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="処方時に「有効性は不確実」と伝えられますか" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
++																<img alt="入院患者のVTEリスクに肥満パラドックス？" src="https://asset.mtweb.jp/media/2026/10/22181258/ChatGPT-Image-20261022_Paradoxical.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
+-																			処方時に「有効性は不確実」と伝えられますか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618970" rel="noopener noreferrer">
++																			入院患者のVTEリスクに肥満パラドックス？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-23
++																			2026-10-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1774,7 +1774,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															10月26日の新着連載
++															10月27日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1794,19 +1794,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
+-																					<img alt="「輸液反応性」と「輸液忍容性」は別物" src="/assets/images/rensai/doceye/thumbnails/丹保亜希仁（救急医療）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
++																					<img alt="ケトン体に新時代、「味方」にするための指針" src="/assets/images/rensai/doceye/thumbnails/山田悟（糖尿病）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-24
++																							2026-10-26
+ 																						</time>
+ 																						<h2>
+-																							「輸液反応性」と「輸液忍容性」は別物
++																							ケトン体に新時代、「味方」にするための指針
+ 																						</h2>
+ 																						<p>
+-																							敗血症性ショックでの多施設RCT
++																							日本でも持続モニタリングが導入されたら
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1815,20 +1815,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									5
++																									2
+ 																								</span>
+ 																								<span>
+-																									5件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									29
++																									15
+ 																								</span>
+ 																								<span>
+-																									29件「いいね！」されています
++																									15件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1845,19 +1845,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
+-																					<img alt="スタチンは高齢者の「何」を守るのか？" src="/assets/images/rensai/doceye/thumbnails/小島淳（循環器）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
++																					<img alt="「輸液反応性」と「輸液忍容性」は別物" src="/assets/images/rensai/doceye/thumbnails/丹保亜希仁（救急医療）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-23
++																							2026-10-24
+ 																						</time>
+ 																						<h2>
+-																							スタチンは高齢者の「何」を守るのか？
++																							「輸液反応性」と「輸液忍容性」は別物
+ 																						</h2>
+ 																						<p>
+-																							自立して生活する70歳以上対象のSTAREE試験
++																							敗血症性ショックでの多施設RCT
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1866,20 +1866,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									7
++																									5
+ 																								</span>
+ 																								<span>
+-																									7件のコメントが投稿されています
++																									5件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									54
++																									33
+ 																								</span>
+ 																								<span>
+-																									54件「いいね！」されています
++																									33件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1896,19 +1896,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
+-																					<img alt="処方時に「有効性は不確実」と伝えられますか" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
++																					<img alt="スタチンは高齢者の「何」を守るのか？" src="/assets/images/rensai/doceye/thumbnails/小島淳（循環器）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-23
+ 																						</time>
+ 																						<h2>
+-																							処方時に「有効性は不確実」と伝えられますか
++																							スタチンは高齢者の「何」を守るのか？
+ 																						</h2>
+ 																						<p>
+-																							伝達後の同意率を検討したRCTから
++																							自立して生活する70歳以上対象のSTAREE試験
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1917,20 +1917,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									8
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									8件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									36
++																									59
+ 																								</span>
+ 																								<span>
+-																									36件「いいね！」されています
++																									59件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1947,19 +1947,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
+-																					<img alt="人工関節とPRP療法は二者択一ではない" src="/assets/images/rensai/doceye/thumbnails/齋田良知（整形外科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
++																					<img alt="処方時に「有効性は不確実」と伝えられますか" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-22
++																							2026-10-23
+ 																						</time>
+ 																						<h2>
+-																							人工関節とPRP療法は二者択一ではない
++																							処方時に「有効性は不確実」と伝えられますか
+ 																						</h2>
+ 																						<p>
+-																							最新RCTと国際コンセンサスから見えた「膝OA治療の次の課題」
++																							伝達後の同意率を検討したRCTから
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1968,20 +1968,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									36
++																									40
+ 																								</span>
+ 																								<span>
+-																									36件「いいね！」されています
++																									40件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1998,18 +1998,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
++																					<img alt="人工関節とPRP療法は二者択一ではない" src="/assets/images/rensai/doceye/thumbnails/齋田良知（整形外科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-22
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）
++																							人工関節とPRP療法は二者択一ではない
+ 																						</h2>
+ 																						<p>
++																							最新RCTと国際コンセンサスから見えた「膝OA治療の次の課題」
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2018,20 +2019,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									2
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									23
++																									36
+ 																								</span>
+ 																								<span>
+-																									23件「いいね！」されています
++																									36件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
