@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: PMDA</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-0cfcae34.xml</id>
-  <updated>2026-10-31T03:34:28Z</updated>
+  <updated>2026-10-31T07:33:09Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-0cfcae34.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 変更：「「副作用が疑われる症例報告に関する情報」に2026年6月分の情報を追加しました」（2026年10月16日、医薬品）の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/8849eb720636885efb07693dcb004e27d7c93296</id>
+    <updated>2026-10-31T07:33:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「「副作用が疑われる症例報告に関する情報」に2026年6月分の情報を追加しました」（2026年10月16日、医薬品）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_8849eb7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>独立行政法人 医薬品医療機器総合機構(PMDA): 変更: 「2026年10月16日 医療機器 プログラム医療機器の製造販売承認品目の一覧情報等を更新しました」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/81cc8f91c83d4f55e9bbd0236d19ed84a8eb7a6c</id>
@@ -329,12 +336,5 @@
     <updated>2026-10-08T02:16:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「「治験計画等の届出に関するFAQ」を更新しました」（2026年10月8日）&lt;/li&gt;&lt;li&gt;追加: 「事務補助員（ジェネリック医薬品の審査業務に係る補助業務（技術系）等）の募集について（採用時期を更新しました）」（2026年10月8日）&lt;/li&gt;&lt;li&gt;削除: 「2026年度1day仕事体験（技術系　毒性業務体験）の情報を更新しました」（2026年10月1日）&lt;/li&gt;&lt;li&gt;削除: 「医薬品副作用被害救済制度等の周知・広報について（協力依頼）を更新しました」（2026年10月1日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_933e6b4.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008155745/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 「生物由来製品等の一覧を更新しました」（2026年10月7日、救済）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/614be303226ba33aecfe50110b331c33850fbe09</id>
-    <updated>2026-10-07T08:32:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「生物由来製品等の一覧を更新しました」（2026年10月7日、救済）&lt;/li&gt;&lt;li&gt;削除: 「医薬品の最適使用推進ガイドラインを掲載しました」（2026年10月1日、審査）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_614be30.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261008055720/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
