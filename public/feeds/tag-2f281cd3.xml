@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 内科系</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-2f281cd3.xml</id>
-  <updated>2026-10-31T22:32:55Z</updated>
+  <updated>2026-11-01T22:33:05Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-2f281cd3.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本消化器内視鏡学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/62b4f9b39a4a7e2f9af1b03a99fdb476b55fa169</id>
+    <updated>2026-11-01T22:33:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jges/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_62b4f9b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本透析医学会: 追加: 「第71回日本透析医学会学術集会・総会会期中の教育講演e-ラーニング配信について」（2026年11月01日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsdt/56304ca6760af5a86f9735b672689dfbcd152fd5</id>
@@ -350,12 +357,5 @@
     <updated>2026-10-28T07:34:28Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/chemotherapy/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年10月28日「呼吸器感染症治療ガイダンス：パブリックコメントの募集について」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「熊本地震により被災された皆様へのお見舞い」「7学会合同感染症治療・創薬促進検討委員会 提言『感染症治療薬創薬促進に向けて』の提出について」「新型コロナウイルスワクチン定期接種の公的助成継続に関する要望書の提出について」「メロペネム、バンコマイシンの原薬国産化に関する要望書の提出について」ほか 4 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.chemotherapy.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/chemotherapy/diff_f1d0a92.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261028103607/https://www.chemotherapy.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本呼吸器内視鏡学会: 変更: 「【重要】PHP脆弱性によるマイページの影響について（2026年10月27日）」の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsre/debd08d7dd19f54f536950e3b40e9958257ce3d2</id>
-    <updated>2026-10-28T03:33:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsre/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【重要】PHP脆弱性によるマイページの影響について（2026年10月27日）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第49回　日本呼吸器内視鏡学会学術集会・第38回　気管支鏡セミナー報告」が追加されました（2026年7月27日）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「次期副会長選挙結果」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsre.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsre/diff_debd08d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261028023501/https://www.jsre.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
