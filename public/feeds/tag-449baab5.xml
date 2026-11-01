@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 報道・情報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-449baab5.xml</id>
-  <updated>2026-11-01T03:33:10Z</updated>
+  <updated>2026-11-01T07:33:19Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-449baab5.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
@@ -10,24 +10,31 @@
   </author>
   <entry>
     <title>メディカルトリビューン: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/c30ec18a4153541b38116e8b993ddbd5c22b2c42</id>
+    <updated>2026-11-01T07:33:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_c30ec18.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>メディカルトリビューン: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/8ffa41d29f436ca6a3735598309e4e001881f752</id>
     <updated>2026-11-01T03:33:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_8ffa41d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_8ffa41d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261101034036/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>薬事日報: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/e4c8ea1a3b5650d72121cf26623fd6a53511adc9</id>
     <updated>2026-10-31T22:32:56Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_e4c8ea1.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_e4c8ea1.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261101034122/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>メディカルトリビューン: 追加: 新着ニュースおよび新着連載として「片頭痛は「ただの頭痛」ではない」（2026-11-01）が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/9949e88615e976b7f33099a53e19d53ffc844c27</id>
     <updated>2026-10-31T22:32:55Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 新着ニュースおよび新着連載として「片頭痛は「ただの頭痛」ではない」（2026-11-01）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「心不全に「MASLDパラドクス」浮上」「インフル大幅減も前年同週の約2.7倍」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_9949e88.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 新着ニュースおよび新着連載として「片頭痛は「ただの頭痛」ではない」（2026-11-01）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「心不全に「MASLDパラドクス」浮上」「インフル大幅減も前年同週の約2.7倍」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_9949e88.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261101034036/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 内容に実質的な変更はありません（表示の調整のみ）。</title>
@@ -350,12 +357,5 @@
     <updated>2026-10-26T03:33:28Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;追加: 【製薬団体、薬剤師会など】薬業界にもPHP問題直撃‐ウェブサイト閲覧不可に&lt;/li&gt;&lt;li&gt;追加: 【キッセイ、腎臓学会ら】タブネオスで対応動き出す‐学会は中止後治療方針公表&lt;/li&gt;&lt;li&gt;追加: 【NECグループ】個別化ネオアンチゲン療法「NECVAX-NEO1」、第I／II相臨床試験で良好な成績&lt;/li&gt;&lt;li&gt;追加: 【オムロンHC】「日本公衆衛生学会総会」に出展&lt;/li&gt;&lt;li&gt;追加: 【新製品】rom&amp;amp;ndから“メイクのためのスキンケア”が登場‐ドン・キホーテ系列店舗限定ブランド…&lt;/li&gt;&lt;li&gt;追加: 11月5日にウェビナー「臨床開発組織の進化と最適なオペレーティングモデル」開催　サイネオス…&lt;/li&gt;&lt;li&gt;変更: 「【サノフィ日本法人】血小板減少症に新薬‐病態形成過程などに作用」「外国価格調整の米除外、衆院厚労委で問題視」「【レジリア】安定供給リスク分析を支援‐厚労省「行動計画」に対応」ほか 9 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_fe8af8a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261026110504/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>メディカルトリビューン: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/b9ddf34571231591ff711f666dec770f0c6f7eaa</id>
-    <updated>2026-10-26T03:33:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_b9ddf34.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261026104611/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
