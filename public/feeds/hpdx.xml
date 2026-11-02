@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 医療情報基盤・診療報酬審査支払機構（DX審査支払機構）</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/hpdx.xml</id>
-  <updated>2026-10-30T22:34:17Z</updated>
+  <updated>2026-11-02T08:23:41Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/hpdx.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: 令和8年11月2日付「基本マスター（医科診療行為）を更新しました」</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/dda9e2800d11a4ae30ea27800fa6d874d27dfc76</id>
+    <updated>2026-11-02T08:23:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和8年11月2日付「基本マスター（医科診療行為）を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和8年11月2日付「電子点数表（医科・歯科）を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和8年11月2日付プレスリリース「令和8年8月診療分は対前年同月伸び率で確定件数 0.9%増加、確定金額 6.5%増加」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「令和8年度診療報酬改定関係を更新しました」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「基本マスター（医科診療行為・医薬品）、コメント関連テーブル及びレセプト電算処理システムマスターファイル仕様説明書を更新しました」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_dda9e28.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: 令和8年10月30日のプレスリリース「審査情報提供事例（歯科）を追加」（/pressrelease/pressrelease_r08/press_r081030_3.ht…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/69e22fad9a30fe432ca46b2a2bd962c69daf9145</id>

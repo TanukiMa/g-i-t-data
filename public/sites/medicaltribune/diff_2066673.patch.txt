@@ -1,0 +1,505 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 18748db8..2ea45660 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -352,6 +352,16 @@
+ 																			おすすめ
+ 																		</span>
+ 																	</div>
++																	<li>
++																		<a href="/special/feature/cephalalgia2026/" rel="noopener noreferrer">
++																			<div>
++																				<img alt="サービス" src="https://asset.mtweb.jp/media/2026/10/27143255/com_mohcgrp_thum_w440h275.png">
++																				<div>
++																					片頭痛診療の新常識を知る
++																				</div>
++																			</div>
++																		</a>
++																	</li>
+ 																	<li>
+ 																		<a href="/special/feature/cencer2026/" rel="noopener noreferrer">
+ 																			<div>
+@@ -382,16 +392,6 @@
+ 																			</div>
+ 																		</a>
+ 																	</li>
+-																	<li>
+-																		<a href="/special/feature/masld2026/" rel="noopener noreferrer">
+-																			<div>
+-																				<img alt="サービス" src="https://asset.mtweb.jp/media/2026/07/08204647/com_masld2026_thum_w440h275.png">
+-																				<div>
+-																					MASLD診療の「いま」と「これから」
+-																				</div>
+-																			</div>
+-																		</a>
+-																	</li>
+ 																</div>
+ 																<div>
+ 																	<div>
+@@ -399,6 +399,16 @@
+ 																			2026年
+ 																		</span>
+ 																	</div>
++																	<li>
++																		<a href="/special/feature/cephalalgia2026/" rel="noopener noreferrer">
++																			<div>
++																				<span>
++																					11月
++																				</span>
++																				片頭痛特集
++																			</div>
++																		</a>
++																	</li>
+ 																	<li>
+ 																		<a href="/special/feature/cencer2026/" rel="noopener noreferrer">
+ 																			<div>
+@@ -429,6 +439,8 @@
+ 																			</div>
+ 																		</a>
+ 																	</li>
++																</div>
++																<div>
+ 																	<li>
+ 																		<a href="/special/feature/masld2026/" rel="noopener noreferrer">
+ 																			<div>
+@@ -439,8 +451,6 @@
+ 																			</div>
+ 																		</a>
+ 																	</li>
+-																</div>
+-																<div>
+ 																	<li>
+ 																		<a href="/special/feature/chumoku_sleep2026/" rel="noopener noreferrer">
+ 																			<div>
+@@ -471,6 +481,8 @@
+ 																			</div>
+ 																		</a>
+ 																	</li>
++																</div>
++																<div>
+ 																	<li>
+ 																		<a href="/special/feature/undouki2026/" rel="noopener noreferrer">
+ 																			<div>
+@@ -481,8 +493,6 @@
+ 																			</div>
+ 																		</a>
+ 																	</li>
+-																</div>
+-																<div>
+ 																	<li>
+ 																		<a href="/special/feature/rare_diseases2026/" rel="noopener noreferrer">
+ 																			<div>
+@@ -493,6 +503,10 @@
+ 																			</div>
+ 																		</a>
+ 																	</li>
++																	<li>
++																	</li>
++																	<li>
++																	</li>
+ 																</div>
+ 																<div>
+ 																	<div>
+@@ -967,6 +981,20 @@
+ 													2026年
+ 												</span>
+ 											</div>
++											<li>
++												<a href="/special/feature/cephalalgia2026/" rel="noopener noreferrer">
++													<p>
++														<span>
++															11月
++														</span>
++														片頭痛特集
++														<span>
++															<span>
++															</span>
++														</span>
++													</p>
++												</a>
++											</li>
+ 											<li>
+ 												<a href="/special/feature/cencer2026/" rel="noopener noreferrer">
+ 													<p>
+@@ -1434,13 +1462,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="新薬6剤の時代、片頭痛は「治せる疾患」に" src="https://asset.mtweb.jp/media/2026/10/26181204/70209_face01.png">
++																<img alt="多発性骨髄腫治療に転換点、テク＋ダラの可能性" src="https://asset.mtweb.jp/media/2026/10/26101419/70259_face01.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618857" rel="noopener noreferrer">
+-																			新薬6剤の時代、片頭痛は「治せる疾患」に
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
++																			多発性骨髄腫治療に転換点、テク＋ダラの可能性
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1483,13 +1511,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="感染性心内膜炎の治療はテーラーメード化できるか" src="https://asset.mtweb.jp/media/2026/06/19144940/com_dr_iwata_thum_w440h275.jpg">
++																<img alt="ロモソズマブ6カ月＋BPは選択肢となるか" src="https://asset.mtweb.jp/media/2026/09/25101814/com_jos28_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
+-																			感染性心内膜炎の治療はテーラーメード化できるか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619943" rel="noopener noreferrer">
++																			ロモソズマブ6カ月＋BPは選択肢となるか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1532,13 +1560,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="こどもNISAに信託報酬ゼロの「ゼロカン」が登場" src="https://asset.mtweb.jp/media/2026/06/26143100/com_drchurio2_thum_w440h275.jpg">
++																<img alt="イリノテカン、再発・難治性神経芽腫に保険適用" src="https://asset.mtweb.jp/media/2026/07/29144311/com_kouchi_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
+-																			こどもNISAに信託報酬ゼロの「ゼロカン」が登場
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620214" rel="noopener noreferrer">
++																			イリノテカン、再発・難治性神経芽腫に保険適用
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1581,20 +1609,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="片頭痛は「ただの頭痛」ではない" src="https://asset.mtweb.jp/media/2026/10/26102824/70203_face01.png">
++																<img alt="新薬6剤の時代、片頭痛は「治せる疾患」に" src="https://asset.mtweb.jp/media/2026/10/26181204/70209_face01.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
+-																			片頭痛は「ただの頭痛」ではない
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618857" rel="noopener noreferrer">
++																			新薬6剤の時代、片頭痛は「治せる疾患」に
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-01
++																			2026-11-02
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1630,20 +1658,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「ADC眼毒性管理」で高まる眼科医の役割" src="https://asset.mtweb.jp/media/2026/06/12113948/com_dr_KaoruSasaki_thum_w440h275.jpg">
++																<img alt="感染性心内膜炎の治療はテーラーメード化できるか" src="https://asset.mtweb.jp/media/2026/06/19144940/com_dr_iwata_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
+-																			「ADC眼毒性管理」で高まる眼科医の役割
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
++																			感染性心内膜炎の治療はテーラーメード化できるか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-30
++																			2026-11-02
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1679,20 +1707,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="抗真菌薬アムホテリシンBの取り違えで死亡例" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
++																<img alt="こどもNISAに信託報酬ゼロの「ゼロカン」が登場" src="https://asset.mtweb.jp/media/2026/06/26143100/com_drchurio2_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620113" rel="noopener noreferrer">
+-																			抗真菌薬アムホテリシンBの取り違えで死亡例
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
++																			こどもNISAに信託報酬ゼロの「ゼロカン」が登場
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-30
++																			2026-11-02
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1728,20 +1756,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="水いぼ治療、皮疹消失率が高いのは？" src="https://asset.mtweb.jp/media/2026/10/29191401/ChatGPT-Image-20261029_molluscum-contagiosum.jpg">
++																<img alt="片頭痛は「ただの頭痛」ではない" src="https://asset.mtweb.jp/media/2026/10/26102824/70203_face01.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619978" rel="noopener noreferrer">
+-																			水いぼ治療、皮疹消失率が高いのは？
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
++																			片頭痛は「ただの頭痛」ではない
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-30
++																			2026-11-01
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1794,19 +1822,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618857" rel="noopener noreferrer">
+-																					<img alt="新薬6剤の時代、片頭痛は「治せる疾患」に" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
++																					<img alt="多発性骨髄腫治療に転換点、テク＋ダラの可能性" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618857" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-02
+ 																						</time>
+ 																						<h2>
+-																							新薬6剤の時代、片頭痛は「治せる疾患」に
++																							多発性骨髄腫治療に転換点、テク＋ダラの可能性
+ 																						</h2>
+ 																						<p>
+-																							第54回日本頭痛学会大会長・橋本洋一郎氏
++																							MajesTEC-3試験筆頭著者・J. Costa氏に聞く
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1825,10 +1853,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									1
+ 																								</span>
+ 																								<span>
+-																									4件「いいね！」されています
++																									1件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1845,18 +1873,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
+-																					<img alt="感染性心内膜炎の治療はテーラーメード化できるか" src="/assets/images/rensai/doceye/thumbnails/岩田健太郎（感染症）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618857" rel="noopener noreferrer">
++																					<img alt="新薬6剤の時代、片頭痛は「治せる疾患」に" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618857" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-02
+ 																						</time>
+ 																						<h2>
+-																							感染性心内膜炎の治療はテーラーメード化できるか
++																							新薬6剤の時代、片頭痛は「治せる疾患」に
+ 																						</h2>
+ 																						<p>
++																							第54回日本頭痛学会大会長・橋本洋一郎氏
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1865,20 +1894,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									11
++																									6
+ 																								</span>
+ 																								<span>
+-																									11件「いいね！」されています
++																									6件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1895,19 +1924,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
+-																					<img alt="こどもNISAに信託報酬ゼロの「ゼロカン」が登場" src="/assets/images/rensai/thumbnails/com_drchurio_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
++																					<img alt="感染性心内膜炎の治療はテーラーメード化できるか" src="/assets/images/rensai/doceye/thumbnails/岩田健太郎（感染症）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-02
+ 																						</time>
+ 																						<h2>
+-																							こどもNISAに信託報酬ゼロの「ゼロカン」が登場
++																							感染性心内膜炎の治療はテーラーメード化できるか
+ 																						</h2>
+ 																						<p>
+-																							2027年開始の「こどもNISA」、新たな投資信託を解説
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1926,10 +1954,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									12
++																									14
+ 																								</span>
+ 																								<span>
+-																									12件「いいね！」されています
++																									14件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1946,19 +1974,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
+-																					<img alt="片頭痛は「ただの頭痛」ではない" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
++																					<img alt="こどもNISAに信託報酬ゼロの「ゼロカン」が登場" src="/assets/images/rensai/thumbnails/com_drchurio_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-01
++																							2026-11-02
+ 																						</time>
+ 																						<h2>
+-																							片頭痛は「ただの頭痛」ではない
++																							こどもNISAに信託報酬ゼロの「ゼロカン」が登場
+ 																						</h2>
+ 																						<p>
+-																							増える国内有病者数、推定1,000万人以上に
++																							2027年開始の「こどもNISA」、新たな投資信託を解説
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1967,20 +1995,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									4
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									37
++																									15
+ 																								</span>
+ 																								<span>
+-																									37件「いいね！」されています
++																									15件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1997,19 +2025,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
+-																					<img alt="「ADC眼毒性管理」で高まる眼科医の役割" src="/assets/images/rensai/doceye/thumbnails/佐々木香る（眼科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
++																					<img alt="片頭痛は「ただの頭痛」ではない" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-30
++																							2026-11-01
+ 																						</time>
+ 																						<h2>
+-																							「ADC眼毒性管理」で高まる眼科医の役割
++																							片頭痛は「ただの頭痛」ではない
+ 																						</h2>
+ 																						<p>
+-																							米国角膜屈折外科学会角膜委員会のレビュー
++																							増える国内有病者数、推定1,000万人以上に
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2028,10 +2056,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									36
++																									42
+ 																								</span>
+ 																								<span>
+-																									36件「いいね！」されています
++																									42件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2437,6 +2465,16 @@
+ 												</p>
+ 											</div>
+ 										</div>
++										<div>
++											<div>
++												<a href="/special/feature/cephalalgia2026/" rel="noopener noreferrer">
++													<img alt="押さえておきたいMOH対策とCGRP関連薬剤の活かし方" src="https://asset.mtweb.jp/media/2026/10/27143256/rcol_mohcgrp_bn_w450h120.png">
++												</a>
++											</div>
++											<p>
++												片頭痛診療の新常識を知る
++											</p>
++										</div>
+ 										<div>
+ 											<div>
+ 												<a href="/special/feature/cencer2026/" rel="noopener noreferrer">

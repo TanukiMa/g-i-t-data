@@ -1,0 +1,61 @@
+diff --git a/sites/medorjp/jp/or/med/index.html b/sites/medorjp/jp/or/med/index.html
+index d196a3fc..eda059fc 100644
+--- a/sites/medorjp/jp/or/med/index.html
++++ b/sites/medorjp/jp/or/med/index.html
+@@ -271,8 +271,8 @@
+ 		</div>
+ 		<div>
+ 			<figure>
+-				<a href="/doctor/sien/s_sien/012829.html" rel="noopener noreferrer">
+-					<img alt="令和８年熊本地震関連" src="/n_images/main_banner86.jpg">
++				<a href="/doctor/region/001757.html" rel="noopener noreferrer">
++					<img alt="令和８年医師の届出に関するお知らせ" src="/n_images/main_banner51e.jpg">
+ 				</a>
+ 			</figure>
+ 		</div>
+@@ -494,32 +494,38 @@
+ 					</h2>
+ 					<ul>
+ 						<li>
+-							<a href="https://www.med.or.jp/doctor/anzen_siin/pmws/000175.html" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/doctor/sien/s_sien/012829.html" rel="noopener noreferrer">
+ 								<em>
+ 									2026.11.02
+ 								</em>
+ 								<span>
+-									令和８年度「死体検案研修会（上級）」のご案内
++									令和８年熊本地震関連
+ 								</span>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://www.med.or.jp/doctor/anzen_siin/pmws/001461.html" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/doctor/anzen_siin/pmws/000175.html" rel="noopener noreferrer">
+ 								<em>
+ 									2026.11.02
+ 								</em>
+ 								<span>
+-									令和８年度 「死体検案研修会（基礎）」のご案内（E-learning形式）
++									令和８年度「死体検案研修会（上級）」のご案内
+ 								</span>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://www.med.or.jp/people/010700.html" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/doctor/region/001757.html" rel="noopener noreferrer">
+ 								<em>
+-									2026.10.23
++									2026.11.02
+ 								</em>
+ 								<span>
+-									PHPの脆弱性対応に伴う一部コンテンツ・サービスの一時停止について
++									<span>
++										重要
++									</span>
++									令和８年医師の届出に関するお知らせ
++									<span>
++										（届出期限 令和９年１月15日）
++									</span>
+ 								</span>
+ 							</a>
+ 						</li>
