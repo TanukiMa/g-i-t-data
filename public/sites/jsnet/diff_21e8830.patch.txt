@@ -1,0 +1,35 @@
+diff --git a/sites/jsnet/website/jsnet/index.html b/sites/jsnet/website/jsnet/index.html
+index a8db650b..d27ee92d 100644
+--- a/sites/jsnet/website/jsnet/index.html
++++ b/sites/jsnet/website/jsnet/index.html
+@@ -544,17 +544,17 @@
+ 					</div>
+ 				</div>
+ 				<div>
+-					<img alt="" src="https://jsnet.website/cms/wp-content/uploads/2026/03/VISUAL20260325.png">
++					<img alt="" src="https://jsnet.website/cms/wp-content/uploads/2026/11/VISUAL.png">
+ 					<div>
+ 						<p>
+ 						</p>
+ 						<p>
+-							<img alt="" height="304" src="https://jsnet.website/cms/wp-content/uploads/2026/03/text_20260325.png" width="640">
++							<img alt="" height="345" src="https://jsnet.website/cms/wp-content/uploads/2026/11/Group-42.png" width="640">
+ 						</p>
+ 						<p>
+ 						</p>
+ 						<div>
+-							<a href="https://www.congre.co.jp/jns2026/" rel="noopener noreferrer">
++							<a href="https://www.congre.co.jp/jcns2027/" rel="noopener noreferrer">
+ 								特設サイトへ
+ 							</a>
+ 						</div>
+@@ -632,6 +632,9 @@
+ 							<time>
+ 								2026.11.01
+ 							</time>
++							<p>
++								JSNETから
++							</p>
+ 							<p>
+ 								日本メドトロニック社からの情報提供があります
+ 							</p>

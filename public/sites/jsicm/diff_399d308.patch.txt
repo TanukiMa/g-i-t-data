@@ -1,0 +1,128 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index 806db56d..1787fc0d 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1434,11 +1434,11 @@
+ 							<div>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261102.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月27日
++												2026年11月2日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1447,11 +1447,28 @@
+ 										<div>
+ 											<div>
+ 												<span>
+-													【重要】学会メールの送受信障害について（現在復旧作業中）
++													【重要】本学会メールアドレス（＠jsicm.org）の障害について（11月2日現在）
+ 												</span>
+ 											</div>
+ 										</div>
+ 									</li>
++									<li>
++										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
++										</a>
++										<div>
++											<div>
++												2026年10月27日
++											</div>
++											<div>
++												学会より
++											</div>
++										</div>
++										<div>
++											<div>
++												【重要】学会メールの送受信障害について（現在復旧作業中）
++											</div>
++										</div>
++									</li>
+ 									<li>
+ 										<a href="https://www.jsicm.org/commitee/ccu/#t6" rel="noopener noreferrer">
+ 										</a>
+@@ -1594,12 +1611,18 @@
+ 											</div>
+ 										</div>
+ 									</li>
++								</ul>
++								<span>
++								</span>
++							</div>
++							<div>
++								<ul>
+ 									<li>
+-										<a href="https://jsicm.org/certification/subsp-specialist.html#title-04" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261102.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月6日
++												2026年11月2日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1607,18 +1630,12 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												日本専門医機構認定集中治療科専門医研修施設および研修協力施設の新規申請受付のご案内
+-												<br>
+-												＜申請期間＞2026年10月1日（木）～2026年10月31日（土）
++												<span>
++													【重要】本学会メールアドレス（＠jsicm.org）の障害について（11月2日現在）
++												</span>
+ 											</div>
+ 										</div>
+ 									</li>
+-								</ul>
+-								<span>
+-								</span>
+-							</div>
+-							<div>
+-								<ul>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1632,9 +1649,7 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<span>
+-													【重要】学会メールの送受信障害について（現在復旧作業中）
+-												</span>
++												【重要】学会メールの送受信障害について（現在復旧作業中）
+ 											</div>
+ 										</div>
+ 									</li>
+@@ -1780,25 +1795,6 @@
+ 											</div>
+ 										</div>
+ 									</li>
+-									<li>
+-										<a href="https://jsicm.org/certification/subsp-specialist.html#title-04" rel="noopener noreferrer">
+-										</a>
+-										<div>
+-											<div>
+-												2026年10月6日
+-											</div>
+-											<div>
+-												学会より
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												日本専門医機構認定集中治療科専門医研修施設および研修協力施設の新規申請受付のご案内
+-												<br>
+-												＜申請期間＞2026年10月1日（木）～2026年10月31日（土）
+-											</div>
+-										</div>
+-									</li>
+ 								</ul>
+ 								<span>
+ 								</span>

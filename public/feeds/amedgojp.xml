@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医療研究開発機構(AMED)</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/amedgojp.xml</id>
-  <updated>2026-11-02T08:23:40Z</updated>
+  <updated>2026-11-02T22:33:20Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/amedgojp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/amedgojp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医療研究開発機構(AMED): 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/amedgojp/697c852460fdfb4e28d27947c1cac8bb15c2fba7</id>
+    <updated>2026-11-02T22:33:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/amedgojp/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.amed.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/amedgojp/diff_697c852.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医療研究開発機構(AMED): 追加: 「「日本医療研究開発機構における課題管理（資金管理）について」の資料を掲載しました」（令和8年11月2日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/amedgojp/d3d6cd23b561cd844e3de1f74b528f171c619c0f</id>
