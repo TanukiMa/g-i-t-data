@@ -1,0 +1,348 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 5b81911c..f1a2cc34 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2370,6 +2370,105 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/review-services/f2f-pre/strategies/0003.html" rel="noopener noreferrer">
++												<p>
++													2026年11月2日
++												</p>
++												<p>
++													審査
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													RS総合相談・RS戦略相談リーフレットを掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/review-services/symposia/0210.html" rel="noopener noreferrer">
++												<p>
++													2026年11月2日
++												</p>
++												<p>
++													審査
++												</p>
++												<p>
++													イベント
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「第6回GMPラウンドテーブル会議　開催のご案内」を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
++												<p>
++													2026年11月2日
++												</p>
++												<p>
++													基準
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「薬事活動におけるAI利活用に関する基本的考え方（Early Consideration）」（日本語・英訳版）を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/review-services/inspections/drugs/0008.html" rel="noopener noreferrer">
++												<p>
++													2026年11月2日
++												</p>
++												<p>
++													審査
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													GLP業務に関するSOPを掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/int-activities/training-center/0005.html" rel="noopener noreferrer">
++												<p>
++													2026年11月2日
++												</p>
++												<p>
++													国際
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													PMDA-ATC ラーニングビデオを更新しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/review-services/f2f-pre/consultations/0005.html" rel="noopener noreferrer">
++												<p>
++													2026年11月2日
++												</p>
++												<p>
++													審査
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													12月簡易相談予定表を掲載しました【医薬品等】
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/calling-attention/properly-use-alert/0002.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2597,123 +2696,100 @@
+ 												</p>
+ 											</a>
+ 										</li>
++									</ul>
++									<div>
++										<div>
++											<a href="/0017.html" rel="noopener noreferrer">
++												一覧を見る
++											</a>
++										</div>
++										<div>
++											<a href="/rss_015.xml" rel="noopener noreferrer">
++												<img alt="RSS" src="/files/000253237.svg">
++											</a>
++										</div>
++									</div>
++								</div>
++							</div>
++							<div>
++								<div>
++									<ul>
+ 										<li>
+-											<a href="/about-pmda/symposia/0030.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月28日
+-												</p>
++											<a href="/review-services/f2f-pre/strategies/0003.html" rel="noopener noreferrer">
+ 												<p>
+-													その他
++													2026年11月2日
+ 												</p>
+ 												<p>
+-													イベント
++													全製品
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました
++													RS総合相談・RS戦略相談リーフレットを掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/rs-std-jp/research/0009.html" rel="noopener noreferrer">
++											<a href="/review-services/symposia/0210.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月28日
++													2026年11月2日
+ 												</p>
+ 												<p>
+-													その他
++													イベント
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													令和8年度第2回倫理審査委員会の議事要旨を掲載しました
++													「第6回GMPラウンドテーブル会議　開催のご案内」を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/safety-info/0166.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月27日
+-												</p>
+-												<p>
+-													安全
+-												</p>
++											<a href="/review-services/inspections/drugs/0008.html" rel="noopener noreferrer">
+ 												<p>
+-													New
++													2026年11月2日
+ 												</p>
+ 												<p>
+-													医薬品・医療機器等安全性情報 No.433（厚生労働省発行）を掲載しました
++													医薬品
+ 												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月27日
++													再生
+ 												</p>
+ 												<p>
+-													安全
++													医療機器
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													使用上の注意の改訂指示通知（医薬品）2026年10月27日付（厚生労働省より発出）を掲載しました
++													GLP業務に関するSOPを掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html" rel="noopener noreferrer">
++											<a href="/review-services/f2f-pre/consultations/0005.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月27日
++													2026年11月2日
+ 												</p>
+ 												<p>
+-													安全
++													部外品
+ 												</p>
+ 												<p>
+-													New
+-												</p>
+-												<p>
+-													添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/risk-communications/0001.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月27日
++													医薬品
+ 												</p>
+ 												<p>
+-													安全
++													体外診
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													「医薬品に関する評価中のリスク等の情報について」を掲載しました
++													12月簡易相談予定表を掲載しました【医薬品等】
+ 												</p>
+ 											</a>
+ 										</li>
+-									</ul>
+-									<div>
+-										<div>
+-											<a href="/0017.html" rel="noopener noreferrer">
+-												一覧を見る
+-											</a>
+-										</div>
+-										<div>
+-											<a href="/rss_015.xml" rel="noopener noreferrer">
+-												<img alt="RSS" src="/files/000253237.svg">
+-											</a>
+-										</div>
+-									</div>
+-								</div>
+-							</div>
+-							<div>
+-								<div>
+-									<ul>
+ 										<li>
+ 											<a href="/review-services/drug-reviews/pharmaceutical-excipients/0001.html" rel="noopener noreferrer">
+ 												<p>
+@@ -3117,6 +3193,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
++												<p>
++													2026年11月2日
++												</p>
++												<p>
++													基準
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「薬事活動におけるAI利活用に関する基本的考え方（Early Consideration）」（日本語・英訳版）を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/rs-std-jp/standards-development/jp/pub-comments/jp/0267.html" rel="noopener noreferrer">
+ 												<p>
+@@ -3194,19 +3286,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月19日
+-												</p>
+-												<p>
+-													基準
+-												</p>
+-												<p>
+-													「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3225,6 +3304,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/int-activities/training-center/0005.html" rel="noopener noreferrer">
++												<p>
++													2026年11月2日
++												</p>
++												<p>
++													全製品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													PMDA-ATC ラーニングビデオを更新しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/int-activities/int-harmony/icmra/0033.html" rel="noopener noreferrer">
+ 												<p>
+@@ -3366,9 +3461,6 @@
+ 												<p>
+ 													調達
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													落札公示
+ 												</p>

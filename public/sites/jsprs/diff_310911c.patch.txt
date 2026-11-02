@@ -1,0 +1,61 @@
+diff --git a/sites/jsprs/jp/or/jsprs/index.html b/sites/jsprs/jp/or/jsprs/index.html
+index e4dc058e..830e2370 100644
+--- a/sites/jsprs/jp/or/jsprs/index.html
++++ b/sites/jsprs/jp/or/jsprs/index.html
+@@ -118,6 +118,14 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026/11/02
++								</dt>
++								<dd>
++									<a href="/member/committee/shakaihoken/" rel="noopener noreferrer">
++										自家脂肪注入術特別セミナーのご案内
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/07/07
+ 								</dt>
+@@ -192,6 +200,14 @@
+ 						<div>
+ 							<div>
+ 								<dl>
++									<dt>
++										2026/11/02
++									</dt>
++									<dd>
++										<a href="/member/committee/shakaihoken/" rel="noopener noreferrer">
++											自家脂肪注入術特別セミナーのご案内
++										</a>
++									</dd>
+ 									<dt>
+ 										2026/10/23
+ 									</dt>
+@@ -304,14 +320,6 @@
+ 											ガイドラインパブリックコメント開始（臍ヘルニア・臍欠損部門）
+ 										</a>
+ 									</dd>
+-									<dt>
+-										2026/07/29
+-									</dt>
+-									<dd>
+-										<a href="/news/wp-content/uploads/2026/07/kumamoto.pdf" rel="noopener noreferrer">
+-											「令和8年熊本地震」について
+-										</a>
+-									</dd>
+ 								</dl>
+ 							</div>
+ 							<div>
+@@ -778,6 +786,11 @@
+ 							<img alt="静脈奇形硬化療法セミナー" height="60" src="banner/relation/jyoumyaku_banner.jpg" width="295">
+ 						</a>
+ 					</li>
++					<li>
++						<a href="https://www.sv4.sasj2.net/AUTH/jsprs/login" rel="noopener noreferrer">
++							<img alt="自家脂肪注入術特別セミナー" height="60" src="banner/relation/jikashibo.png">
++						</a>
++					</li>
+ 				</ul>
+ 			</div>
+ 			<ul>

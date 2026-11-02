@@ -1,0 +1,48 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index a295dbfc..286c9eeb 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -692,6 +692,21 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<div>
++											<span>
++												令和8年11月2日
++											</span>
++											<div>
++												<span>
++													事業に関するお知らせ
++												</span>
++											</div>
++										</div>
++										<a href="/news/program/20261029.html" rel="noopener noreferrer">
++											検査マニュアルの掲載について
++										</a>
++									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+@@ -752,21 +767,6 @@
+ 											（情報更新）AMED Global Hub（Boston）活動開始しました！
+ 										</a>
+ 									</li>
+-									<li>
+-										<div>
+-											<span>
+-												令和8年10月26日
+-											</span>
+-											<div>
+-												<span>
+-													イベント
+-												</span>
+-											</div>
+-										</div>
+-										<a href="/news/event/20261211.html" rel="noopener noreferrer">
+-											（令和8年12月11日開催）「AMED責任ある研究・イノベーション（RRI）ワークショップ with 山口大学」...
+-										</a>
+-									</li>
+ 								</ul>
+ 								<ul>
+ 									<li>

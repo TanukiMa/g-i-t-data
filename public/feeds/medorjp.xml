@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/medorjp.xml</id>
-  <updated>2026-10-29T07:33:56Z</updated>
+  <updated>2026-11-02T03:33:33Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/medorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医師会: 変更: 「日医雑誌2026年10月号 更新しました。」の記載が消え、「日医雑誌2026年11月号 更新しました。」が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/9ab7fa750d25856a9e21b043f1b73d7ace5f3f72</id>
+    <updated>2026-11-02T03:33:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「日医雑誌2026年10月号 更新しました。」の記載が消え、「日医雑誌2026年11月号 更新しました。」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「更新日：2026.10.01」が「更新日：2026.11.01」に変更されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026.11.02 令和８年度「死体検案研修会（上級）」のご案内」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.10.20 令和８年熊本地震関連」の記載が消え、「2026.11.02 令和８年度 「死体検案研修会（基礎）」のご案内（E-learning形式）」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.10.20 勤務医のページ(勤務医関連の記事)」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.1-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_9ab7fa7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医師会: 変更：「日医ニュース 10月20日号」および「介護保険施設等を取り巻く厳しい状況の改善に努める 他」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/3004b2704f5a59b0babcbf3d76275b59df051280</id>

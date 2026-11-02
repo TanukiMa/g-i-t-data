@@ -1,0 +1,165 @@
+diff --git a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+index cd8a8fa1..8e212a8e 100644
+--- a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
++++ b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+@@ -827,11 +827,11 @@
+ 				</h1>
+ 				<div>
+ 					<div>
+-						2026年10月23日
++						2026年11月2日
+ 					</div>
+ 					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=228" rel="noopener noreferrer">
+-							2026感染症・化学療法 東日本合同学会 開催のご案内
++						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=366" rel="noopener noreferrer">
++							2026年度日本化学療法学会「学術奨励賞」募集のご案内
+ 						</a>
+ 					</div>
+ 					<div>
+@@ -898,14 +898,6 @@
+ 							長生堂製薬株式会社の製品供給に関するご案内について（2026年10月）
+ 						</a>
+ 					</div>
+-					<div>
+-						2026年10月5日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=195" rel="noopener noreferrer">
+-							東日本合同学会（東京）演題検索システム（Kcon-navi）のご案内
+-						</a>
+-					</div>
+ 					<div>
+ 						2026年10月1日
+ 					</div>
+@@ -922,22 +914,6 @@
+ 							第33回抗菌化学療法認定薬剤師講習会　受講申し込み開始
+ 						</a>
+ 					</div>
+-					<div>
+-						2026年9月30日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=321" rel="noopener noreferrer">
+-							日本化学療法学会 2026年度海外留学補助申請について
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月30日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=127" rel="noopener noreferrer">
+-							日本化学療法学会 2026年度臨床研究支援助成 応募要領について
+-						</a>
+-					</div>
+ 					<div>
+ 						2026年9月18日
+ 					</div>
+@@ -949,38 +925,6 @@
+ 					<div>
+ 						2026年9月14日
+ 					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=369" rel="noopener noreferrer">
+-							志賀　潔・秦　佐八郎記念賞に関するお知らせ
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月14日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=368" rel="noopener noreferrer">
+-							2026年度 日本化学療法学会 Young Challenger Award（YCA）募集のご案内
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月14日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=367" rel="noopener noreferrer">
+-							2026年度 日本化学療法学会 感染症フロンティアリサーチ賞募集要項
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月14日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=366" rel="noopener noreferrer">
+-							2026年度日本化学療法学会「学術奨励賞」募集のご案内
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月14日
+-					</div>
+ 					<div>
+ 						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=251" rel="noopener noreferrer">
+ 							第75回日本化学療法学会総会　第101回日本感染症学会総会・学術講演会　合同学会開催のお知らせ（第2報）
+@@ -989,22 +933,6 @@
+ 					<div>
+ 						2026年9月14日
+ 					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=29" rel="noopener noreferrer">
+-							第73回日本化学療法学会東日本支部総会　第75回日本感染症学会東日本地方会学術集会　合同学会開催のお知らせ（第6報）
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月14日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=30" rel="noopener noreferrer">
+-							第74回日本化学療法学会西日本支部総会　第96回日本感染症学会西日本地方会学術集会　合同学会開催のお知らせ（第5報）
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月14日
+-					</div>
+ 					<div>
+ 						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=31" rel="noopener noreferrer">
+ 							理事会議事録等（会員限定）
+@@ -1026,30 +954,6 @@
+ 							ミコブティンカプセル150mgの限定出荷について
+ 						</a>
+ 					</div>
+-					<div>
+-						2026年9月8日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=364" rel="noopener noreferrer">
+-							抗菌化学療法認定医・指導医認定制度　審議会が指定又は推薦する抗菌薬適正使用に関連したプログラム　第73回日本化学療法学会東日本支部総会：シンポジウム11
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月8日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=363" rel="noopener noreferrer">
+-							抗菌化学療法認定薬剤師制度　認定委員会が指定するプログラム　第73回日本化学療法学会東日本支部総会：シンポジウム12
+-						</a>
+-					</div>
+-					<div>
+-						2026年9月8日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=362" rel="noopener noreferrer">
+-							外来抗感染症薬認定薬剤師制度　本学会学術集会で委員会が指定するプログラム　第73回日本化学療法学会東日本支部総会：シンポジウム17
+-						</a>
+-					</div>
+ 					<div>
+ 						2026年9月2日
+ 					</div>
+@@ -1314,14 +1218,6 @@
+ 							ラリキシン錠250㎎ 限定出荷解除（通常出荷）について(富士フイルム富山化学株式会社)
+ 						</a>
+ 					</div>
+-					<div>
+-						2026年1月23日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=149" rel="noopener noreferrer">
+-							バンコマイシンのTDMソフトウェア PATアップデートおよび抗菌薬TDMソフトウェアPAT Pro公開について
+-						</a>
+-					</div>
+ 					<div>
+ 						2026年1月16日
+ 					</div>

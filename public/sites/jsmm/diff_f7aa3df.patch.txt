@@ -1,0 +1,88 @@
+diff --git a/sites/jsmm/org/jsmm/main-html.html b/sites/jsmm/org/jsmm/main-html.html
+index 5cc4be5e..76783da5 100644
+--- a/sites/jsmm/org/jsmm/main-html.html
++++ b/sites/jsmm/org/jsmm/main-html.html
+@@ -193,15 +193,15 @@
+ 									</tr>
+ 									<tr>
+ 										<td>
+-											2026年09月24日に掲載した内容
++											2026年11月01日に掲載した内容
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<ul>
+ 												<li>
+-													<a href="https://www.jsmm.org/josei.html" rel="noopener noreferrer">
+-														研究助成金のお知らせを更新しました。
++													<a href="branch.html" rel="noopener noreferrer">
++														支部・関連学会 開催予定を更新しました。
+ 													</a>
+ 												</li>
+ 											</ul>
+@@ -214,19 +214,15 @@
+ 									</tr>
+ 									<tr>
+ 										<td>
+-											2026年08月31日に掲載した内容
++											2026年09月24日に掲載した内容
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<ul>
+ 												<li>
+-													<a href="https://www.jstage.jst.go.jp/browse/mmj/67/3/_contents/-char/en" rel="noopener noreferrer">
+-														Medical Mycology Journal 67巻3号掲載
+-													</a>
+-													<br>
+-													<a href="https://www.jstage.jst.go.jp/browse/ishinkin/67/3/_contents/-char/ja" rel="noopener noreferrer">
+-														日本医真菌学会雑誌 67巻3号掲載
++													<a href="https://www.jsmm.org/josei.html" rel="noopener noreferrer">
++														研究助成金のお知らせを更新しました。
+ 													</a>
+ 												</li>
+ 											</ul>
+@@ -239,15 +235,19 @@
+ 									</tr>
+ 									<tr>
+ 										<td>
+-											2026年08月27日に掲載した内容
++											2026年08月31日に掲載した内容
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<ul>
+ 												<li>
+-													<a href="pdf/attention.pdf" rel="noopener noreferrer">
+-														【重要・注意喚起】日本医真菌学会役員を騙る詐欺メールについて
++													<a href="https://www.jstage.jst.go.jp/browse/mmj/67/3/_contents/-char/en" rel="noopener noreferrer">
++														Medical Mycology Journal 67巻3号掲載
++													</a>
++													<br>
++													<a href="https://www.jstage.jst.go.jp/browse/ishinkin/67/3/_contents/-char/ja" rel="noopener noreferrer">
++														日本医真菌学会雑誌 67巻3号掲載
+ 													</a>
+ 												</li>
+ 											</ul>
+@@ -260,15 +260,15 @@
+ 									</tr>
+ 									<tr>
+ 										<td>
+-											2026年08月20日に掲載した内容
++											2026年08月27日に掲載した内容
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<ul>
+ 												<li>
+-													<a href="minasama.html" rel="noopener noreferrer">
+-														理事会議事録を掲載しました。
++													<a href="pdf/attention.pdf" rel="noopener noreferrer">
++														【重要・注意喚起】日本医真菌学会役員を騙る詐欺メールについて
+ 													</a>
+ 												</li>
+ 											</ul>
