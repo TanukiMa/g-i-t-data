@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t gemmed</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/gemmed.xml</id>
-  <updated>2026-11-04T03:34:40Z</updated>
+  <updated>2026-11-04T07:36:36Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/gemmed.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>gemmed: 追加: 「2024年度の国民医療費は48兆8100億円、1人当たり医療費に大きな地域格差あり最高の高知と最低の埼玉とで1.44倍の開き―厚労省」（2026.11.4.）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/dcd9be907ae6ff963cc116ac09ece1359bcd7ada</id>
+    <updated>2026-11-04T07:36:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「2024年度の国民医療費は48兆8100億円、1人当たり医療費に大きな地域格差あり最高の高知と最低の埼玉とで1.44倍の開き―厚労省」（2026.11.4.）&lt;/li&gt;&lt;li&gt;変更: 「費用対効果評価制度、「新知見もとに再評価（価格引き上げ）を検討してほしい」とメーカーが要望できる機会を確保へ—中医協」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 「各都道府県にプラットフォーム（協議体）設け、医療従事者の確保、養成、業務効率化・勤務環境改善を検討—医療職種養成・確保検討会」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_dcd9be9.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>gemmed: 追加: 「抗菌剤の「ファンギゾン」と「アムビゾーム」取り違えで患者死亡事故発生、両剤は同量で置き換えられない―PMDA」（2026.11.4.）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/caddf1f81fc61a323420cdc7fc91df2c1c04f1c7</id>
@@ -350,12 +357,5 @@
     <updated>2026-10-13T07:33:46Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 記事「2027年12月から「中重度者等対象の有料老人ホーム」登録制スタート、特定の介護サービス利用を入居要件とすることなど認めない」（2026.10.13.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 記事「DPC病院、機能評価係数IIの「体制評価係数」（地域医療係数の1要素）に係るデータを10月15日までに提出を—厚労省」（2026.10.9.）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;削除&lt;/strong&gt;: 記事「褥瘡・皮膚潰瘍治療に用いる外用薬「フィブラストスプレー」、美容医療分野での不適切使用（注射）で健康被害も―PMDA」（2026.10.7.）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.8-flash による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_4bf768e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261013124735/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>gemmed: 追加: 記事「2026年9月までに累計3947件の医療事故が報告され、うち89.2％で院内調査が完了—日本医療安全調査機構」（2026.10.13）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/a1368f6ce122118c5d8a5b1a8d56cd7e5fc59150</id>
-    <updated>2026-10-13T03:33:58Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 記事「2026年9月までに累計3947件の医療事故が報告され、うち89.2％で院内調査が完了—日本医療安全調査機構」（2026.10.13）&lt;/li&gt;&lt;li&gt;削除: 記事「介護医療院の7割が「介護施設・病院に入れない高齢者の最後の砦」の意義感じる—日慢協・橋本会長、介護医療院協会・鈴木会長」（2026.10.9）&lt;/li&gt;&lt;li&gt;削除: 記事「有床診療所ついに5000施設を割る、ベッド数も「すでに6万5000床を切っている」可能性—医療施設動態調査（2026年7月末）」（2026.10.6）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_a1368f6.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261013033630/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

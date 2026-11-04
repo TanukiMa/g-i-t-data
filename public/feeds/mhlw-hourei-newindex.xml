@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省 - 新着の法令</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlw-hourei-newindex.xml</id>
-  <updated>2026-10-30T07:36:13Z</updated>
+  <updated>2026-11-04T07:36:39Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlw-hourei-newindex.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 新着の法令: 変更: 「人を対象とする生命科学・医学系研究に関する倫理指針の一部を改正する件（令和８年８月27日文部科学省・厚生労働省・経済産業省告示第１号）」ほか 31 件の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-hourei-newindex/9db64c39375b15b89742a5e8cb84a83ce6084a60</id>
+    <updated>2026-11-04T07:36:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「人を対象とする生命科学・医学系研究に関する倫理指針の一部を改正する件（令和８年８月27日文部科学省・厚生労働省・経済産業省告示第１号）」ほか 31 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/hourei/new/hourei/newindex.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/diff_9db64c3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 新着の法令: 追加: 令和８年１０月３０日掲載として「障害者福祉システムに関して内閣総理大臣及び厚生労働大臣が定める機能要件の標準の細目並びに実装区分及び適合基準日並びに帳票要件の標準の細目並…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-hourei-newindex/14e3aa78253c8f2fa60f8474e8e56b3ec7cc092b</id>
