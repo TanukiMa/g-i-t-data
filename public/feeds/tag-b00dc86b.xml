@@ -2,25 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 医療DX・医療情報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-b00dc86b.xml</id>
-  <updated>2026-11-04T03:34:45Z</updated>
+  <updated>2026-11-04T22:33:32Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-b00dc86b.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「香川大学 医学部　小児看護学（仮称） 教授公募」ほか教員公募情報5件が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/06576a43b75cf7896c6686ba38e75a33ce582734</id>
+    <updated>2026-11-04T22:33:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「香川大学 医学部　小児看護学（仮称） 教授公募」ほか教員公募情報5件が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「新潟医療福祉大学：超小型モビリティを活用した身体障害者の外出支援モデル構築」ほか臨床試験情報6件が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「東京女子医科大学 総合医科学研究所 教授公募」「名古屋市立大学 医学研究科　先進救急災害医学（准教授、講師または助教） その他公募」ほか教員公募情報6件の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「医療法人花音会みうらクリニック：フェムテック検体採取試験」「株式会社TESホールディングス：米ぬか発酵物含有食品摂取による便通へ及ぼす効果の確認試験」ほか臨床試験情報6件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_06576a4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>令和6年 基本マスターに関する変更情報: 変更: 「令和2年　基本マスターに関する変更情報」「平成28年　基本マスターに関する変更情報」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx-r06kaiteijoho/3750ad6cdf64ad04990c02598efccba2a0775e12</id>
+    <updated>2026-11-04T22:33:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-r06kaiteijoho/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「令和2年　基本マスターに関する変更情報」「平成28年　基本マスターに関する変更情報」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「基本マスター」「調剤行為マスター」へのリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-r06kaiteijoho/diff_3750ad6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>傷病名マスター: 変更：「医薬品マスター」から「歯式マスター」へのリンクへ変更されました（リンク先：/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_0…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx-kihonmasta-07/0b22661776b2cb027ce12cbfb67bc0bf046b527a</id>
+    <updated>2026-11-04T22:33:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-kihonmasta-07/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「医薬品マスター」から「歯式マスター」へのリンクへ変更されました（リンク先：&lt;code&gt;/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_09.html&lt;/code&gt;）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-kihonmasta-07/diff_0b22661.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「12/10　医学統計学研究センターセミナー　欠測データを含む不完全データ解析の統計手法（入門）」のリンクが追加されました（URL: http://medstat.jp/…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/d4e116dee4d712fd15e5e2447175daf4a60c4453</id>
     <updated>2026-11-04T03:34:45Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「12/10　医学統計学研究センターセミナー　欠測データを含む不完全データ解析の統計手法（入門）」のリンクが追加されました（URL: http://medstat.jp/seminar320261210.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「11/29 令和8年度 厚生労働省 臨床研究総合促進事業 臨床研究・治験従事者研修（神戸大学）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_d4e116d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「12/10　医学統計学研究センターセミナー　欠測データを含む不完全データ解析の統計手法（入門）」のリンクが追加されました（URL: http://medstat.jp/seminar320261210.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「11/29 令和8年度 厚生労働省 臨床研究総合促進事業 臨床研究・治験従事者研修（神戸大学）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_d4e116d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261104010505/https://www.umin.ac.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省 - 医療情報のデジタル化と利活用: 追加: 「地域医療情報連携ネットワークとは」の項目が追加され、概要や経緯、方向性などを掲載していく旨が記載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-iryou-johoka/61d02535aee5ca93e845ffdcca5cd943a8e549a0</id>
     <updated>2026-11-04T03:34:44Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-iryou-johoka/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療情報連携ネットワークとは」の項目が追加され、概要や経緯、方向性などを掲載していく旨が記載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療介護総合確保基金（医療分）に係る標準事業例及び補助事業の対象について（事務連絡）」の項目が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療介護総合確保基金(医療分)を活用した地域医療情報連携ネットワークに係る適切な予算執行の徹底について(令和２年 10 月 16 日)」のPDFリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療介護総合確保基金(医療分)に係る適切な予算執行の徹底について(令和元年８月８日)」のPDFリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「地域医療情報連携ネットワークにおける同意取得方法の例について（事務連絡）（令和２年３月31日）」の掲載形式が変更されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療介護総合確保基金（医療分）に係る標準事業例及び標準単価の設定について（事務連絡）（平成29年１月27日）」の項目が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-iryou-johoka/diff_61d0253.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療情報連携ネットワークとは」の項目が追加され、概要や経緯、方向性などを掲載していく旨が記載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療介護総合確保基金（医療分）に係る標準事業例及び補助事業の対象について（事務連絡）」の項目が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療介護総合確保基金(医療分)を活用した地域医療情報連携ネットワークに係る適切な予算執行の徹底について(令和２年 10 月 16 日)」のPDFリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療介護総合確保基金(医療分)に係る適切な予算執行の徹底について(令和元年８月８日)」のPDFリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「地域医療情報連携ネットワークにおける同意取得方法の例について（事務連絡）（令和２年３月31日）」の掲載形式が変更されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「地域医療介護総合確保基金（医療分）に係る標準事業例及び標準単価の設定について（事務連絡）（平成29年１月27日）」の項目が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-iryou-johoka/diff_61d0253.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261104101445/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「成人男女を対象とした研究食品摂取による骨関連マーカーへの影響」（株式会社EPデータウィーブ）の記載が加わりました。</title>
@@ -336,26 +357,5 @@
     <updated>2026-10-23T07:35:55Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
     <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_e2bb97d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023092936/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>保健医療福祉情報システム工業会: 追加: 2026/10/26付で「【本日午前10時運用再開】ホームページの緊急点検及び修正プログラムの適用作業が完了し安全性を確認できましたので運用を再開いたしました。ご利用の皆…</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jahisorjp/fde9294d400998454858aef384de13ee79727b43</id>
-    <updated>2026-10-23T03:35:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jahisorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026/10/26付で「【本日午前10時運用再開】ホームページの緊急点検及び修正プログラムの適用作業が完了し安全性を確認できましたので運用を再開いたしました。ご利用の皆様にはご不便とご迷惑をおかけしましたことをお詫びいたします。」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「JAHIS会誌（会誌75号）を発行しました」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jahis.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jahisorjp/diff_fde9294.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023093203/https://www.jahis.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/3c993420df2a99bd1e108ac84ba6ae3bd3f1460b</id>
-    <updated>2026-10-23T03:35:05Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_3c99342.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023092936/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>大学病院医療情報ネットワークセンター(UMIN): 変更: PLAZAのPHP機能に関するお知らせが「【重要】PLAZAのPHP機能提供再開のお知らせ」（2026.10.22更新）に変更され、PHPを8.1系から8.4系へバージョ…</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/a8bd208a8b45f4dacd8360ac75cd07543f8ed838</id>
-    <updated>2026-10-22T22:34:33Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: PLAZAのPHP機能に関するお知らせが「【重要】PLAZAのPHP機能提供再開のお知らせ」（2026.10.22更新）に変更され、PHPを8.1系から8.4系へバージョンアップの上で提供が再開された旨が記載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「群馬大学 重粒子線医学推進機構　重粒子線医学研究センター　医学部門 助教公募」「長崎大学病院 内分泌・代謝内科 教授公募」「国立大学法人東海国立大学機構　名古屋大学 大学院医学系研究科総合医学専攻病態内科学講座（糖尿病・内分泌内科学分野） 教授公募」の公募情報が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「国立保健医療科学院 建築・施設管理研究部 室長等公募」「国立保健医療科学院 医療・福祉サービス研究部 主任研究員等公募」「国立保健医療科学院 医療・福祉サービス研究部 部長等公募」ほか3件の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 研修助成として「公益信託時実利彦記念脳研究助成基金 2027年度 時実利彦記念神経科学優秀博士研究賞」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「船井情報科学振興財団 船井研究奨励賞」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 臨床試験情報として「浜理薬品栄養科学株式会社」の「被験品の摂取が健常者の自覚的運動強度や運動に対する意欲に及ぼす影響」ほか8件が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「Duke University Health Systems」の「PhOG」ほか11件の臨床試験情報の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_a8bd208.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023023000/https://www.umin.ac.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
