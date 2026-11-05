@@ -1,0 +1,226 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 8ebca8e6..a4acc051 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,57 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/05
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
++												学会の活動
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-160195.html" rel="noopener noreferrer">
++												「任意接種ワクチンの小児（15歳未満）への接種」について
++											</a>
++										</td>
++									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/11/05
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
++												学会の活動
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-160235.html" rel="noopener noreferrer">
++												「2026／27シーズンの小児への新型コロナワクチン接種に対する考え方」について
++											</a>
++										</td>
++									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/11/05
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
++												学会の活動
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-160174.html" rel="noopener noreferrer">
++												「2026/27 シーズンのインフルエンザ治療・予防指針」について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -1985,57 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/08
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-pediatrician" rel="noopener noreferrer">
+-												専門医・認定資格等
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-pediatrician/post-159405.html" rel="noopener noreferrer">
+-												単位取得講演一覧（現地・WEB：2026年9月承認分）の追加掲載について
+-											</a>
+-										</td>
+-									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/04
+-											</time>
+-										</td>
+-										<td>
+-											<a href="/members-only/members-news" rel="noopener noreferrer">
+-												会員限定のお知らせ
+-											</a>
+-										</td>
+-										<td>
+-											<a href="/members-only/" rel="noopener noreferrer">
+-												会員専用ホームページに新しいお知らせを掲載しました
+-											</a>
+-										</td>
+-									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/04
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
+-												学会の活動
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159297.html" rel="noopener noreferrer">
+-												ピボキシル基を有する抗菌薬に対する注意喚起について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2052,84 +2052,84 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/11/04
++												2026/11/05
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-160194.html" rel="noopener noreferrer">
+-												経鼻弱毒生インフルエンザワクチンの使用に関する考えの改訂について
++											<a href="https://www.jpeds.or.jp/news/post-160195.html" rel="noopener noreferrer">
++												「任意接種ワクチンの小児（15歳未満）への接種」について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/29
++												2026/11/05
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159964.html" rel="noopener noreferrer">
+-												Injury Alert（傷害速報）の掲載について
++											<a href="https://www.jpeds.or.jp/news/post-160235.html" rel="noopener noreferrer">
++												「2026／27シーズンの小児への新型コロナワクチン接種に対する考え方」について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/28
++												2026/11/05
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159930.html" rel="noopener noreferrer">
+-												委員会報告「重症心身障害児(者)が在宅生活を継続せず重症心身障害施設へ入所した要因についての実態調査」について
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-160174.html" rel="noopener noreferrer">
++												「2026/27 シーズンのインフルエンザ治療・予防指針」について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/27
++												2026/11/04
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159917.html" rel="noopener noreferrer">
+-												委員会報告「重症心身障害児（者）・医療的ケア児（者）の診療経験に関する質問紙調査結果報告」について
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-160194.html" rel="noopener noreferrer">
++												経鼻弱毒生インフルエンザワクチンの使用に関する考えの改訂について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/26
++												2026/10/29
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/post-159894.html" rel="noopener noreferrer">
+-												電子書籍サービスKaLib緊急メンテナンスについて
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159964.html" rel="noopener noreferrer">
++												Injury Alert（傷害速報）の掲載について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/22
++												2026/10/28
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/post-159881.html" rel="noopener noreferrer">
+-												こどもの救急サイトおよびJPSオンラインセミナーサイト緊急メンテナンスについて
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159930.html" rel="noopener noreferrer">
++												委員会報告「重症心身障害児(者)が在宅生活を継続せず重症心身障害施設へ入所した要因についての実態調査」について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/13
++												2026/10/27
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159763.html" rel="noopener noreferrer">
+-												委員会報告「小児期の慢性疾患患者および要保護児童、要支援児童に関する病診連携の実態調査」について
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159917.html" rel="noopener noreferrer">
++												委員会報告「重症心身障害児（者）・医療的ケア児（者）の診療経験に関する質問紙調査結果報告」について
+ 											</a>
+ 										</td>
+ 									</tr>

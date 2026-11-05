@@ -1,0 +1,48 @@
+diff --git a/sites/pathology/jp/or/pathology/index.html b/sites/pathology/jp/or/pathology/index.html
+index d170899d..8267556b 100644
+--- a/sites/pathology/jp/or/pathology/index.html
++++ b/sites/pathology/jp/or/pathology/index.html
+@@ -339,7 +339,7 @@
+ 							</div>
+ 						</div>
+ 						<div>
+-							<a href="https://www.pathology.or.jp/news/8.html" rel="noopener noreferrer">
++							<a href="https://www.pathology.or.jp/news/9.html" rel="noopener noreferrer">
+ 								<img alt="医師賠償責任保険" src="https://pathology.or.jp/images/hoken_banner.gif">
+ 							</a>
+ 						</div>
+@@ -420,6 +420,20 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											2026.11.05
++											<a href="https://www.pathology.or.jp/news/9.html" rel="noopener noreferrer">
++												「令和9年度 医師賠償責任保険制度」案内
++											</a>
++										</li>
++										<hr>
++										<li>
++											2026.11.04
++											<a href="https://www.pathology.or.jp/news/post-20261030.html" rel="noopener noreferrer">
++												コンサルテーションシステム　再開のお知らせ
++											</a>
++										</li>
++										<hr>
+ 										<li>
+ 											2026.11.02
+ 											<a href="https://www.pathology.or.jp/news/rare20270227.html" rel="noopener noreferrer">
+@@ -448,13 +462,6 @@
+ 											</a>
+ 										</li>
+ 										<hr>
+-										<li>
+-											2026.10.30
+-											<a href="https://www.pathology.or.jp/news/post-20261030.html" rel="noopener noreferrer">
+-												コンサルテーションシステム　一部機能停止のお知らせ
+-											</a>
+-										</li>
+-										<hr>
+ 										<li>
+ 											2026.10.30
+ 											<a href="https://www.pathology.or.jp/senmoni/20260901shisetu.html" rel="noopener noreferrer">

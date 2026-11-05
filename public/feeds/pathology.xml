@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本病理学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/pathology.xml</id>
-  <updated>2026-11-02T08:23:46Z</updated>
+  <updated>2026-11-05T07:33:56Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/pathology.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pathology/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本病理学会: 追加: 「2026.11.05 令和9年度 医師賠償責任保険制度」案内</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/pathology/78d87051fdaeaf38fa1730e788ecb1bccaf4317c</id>
+    <updated>2026-11-05T07:33:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pathology/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026.11.05 令和9年度 医師賠償責任保険制度」案内&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026.11.04 コンサルテーションシステム　再開のお知らせ」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.10.30 コンサルテーションシステム　一部機能停止のお知らせ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pathology.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pathology/diff_78d8705.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本病理学会: 追加: 【希少がん事業】2026年度希少サブタイプ・消化管エキスパート育成講習会のご案内（2026.11.02）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pathology/b84118bcb92706985bcf324a18b9fcdb1ebccfaa</id>

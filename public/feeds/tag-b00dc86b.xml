@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 医療DX・医療情報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-b00dc86b.xml</id>
-  <updated>2026-11-04T22:33:32Z</updated>
+  <updated>2026-11-05T07:33:57Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-b00dc86b.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 令和9年度「オンライン臨床試験特論コース」全18回（リンク先: http://www.medstat.jp/advrct9.html）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/b7ec913118443a2020affeb4f000c321a7d7221e</id>
+    <updated>2026-11-05T07:33:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和9年度「オンライン臨床試験特論コース」全18回（リンク先: http://www.medstat.jp/advrct9.html）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 東京大学大学院医学系研究科 病理学 分子病理学 講師 昇任 : 三小田　直&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 東京大学病院 救急救命センター・ER 講師 昇任 : 浅田　敏文&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 東京大学病院 光学医療診療部 准教授 昇任 : 辻　陽介&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 東京大学病院 小児・新生児集中治療部 教授 昇任 : 犬塚　亮&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第12回DIA医療機器開発シンポジウム - 医療データ利活用時代とSaMDの社会実装 -」「昇任 : 小林　謙也」ほか5件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_b7ec913.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「香川大学 医学部　小児看護学（仮称） 教授公募」ほか教員公募情報5件が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/06576a43b75cf7896c6686ba38e75a33ce582734</id>
@@ -350,12 +357,5 @@
     <updated>2026-10-23T07:35:56Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jahisorjp/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2025/08/28」「「JAHIS医療情報システムにおける無線通信技術利用ガイド」(セキュリティ委員会 セキュアトークンWG)を掲載しました」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 【お知らせ】１１月２日（月）事務所の閉鎖お知らせ（2026/10/23）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jahis.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jahisorjp/diff_409c74a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023093203/https://www.jahis.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/e2bb97d63479f007af33513f8ed54fe7bd62c587</id>
-    <updated>2026-10-23T07:35:55Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_e2bb97d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023092936/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
