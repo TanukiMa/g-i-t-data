@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本救急医学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jaam.xml</id>
-  <updated>2026-10-30T22:34:17Z</updated>
+  <updated>2026-11-05T03:34:25Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jaam.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jaam/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本救急医学会: 追加: 2026/11/05 厚労省関連「（厚生労働省より）令和８年医師の届出について」（info/2026/info-20261104.html）が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jaam/d3b3686e4ce7caf3130b9847f6ffc51df698fb4b</id>
+    <updated>2026-11-05T03:34:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jaam/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026/11/05 厚労省関連「（厚生労働省より）令和８年医師の届出について」（info/2026/info-20261104.html）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jaam.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jaam/diff_d3b3686.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本救急医学会: 追加: 2026/10/30付で「（厚生労働省より） 救急医療に係る各種調査について」（info/2026/info-20261030.html）が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jaam/6c00d7ef83cfdb3673ad0dc41de1c68044eaa126</id>

@@ -1,0 +1,90 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index bbe74a8c..ab517980 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1877,28 +1877,28 @@
+ 				<div>
+ 					<dl>
+ 						<dt>
+-							2026/10/23
++							2026/11/05
+ 						</dt>
+ 						<dd>
+-							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
+-								お知らせ
++							<a href="/seminar/" rel="noopener noreferrer">
++								教育研修
+ 							</a>
+ 							<p>
+-								<a href="/topics/news/261023_3.html" rel="noopener noreferrer">
+-									【重要】メール配信サービス（ブラストメール）への不正アクセスに伴う情報漏えいについて
++								<a href="/seminar/pdf/seminar_info.pdf" rel="noopener noreferrer">
++									研修参加申込状況を更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/10/23
++							2026/11/02
+ 						</dt>
+ 						<dd>
+-							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
+-								お知らせ
++							<a href="/topics/admininfo/" rel="noopener noreferrer">
++								医療行政情報
+ 							</a>
+ 							<p>
+-								<a href="/topics/news/261023_2.html" rel="noopener noreferrer">
+-									PHPの脆弱性への対応について ―病院ホームページを訪れる患者さんの安全と信頼を守るために―
++								<a href="/topics/admininfo/" rel="noopener noreferrer">
++									医療行政情報を6件更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+@@ -1910,34 +1910,34 @@
+ 								お知らせ
+ 							</a>
+ 							<p>
+-								<a href="/topics/news/261023_1.html" rel="noopener noreferrer">
+-									【お詫び】当協会ホームページの閲覧障害および復旧のお知らせ
++								<a href="/topics/news/261023_3.html" rel="noopener noreferrer">
++									【重要】メール配信サービス（ブラストメール）への不正アクセスに伴う情報漏えいについて
+ 								</a>
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/11/02
++							2026/10/23
+ 						</dt>
+ 						<dd>
+-							<a href="/topics/admininfo/" rel="noopener noreferrer">
+-								医療行政情報
++							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
++								お知らせ
+ 							</a>
+ 							<p>
+-								<a href="/topics/admininfo/" rel="noopener noreferrer">
+-									医療行政情報を6件更新しました
++								<a href="/topics/news/261023_2.html" rel="noopener noreferrer">
++									PHPの脆弱性への対応について ―病院ホームページを訪れる患者さんの安全と信頼を守るために―
+ 								</a>
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/10/30
++							2026/10/23
+ 						</dt>
+ 						<dd>
+-							<a href="/seminar/" rel="noopener noreferrer">
+-								教育研修
++							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
++								お知らせ
+ 							</a>
+ 							<p>
+-								<a href="/seminar/clinicalpractice/pdf/261030_1.pdf" rel="noopener noreferrer">
+-									2026年度 臨床研修指導医講習会 オンライン開催のご案内
++								<a href="/topics/news/261023_1.html" rel="noopener noreferrer">
++									【お詫び】当協会ホームページの閲覧障害および復旧のお知らせ
+ 								</a>
+ 							</p>
+ 						</dd>
