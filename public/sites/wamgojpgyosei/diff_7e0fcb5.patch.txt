@@ -1,0 +1,268 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index a4df9542..c9b1710c 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2051,48 +2051,48 @@
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					医療
++																					福祉全般
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23010&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年11月4日更新）">
+-																					風しん最新情報（令和8年11月4日更新）
++																				<a href="/gyoseiShiryou/detail?gno=23016&amp;ct=100100140" rel="noopener noreferrer" title="第22回 全世代型社会保障構築会議（令和8年11月5日開催）">
++																					第22回 全世代型社会保障構築会議（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					審議会
++																					医療
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23014&amp;ct=010010050" rel="noopener noreferrer" title="第219回 社会保障審議会 医療保険部会（令和8年11月5日開催）">
+-																					第219回 社会保障審議会 医療保険部会（令和8年11月5日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23022&amp;ct=030010140" rel="noopener noreferrer" title="第159回 先進医療会議（令和8年11月5日開催）">
++																					第159回 先進医療会議（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					医療
++																					審議会
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23012&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年11月4日更新）">
+-																					麻しん最新情報（令和8年11月4日更新）
++																				<a href="/gyoseiShiryou/detail?gno=23021&amp;ct=010010265" rel="noopener noreferrer" title="第49回 匿名医療情報等の提供に関する専門委員会（令和8年11月9日開催）">
++																					第49回 匿名医療情報等の提供に関する専門委員会（令和8年11月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					障害者福祉
++																					医療
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23011&amp;ct=050020110" rel="noopener noreferrer" title="第89回 障害者政策委員会（令和8年11月5日開催）">
+-																					第89回 障害者政策委員会（令和8年11月5日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23010&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年11月4日更新）">
++																					風しん最新情報（令和8年11月4日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2103,8 +2103,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23000&amp;ct=010010020" rel="noopener noreferrer" title="第273回 社会保障審議会 介護給付費分科会（令和8年11月2日開催）">
+-																					第273回 社会保障審議会 介護給付費分科会（令和8年11月2日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23014&amp;ct=010010050" rel="noopener noreferrer" title="第219回 社会保障審議会 医療保険部会（令和8年11月5日開催）">
++																					第219回 社会保障審議会 医療保険部会（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2115,8 +2115,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23005&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月30日更新）">
+-																					インフルエンザ最新情報（令和8年10月30日更新）
++																				<a href="/gyoseiShiryou/detail?gno=23012&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年11月4日更新）">
++																					麻しん最新情報（令和8年11月4日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2125,12 +2125,12 @@
+ 																				<div>
+ 																				</div>
+ 																				<div>
+-																					審議会
++																					障害者福祉
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22997&amp;ct=010010020" rel="noopener noreferrer" title="第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）">
+-																					第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23011&amp;ct=050020110" rel="noopener noreferrer" title="第89回 障害者政策委員会（令和8年11月5日開催）">
++																					第89回 障害者政策委員会（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2164,8 +2164,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23014&amp;ct=010010050" rel="noopener noreferrer" title="第219回 社会保障審議会 医療保険部会（令和8年11月5日開催）">
+-																					第219回 社会保障審議会 医療保険部会（令和8年11月5日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23021&amp;ct=010010265" rel="noopener noreferrer" title="第49回 匿名医療情報等の提供に関する専門委員会（令和8年11月9日開催）">
++																					第49回 匿名医療情報等の提供に関する専門委員会（令和8年11月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2176,8 +2176,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23000&amp;ct=010010020" rel="noopener noreferrer" title="第273回 社会保障審議会 介護給付費分科会（令和8年11月2日開催）">
+-																					第273回 社会保障審議会 介護給付費分科会（令和8年11月2日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23014&amp;ct=010010050" rel="noopener noreferrer" title="第219回 社会保障審議会 医療保険部会（令和8年11月5日開催）">
++																					第219回 社会保障審議会 医療保険部会（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2188,8 +2188,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22997&amp;ct=010010020" rel="noopener noreferrer" title="第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）">
+-																					第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23000&amp;ct=010010020" rel="noopener noreferrer" title="第273回 社会保障審議会 介護給付費分科会（令和8年11月2日開催）">
++																					第273回 社会保障審議会 介護給付費分科会（令和8年11月2日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2200,8 +2200,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22984&amp;ct=010010030" rel="noopener noreferrer" title="第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）">
+-																					第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22997&amp;ct=010010020" rel="noopener noreferrer" title="第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）">
++																					第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2212,8 +2212,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22976&amp;ct=010010090" rel="noopener noreferrer" title="第160回 社会保障審議会 障害者部会（令和8年10月20日開催） ">
+-																					第160回 社会保障審議会 障害者部会（令和8年10月20日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22984&amp;ct=010010030" rel="noopener noreferrer" title="第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）">
++																					第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2330,8 +2330,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23010&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年11月4日更新）">
+-																					風しん最新情報（令和8年11月4日更新）
++																				<a href="/gyoseiShiryou/detail?gno=23022&amp;ct=030010140" rel="noopener noreferrer" title="第159回 先進医療会議（令和8年11月5日開催）">
++																					第159回 先進医療会議（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2342,8 +2342,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23012&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年11月4日更新）">
+-																					麻しん最新情報（令和8年11月4日更新）
++																				<a href="/gyoseiShiryou/detail?gno=23010&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年11月4日更新）">
++																					風しん最新情報（令和8年11月4日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2354,8 +2354,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23005&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月30日更新）">
+-																					インフルエンザ最新情報（令和8年10月30日更新）
++																				<a href="/gyoseiShiryou/detail?gno=23012&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年11月4日更新）">
++																					麻しん最新情報（令和8年11月4日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2366,8 +2366,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22991&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月27日更新）">
+-																					風しん最新情報（令和8年10月27日更新）
++																				<a href="/gyoseiShiryou/detail?gno=23005&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月30日更新）">
++																					インフルエンザ最新情報（令和8年10月30日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2378,8 +2378,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22995&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月27日更新）">
+-																					麻しん最新情報（令和8年10月27日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22991&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月27日更新）">
++																					風しん最新情報（令和8年10月27日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2579,8 +2579,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22990&amp;ct=100100170" rel="noopener noreferrer" title="第24回 成年後見制度利用促進専門家会議（令和8年10月27日開催）">
+-																					第24回 成年後見制度利用促進専門家会議（令和8年10月27日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23016&amp;ct=100100140" rel="noopener noreferrer" title="第22回 全世代型社会保障構築会議（令和8年11月5日開催）">
++																					第22回 全世代型社会保障構築会議（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2591,8 +2591,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22954&amp;ct=100100170" rel="noopener noreferrer" title="第23回 成年後見制度利用促進専門家会議（令和8年10月13日開催）">
+-																					第23回 成年後見制度利用促進専門家会議（令和8年10月13日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23019&amp;ct=100100155" rel="noopener noreferrer" title="第13回 全世代型社会保障構築本部（令和8年11月5日開催）">
++																					第13回 全世代型社会保障構築本部（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2603,8 +2603,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22854&amp;ct=100100170" rel="noopener noreferrer" title="成年後見制度利用促進専門家会議　第3回成年後見制度の適切な運用に係るワーキング・グループ（令和8年9月10日開催）">
+-																					成年後見制度利用促進専門家会議　第3回成年後見制度の適切な運用に係るワーキング・グループ（令和8年9月10日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22990&amp;ct=100100170" rel="noopener noreferrer" title="第24回 成年後見制度利用促進専門家会議（令和8年10月27日開催）">
++																					第24回 成年後見制度利用促進専門家会議（令和8年10月27日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2615,8 +2615,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22821&amp;ct=100100170" rel="noopener noreferrer" title="成年後見制度利用促進専門家会議　第2回地域における権利擁護の支援体制に係るワーキング・グループ（令和8年8月28日開催）">
+-																					成年後見制度利用促進専門家会議　第2回地域における権利擁護の支援体制に係るワーキング・グループ（令和8年8月28日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22954&amp;ct=100100170" rel="noopener noreferrer" title="第23回 成年後見制度利用促進専門家会議（令和8年10月13日開催）">
++																					第23回 成年後見制度利用促進専門家会議（令和8年10月13日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2627,8 +2627,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22767&amp;ct=100100170" rel="noopener noreferrer" title="成年後見制度利用促進専門家会議　第１回地域における権利擁護の支援体制に係るワーキング・グループ（令和8年7月30日開催）">
+-																					成年後見制度利用促進専門家会議　第１回地域における権利擁護の支援体制に係るワーキング・グループ（令和8年7月30日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22854&amp;ct=100100170" rel="noopener noreferrer" title="成年後見制度利用促進専門家会議　第3回成年後見制度の適切な運用に係るワーキング・グループ（令和8年9月10日開催）">
++																					成年後見制度利用促進専門家会議　第3回成年後見制度の適切な運用に係るワーキング・グループ（令和8年9月10日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>

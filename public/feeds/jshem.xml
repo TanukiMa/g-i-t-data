@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本血液学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jshem.xml</id>
-  <updated>2026-11-05T03:34:26Z</updated>
+  <updated>2026-11-06T03:33:52Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jshem.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshem/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本血液学会: 変更: 「第88回日本血液学会学術集会」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jshem/c51a5446e55301c48f532c25a276a1fc46fcfc6e</id>
+    <updated>2026-11-06T03:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshem/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「第88回日本血液学会学術集会」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「第89回日本血液学会学術集会」（https://www.jshem.or.jp/89/）へのリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jshem.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshem/diff_c51a544.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本血液学会: 追加: 「2026年11月5日 血液専門医認定試験 受験要件について （2027年度以降の旧制度研修者への対応）」の記載が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jshem/f6ff1b5111a33dd5e29735d61f80f89ae7f07da5</id>

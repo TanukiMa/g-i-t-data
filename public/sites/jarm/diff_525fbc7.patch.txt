@@ -1,0 +1,13 @@
+diff --git a/sites/jarm/jp/jarm/index.html b/sites/jarm/jp/jarm/index.html
+index bbc1ebd5..38a100ac 100644
+--- a/sites/jarm/jp/jarm/index.html
++++ b/sites/jarm/jp/jarm/index.html
+@@ -307,7 +307,7 @@
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="http://www.iarm-jrm.org/" rel="noopener noreferrer">
++										<a rel="noopener noreferrer">
+ 											国際農村医学会
+ 										</a>
+ 									</li>

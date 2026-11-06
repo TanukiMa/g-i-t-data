@@ -1,0 +1,108 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index ed1c7be1..4eeeb7ae 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1250,7 +1250,7 @@
+ 										</td>
+ 										<td>
+ 											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-160174.html" rel="noopener noreferrer">
+-												「2026/27 シーズンのインフルエンザ治療・予防指針」について
++												「2026／27 シーズンのインフルエンザ治療・予防指針」について
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -1305,23 +1305,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/11/02
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
+-												イベント
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
+-												小児診療初期対応（JPLS）コース募集情報更新について
+-											</a>
+-										</td>
+-									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2036,6 +2019,23 @@
+ 											</a>
+ 										</td>
+ 									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/09/08
++											</time>
++										</td>
++										<td>
++											<a href="/members-only/members-news" rel="noopener noreferrer">
++												会員限定のお知らせ
++											</a>
++										</td>
++										<td>
++											<a href="/members-only/" rel="noopener noreferrer">
++												会員専用ホームページに新しいお知らせを掲載しました
++											</a>
++										</td>
++									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2081,7 +2081,7 @@
+ 										</td>
+ 										<td>
+ 											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-160174.html" rel="noopener noreferrer">
+-												「2026/27 シーズンのインフルエンザ治療・予防指針」について
++												「2026／27 シーズンのインフルエンザ治療・予防指針」について
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -2163,18 +2163,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/11/02
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
+-												小児診療初期対応（JPLS）コース募集情報更新について
+-											</a>
+-										</td>
+-									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2235,6 +2223,18 @@
+ 											</a>
+ 										</td>
+ 									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/03/26
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-155330.html" rel="noopener noreferrer">
++												第15回インテンシブコースの開催について
++											</a>
++										</td>
++									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
