@@ -1,0 +1,38 @@
+diff --git a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+index 114c3550..aaadeec6 100644
+--- a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
++++ b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+@@ -387,6 +387,16 @@
+ 									<div>
+ 										<table>
+ 											<tbody>
++												<tr>
++													<th>
++														2026/11/06
++													</th>
++													<td>
++														<a href="/entry_member/news/20261106/4663/" rel="noopener noreferrer">
++															医薬品の適応外使用に係る保険診療上の取扱いについて
++														</a>
++													</td>
++												</tr>
+ 												<tr>
+ 													<th>
+ 														2026/11/05
+@@ -427,16 +437,6 @@
+ 														</a>
+ 													</td>
+ 												</tr>
+-												<tr>
+-													<th>
+-														2026/11/02
+-													</th>
+-													<td>
+-														<a href="/entry_member/news/20261102/4630/" rel="noopener noreferrer">
+-															令和8年度指導医申請・指導医更新申請・指導医再認定申請
+-														</a>
+-													</td>
+-												</tr>
+ 											</tbody>
+ 										</table>
+ 									</div>
