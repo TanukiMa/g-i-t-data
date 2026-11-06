@@ -1,0 +1,91 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index cb4f9697..fdd50bf1 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -863,6 +863,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1941" rel="noopener noreferrer">
++								<p>
++									<img alt="※ご注意ください※　理事長名をかたった不審メール（なりすましメール）" src="/pics/news/news-thumb-1941.jpg">
++								</p>
++								<h2>
++									※ご注意ください※　理事長名をかたった不審メール（なりすましメール）
++								</h2>
++								<p>
++									このたび、理事長名をかたった不審メール（なりすましメール）が送信されていることが確認されました。 …
++								</p>
++								<p>
++									<time>
++										2026.11.06
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1766" rel="noopener noreferrer">
+ 								<p>
+@@ -2501,24 +2519,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1830" rel="noopener noreferrer">
+-								<p>
+-									<img alt="Youは何しに学会へ？ベテラン医師はキャリアを重ねても、学びは終わらない。" src="/pics/youtube/news-youtube-1830.jpg">
+-								</p>
+-								<h2>
+-									Youは何しに学会へ？ベテラン医師はキャリアを重ねても、学びは終わらない。
+-								</h2>
+-								<p>
+-									「もう十分経験を積んだはずなのに、なぜ今も学び続けるのですか？」日本プライマリ・ケア連合学会の学術…
+-								</p>
+-								<p>
+-									<time>
+-										2026.08.03
+-									</time>
+-								</p>
+-							</a>
+-						</li>
+ 					</ul>
+ 					<p>
+ 						<a rel="noopener noreferrer">
+@@ -7017,6 +7017,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1941" rel="noopener noreferrer">
++								<p>
++									<img alt="※ご注意ください※　理事長名をかたった不審メール（なりすましメール）" src="/pics/news/news-thumb-1941.jpg">
++								</p>
++								<h2>
++									※ご注意ください※　理事長名をかたった不審メール（なりすましメール）
++								</h2>
++								<p>
++									このたび、理事長名をかたった不審メール（なりすましメール）が送信されていることが確認されました。 …
++								</p>
++								<p>
++									<time>
++										2026.11.06
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1871" rel="noopener noreferrer">
+ 								<p>
+@@ -9894,6 +9912,11 @@
+ 							<img alt="PCR CONNECT2026" src="./shared/images/side_bana-pcr-connect2026.jpg">
+ 						</a>
+ 					</li>
++					<li>
++						<a href="https://sites.google.com/primary-care.or.jp/vaccinetoranoana2026-ondemand/" rel="noopener noreferrer">
++							<img alt="第9回ワクチン虎の穴セミナー　大人のワクチン徹底解説　オンデマンド配信参加者募集中！" src="./shared/images/side_bana-vaccine4all02.png">
++						</a>
++					</li>
+ 				</ul>
+ 				<h2>
+ 					会員へのお知らせ
