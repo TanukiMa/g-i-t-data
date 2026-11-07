@@ -1,0 +1,564 @@
+diff --git a/sites/jbsoc/jp/or/jbsoc/index.html b/sites/jbsoc/jp/or/jbsoc/index.html
+index 612bbdc7..709f5630 100644
+--- a/sites/jbsoc/jp/or/jbsoc/index.html
++++ b/sites/jbsoc/jp/or/jbsoc/index.html
+@@ -545,7 +545,6 @@
+ 											<a href="https://www.jbsoc.or.jp/notice/the-journal-of-biochemistry-table-of-contents-for-october-2026.html" rel="noopener noreferrer" title="The Journal of Biochemistry Table of Contents for October 2026">
+ 												The Journal of Biochemistry Table of Contents for October 2026
+ 											</a>
+-											<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 										</h3>
+ 										<p>
+ 										</p>
+@@ -684,22 +683,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
+-														ニュース
++													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
++														学術集会
+ 													</a>
+ 												</span>
+-												2026.10.20
++												2026.10.22
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey-2.html" rel="noopener noreferrer" title="リマインド【ご回答のお願い】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）">
+-													リマインド【ご回答のお願い】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）
++												<a href="https://www.jbsoc.or.jp/calendar_list/58th-naito-conference#new_tab" rel="noopener noreferrer" title="第58回内藤コンファレンス「微小管・分子モーター研究の最前線：構造からメカニクス、機能、疾患まで」ポスター発表者募集　（公財）内藤記念科学振興財団">
++													第58回内藤コンファレンス「微小管・分子モーター研究の最前線：構造からメカニクス、機能、疾患まで」ポスター発表者募集　（公財）内藤記念科学振興財団
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey-2.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/58th-naito-conference#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -711,22 +710,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
+-														求人情報
++													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
++														学術集会
+ 													</a>
+ 												</span>
+-												2026.10.20
++												2026.10.22
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/job_info/tmig#new_tab" rel="noopener noreferrer" title="東京都健康長寿医療センター　老化制御研究、老化脳神経科学研究、老年病理学研究チームのいずれかに属するテーマリーダー　研究副部長、または研究部長">
+-													東京都健康長寿医療センター　老化制御研究、老化脳神経科学研究、老年病理学研究チームのいずれかに属するテーマリーダー　研究副部長、または研究部長
++												<a href="https://www.jbsoc.or.jp/calendar_list/57th-naito-conference#new_tab" rel="noopener noreferrer" title="第57回内藤コンファレンス「グリア・ニューロンネットワークが奏でる脳と全身機能の制御」ポスター発表者募集　（公財）内藤記念科学振興財団">
++													第57回内藤コンファレンス「グリア・ニューロンネットワークが奏でる脳と全身機能の制御」ポスター発表者募集　（公財）内藤記念科学振興財団
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/job_info/tmig#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/57th-naito-conference#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -742,18 +741,18 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.10.16
++												2026.10.21
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/scj-symposium#new_tab" rel="noopener noreferrer" title="日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」">
+-													日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」
++												<a href="https://www.jbsoc.or.jp/calendar_list/senri-life-y5#new_tab" rel="noopener noreferrer" title="千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」">
++													千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/scj-symposium#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/senri-life-y5#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -765,22 +764,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
+-														求人情報
++													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
++														ニュース
+ 													</a>
+ 												</span>
+-												2026.10.15
++												2026.10.20
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/job_info/kyoto-13#new_tab" rel="noopener noreferrer" title="京都大学自然科学域統合化学系：化学研究所 生体機能化学研究系 生体機能設計化学研究領域　准教授">
+-													京都大学自然科学域統合化学系：化学研究所 生体機能化学研究系 生体機能設計化学研究領域　准教授
++												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey-2.html" rel="noopener noreferrer" title="リマインド【ご回答のお願い】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）">
++													リマインド【ご回答のお願い】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/job_info/kyoto-13#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey-2.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -796,18 +795,18 @@
+ 														求人情報
+ 													</a>
+ 												</span>
+-												2026.10.13
++												2026.10.20
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/job_info/med-osaka-2#new_tab" rel="noopener noreferrer" title="大阪大学大学院医学系研究科・薬理学講座・統合薬理学（日比野浩研究室）　特任助教（常勤）">
+-													大阪大学大学院医学系研究科・薬理学講座・統合薬理学（日比野浩研究室）　特任助教（常勤）
++												<a href="https://www.jbsoc.or.jp/job_info/tmig#new_tab" rel="noopener noreferrer" title="東京都健康長寿医療センター　老化制御研究、老化脳神経科学研究、老年病理学研究チームのいずれかに属するテーマリーダー　研究副部長、または研究部長">
++													東京都健康長寿医療センター　老化制御研究、老化脳神経科学研究、老年病理学研究チームのいずれかに属するテーマリーダー　研究副部長、または研究部長
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/job_info/med-osaka-2#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/job_info/tmig#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -819,22 +818,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
+-														ニュース
++													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
++														学術集会
+ 													</a>
+ 												</span>
+-												2026.10.13
++												2026.10.16
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey.html" rel="noopener noreferrer" title="【ご協力のお願い】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）">
+-													【ご協力のお願い】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）
++												<a href="https://www.jbsoc.or.jp/calendar_list/scj-symposium#new_tab" rel="noopener noreferrer" title="日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」">
++													日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/scj-symposium#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -846,22 +845,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
+-														ニュース
++													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
++														求人情報
+ 													</a>
+ 												</span>
+-												2026.10.13
++												2026.10.15
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news4/scjnews984.html" rel="noopener noreferrer" title="日本学術会議ニュース　【日本学術会議会長談話】硤合憲三先生のノーベル化学賞受賞を祝して 等">
+-													日本学術会議ニュース　【日本学術会議会長談話】硤合憲三先生のノーベル化学賞受賞を祝して 等
++												<a href="https://www.jbsoc.or.jp/job_info/kyoto-13#new_tab" rel="noopener noreferrer" title="京都大学自然科学域統合化学系：化学研究所 生体機能化学研究系 生体機能設計化学研究領域　准教授">
++													京都大学自然科学域統合化学系：化学研究所 生体機能化学研究系 生体機能設計化学研究領域　准教授
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news4/scjnews984.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/job_info/kyoto-13#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -873,22 +872,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news2" rel="noopener noreferrer">
+-														賞助成
++													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
++														求人情報
+ 													</a>
+ 												</span>
+-												2026.10.09
++												2026.10.13
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news2/takano2027.html" rel="noopener noreferrer" title="2027年度研究助成　（公財）タカノ農芸化学研究助成財団">
+-													2027年度研究助成　（公財）タカノ農芸化学研究助成財団
++												<a href="https://www.jbsoc.or.jp/job_info/med-osaka-2#new_tab" rel="noopener noreferrer" title="大阪大学大学院医学系研究科・薬理学講座・統合薬理学（日比野浩研究室）　特任助教（常勤）">
++													大阪大学大学院医学系研究科・薬理学講座・統合薬理学（日比野浩研究室）　特任助教（常勤）
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news2/takano2027.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/job_info/med-osaka-2#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -900,22 +899,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
+-														求人情報
++													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
++														ニュース
+ 													</a>
+ 												</span>
+-												2026.10.09
++												2026.10.13
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/job_info/iwate-med#new_tab" rel="noopener noreferrer" title="岩手医科大学 教養教育センター 化学科　助教">
+-													岩手医科大学 教養教育センター 化学科　助教
++												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey.html" rel="noopener noreferrer" title="【ご協力のお願い】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）">
++													【ご協力のお願い】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/job_info/iwate-med#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -927,22 +926,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
+-														学術集会
++													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
++														ニュース
+ 													</a>
+ 												</span>
+-												2026.10.08
++												2026.10.13
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026.html" rel="noopener noreferrer" title="「オルトライブ」開催ご案内　株式会社オルトメディコ">
+-													「オルトライブ」開催ご案内　株式会社オルトメディコ
++												<a href="https://www.jbsoc.or.jp/news/news4/scjnews984.html" rel="noopener noreferrer" title="日本学術会議ニュース　【日本学術会議会長談話】硤合憲三先生のノーベル化学賞受賞を祝して 等">
++													日本学術会議ニュース　【日本学術会議会長談話】硤合憲三先生のノーベル化学賞受賞を祝して 等
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news4/scjnews984.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -960,18 +959,18 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.10.16
++												2026.10.22
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/scj-symposium#new_tab" rel="noopener noreferrer" title="日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」">
+-													日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」
++												<a href="https://www.jbsoc.or.jp/calendar_list/58th-naito-conference#new_tab" rel="noopener noreferrer" title="第58回内藤コンファレンス「微小管・分子モーター研究の最前線：構造からメカニクス、機能、疾患まで」ポスター発表者募集　（公財）内藤記念科学振興財団">
++													第58回内藤コンファレンス「微小管・分子モーター研究の最前線：構造からメカニクス、機能、疾患まで」ポスター発表者募集　（公財）内藤記念科学振興財団
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/scj-symposium#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/58th-naito-conference#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -987,18 +986,18 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.10.08
++												2026.10.22
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026.html" rel="noopener noreferrer" title="「オルトライブ」開催ご案内　株式会社オルトメディコ">
+-													「オルトライブ」開催ご案内　株式会社オルトメディコ
++												<a href="https://www.jbsoc.or.jp/calendar_list/57th-naito-conference#new_tab" rel="noopener noreferrer" title="第57回内藤コンファレンス「グリア・ニューロンネットワークが奏でる脳と全身機能の制御」ポスター発表者募集　（公財）内藤記念科学振興財団">
++													第57回内藤コンファレンス「グリア・ニューロンネットワークが奏でる脳と全身機能の制御」ポスター発表者募集　（公財）内藤記念科学振興財団
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/57th-naito-conference#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1014,18 +1013,18 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.09.30
++												2026.10.21
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/jbeg2026#new_tab" rel="noopener noreferrer" title="日本生体エネルギー研究会 第52回討論会">
+-													日本生体エネルギー研究会 第52回討論会
++												<a href="https://www.jbsoc.or.jp/calendar_list/senri-life-y5#new_tab" rel="noopener noreferrer" title="千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」">
++													千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/jbeg2026#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/senri-life-y5#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1041,18 +1040,18 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.09.28
++												2026.10.16
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-2#new_tab" rel="noopener noreferrer" title="DMP（データマネジメントプラン）は研究現場でどう活かせるか―実践事例から考える研究データマネジメント―">
+-													DMP（データマネジメントプラン）は研究現場でどう活かせるか―実践事例から考える研究データマネジメント―
++												<a href="https://www.jbsoc.or.jp/calendar_list/scj-symposium#new_tab" rel="noopener noreferrer" title="日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」">
++													日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-2#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/scj-symposium#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1068,17 +1067,18 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.09.17
++												2026.10.08
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/169th-jams-symposium#new_tab" rel="noopener noreferrer" title="第169回日本医学会シンポジウム「AIの実臨床応用」">
+-													第169回日本医学会シンポジウム「AIの実臨床応用」
++												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026.html" rel="noopener noreferrer" title="「オルトライブ」開催ご案内　株式会社オルトメディコ">
++													「オルトライブ」開催ご案内　株式会社オルトメディコ
+ 												</a>
++												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/169th-jams-symposium#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1094,17 +1094,18 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.09.16
++												2026.09.30
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/2027-riken-bdr-custom#new_tab" rel="noopener noreferrer" title="2027 RIKEN BDR-CuSTOM Joint Organoid Symposium">
+-													2027 RIKEN BDR-CuSTOM Joint Organoid Symposium
++												<a href="https://www.jbsoc.or.jp/calendar_list/jbeg2026#new_tab" rel="noopener noreferrer" title="日本生体エネルギー研究会 第52回討論会">
++													日本生体エネルギー研究会 第52回討論会
+ 												</a>
++												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/2027-riken-bdr-custom#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/jbeg2026#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1120,17 +1121,17 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.09.14
++												2026.09.28
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/17th-glycoscience-frontier-seminar#new_tab" rel="noopener noreferrer" title="第17回Glycoscience Frontier Seminar「糖鎖ｘ神経」">
+-													第17回Glycoscience Frontier Seminar「糖鎖ｘ神経」
++												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-2#new_tab" rel="noopener noreferrer" title="DMP（データマネジメントプラン）は研究現場でどう活かせるか―実践事例から考える研究データマネジメント―">
++													DMP（データマネジメントプラン）は研究現場でどう活かせるか―実践事例から考える研究データマネジメント―
+ 												</a>
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/17th-glycoscience-frontier-seminar#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-2#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1146,17 +1147,17 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.09.11
++												2026.09.17
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/novonesis-forum-2026#new_tab" rel="noopener noreferrer" title="ノボネシス バイオサイエンスフォーラム2026">
+-													ノボネシス バイオサイエンスフォーラム2026
++												<a href="https://www.jbsoc.or.jp/calendar_list/169th-jams-symposium#new_tab" rel="noopener noreferrer" title="第169回日本医学会シンポジウム「AIの実臨床応用」">
++													第169回日本医学会シンポジウム「AIの実臨床応用」
+ 												</a>
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/novonesis-forum-2026#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/169th-jams-symposium#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1172,17 +1173,17 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.09.11
++												2026.09.16
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/2026-ingem#new_tab" rel="noopener noreferrer" title="2026年度　東北大学クライオ電子顕微鏡コース（INGEM）">
+-													2026年度　東北大学クライオ電子顕微鏡コース（INGEM）
++												<a href="https://www.jbsoc.or.jp/calendar_list/2027-riken-bdr-custom#new_tab" rel="noopener noreferrer" title="2027 RIKEN BDR-CuSTOM Joint Organoid Symposium">
++													2027 RIKEN BDR-CuSTOM Joint Organoid Symposium
+ 												</a>
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/2026-ingem#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/2027-riken-bdr-custom#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1198,17 +1199,17 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.09.08
++												2026.09.14
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/ikensymposium2026#new_tab" rel="noopener noreferrer" title="【再掲載】医研シンポジウム2026「社会的ウェルビーイングが拓く医療の未来」">
+-													【再掲載】医研シンポジウム2026「社会的ウェルビーイングが拓く医療の未来」
++												<a href="https://www.jbsoc.or.jp/calendar_list/17th-glycoscience-frontier-seminar#new_tab" rel="noopener noreferrer" title="第17回Glycoscience Frontier Seminar「糖鎖ｘ神経」">
++													第17回Glycoscience Frontier Seminar「糖鎖ｘ神経」
+ 												</a>
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/ikensymposium2026#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/17th-glycoscience-frontier-seminar#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1666,7 +1667,6 @@
+ 												<a href="https://www.jbsoc.or.jp/job_info/aist-4#new_tab" rel="noopener noreferrer" title="国立研究開発法人 産業技術総合研究所 若手研究人材育成事務局　研究員">
+ 													国立研究開発法人 産業技術総合研究所 若手研究人材育成事務局　研究員
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+@@ -1693,7 +1693,6 @@
+ 												<a href="https://www.jbsoc.or.jp/job_info/seikei-3#new_tab" rel="noopener noreferrer" title="成蹊大学　助教">
+ 													成蹊大学　助教
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+@@ -1882,7 +1881,6 @@
+ 												<a href="https://www.jbsoc.or.jp/news/news4/scj-198th-sokai.html" rel="noopener noreferrer" title="日本学術会議第１９８回総会の開催及び傍聴登録について">
+ 													日本学術会議第１９８回総会の開催及び傍聴登録について
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+@@ -1909,7 +1907,6 @@
+ 												<a href="https://www.jbsoc.or.jp/news/news4/scjnews982.html" rel="noopener noreferrer" title="日本学術会議ニュース　【お知らせ】意思の表出：提言・見解・報告の公表について 等">
+ 													日本学術会議ニュース　【お知らせ】意思の表出：提言・見解・報告の公表について 等
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+@@ -1936,7 +1933,6 @@
+ 												<a href="https://www.jbsoc.or.jp/news/news4/scj.html" rel="noopener noreferrer" title="【日本学術会議】若手アカデミー候補者〔連携会員（特任）候補者〕の募集について">
+ 													【日本学術会議】若手アカデミー候補者〔連携会員（特任）候補者〕の募集について
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+@@ -1963,7 +1959,6 @@
+ 												<a href="https://www.jbsoc.or.jp/news/news4/scjnews981.html" rel="noopener noreferrer" title="日本学術会議ニュース　【お知らせ】意思の表出：提言・見解・報告の公表について 等">
+ 													日本学術会議ニュース　【お知らせ】意思の表出：提言・見解・報告の公表について 等
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>

@@ -1,0 +1,69 @@
+diff --git a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+index afe4cc535..ece0ebc6f 100644
+--- a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
++++ b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+@@ -189,6 +189,12 @@
+ 							新着情報
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="topic/20261009.htm" rel="noopener noreferrer">
++									ECSS Manchester 2027における日本体力医学会・ECSS交流シンポジウムの企画公募について
++								</a>
++								（2026/10/9）
++							</li>
+ 							<li>
+ 								<a href="topic/20261001.htm" rel="noopener noreferrer">
+ 									ミズノ・スポートロジー研究助成公募について
+@@ -305,6 +311,12 @@
+ 								学会からのお知らせ
+ 							</h2>
+ 							<ul>
++								<li>
++									<a href="journal/award.htm" rel="noopener noreferrer">
++										令和8年度の学会賞受賞論文
++									</a>
++									を掲載しました。（2026/10/9）
++								</li>
+ 								<li>
+ 									「
+ 									<a href="https://www.jstage.jst.go.jp/browse/jpfsm/" rel="noopener noreferrer">
+@@ -331,12 +343,6 @@
+ 									</a>
+ 									（2025/10/10）
+ 								</li>
+-								<li>
+-									<a href="journal/award.htm" rel="noopener noreferrer">
+-										令和7年度の学会賞受賞論文
+-									</a>
+-									を掲載しました。（2025/10/1）
+-								</li>
+ 								<li>
+ 									「
+ 									<a href="journal/20230405_jiko.pdf" rel="noopener noreferrer">
+@@ -374,6 +380,12 @@
+ 								からのお知らせ
+ 							</h2>
+ 							<ul>
++								<li>
++									<a href="topic/20261009.pdf" rel="noopener noreferrer">
++										日本医学会役員の選挙結果について
++									</a>
++									（2026/10/9）
++								</li>
+ 								<li>
+ 									<a href="topic/20261005.pdf" rel="noopener noreferrer">
+ 										エボロクマブ（遺伝子組換え）製剤の最適使用推進ガイドラインの簡略版への切替えについて (周知依頼)
+@@ -410,12 +422,6 @@
+ 									</a>
+ 									（2026/9/18）
+ 								</li>
+-								<li>
+-									<a href="topic/20260918_2.pdf" rel="noopener noreferrer">
+-										ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌）について (周知依頼)
+-									</a>
+-									（2026/9/18）
+-								</li>
+ 							</ul>
+ 						</div>
+ 					</div>

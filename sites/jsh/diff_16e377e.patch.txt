@@ -1,0 +1,64 @@
+diff --git a/sites/jsh/jp/or/jsh/medical.html b/sites/jsh/jp/or/jsh/medical.html
+index 98cd32fd..e0e3fbae 100644
+--- a/sites/jsh/jp/or/jsh/medical.html
++++ b/sites/jsh/jp/or/jsh/medical.html
+@@ -681,6 +681,14 @@
+ 					<div>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026/11/04
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1701&amp;type=news-request" rel="noopener noreferrer">
++										TASL 2026 Annual Meeting 演題募集締切延長および採択通知日延期のお知らせ
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/11/02
+ 								</dt>
+@@ -833,14 +841,6 @@
+ 										TASL 2026 Annual Meeting 開催および演題募集のご案内
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/09/02
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1620&amp;type=news-request" rel="noopener noreferrer">
+-										「特定機能病院に関する事項について」の一部改定について
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/" rel="noopener noreferrer">
+@@ -1019,6 +1019,14 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026/11/04
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1701&amp;type=news-request" rel="noopener noreferrer">
++										TASL 2026 Annual Meeting 演題募集締切延長および採択通知日延期のお知らせ
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/10/14
+ 								</dt>
+@@ -1171,14 +1179,6 @@
+ 										【MID-NETのお知らせ】利活用ガイドライン等の発出について
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/08/05
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1557&amp;type=news-request" rel="noopener noreferrer">
+-										「高齢者におけるポリファーマシー対策の普及啓発資材について」の通知発出について
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/request.php" rel="noopener noreferrer">

@@ -1,0 +1,74 @@
+diff --git a/sites/jagh/jp/or/jagh/index.html b/sites/jagh/jp/or/jagh/index.html
+index 3a8ff042b..876a27ca8 100644
+--- a/sites/jagh/jp/or/jagh/index.html
++++ b/sites/jagh/jp/or/jagh/index.html
+@@ -75,69 +75,6 @@
+ 							</div>
+ 						</article>
+ 					</div>
+-					<div>
+-						<nav>
+-							<ul>
+-								<li>
+-									<a href="/" rel="noopener noreferrer" title="HOME">
+-										<span>
+-											HOME
+-										</span>
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/about" rel="noopener noreferrer" title="Jaghとは">
+-										<span>
+-											Jaghとは
+-										</span>
+-										<span>
+-										</span>
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/meetings" rel="noopener noreferrer" title="学術大会・地方会">
+-										<span>
+-											学術大会・地方会
+-										</span>
+-										<span>
+-										</span>
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/journal" rel="noopener noreferrer" title="学会誌">
+-										<span>
+-											学会誌
+-										</span>
+-										<span>
+-										</span>
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/document" rel="noopener noreferrer" title="ﾆｭｰｽﾚﾀｰ・用語集">
+-										<span>
+-											ﾆｭｰｽﾚﾀｰ・用語集
+-										</span>
+-										<span>
+-										</span>
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/network" rel="noopener noreferrer" title="ネットワーク">
+-										<span>
+-											ネットワーク
+-										</span>
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/contact" rel="noopener noreferrer" title="お問い合わせ">
+-										<span>
+-											お問い合わせ
+-										</span>
+-									</a>
+-								</li>
+-							</ul>
+-						</nav>
+-					</div>
+ 				</div>
+ 			</div>
+ 		</header>

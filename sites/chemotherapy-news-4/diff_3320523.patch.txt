@@ -1,0 +1,19 @@
+diff --git a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+index 3db06a848..0a29dbc59 100644
+--- a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
++++ b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+@@ -826,6 +826,14 @@
+ 					全てのお知らせ
+ 				</h1>
+ 				<div>
++					<div>
++						2026年10月22日
++					</div>
++					<div>
++						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=276" rel="noopener noreferrer">
++							サワシリン錠®250 包装仕様の変更について
++						</a>
++					</div>
+ 					<div>
+ 						2026年10月20日
+ 					</div>

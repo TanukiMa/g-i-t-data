@@ -1,0 +1,109 @@
+diff --git a/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html b/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
+index 42ac5bda2..dedf0c763 100644
+--- a/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
++++ b/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
+@@ -852,7 +852,7 @@
+ 										<a href="/tokaihokuriku/newpage_00843.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月13日
++													2026年10月26日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -981,26 +981,26 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/data-teisyutsu.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/newpage_00843.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月23日
++													2026年10月26日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													データ提出加算・外来データ提出加算等関係通知を新たに掲載しました。
++													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」について更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/dpc-tsuuchi.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/iryo_hoken/data-teisyutsu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月23日
+@@ -1013,13 +1013,13 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													DPC関係の通知を新たに掲載しました。
++													データ提出加算・外来データ提出加算等関係通知を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/yakka/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/dpc-tsuuchi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月23日
+@@ -1032,13 +1032,13 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													薬価基準、医薬品医療機器等法関係の通知を新たに掲載しました。
++													DPC関係の通知を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/newpage_00481.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/iryo_hoken/yakka/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月23日
+@@ -1051,26 +1051,26 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													罹災関係通知・事務連絡等（医療保険関係）を新たに掲載しました。
++													薬価基準、医薬品医療機器等法関係の通知を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/gyomu/bu_ka/nenkin_shinsa/shingikai.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/newpage_00481.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月20日
++													2026年10月23日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														通知・通達
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													東海北陸地方年金記録訂正審議会（部会）を更新しました。
++													罹災関係通知・事務連絡等（医療保険関係）を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>

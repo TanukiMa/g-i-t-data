@@ -1,0 +1,16 @@
+diff --git a/sites/ryumachi-jp/com/ryumachi-jp/index.html b/sites/ryumachi-jp/com/ryumachi-jp/index.html
+index d3ec1660..449a98e0 100644
+--- a/sites/ryumachi-jp/com/ryumachi-jp/index.html
++++ b/sites/ryumachi-jp/com/ryumachi-jp/index.html
+@@ -1725,11 +1725,6 @@
+ 									<img alt="リウマチ学用語・WEB検索" src="https://www.ryumachi-jp.com/jcr_wp/wp-content/themes/jcr-bs4-20210606/img/top_pc/banner_search_riumachigakuyougo_02.jpg">
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="https://case.ryumachi-jp.com/csp/ryumachi/totop.csp" rel="noopener noreferrer">
+-									<img alt="類似症例検索システム" src="https://www.ryumachi-jp.com/jcr_wp/wp-content/themes/jcr-bs4-20210606/img/top_pc/banner_search_ruijisyourei.jpg">
+-								</a>
+-							</div>
+ 						</div>
+ 					</div>
+ 				</div>

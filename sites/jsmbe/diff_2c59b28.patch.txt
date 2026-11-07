@@ -1,0 +1,274 @@
+diff --git a/sites/jsmbe/org/jsmbe/index.html b/sites/jsmbe/org/jsmbe/index.html
+index 502b9283..8532155c 100644
+--- a/sites/jsmbe/org/jsmbe/index.html
++++ b/sites/jsmbe/org/jsmbe/index.html
+@@ -2,8 +2,266 @@
+ 	<head>
+ 	</head>
+ 	<body>
+-		<p>
+-			サイトは現在メンテナンス中です。しばらくお待ちください。
+-		</p>
++		<header>
++			<div>
++				<h1>
++					<a href="/" rel="noopener noreferrer">
++						<img alt="公益社団法人 日本生体医工学会 Japanese Society for Medical and Biological Engineering" height="54" src="/assets/img/common/logo.svg" width="290">
++					</a>
++				</h1>
++				<span>
++				</span>
++				<span>
++				</span>
++				<span>
++					Menu
++				</span>
++				<nav>
++					<ul>
++						<li>
++							<a href="/" rel="noopener noreferrer">
++								HOME
++							</a>
++						</li>
++						<li>
++							学会について
++							<ul>
++								<li>
++									<a href="/outline/" rel="noopener noreferrer">
++										生体医工学会とは
++									</a>
++								</li>
++								<li>
++									<a href="/outline/greeting/" rel="noopener noreferrer">
++										理事長挨拶
++									</a>
++								</li>
++								<li>
++									<a href="/outline/member/" rel="noopener noreferrer">
++										理事会名簿
++									</a>
++								</li>
++								<li>
++									<a href="/outline/branch/" rel="noopener noreferrer">
++										支部
++									</a>
++								</li>
++								<li>
++									<a href="/outline/activity/" rel="noopener noreferrer">
++										活動
++									</a>
++								</li>
++							</ul>
++						</li>
++						<li>
++							会員／選奨・奨学金
++							<ul>
++								<li>
++									<a href="/join/" rel="noopener noreferrer">
++										入会案内
++									</a>
++								</li>
++								<li>
++									<a href="/award/" rel="noopener noreferrer">
++										選奨・奨学金
++									</a>
++								</li>
++							</ul>
++						</li>
++					</ul>
++				</nav>
++			</div>
++		</header>
++		<div>
++			<p>
++				工学技術で生命現象を解析し
++				<br>
++				未来の医療を作る
++			</p>
++		</div>
++		<div>
++			<h2>
++				生体医工学とは
++			</h2>
++			<p>
++				生体医工学は、
++				<br>
++				医学に工学技術を取り入れて、
++				<br>
++				生命現象を明らかにするとともに、
++				<br>
++				診断や治療に有効な手段を提供する、
++				<br>
++				新しい専門分野です。
++				<br>
++				日本生体医工学会は、
++				<br>
++				大学や研究機関などで行った
++				<br>
++				生体医工学分野の研究成果を発表し、
++				<br>
++				情報交換を行う機会を提供しています。
++			</p>
++			<a href="/outline/" rel="noopener noreferrer">
++				<span>
++					詳しく見る
++				</span>
++				<span>
++					<img alt="" height="11" src="/assets/img/icon/arrow01_r.svg" width="12">
++				</span>
++			</a>
++		</div>
++		<div>
++			<h2>
++				<span>
++					PICKUP
++				</span>
++				<span>
++					ピックアップ
++				</span>
++			</h2>
++			<div>
++				<img alt="" height="11" src="/assets/img/icon/arrow01_l.svg" width="12">
++				<div>
++					<ul>
++						<li>
++							<a href="https://smartconf.jp/content/jsmbe66/" rel="noopener noreferrer">
++								<span>
++									日本生体医工学会大会
++									<img alt="（外部サイト）" height="14" src="/assets/img/icon/ic_external-link.svg" width="17">
++								</span>
++							</a>
++						</li>
++						<li>
++							<a href="https://smartconf.jp/content/jsmbe-sympo2027/" rel="noopener noreferrer">
++								<span>
++									生体医工学
++									<br>
++									シンポジウム
++									<img alt="（外部サイト）" height="14" src="/assets/img/icon/ic_external-link.svg" width="17">
++								</span>
++							</a>
++						</li>
++						<li>
++							<a href="/submit/" rel="noopener noreferrer">
++								<span>
++									SUBMIT
++								</span>
++								<span>
++									- 論文誌の提出方法 -
++								</span>
++							</a>
++						</li>
++						<li>
++							<a href="/join/member-info/" rel="noopener noreferrer">
++								<span>
++									MEMBER INFO
++								</span>
++								<span>
++									- 入会・会員種別 規程 -
++								</span>
++							</a>
++						</li>
++					</ul>
++				</div>
++				<img alt="" height="11" src="/assets/img/icon/arrow01_r.svg" width="12">
++				<div>
++				</div>
++			</div>
++		</div>
++		<footer>
++			<div>
++				<div>
++					<a href="/" rel="noopener noreferrer">
++						<img alt="公益社団法人 日本生体医工学会" height="44" src="/assets/img/common/logo_w.svg" width="240">
++					</a>
++					〒930-0004 富山県富山市桜橋通り2番25号 株式会社PCO内
++					<br>
++					公益社団法人 日本生体医工学会 事務局
++					<br>
++					TEL: 076-464-5883・FAX: 076-471-0745
++				</div>
++				<nav>
++					<div>
++						<p>
++							<a href="/" rel="noopener noreferrer">
++								HOME
++							</a>
++						</p>
++					</div>
++					<div>
++						<p>
++							学会について
++						</p>
++						<ul>
++							<li>
++								<a href="/outline/" rel="noopener noreferrer">
++									生体医工学会とは
++								</a>
++							</li>
++							<li>
++								<a href="/outline/greeting/" rel="noopener noreferrer">
++									理事長挨拶
++								</a>
++							</li>
++							<li>
++								<a href="/outline/member/" rel="noopener noreferrer">
++									理事会名簿
++								</a>
++							</li>
++							<li>
++								<a href="/outline/branch/" rel="noopener noreferrer">
++									支部
++								</a>
++							</li>
++							<li>
++								<a href="/outline/activity/" rel="noopener noreferrer">
++									活動
++								</a>
++							</li>
++						</ul>
++					</div>
++					<div>
++						<p>
++							会員／選奨・奨学金
++						</p>
++						<ul>
++							<li>
++								<a href="/join/" rel="noopener noreferrer">
++									入会案内
++								</a>
++							</li>
++							<li>
++								<a href="/award/" rel="noopener noreferrer">
++									選奨・奨学金
++								</a>
++							</li>
++						</ul>
++					</div>
++					<div>
++						<ul>
++							<li>
++								<a href="/contact/" rel="noopener noreferrer">
++									お問い合わせ
++								</a>
++							</li>
++							<li>
++								<a href="/coi/" rel="noopener noreferrer">
++									利益相反に関する指針
++								</a>
++							</li>
++							<li>
++								<a href="/privacypolicy/" rel="noopener noreferrer">
++									プライバシーポリシー
++								</a>
++							</li>
++						</ul>
++					</div>
++				</nav>
++			</div>
++			<p>
++				Copyright(C) Japanese Society for Medical and Biological Engineering. All Rights Reserved.
++			</p>
++		</footer>
+ 	</body>
+ </html>

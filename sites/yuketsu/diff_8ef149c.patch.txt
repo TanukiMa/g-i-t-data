@@ -1,0 +1,168 @@
+diff --git a/sites/yuketsu/jp/or/jstmct/yuketsu/index.html b/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
+index e065971de..eb95015d3 100644
+--- a/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
++++ b/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
+@@ -408,18 +408,19 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/10/13
++											2026/10/19
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_7
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										<a href="https://yuketsu.jstmct.or.jp/wp-content/uploads/2026/10/30506d776253de721e9325dbb18f75c7.pdf" rel="noopener noreferrer">
+-											輸血テクニカルセミナー2026「ご案内」
++										第163 回日本輸血・細胞治療学会関東甲信越支部例会「開催案内第一報」を
++										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_kanto/" rel="noopener noreferrer">
++											関東甲信越支部
+ 										</a>
+-										を学会からのお知らせに掲載しました。
++										に掲載しました。
+ 									</div>
+ 									<div>
+ 									</div>
+@@ -427,7 +428,7 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/10/09
++											2026/10/19
+ 										</div>
+ 										<div>
+ 											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+@@ -435,9 +436,9 @@
+ 										</div>
+ 									</div>
+ 									<div>
+-										第86回東海支部例会「開催案内・参加登録」を
+-										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_tokai/" rel="noopener noreferrer">
+-											東海支部
++										第70回支部例会 「開催のお知らせ、プログラム・抄録、共催セミナー案内」を
++										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_hokkaido/" rel="noopener noreferrer">
++											北海道支部
+ 										</a>
+ 										に掲載しました。
+ 									</div>
+@@ -447,19 +448,18 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/10/08
++											2026/10/13
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_7
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										第39回福島県輸血懇話会「プログラム」を
+-										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_tohoku/" rel="noopener noreferrer">
+-											東北支部【その他】
++										<a href="https://yuketsu.jstmct.or.jp/wp-content/uploads/2026/10/30506d776253de721e9325dbb18f75c7.pdf" rel="noopener noreferrer">
++											輸血テクニカルセミナー2026「ご案内」
+ 										</a>
+-										に掲載しました。
++										を学会からのお知らせに掲載しました。
+ 									</div>
+ 									<div>
+ 									</div>
+@@ -467,17 +467,17 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/09/28
++											2026/10/09
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_6
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										変異型クロイツフェルト・ヤコブ病（vCJD）の感染状況を踏まえた献血制限に係る関係通知の廃止の実施について
+-										<a href="https://yuketsu.jstmct.or.jp/notification/" rel="noopener noreferrer">
+-											行政からの通知＞造血細胞移植関連
++										第86回東海支部例会「開催案内・参加登録」を
++										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_tokai/" rel="noopener noreferrer">
++											東海支部
+ 										</a>
+ 										に掲載しました。
+ 									</div>
+@@ -487,17 +487,17 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/09/28
++											2026/10/08
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_7
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										「日本輸血・細胞治療学会　ニュースレター第33号」を
+-										<a href="https://yuketsu.jstmct.or.jp/medical/medicine_and_medical_information/reference/" rel="noopener noreferrer">
+-											輸血・細胞治療参考資料
++										第39回福島県輸血懇話会「プログラム」を
++										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_tohoku/" rel="noopener noreferrer">
++											東北支部【その他】
+ 										</a>
+ 										に掲載しました。
+ 									</div>
+@@ -507,17 +507,17 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/09/24
++											2026/09/28
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_6
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										第71回中国四国支部例会「プログラム及び抄録集」を
+-										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_chugoku/" rel="noopener noreferrer">
+-											中国四国支部
++										変異型クロイツフェルト・ヤコブ病（vCJD）の感染状況を踏まえた献血制限に係る関係通知の廃止の実施について
++										<a href="https://yuketsu.jstmct.or.jp/notification/" rel="noopener noreferrer">
++											行政からの通知＞造血細胞移植関連
+ 										</a>
+ 										に掲載しました。
+ 									</div>
+@@ -527,17 +527,17 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/09/10
++											2026/09/28
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_7
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										令和８年度北海道臨床輸血看護師ブラッシュアップセミナーおよび実技講習のご案内を
+-										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_hokkaido/" rel="noopener noreferrer">
+-											北海道支部
++										「日本輸血・細胞治療学会　ニュースレター第33号」を
++										<a href="https://yuketsu.jstmct.or.jp/medical/medicine_and_medical_information/reference/" rel="noopener noreferrer">
++											輸血・細胞治療参考資料
+ 										</a>
+ 										に掲載しました。
+ 									</div>

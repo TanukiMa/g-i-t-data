@@ -1,0 +1,40 @@
+diff --git a/sites/ajhcorjp/jp/or/ajhc/index.html b/sites/ajhcorjp/jp/or/ajhc/index.html
+index 7ba399e07..39b458f84 100644
+--- a/sites/ajhcorjp/jp/or/ajhc/index.html
++++ b/sites/ajhcorjp/jp/or/ajhc/index.html
+@@ -38,7 +38,7 @@
+ 							<p>
+ 								<strong>
+ 									<a href="disaster.html" rel="noopener noreferrer">
+-										各災害（地震・大雨等）の関連文章はこちら（10/13 更新 ）
++										各災害（地震・大雨等）の関連文章はこちら（10/19 更新 ）
+ 									</a>
+ 								</strong>
+ 							</p>
+@@ -204,23 +204,14 @@
+ 					<div>
+ 						<dl>
+ 							<dt>
+-								2026/10/16
++								2026/10/19
+ 								<span>
+ 									おしらせ
+ 								</span>
+ 							</dt>
+ 							<dd>
+-								<a href="siryo/20261016-1.pdf" rel="noopener noreferrer">
+-									「医療法及び医師法の一部を改正する法律の施行について（通知）」の 一部改正について
+-								</a>
+-								<br>
+-								>
+-								<a href="siryo/20261016-1on.pdf" rel="noopener noreferrer">
+-									新旧対照表
+-								</a>
+-								>
+-								<a href="siryo/20261016-1all.pdf" rel="noopener noreferrer">
+-									改正後全文
++								<a href="siryo/20261016-a5.pdf" rel="noopener noreferrer">
++									令和８年熊本地震に伴う災害の被災者に係る保険医療機関等における一部負担金等の取扱いについて（その5）
+ 								</a>
+ 							</dd>
+ 						</dl>

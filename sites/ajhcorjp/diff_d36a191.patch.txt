@@ -1,0 +1,22 @@
+diff --git a/sites/ajhcorjp/jp/or/ajhc/index.html b/sites/ajhcorjp/jp/or/ajhc/index.html
+index 8925f3bca..26e6e70ce 100644
+--- a/sites/ajhcorjp/jp/or/ajhc/index.html
++++ b/sites/ajhcorjp/jp/or/ajhc/index.html
+@@ -209,6 +209,17 @@
+ 					</div>
+ 					<div>
+ 						<dl>
++							<dt>
++								2026/10/27
++								<span>
++									おしらせ
++								</span>
++							</dt>
++							<dd>
++								<a href="https://www.mhlw.go.jp/stf/newpage_76419.html" rel="noopener noreferrer">
++									厚生労働省より医師・歯科医師・保健師・助産師・看護師の免許申請 （新規登録申請）/初期設定申請開始について
++								</a>
++							</dd>
+ 							<dt>
+ 								2026/10/27
+ 								<span>

@@ -1,0 +1,66 @@
+diff --git a/sites/j-circ/jp/or/j-circ/index.html b/sites/j-circ/jp/or/j-circ/index.html
+index 988527591..fd8226dd0 100644
+--- a/sites/j-circ/jp/or/j-circ/index.html
++++ b/sites/j-circ/jp/or/j-circ/index.html
+@@ -774,6 +774,30 @@
+ 										</a>
+ 									</h3>
+ 									<div>
++										<article>
++											<div>
++												<time>
++													2026/10/26
++												</time>
++												<ul>
++													<li>
++														<a href="https://www.j-circ.or.jp/topics_categories/seminar/" rel="noopener noreferrer">
++															セミナー・講習会
++														</a>
++													</li>
++													<li>
++														<a href="https://www.j-circ.or.jp/topics_classification/committee/%e6%95%99%e8%82%b2%e7%a0%94%e4%bf%ae-%e9%9b%86%e4%b8%ad%e6%95%91%e6%80%a5%e5%a7%94%e5%93%a1%e4%bc%9a/" rel="noopener noreferrer">
++															教育研修/集中救急委員会
++														</a>
++													</li>
++												</ul>
++											</div>
++											<h4>
++												<a href="https://www.j-circ.or.jp/topics/j-kyoken_20261026/" rel="noopener noreferrer">
++													循環器領域の Best for the Patients を追求する 若手医師のための実践ワークショップ
++												</a>
++											</h4>
++										</article>
+ 										<article>
+ 											<div>
+ 												<time>
+@@ -918,30 +942,6 @@
+ 												</a>
+ 											</h4>
+ 										</article>
+-										<article>
+-											<div>
+-												<time>
+-													2026/09/28
+-												</time>
+-												<ul>
+-													<li>
+-														<a href="https://www.j-circ.or.jp/topics_categories/information/" rel="noopener noreferrer">
+-															お知らせ
+-														</a>
+-													</li>
+-													<li>
+-														<a href="https://www.j-circ.or.jp/topics_classification/committee/%e6%95%99%e8%82%b2%e7%a0%94%e4%bf%ae-%e9%9b%86%e4%b8%ad%e6%95%91%e6%80%a5%e5%a7%94%e5%93%a1%e4%bc%9a/kyukyu/" rel="noopener noreferrer">
+-															集中・救急医療部会
+-														</a>
+-													</li>
+-												</ul>
+-											</div>
+-											<h4>
+-												<a href="https://www.j-circ.or.jp/topics/20260924-2/" rel="noopener noreferrer">
+-													「救急・集中治療における生命維持治療の終了／差し控えに関する4学会合同ガイドライン」の公表
+-												</a>
+-											</h4>
+-										</article>
+ 									</div>
+ 								</li>
+ 								<li>

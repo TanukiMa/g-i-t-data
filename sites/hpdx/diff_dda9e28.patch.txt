@@ -1,0 +1,90 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 2e3d99c0..f603d0ea 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -378,6 +378,51 @@
+ 						</h2>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								<span>
++									令和8年11月2日
++								</span>
++								<span>
++									ベンダー
++								</span>
++							</span>
++							<span>
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html" rel="noopener noreferrer">
++									基本マスター（医科診療行為）を更新しました
++								</a>
++							</span>
++						</li>
++						<li>
++							<span>
++								<span>
++									令和8年11月2日
++								</span>
++								<span>
++									ベンダー
++								</span>
++							</span>
++							<span>
++								<a href="/seikyushiharai/tensuhyo/ikashika/index.html" rel="noopener noreferrer">
++									電子点数表（医科・歯科）を更新しました
++								</a>
++							</span>
++						</li>
++						<li>
++							<span>
++								<span>
++									令和8年11月2日
++								</span>
++								<span>
++									プレスリリース
++								</span>
++							</span>
++							<span>
++								<a href="/pressrelease/pressrelease_r08/press_r081102_1.html" rel="noopener noreferrer">
++									令和8年8月診療分は対前年同月伸び率で確定件数 0.9%増加、確定金額 6.5%増加
++								</a>
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+@@ -483,33 +528,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月20日
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/shinryohoshu/kankeitsuuchi/kankeitsuuchi_r08.html" rel="noopener noreferrer">
+-									令和8年度診療報酬改定関係を更新しました
+-								</a>
+-							</span>
+-						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月13日
+-								</span>
+-								<span>
+-									ベンダー
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/index.html" rel="noopener noreferrer">
+-									基本マスター（医科診療行為・医薬品）、コメント関連テーブル及びレセプト電算処理システムマスターファイル仕様説明書を更新しました
+-								</a>
+-							</span>
+-						</li>
+ 					</ul>
+ 				</div>
+ 			</div>

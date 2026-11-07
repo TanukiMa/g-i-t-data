@@ -1,0 +1,76 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 626a0fd05..53364d918 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1189,17 +1189,17 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/20
++												2026/10/21
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/important" rel="noopener noreferrer">
+-												重要なお知らせ
++											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
++												イベント
+ 											</a>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/important/post-159851.html" rel="noopener noreferrer">
+-												2027年度から小児科専攻医を目指す方へ
++											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
++												小児診療初期対応（JPLS）コース募集情報更新について
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -1210,30 +1210,30 @@
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="/members-only/members-news" rel="noopener noreferrer">
+-												会員限定のお知らせ
++											<a href="https://www.jpeds.or.jp/news/important" rel="noopener noreferrer">
++												重要なお知らせ
+ 											</a>
+ 										</td>
+ 										<td>
+-											<a href="/members-only/" rel="noopener noreferrer">
+-												会員専用ホームページに新しいお知らせを掲載しました
++											<a href="https://www.jpeds.or.jp/news/important/post-159851.html" rel="noopener noreferrer">
++												2027年度から小児科専攻医を目指す方へ
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/19
++												2026/10/20
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
+-												イベント
++											<a href="/members-only/members-news" rel="noopener noreferrer">
++												会員限定のお知らせ
+ 											</a>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
+-												小児診療初期対応（JPLS）コース募集情報更新について
++											<a href="/members-only/" rel="noopener noreferrer">
++												会員専用ホームページに新しいお知らせを掲載しました
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -2154,7 +2154,7 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/19
++												2026/10/21
+ 											</time>
+ 										</td>
+ 										<td>

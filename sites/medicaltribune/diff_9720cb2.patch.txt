@@ -1,0 +1,191 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 3378cce55..71bed6fe2 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1417,7 +1417,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															10月28日の新着ニュース
++															10月29日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1434,13 +1434,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="降圧の新たな一手、アルドステロン合成酵素阻害薬" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
++																<img alt="ロルラチニブ耐性にALK以外の経路が関与か" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619611" rel="noopener noreferrer">
+-																			降圧の新たな一手、アルドステロン合成酵素阻害薬
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619689" rel="noopener noreferrer">
++																			ロルラチニブ耐性にALK以外の経路が関与か
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1483,13 +1483,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="プロトピック小児用軟膏、生後6カ月から使用可能に" src="https://asset.mtweb.jp/media/2026/06/02185852/25_Tenbunkaitei.jpg">
++																<img alt="重症児診療、重要と認識も診療意欲は3割" src="https://asset.mtweb.jp/media/2026/10/28120715/AdobeStock_449402908.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619646" rel="noopener noreferrer">
+-																			プロトピック小児用軟膏、生後6カ月から使用可能に
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619648" rel="noopener noreferrer">
++																			重症児診療、重要と認識も診療意欲は3割
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1532,13 +1532,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ITPへのリルザブルチニブ、アジア人でも長期有効" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
++																<img alt="新病名「PMOS」知っておくべき10項目とは" src="https://asset.mtweb.jp/media/2026/10/21092908/25_Teigen_seimei.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619237" rel="noopener noreferrer">
+-																			ITPへのリルザブルチニブ、アジア人でも長期有効
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619650" rel="noopener noreferrer">
++																			新病名「PMOS」知っておくべき10項目とは
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1581,13 +1581,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="イプタコパン、東アジア人IgA腎症でも腎機能低下を抑制" src="https://asset.mtweb.jp/media/2026/10/26171921/Iptacopan-in-East-Asian_TOP.jpg">
++																<img alt="降圧の新たな一手、アルドステロン合成酵素阻害薬" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619339" rel="noopener noreferrer">
+-																			イプタコパン、東アジア人IgA腎症でも腎機能低下を抑制
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619611" rel="noopener noreferrer">
++																			降圧の新たな一手、アルドステロン合成酵素阻害薬
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1630,20 +1630,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="乳がん患者の妊娠・出産をどう支えるか" src="https://asset.mtweb.jp/media/2026/09/01111416/com_normalinterv_thum_w440h275-1.jpg">
++																<img alt="プロトピック小児用軟膏、生後6カ月から使用可能に" src="https://asset.mtweb.jp/media/2026/06/02185852/25_Tenbunkaitei.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
+-																			乳がん患者の妊娠・出産をどう支えるか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619646" rel="noopener noreferrer">
++																			プロトピック小児用軟膏、生後6カ月から使用可能に
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-27
++																			2026-10-28
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1679,20 +1679,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="自己免疫疾患の女性患者は精神疾患と誤診されやすい" src="https://asset.mtweb.jp/media/2026/10/27181355/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8826%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
++																<img alt="ITPへのリルザブルチニブ、アジア人でも長期有効" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619592" rel="noopener noreferrer">
+-																			自己免疫疾患の女性患者は精神疾患と誤診されやすい
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619237" rel="noopener noreferrer">
++																			ITPへのリルザブルチニブ、アジア人でも長期有効
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-27
++																			2026-10-28
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1728,20 +1728,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="インフル大幅減も前年同週の約2.7倍" src="https://asset.mtweb.jp/media/2026/07/14185544/com_weeklyreport_thum_w440h275.jpg">
++																<img alt="イプタコパン、東アジア人IgA腎症でも腎機能低下を抑制" src="https://asset.mtweb.jp/media/2026/10/26171921/Iptacopan-in-East-Asian_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619442" rel="noopener noreferrer">
+-																			インフル大幅減も前年同週の約2.7倍
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619339" rel="noopener noreferrer">
++																			イプタコパン、東アジア人IgA腎症でも腎機能低下を抑制
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-27
++																			2026-10-28
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1774,7 +1774,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															10月28日の新着連載
++															10月29日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1825,10 +1825,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									36
++																									39
+ 																								</span>
+ 																								<span>
+-																									36件「いいね！」されています
++																									39件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1876,10 +1876,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									27
++																									30
+ 																								</span>
+ 																								<span>
+-																									27件「いいね！」されています
++																									30件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

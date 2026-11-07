@@ -1,0 +1,19 @@
+diff --git a/sites/shingi-chuo/jp/go/mhlw/stf-shingi-shingi-chuo-128154-html.html b/sites/shingi-chuo/jp/go/mhlw/stf-shingi-shingi-chuo-128154-html.html
+index 46eea944a..7ba709441 100644
+--- a/sites/shingi-chuo/jp/go/mhlw/stf-shingi-shingi-chuo-128154-html.html
++++ b/sites/shingi-chuo/jp/go/mhlw/stf-shingi-shingi-chuo-128154-html.html
+@@ -1433,7 +1433,13 @@
+ 											て
+ 										</td>
+ 										<td>
+-											－
++											<ul>
++												<li>
++													<a href="https://www.mhlw.go.jp/stf/newpage_76758.html" rel="noopener noreferrer">
++														議事録
++													</a>
++												</li>
++											</ul>
+ 										</td>
+ 										<td>
+ 											<ul>

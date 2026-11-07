@@ -1,0 +1,43 @@
+diff --git a/sites/nihon-eisei/org/nihon-eisei/index.html b/sites/nihon-eisei/org/nihon-eisei/index.html
+index 8c474321..d612a3f1 100644
+--- a/sites/nihon-eisei/org/nihon-eisei/index.html
++++ b/sites/nihon-eisei/org/nihon-eisei/index.html
+@@ -350,6 +350,18 @@
+ 					最新情報
+ 				</h3>
+ 				<ul>
++					<li>
++						<span>
++							2026年10月31日
++						</span>
++						<span>
++						</span>
++						<p>
++							<a href="https://www.nihon-eisei.org/activity/expert_home/application/" rel="noopener noreferrer">
++								衛生学エキスパート申請・更新期間延長のお知らせ（11月30日まで）
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<span>
+ 							2026年10月23日
+@@ -466,19 +478,6 @@
+ 							</a>
+ 						</p>
+ 					</li>
+-					<li>
+-						<span>
+-							2026年9月1日
+-						</span>
+-						<span>
+-							採用・求人・大学院生の募集
+-						</span>
+-						<p>
+-							<a href="https://www.nihon-eisei.org/activity/job/" rel="noopener noreferrer">
+-								獨協医科大学公衆衛生学講座の助教または学内助教の募集
+-							</a>
+-						</p>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://www.nihon-eisei.org/?cat=2" rel="noopener noreferrer">

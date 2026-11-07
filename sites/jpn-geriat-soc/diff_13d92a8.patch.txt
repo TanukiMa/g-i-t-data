@@ -1,0 +1,50 @@
+diff --git a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+index 392992ef..b1f7984a 100644
+--- a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
++++ b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+@@ -385,33 +385,33 @@
+ 						<div>
+ 							<div>
+ 								<div>
+-									<a href="shukai_tihou/shukai/boshu_69.html" rel="noopener noreferrer">
+-										<img alt="第69回日本老年医学会学術集会" src="common/images/jgs69.jpg">
++									<a href="shukai_tihou/tihoukai/kinki/index.html" rel="noopener noreferrer">
++										<img alt="第37回近畿地方会" src="common/images/banner_kinki_37.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="kensyu/tnt-geri.html" rel="noopener noreferrer">
+-										<img alt="高齢者栄養療法研修会" src="common/images/tnt-geri2026.jpg">
++									<a href="shukai_tihou/tihoukai/tohoku/index.html" rel="noopener noreferrer">
++										<img alt="第37回東北地方会" src="common/images/banner_tohoku_37v3.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="josei/index.html" rel="noopener noreferrer">
+-										<img alt="2026年 助成金 老化および老年医学高齢者栄養 YIA 長寿科学賞" src="common/images/banner_josei_2026.png">
++									<a href="shukai_tihou/tihoukai/shikoku/index.html" rel="noopener noreferrer">
++										<img alt="第38回四国地方会" src="common/images/banner_shikoku_38.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="shukai_tihou/tihoukai/shikoku/index.html" rel="noopener noreferrer">
+-										<img alt="第38回四国地方会" src="common/images/banner_shikoku_38.jpg">
++									<a href="shukai_tihou/shukai/boshu_69.html" rel="noopener noreferrer">
++										<img alt="第69回日本老年医学会学術集会" src="common/images/jgs69.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="shukai_tihou/tihoukai/tohoku/index.html" rel="noopener noreferrer">
+-										<img alt="第37回東北地方会" src="common/images/banner_tohoku_37v3.jpg">
++									<a href="shukai_tihou/tihoukai/kantokoshinetsu/index.html" rel="noopener noreferrer">
++										<img alt="第78回関東甲信越地方会" src="common/images/banner_kantokoshinetsu78.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="shukai_tihou/tihoukai/kinki/index.html" rel="noopener noreferrer">
+-										<img alt="第37回近畿地方会" src="common/images/banner_kinki_37.jpg">
++									<a href="kensyu/tnt-geri.html" rel="noopener noreferrer">
++										<img alt="高齢者栄養療法研修会" src="common/images/tnt-geri2026.jpg">
+ 									</a>
+ 								</div>
+ 							</div>

@@ -1,0 +1,25 @@
+diff --git a/sites/pathology/jp/or/pathology/index.html b/sites/pathology/jp/or/pathology/index.html
+index 6320c3dd3..7f2fd8518 100644
+--- a/sites/pathology/jp/or/pathology/index.html
++++ b/sites/pathology/jp/or/pathology/index.html
+@@ -413,6 +413,20 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											2026.09.16
++											<a href="https://pathology.or.jp/senmoni/pdf/bukaiho_2610.pdf" rel="noopener noreferrer">
++												専門医部会会報 令和8年10月
++											</a>
++										</li>
++										<hr>
++										<li>
++											2026.09.16
++											<a href="https://pathology.or.jp/side/jobhunting.html" rel="noopener noreferrer">
++												求人情報更新
++											</a>
++										</li>
++										<hr>
+ 										<li>
+ 											2026.10.15
+ 											<a href="https://www.iccr-cancer.org/datasets/datasets-under-consultation/" rel="noopener noreferrer">

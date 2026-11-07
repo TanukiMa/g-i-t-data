@@ -1,0 +1,30 @@
+diff --git a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+index 3e099453d..30a2ba4de 100644
+--- a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
++++ b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+@@ -392,6 +392,12 @@
+ 								からのお知らせ
+ 							</h2>
+ 							<ul>
++								<li>
++									<a href="topic/20261028.pdf" rel="noopener noreferrer">
++										医療事故の再発防止に向けた警鐘レポートNo.7の公表について (周知依頼)
++									</a>
++									（2026/10/28）
++								</li>
+ 								<li>
+ 									<a href="https://www.scj.go.jp/ja/event/2026/407-1102.html" rel="noopener noreferrer">
+ 										日本学術会議　公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」開催について
+@@ -428,12 +434,6 @@
+ 									</a>
+ 									（2026/10/1）
+ 								</li>
+-								<li>
+-									<a href="topic/2026syou_1057.pdf" rel="noopener noreferrer">
+-										2026年度日本医師会医学賞ならびに医学研究奨励賞受賞者決定について
+-									</a>
+-									（2026/10/1）
+-								</li>
+ 							</ul>
+ 						</div>
+ 					</div>

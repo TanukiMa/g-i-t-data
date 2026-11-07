@@ -1,0 +1,40 @@
+diff --git a/sites/j-endo/jp/j-endo/index.html b/sites/j-endo/jp/j-endo/index.html
+index 3d1634cb..596df4ce 100644
+--- a/sites/j-endo/jp/j-endo/index.html
++++ b/sites/j-endo/jp/j-endo/index.html
+@@ -553,6 +553,17 @@
+ 				</a>
+ 			</div>
+ 			<div>
++				<div>
++					2026年10月30日
++					<span>
++						事務局
++					</span>
++				</div>
++				<div>
++					<a href="https://www.j-endo.jp/modules/news/index.php?content_id=320" rel="noopener noreferrer">
++						PHPの脆弱性に関する本学会ホームページおよび関連システムの対応状況について
++					</a>
++				</div>
+ 				<div>
+ 					2026年10月27日
+ 					<span>
+@@ -616,17 +627,6 @@
+ 						【復旧のお知らせ】電話・インターネット回線復旧のご報告とお詫び
+ 					</a>
+ 				</div>
+-				<div>
+-					2026年9月18日
+-					<span>
+-						事務局
+-					</span>
+-				</div>
+-				<div>
+-					<a href="https://www.j-endo.jp/modules/news/index.php?content_id=315" rel="noopener noreferrer">
+-						【重要】電話・インターネット回線不通のお知らせ
+-					</a>
+-				</div>
+ 			</div>
+ 			<h2>
+ 				Hot Topics！

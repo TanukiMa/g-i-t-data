@@ -1,0 +1,96 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index ba08d942..40c794d7 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -723,6 +723,11 @@
+ 						Drug、Clinical Trial、Epidemiology、Statistics（医薬品、臨床試験、疫学、統計リンク集）
+ 					</h5>
+ 					<ul>
++						<li>
++							<a href="http://www.medstat.jp/advrct9.html" rel="noopener noreferrer">
++								令和9年度「オンライン臨床試験特論コース」　全18回
++							</a>
++						</li>
+ 						<li>
+ 							<a href="http://medstat.jp/seminar320261210.html" rel="noopener noreferrer">
+ 								12/10　医学統計学研究センターセミナー　欠測データを含む不完全データ解析の統計手法（入門）
+@@ -753,11 +758,6 @@
+ 								10/5 認定臨床研究審査員会等委員対象セミナー（神戸大学）「臨床研究の現場で研究公正を守る～QRPへの気づき、相談、組織的対応～」
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.diaglobal.org/productfiles/15262312/26311.pdf" rel="noopener noreferrer">
+-								第12回DIA医療機器開発シンポジウム - 医療データ利活用時代とSaMDの社会実装 -
+-							</a>
+-						</li>
+ 					</ul>
+ 				</ul>
+ 				<h2>
+@@ -929,51 +929,51 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						就任 : 犬塚　亮
++						昇任 : 三小田　直
+ 						<a href="https://center9.umin.ac.jp/personal/list/2026" rel="noopener noreferrer">
+-							( 東京大学病院　小児・新生児集中治療部 教授 )
++							( 東京大学大学院医学系研究科 病理学 分子病理学 講師 )
+ 						</a>
+ 					</li>
+ 					<li>
+-						就任 : 半田　修
++						昇任 : 浅田　敏文
+ 						<a href="https://center9.umin.ac.jp/personal/list/2026" rel="noopener noreferrer">
+-							( 東海大学医学部　内科学系消化器内科学 教授（内視鏡室長） )
++							( 東京大学病院 救急救命センター・ER 講師 )
+ 						</a>
+ 					</li>
+ 					<li>
+-						就任 : 仲矢　丈雄
++						昇任 : 辻　陽介
+ 						<a href="https://center9.umin.ac.jp/personal/list/2026" rel="noopener noreferrer">
+-							( 岩手医科大学　医学部・大学院医学研究科　病理学講座機能病態学分野 教授 )
++							( 東京大学病院  光学医療診療部 准教授 )
+ 						</a>
+ 					</li>
+ 					<li>
+-						就任 : 渡邊　慎平
++						昇任 : 犬塚　亮
+ 						<a href="https://center9.umin.ac.jp/personal/list/2026" rel="noopener noreferrer">
+-							( 東京大学大学院医学系研究科 法医学・医療情報経済学 法医学 講師 )
++							( 東京大学病院  小児・新生児集中治療部 教授 )
+ 						</a>
+ 					</li>
+ 					<li>
+-						昇任 : 小林　謙也
++						就任 : 犬塚　亮
+ 						<a href="https://center9.umin.ac.jp/personal/list/2026" rel="noopener noreferrer">
+-							( 東京大学病院 耳鼻咽喉科・頭頸部外科 講師 )
++							( 東京大学病院　小児・新生児集中治療部 教授 )
+ 						</a>
+ 					</li>
+ 					<li>
+-						昇任 : 榊原　英輔
++						就任 : 半田　修
+ 						<a href="https://center9.umin.ac.jp/personal/list/2026" rel="noopener noreferrer">
+-							( 東京大学大学院医学系研究科 臨床神経精神医学 精神医学 准教授 )
++							( 東海大学医学部　内科学系消化器内科学 教授（内視鏡室長） )
+ 						</a>
+ 					</li>
+ 					<li>
+-						就任 : 阿部　浩幸
++						就任 : 仲矢　丈雄
+ 						<a href="https://center9.umin.ac.jp/personal/list/2026" rel="noopener noreferrer">
+-							( 日本医科大学 解析人体病理学 教授 )
++							( 岩手医科大学　医学部・大学院医学研究科　病理学講座機能病態学分野 教授 )
+ 						</a>
+ 					</li>
+ 					<li>
+-						就任 : 石神　浩徳
++						就任 : 渡邊　慎平
+ 						<a href="https://center9.umin.ac.jp/personal/list/2026" rel="noopener noreferrer">
+-							( 日本大学病院 病院教授 )
++							( 東京大学大学院医学系研究科 法医学・医療情報経済学 法医学 講師 )
+ 						</a>
+ 					</li>
+ 				</ul>

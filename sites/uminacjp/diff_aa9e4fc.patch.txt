@@ -1,0 +1,42 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index d79796a49..bf93cde4b 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -819,6 +819,18 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015683" rel="noopener noreferrer">
++							学校法人産業医科大学 医学部リハビリテーション医学講座 教授公募
++						</a>
++					</li>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015681" rel="noopener noreferrer">
++							学校法人産業医科大学 産業保健学部基礎看護学講座 講師公募
++						</a>
++					</li>
+ 					<li>
+ 						[教職員公募]
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015684" rel="noopener noreferrer">
+@@ -867,18 +879,6 @@
+ 							国立保健医療科学院 保健医療情報政策研究センター 研究員等公募
+ 						</a>
+ 					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015672" rel="noopener noreferrer">
+-							国立保健医療科学院 保健医療情報政策研究センター 部長等公募
+-						</a>
+-					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015671" rel="noopener noreferrer">
+-							国立保健医療科学院 建築・施設管理研究部 研究員等公募
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">

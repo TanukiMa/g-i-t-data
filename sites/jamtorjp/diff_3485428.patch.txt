@@ -1,0 +1,42 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index cbb6a2fa..9a74befd 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -885,6 +885,18 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="https://www.jamt.or.jp/information/tuuchi/asset/pdf/26f2bb7abe8f16b17db56888079181107c3f64dd.pdf" rel="noopener noreferrer">
++								<span>
++									2026.11.05
++								</span>
++								<span>
++									都道府県別医療事故報告件数について（情報提供）
++									<i>
++									</i>
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.jamt.or.jp/information/tuuchi/asset/pdf/a80043745457e7bdde477408b3d2d5fe3205182c.pdf" rel="noopener noreferrer">
+ 								<span>
+@@ -933,18 +945,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.jamt.or.jp/information/tuuchi/asset/pdf/ad2de56afe05a6b0a4fcbd1eaaba72d81800c45d.pdf" rel="noopener noreferrer">
+-								<span>
+-									2026.10.15
+-								</span>
+-								<span>
+-									厚生労働省医政局医療経営改革課より「医療安全推進週間（11月22日～11月28日）について」
+-									<i>
+-									</i>
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 			</div>

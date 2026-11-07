@@ -1,0 +1,42 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index f4f11f8d..a35ab652 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -885,6 +885,18 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="https://www.jamt.or.jp/information/tuuchi/asset/pdf/a80043745457e7bdde477408b3d2d5fe3205182c.pdf" rel="noopener noreferrer">
++								<span>
++									2026.10.29
++								</span>
++								<span>
++									厚生労働省政策統括官付医療情報連携担当参事官室 医政局医事課より「オンライン診療システムにおける不正ログイン事案の発生に伴うセキュリティ対策強化のお願い」
++									<i>
++									</i>
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.jamt.or.jp/information/tuuchi/asset/pdf/298104497ef3aca2e448583f796a777136589bf8.pdf" rel="noopener noreferrer">
+ 								<span>
+@@ -933,18 +945,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.jamt.or.jp/information/tuuchi/asset/pdf/82b78de34d063dd2292c0363bdfa4b119c0d869a.pdf" rel="noopener noreferrer">
+-								<span>
+-									2026.10.14
+-								</span>
+-								<span>
+-									厚生労働省政策統括官付医療情報連携担当参事官室より「不正アクセスによる漏えい等の事案を踏まえた対応について（内閣官房国家サイバー統括室からの依頼事項）」
+-									<i>
+-									</i>
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 			</div>

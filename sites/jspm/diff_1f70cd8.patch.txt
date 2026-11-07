@@ -1,0 +1,45 @@
+diff --git a/sites/jspm/jp/ne/jspm/index.html b/sites/jspm/jp/ne/jspm/index.html
+index 3a0e7b604..f91c18cf8 100644
+--- a/sites/jspm/jp/ne/jspm/index.html
++++ b/sites/jspm/jp/ne/jspm/index.html
+@@ -590,6 +590,18 @@
+ 							</a>
+ 						</div>
+ 						<div>
++							<div>
++								<h3>
++									<span>
++										<span>
++											2026.10.21
++										</span>
++									</span>
++									<a href="https://doi.org/10.2512/jspm.21.243" rel="noopener noreferrer" title="オンラインジャーナルに「がん症状に対するPCAポンプ使用状況と今後の課題 」が公開されました">
++										オンラインジャーナルに「がん症状に対するPCAポンプ使用状況と今後の課題 」が公開されました
++									</a>
++								</h3>
++							</div>
+ 							<div>
+ 								<h3>
+ 									<span>
+@@ -720,21 +732,6 @@
+ 									日本医学会からのお知らせ
+ 								</p>
+ 							</div>
+-							<div>
+-								<h3>
+-									<span>
+-										<span>
+-											2026.09.28
+-										</span>
+-									</span>
+-									<a href="https://www.jspm.ne.jp/news/individual.html?entry_id=3191" rel="noopener noreferrer" title="ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌）について">
+-										ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌）について
+-									</a>
+-								</h3>
+-								<p>
+-									日本医学会からのお知らせ
+-								</p>
+-							</div>
+ 						</div>
+ 						<a href="https://www.jspm.ne.jp/news/index.html" rel="noopener noreferrer">
+ 							一覧へ

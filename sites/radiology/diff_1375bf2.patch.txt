@@ -1,0 +1,38 @@
+diff --git a/sites/radiology/jp/radiology/index.html b/sites/radiology/jp/radiology/index.html
+index 5bc6c586e..7ae566626 100644
+--- a/sites/radiology/jp/radiology/index.html
++++ b/sites/radiology/jp/radiology/index.html
+@@ -483,6 +483,16 @@
+ 						What's New
+ 					</h2>
+ 					<dl>
++						<dt>
++							<time>
++								2026年10月21日
++							</time>
++						</dt>
++						<dd>
++							<a href="specialist/kikou_program.html" rel="noopener noreferrer">
++								日本専門医機構認定放射線科領域専門研修プログラム
++							</a>
++						</dd>
+ 						<dt>
+ 							<time>
+ 								2026年10月21日
+@@ -573,16 +583,6 @@
+ 								第62回秋季臨床大会 JRS-NEXT企画 開催報告
+ 							</a>
+ 						</dd>
+-						<dt>
+-							<time>
+-								2026年10月02日
+-							</time>
+-						</dt>
+-						<dd>
+-							<a href="guideline/20261005_01.html" rel="noopener noreferrer">
+-								画像診断ガイドライン2026年度版の全記事の公開について
+-							</a>
+-						</dd>
+ 					</dl>
+ 					<p>
+ 						<a href="past_info.html" rel="noopener noreferrer">

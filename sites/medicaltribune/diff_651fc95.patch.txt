@@ -1,0 +1,389 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 20936e50..df1fa0a3 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1462,13 +1462,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="原発性アルドステロン症治療、レニンの意義は？" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
++																<img alt="インフル増転、16道県で注意報レベル" src="https://asset.mtweb.jp/media/2026/07/14185544/com_weeklyreport_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619783" rel="noopener noreferrer">
+-																			原発性アルドステロン症治療、レニンの意義は？
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620504" rel="noopener noreferrer">
++																			インフル増転、16道県で注意報レベル
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1511,13 +1511,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「OTC類似薬」制度で、水虫の外用薬はどうなる？" src="https://asset.mtweb.jp/media/2026/07/31191642/com_otc_kojima_thum_w440h275.jpg">
++																<img alt="原発性アルドステロン症治療、レニンの意義は？" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619600" rel="noopener noreferrer">
+-																			「OTC類似薬」制度で、水虫の外用薬はどうなる？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619783" rel="noopener noreferrer">
++																			原発性アルドステロン症治療、レニンの意義は？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1560,20 +1560,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="〔10pt進呈〕POSITIVE試験の結果を受け、高井泰氏が臨床における大きな変化と考えているものは？【MT医療検定 No.145】（11/9まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																<img alt="「OTC類似薬」制度で、水虫の外用薬はどうなる？" src="https://asset.mtweb.jp/media/2026/07/31191642/com_otc_kojima_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=620153" rel="noopener noreferrer">
+-																			〔10pt進呈〕POSITIVE試験の結果を受け、高井泰氏が臨床における大きな変化と考えているものは？【MT医療検定 No.145】（11/9まで）
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619600" rel="noopener noreferrer">
++																			「OTC類似薬」制度で、水虫の外用薬はどうなる？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-03
++																			2026-11-04
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1609,13 +1609,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="世界脳卒中デー2026でライトアップイベント" src="https://asset.mtweb.jp/media/2026/11/02144021/70429_fig01.jpg">
++																<img alt="〔10pt進呈〕POSITIVE試験の結果を受け、高井泰氏が臨床における大きな変化と考えているものは？【MT医療検定 No.145】（11/9まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620263" rel="noopener noreferrer">
+-																			世界脳卒中デー2026でライトアップイベント
++																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=620153" rel="noopener noreferrer">
++																			〔10pt進呈〕POSITIVE試験の結果を受け、高井泰氏が臨床における大きな変化と考えているものは？【MT医療検定 No.145】（11/9まで）
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1658,20 +1658,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="IDH1阻害薬、胆道がん治療に新たな選択肢" src="https://asset.mtweb.jp/media/2026/11/02111518/70426_photo01.jpg">
++																<img alt="世界脳卒中デー2026でライトアップイベント" src="https://asset.mtweb.jp/media/2026/11/02144021/70429_fig01.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620210" rel="noopener noreferrer">
+-																			IDH1阻害薬、胆道がん治療に新たな選択肢
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620263" rel="noopener noreferrer">
++																			世界脳卒中デー2026でライトアップイベント
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-02
++																			2026-11-03
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1707,13 +1707,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="多発性骨髄腫治療に転換点、テク＋ダラの可能性" src="https://asset.mtweb.jp/media/2026/10/26101419/70259_face01.png">
++																<img alt="IDH1阻害薬、胆道がん治療に新たな選択肢" src="https://asset.mtweb.jp/media/2026/11/02111518/70426_photo01.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
+-																			多発性骨髄腫治療に転換点、テク＋ダラの可能性
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620210" rel="noopener noreferrer">
++																			IDH1阻害薬、胆道がん治療に新たな選択肢
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1756,13 +1756,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ロモソズマブ6カ月＋BPは選択肢となるか" src="https://asset.mtweb.jp/media/2026/09/25101814/com_jos28_thum_w440h275.png">
++																<img alt="多発性骨髄腫治療に転換点、テク＋ダラの可能性" src="https://asset.mtweb.jp/media/2026/10/26101419/70259_face01.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619943" rel="noopener noreferrer">
+-																			ロモソズマブ6カ月＋BPは選択肢となるか
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
++																			多発性骨髄腫治療に転換点、テク＋ダラの可能性
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1822,19 +1822,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619600" rel="noopener noreferrer">
+-																					<img alt="「OTC類似薬」制度で、水虫の外用薬はどうなる？" src="/assets/images/thumbnails/com_otc_kojima_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620504" rel="noopener noreferrer">
++																					<img alt="インフル増転、16道県で注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619600" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620504" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-04
+ 																						</time>
+ 																						<h2>
+-																							「OTC類似薬」制度で、水虫の外用薬はどうなる？
++																							インフル増転、16道県で注意報レベル
+ 																						</h2>
+ 																						<p>
+-																							複雑な対象設定、今後の議論次第で変更も
++																							【感染症動向調査第43週：10月19～25日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1843,20 +1843,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									0
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									20
++																									1
+ 																								</span>
+ 																								<span>
+-																									20件「いいね！」されています
++																									1件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1873,18 +1873,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=620153" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕POSITIVE試験の結果を受け、高井泰氏が臨床における大きな変化と考えているものは？【MT医療検定 No.145】（11/9まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619600" rel="noopener noreferrer">
++																					<img alt="「OTC類似薬」制度で、水虫の外用薬はどうなる？" src="/assets/images/thumbnails/com_otc_kojima_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=620153" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619600" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-03
++																							2026-11-04
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕POSITIVE試験の結果を受け、高井泰氏が臨床における大きな変化と考えているものは？【MT医療検定 No.145】（11/9まで）
++																							「OTC類似薬」制度で、水虫の外用薬はどうなる？
+ 																						</h2>
+ 																						<p>
++																							複雑な対象設定、今後の議論次第で変更も
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1893,20 +1894,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									4
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									20
++																									21
+ 																								</span>
+ 																								<span>
+-																									20件「いいね！」されています
++																									21件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1923,19 +1924,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620263" rel="noopener noreferrer">
+-																					<img alt="世界脳卒中デー2026でライトアップイベント" src="/assets/images/rensai/thumbnails/com_oped_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=620153" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕POSITIVE試験の結果を受け、高井泰氏が臨床における大きな変化と考えているものは？【MT医療検定 No.145】（11/9まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620263" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=620153" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-03
+ 																						</time>
+ 																						<h2>
+-																							世界脳卒中デー2026でライトアップイベント
++																							〔10pt進呈〕POSITIVE試験の結果を受け、高井泰氏が臨床における大きな変化と考えているものは？【MT医療検定 No.145】（11/9まで）
+ 																						</h2>
+ 																						<p>
+-																							済生会熊本病院脳卒中センター特別顧問／日本脳卒中協会常務理事　橋本洋一郎
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1944,20 +1944,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									0
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									22
++																									21
+ 																								</span>
+ 																								<span>
+-																									22件「いいね！」されています
++																									21件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1974,19 +1974,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
+-																					<img alt="多発性骨髄腫治療に転換点、テク＋ダラの可能性" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620263" rel="noopener noreferrer">
++																					<img alt="世界脳卒中デー2026でライトアップイベント" src="/assets/images/rensai/thumbnails/com_oped_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620263" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-02
++																							2026-11-03
+ 																						</time>
+ 																						<h2>
+-																							多発性骨髄腫治療に転換点、テク＋ダラの可能性
++																							世界脳卒中デー2026でライトアップイベント
+ 																						</h2>
+ 																						<p>
+-																							MajesTEC-3試験筆頭著者・J. Costa氏に聞く
++																							済生会熊本病院脳卒中センター特別顧問／日本脳卒中協会常務理事　橋本洋一郎
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1995,20 +1995,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									31
++																									22
+ 																								</span>
+ 																								<span>
+-																									31件「いいね！」されています
++																									22件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2025,19 +2025,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618857" rel="noopener noreferrer">
+-																					<img alt="新薬6剤の時代、片頭痛は「治せる疾患」に" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
++																					<img alt="多発性骨髄腫治療に転換点、テク＋ダラの可能性" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618857" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619187" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-02
+ 																						</time>
+ 																						<h2>
+-																							新薬6剤の時代、片頭痛は「治せる疾患」に
++																							多発性骨髄腫治療に転換点、テク＋ダラの可能性
+ 																						</h2>
+ 																						<p>
+-																							第54回日本頭痛学会大会長・橋本洋一郎氏
++																							MajesTEC-3試験筆頭著者・J. Costa氏に聞く
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2046,20 +2046,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									2
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									29
++																									32
+ 																								</span>
+ 																								<span>
+-																									29件「いいね！」されています
++																									32件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

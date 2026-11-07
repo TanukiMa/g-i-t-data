@@ -1,0 +1,215 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 97dea7ed6..5961b2d3d 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2337,6 +2337,25 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/about-pmda/symposia/0036.html" rel="noopener noreferrer">
++												<p>
++													2026年10月15日
++												</p>
++												<p>
++													その他
++												</p>
++												<p>
++													イベント
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/drug-reviews/about-reviews/devices/0048.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2556,9 +2575,6 @@
+ 												<p>
+ 													調達
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													一般競争入札公告（政府調達）（総合評価落札方式）（組織人事の高度化のための技術的支援業務）
+ 												</p>
+@@ -2572,9 +2588,6 @@
+ 												<p>
+ 													調達
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													一般競争入札公告（政府調達）（什器の納品及び設置業務一式）
+ 												</p>
+@@ -2588,9 +2601,6 @@
+ 												<p>
+ 													審査
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「治験計画等の届出に関するFAQ」を更新しました
+ 												</p>
+@@ -2635,19 +2645,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/procurements/public-bidding/general-competition-government/0236.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月6日
+-												</p>
+-												<p>
+-													調達
+-												</p>
+-												<p>
+-													一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入業務）
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2722,9 +2719,6 @@
+ 												<p>
+ 													医薬品
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「治験計画等の届出に関するFAQ」を更新しました
+ 												</p>
+@@ -2856,38 +2850,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/trials/0016.html" rel="noopener noreferrer">
+-												<p>
+-													2026年9月30日
+-												</p>
+-												<p>
+-													医薬品
+-												</p>
+-												<p>
+-													医療機器
+-												</p>
+-												<p>
+-													再生
+-												</p>
+-												<p>
+-													人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/about-reviews/devices/0046.html" rel="noopener noreferrer">
+-												<p>
+-													2026年9月30日
+-												</p>
+-												<p>
+-													医療機器
+-												</p>
+-												<p>
+-													「令和8年度 小児用医療機器の承認申請支援事業の実施について」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3056,19 +3018,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/relief-services/adr-sufferers/0043.html" rel="noopener noreferrer">
+-												<p>
+-													2026年9月30日
+-												</p>
+-												<p>
+-													救済
+-												</p>
+-												<p>
+-													副用救済給付の決定に関する情報（2026年度7月分）を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3176,19 +3125,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/int-activities/outline/0007.html" rel="noopener noreferrer">
+-												<p>
+-													2026年9月30日
+-												</p>
+-												<p>
+-													全製品
+-												</p>
+-												<p>
+-													PMDA Updates（2026 No.3）を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3207,6 +3143,25 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/about-pmda/symposia/0036.html" rel="noopener noreferrer">
++												<p>
++													2026年10月15日
++												</p>
++												<p>
++													その他
++												</p>
++												<p>
++													イベント
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/procurements/public-bidding/general-competition/1711.html" rel="noopener noreferrer">
+ 												<p>
+@@ -3269,9 +3224,6 @@
+ 												<p>
+ 													調達
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													一般競争入札公告（政府調達）（総合評価落札方式）（組織人事の高度化のための技術的支援業務）
+ 												</p>
+@@ -3285,9 +3237,6 @@
+ 												<p>
+ 													調達
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													一般競争入札公告（政府調達）（什器の納品及び設置業務一式）
+ 												</p>

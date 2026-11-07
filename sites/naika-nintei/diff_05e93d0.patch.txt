@@ -1,0 +1,27 @@
+diff --git a/sites/naika-nintei/jp/or/naika/nintei.html b/sites/naika-nintei/jp/or/naika/nintei.html
+index 3b1aa3a81..7adb9a139 100644
+--- a/sites/naika-nintei/jp/or/naika/nintei.html
++++ b/sites/naika-nintei/jp/or/naika/nintei.html
+@@ -659,6 +659,11 @@
+ 											提言・声明等
+ 										</a>
+ 									</li>
++									<li>
++										<a href="https://www.naika.or.jp/activity/" rel="noopener noreferrer">
++											日本内科学会の取り組みについて
++										</a>
++									</li>
+ 									<li>
+ 										<a href="https://www.naika.or.jp/jigyo_top/" rel="noopener noreferrer">
+ 											日本内科学会についてTOP
+@@ -1441,8 +1446,8 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.naika.or.jp/activity/info_01/" rel="noopener noreferrer">
+-										会場内禁煙について
++									<a href="https://www.naika.or.jp/activity/" rel="noopener noreferrer">
++										日本内科学会の取り組みについて
+ 									</a>
+ 								</li>
+ 								<li>

@@ -1,0 +1,111 @@
+diff --git a/sites/ajhcorjp/jp/or/ajhc/index.html b/sites/ajhcorjp/jp/or/ajhc/index.html
+index 0999a9ef..eb0510b0 100644
+--- a/sites/ajhcorjp/jp/or/ajhc/index.html
++++ b/sites/ajhcorjp/jp/or/ajhc/index.html
+@@ -69,37 +69,34 @@
+ 					</div>
+ 					<div>
+ 						<figure>
+-							<a href="seminer.html#semi20261030" rel="noopener noreferrer">
+-								<img alt="" src="images/20261030.png">
++							<a href="news.html" rel="noopener noreferrer">
++								<img src="images/topnews.jpg">
+ 							</a>
+ 						</figure>
+ 						<div>
+ 							<h4>
+-								第2回経営講座 (10/30(金)WEB開催)
+-								<u>
+-									<strong>
+-										※締切ました
+-									</strong>
+-								</u>
++								協会ニュース
+ 							</h4>
++							<p>
++								<a href="news.html" rel="noopener noreferrer">
++									協会ニュース最新号はこちら
++								</a>
++							</p>
+ 						</div>
+-						<span>
+-							HOT
+-						</span>
+ 					</div>
+ 					<div>
+ 						<figure>
+-							<a href="news.html" rel="noopener noreferrer">
+-								<img src="images/topnews.jpg">
++							<a href="siryo/20261020report.pdf" rel="noopener noreferrer">
++								<img alt="" src="images/20261020report.jpg">
+ 							</a>
+ 						</figure>
+ 						<div>
+ 							<h4>
+-								協会ニュース
++								2026年度病院経営定期調査 -中間報告(集計結果)-
+ 							</h4>
+ 							<p>
+-								<a href="news.html" rel="noopener noreferrer">
+-									協会ニュース最新号はこちら
++								<a href="siryo/20261020report.pdf" rel="noopener noreferrer">
++									日本病院会/全日本病院協会/日本医療法人協会の3団体合同調査の結果（中間報告）がまとまりました。
+ 								</a>
+ 							</p>
+ 						</div>
+@@ -137,18 +134,17 @@
+ 					</div>
+ 					<div>
+ 						<figure>
+-							<a href="siryo/20261020report.pdf" rel="noopener noreferrer">
+-								<img alt="" src="images/20261020report.jpg">
++							<a href="siryo/20261014anzenweek.pdf" rel="noopener noreferrer">
++								<img alt="" src="images/2026iryoanzenweek.jpg">
+ 							</a>
+ 						</figure>
+ 						<div>
+ 							<h4>
+-								2026年度病院経営定期調査 -中間報告(集計結果)-
++								<a href="siryo/20261014anzenweek.pdf" rel="noopener noreferrer">
++									医療安全推進週間（11月22日～11月28日）について
++								</a>
+ 							</h4>
+ 							<p>
+-								<a href="siryo/20261020report.pdf" rel="noopener noreferrer">
+-									日本病院会/全日本病院協会/日本医療法人協会の3団体合同調査の結果（中間報告）がまとまりました。
+-								</a>
+ 							</p>
+ 						</div>
+ 					</div>
+@@ -205,25 +201,25 @@
+ 					<div>
+ 						<dl>
+ 							<dt>
+-								2026/10/27
++								2026/10/29
+ 								<span>
+ 									おしらせ
+ 								</span>
+ 							</dt>
+ 							<dd>
+-								<a href="https://www.mhlw.go.jp/stf/newpage_76419.html" rel="noopener noreferrer">
+-									厚生労働省より医師・歯科医師・保健師・助産師・看護師の免許申請 （新規登録申請）/初期設定申請開始について
++								<a href="siryo/20261028-gizi14.pdf" rel="noopener noreferrer">
++									疑義解釈資料の送付について（その14）
+ 								</a>
+ 							</dd>
+ 							<dt>
+-								2026/10/27
++								2026/10/29
+ 								<span>
+ 									おしらせ
+ 								</span>
+ 							</dt>
+ 							<dd>
+-								<a href="siryo/202610ro.pdf" rel="noopener noreferrer">
+-									長時間労働削減を始めとする働き方の見直しに向けた取組に関する要請書について
++								<a href="siryo/20261028di.pdf" rel="noopener noreferrer">
++									「抗微生物薬適正使用の手引き（第四版）ダイジェスト版」の一部訂正について
+ 								</a>
+ 							</dd>
+ 							<dt>

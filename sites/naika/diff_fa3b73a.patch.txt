@@ -1,0 +1,69 @@
+diff --git a/sites/naika/jp/or/naika/index.html b/sites/naika/jp/or/naika/index.html
+index 7b1efdf45..35bc0dc31 100644
+--- a/sites/naika/jp/or/naika/index.html
++++ b/sites/naika/jp/or/naika/index.html
+@@ -1006,6 +1006,27 @@
+ 								</div>
+ 								<div>
+ 									<ul>
++										<li>
++											<span>
++												2026年10月22日
++											</span>
++											<span>
++												<div>
++													<a href="/info-cat/nenji/" rel="noopener noreferrer">
++														年次講演会
++													</a>
++												</div>
++											</span>
++											<span>
++												<a href="https://www.naika.or.jp/info/124-poster-start0721/" rel="noopener noreferrer">
++													<span>
++														<strong>
++															第124回日本内科学会講演会「一般演題」演題募集のお知らせ
++														</strong>
++													</span>
++												</a>
++											</span>
++										</li>
+ 										<li>
+ 											<span>
+ 												2026年10月20日
+@@ -1061,27 +1082,6 @@
+ 												</a>
+ 											</span>
+ 										</li>
+-										<li>
+-											<span>
+-												2026年10月14日
+-											</span>
+-											<span>
+-												<div>
+-													<a href="/info-cat/nenji/" rel="noopener noreferrer">
+-														年次講演会
+-													</a>
+-												</div>
+-											</span>
+-											<span>
+-												<a href="https://www.naika.or.jp/info/124-poster-start0721/" rel="noopener noreferrer">
+-													<span>
+-														<strong>
+-															第124回日本内科学会講演会「一般演題」演題募集のお知らせ
+-														</strong>
+-													</span>
+-												</a>
+-											</span>
+-										</li>
+ 										<li>
+ 											<span>
+ 												2026年10月13日
+@@ -1283,7 +1283,7 @@
+ 									<ul>
+ 										<li>
+ 											<span>
+-												2026年10月14日
++												2026年10月22日
+ 											</span>
+ 											<span>
+ 												<div>

@@ -1,0 +1,127 @@
+diff --git a/sites/dsjpupdate/jp/drugshortage/updatehistory-php.html b/sites/dsjpupdate/jp/drugshortage/updatehistory-php.html
+index 31e6e7a07..3a8deb794 100644
+--- a/sites/dsjpupdate/jp/drugshortage/updatehistory-php.html
++++ b/sites/dsjpupdate/jp/drugshortage/updatehistory-php.html
+@@ -1542,7 +1542,7 @@
+ 													告知日:
+ 												</span>
+ 												<span>
+-													2026年10月6日
++													2026年10月1日
+ 												</span>
+ 											</div>
+ 											<div>
+@@ -1550,7 +1550,7 @@
+ 													実施日:
+ 												</span>
+ 												<span>
+-													2026年10月6日
++													2026年10月1日
+ 												</span>
+ 											</div>
+ 										</div>
+@@ -1579,7 +1579,7 @@
+ 												</div>
+ 											</div>
+ 											<div>
+-												<a href="drugdata.php?drugid=428017" rel="noopener noreferrer">
++												<a href="drugdata.php?drugid=428014" rel="noopener noreferrer">
+ 													モビコール配合内用剤ＨＤ
+ 												</a>
+ 											</div>
+@@ -1670,7 +1670,7 @@
+ 													告知日:
+ 												</span>
+ 												<span>
+-													2026年10月1日
++													2026年10月6日
+ 												</span>
+ 											</div>
+ 											<div>
+@@ -1678,7 +1678,10 @@
+ 													実施日:
+ 												</span>
+ 												<span>
+-													2026年10月1日
++													2026年11月1日
++													<span>
++														予定
++													</span>
+ 												</span>
+ 											</div>
+ 										</div>
+@@ -1698,7 +1701,7 @@
+ 											<div>
+ 												<div>
+ 													<span>
+-														限定出荷
++														供給停止
+ 													</span>
+ 												</div>
+ 												<div>
+@@ -1707,7 +1710,7 @@
+ 												</div>
+ 											</div>
+ 											<div>
+-												<a href="drugdata.php?drugid=428014" rel="noopener noreferrer">
++												<a href="drugdata.php?drugid=428018" rel="noopener noreferrer">
+ 													モビコール配合内用剤ＨＤ
+ 												</a>
+ 											</div>
+@@ -1798,7 +1801,7 @@
+ 													告知日:
+ 												</span>
+ 												<span>
+-													2026年10月6日
++													2026年10月1日
+ 												</span>
+ 											</div>
+ 											<div>
+@@ -1838,7 +1841,7 @@
+ 												</div>
+ 											</div>
+ 											<div>
+-												<a href="drugdata.php?drugid=428018" rel="noopener noreferrer">
++												<a href="drugdata.php?drugid=428015" rel="noopener noreferrer">
+ 													モビコール配合内用剤ＨＤ
+ 												</a>
+ 											</div>
+@@ -1929,7 +1932,7 @@
+ 													告知日:
+ 												</span>
+ 												<span>
+-													2026年10月1日
++													2026年10月6日
+ 												</span>
+ 											</div>
+ 											<div>
+@@ -1937,10 +1940,7 @@
+ 													実施日:
+ 												</span>
+ 												<span>
+-													2026年11月1日
+-													<span>
+-														予定
+-													</span>
++													2026年10月6日
+ 												</span>
+ 											</div>
+ 										</div>
+@@ -1960,7 +1960,7 @@
+ 											<div>
+ 												<div>
+ 													<span>
+-														供給停止
++														限定出荷
+ 													</span>
+ 												</div>
+ 												<div>
+@@ -1969,7 +1969,7 @@
+ 												</div>
+ 											</div>
+ 											<div>
+-												<a href="drugdata.php?drugid=428015" rel="noopener noreferrer">
++												<a href="drugdata.php?drugid=428017" rel="noopener noreferrer">
+ 													モビコール配合内用剤ＨＤ
+ 												</a>
+ 											</div>

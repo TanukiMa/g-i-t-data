@@ -1,0 +1,151 @@
+diff --git a/sites/jgagrjp/jp/gr/jga/index.html b/sites/jgagrjp/jp/gr/jga/index.html
+index 9414438e..2da19c22 100644
+--- a/sites/jgagrjp/jp/gr/jga/index.html
++++ b/sites/jgagrjp/jp/gr/jga/index.html
+@@ -1141,54 +1141,54 @@
+ 								<nav>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261026_006019.html" rel="noopener noreferrer">
++											<a href="/medical/confirm-effective.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.26
++													2026.10.29
+ 												</time>
+ 												<span>
+-													トピックス
++													更新
+ 												</span>
+ 												<span>
+-													人気コンテンツ動画第44弾公開！『GE薬協コラム Factに迫る！「ニューロマーケティング」について』
++													効果・効能について情報を更新しました。
+ 												</span>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261021_006018.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261029_006023.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.21
++													2026.10.29
+ 												</time>
+ 												<span>
+-													トピックス
++													更新
+ 												</span>
+ 												<span>
+-													JGAニュース10月号を発刊しました
++													JGAニュース10月号の新着記事をお知らせします
+ 												</span>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261020_006012.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261026_006019.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.20
++													2026.10.26
+ 												</time>
+ 												<span>
+-													レポート
++													トピックス
+ 												</span>
+ 												<span>
+-													【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年10月19日時点）
++													人気コンテンツ動画第44弾公開！『GE薬協コラム Factに迫る！「ニューロマーケティング」について』
+ 												</span>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/medical/confirm-effective.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261021_006018.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.19
++													2026.10.21
+ 												</time>
+ 												<span>
+-													更新
++													トピックス
+ 												</span>
+ 												<span>
+-													効果・効能について情報を更新しました。
++													JGAニュース10月号を発刊しました
+ 												</span>
+ 											</a>
+ 										</li>
+@@ -1198,6 +1198,19 @@
+ 							<div>
+ 								<nav>
+ 									<ul>
++										<li>
++											<a href="https://www.jga.gr.jp/news/261029_006023.html" rel="noopener noreferrer">
++												<time>
++													2026.10.29
++												</time>
++												<span>
++													更新
++												</span>
++												<span>
++													JGAニュース10月号の新着記事をお知らせします
++												</span>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261026_006019.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1237,25 +1250,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261029_006023.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.15
++													2026.10.29
+ 												</time>
+ 												<span>
+-													発表資料
++													更新
+ 												</span>
+ 												<span>
+-													「企業活動と医療機関等の関係の透明性ガイドラインについて」の改定について
++													JGAニュース10月号の新着記事をお知らせします
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261026_006019.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1295,19 +1308,6 @@
+ 												</span>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
+-												<time>
+-													2026.10.15
+-												</time>
+-												<span>
+-													発表資料
+-												</span>
+-												<span>
+-													「企業活動と医療機関等の関係の透明性ガイドラインについて」の改定について
+-												</span>
+-											</a>
+-										</li>
+ 									</ul>
+ 								</nav>
+ 							</div>

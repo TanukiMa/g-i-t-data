@@ -1,0 +1,88 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 9ebc575a..8929e156 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -635,17 +635,17 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.11.04
++														2026.11.05
+ 													</time>
+ 												</p>
+ 												<p>
+ 													<span>
+-														会員向け
++														薬剤師向け
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1750" rel="noopener noreferrer">
+-														日薬斡旋図書（PDF）/日薬斡旋図書一覧
++													<a href="/news/detail?id=1751&amp;is_top=yes" rel="noopener noreferrer">
++														薬局製剤に係るアンケートを実施しています
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -654,7 +654,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.11.02
++														2026.11.04
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -663,8 +663,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1747" rel="noopener noreferrer">
+-														日薬ニュース第327号
++													<a href="/member/news/detail?id=1750" rel="noopener noreferrer">
++														日薬斡旋図書（PDF）/日薬斡旋図書一覧
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -682,8 +682,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1688" rel="noopener noreferrer">
+-														日薬メールナビアーカイブサービスのIDとパスワードの変更
++													<a href="/member/news/detail?id=1747" rel="noopener noreferrer">
++														日薬ニュース第327号
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -692,7 +692,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.30
++														2026.11.02
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -701,8 +701,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1744" rel="noopener noreferrer">
+-														【重要】「日薬アプリ」新機能追加のお知らせ
++													<a href="/member/news/detail?id=1688" rel="noopener noreferrer">
++														日薬メールナビアーカイブサービスのIDとパスワードの変更
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -720,8 +720,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1741" rel="noopener noreferrer">
+-														【日薬ホームページ メンテナンスのお知らせ】
++													<a href="/member/news/detail?id=1744" rel="noopener noreferrer">
++														【重要】「日薬アプリ」新機能追加のお知らせ
+ 													</a>
+ 												</div>
+ 											</div>

@@ -1,0 +1,34 @@
+diff --git a/sites/jsrm-2/jp/or/jsrm/index.html b/sites/jsrm-2/jp/or/jsrm/index.html
+index 74c28427..1bf8f684 100644
+--- a/sites/jsrm-2/jp/or/jsrm/index.html
++++ b/sites/jsrm-2/jp/or/jsrm/index.html
+@@ -188,6 +188,17 @@
+ 						</h2>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026年11月5日
++								</dt>
++								<dd>
++									<span>
++										会告
++									</span>
++									<a href="announce/josei_261105.html" rel="noopener noreferrer">
++										若手研究者海外学会派遣助成事業のご案内
++									</a>
++								</dd>
+ 								<dt>
+ 									2026年11月2日
+ 								</dt>
+@@ -317,6 +328,11 @@
+ 									<img alt="日本生殖医学会とは？　Message from us" src="img/bnr_what_is_jsrm_s.jpg" width="240">
+ 								</a>
+ 							</li>
++							<li>
++								<a href="announce/josei_261105.html" rel="noopener noreferrer">
++									<img alt="若手研究者海外助成" src="img/bnr_wakatejosei.png" width="240">
++								</a>
++							</li>
+ 						</ul>
+ 					</div>
+ 					<div>

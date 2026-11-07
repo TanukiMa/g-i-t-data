@@ -1,0 +1,48 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index b8e6441c5..cdb1ec768 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -371,6 +371,21 @@
+ 						</h2>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								<span>
++									令和8年10月19日
++								</span>
++								<span>
++									医療機関・保険者
++								</span>
++							</span>
++							<span>
++								<a href="/shinryohoshu/saikaisyou_torikumi/kashikarepo/index.html" rel="noopener noreferrer">
++									審査の差異の可視化レポート「審査の一般的な取扱い・審査情報提供事例」（7事例）検証前レポートを掲載しました。
++								</a>
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+@@ -488,21 +503,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月1日
+-								</span>
+-								<span>
+-									医療機関・保険者
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/shinryohoshu/saikaisyou_torikumi/kashikarepo/index.html" rel="noopener noreferrer">
+-									「審査の差異の可視化レポート」の「多くの付箋がつくコンピュータチェック事例」の検証後(医科4事例、調剤1事例)、フォローアップ検証後(歯科2事例)、再フォローアップ検証後(医科1事例)、「審査の一般的な取扱い事例」の検証後(医科1事例)、フォローアップ検証後(医科8事例)のレポートを掲載しました
+-								</a>
+-							</span>
+-						</li>
+ 					</ul>
+ 				</div>
+ 			</div>

@@ -1,0 +1,42 @@
+diff --git a/sites/ganjohojp/jp/ganjoho/index.html b/sites/ganjohojp/jp/ganjoho/index.html
+index d407db1c..a4c4d168 100644
+--- a/sites/ganjohojp/jp/ganjoho/index.html
++++ b/sites/ganjohojp/jp/ganjoho/index.html
+@@ -2152,6 +2152,18 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						<div>
++							2026年11月04日
++						</div>
++						<div>
++							「
++							<a href="/public/institution/consultation/support_center/guide.html" rel="noopener noreferrer">
++								がん情報サービスサポートセンター
++							</a>
++							」システムメンテナンスによる電話相談休止について掲載しました。
++						</div>
++					</li>
+ 					<li>
+ 						<div>
+ 							2026年11月04日
+@@ -2196,18 +2208,6 @@
+ 							」を更新しました。
+ 						</div>
+ 					</li>
+-					<li>
+-						<div>
+-							2026年10月14日
+-						</div>
+-						<div>
+-							「
+-							<a href="/public/cancer/soft_tissue_sarcoma/index.html" rel="noopener noreferrer">
+-								軟部肉腫〈小児〉
+-							</a>
+-							」を更新しました。
+-						</div>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="/public/news/index.html" rel="noopener noreferrer">

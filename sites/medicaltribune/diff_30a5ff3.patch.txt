@@ -1,0 +1,400 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index b3dd6c00f..2b03515ce 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1481,20 +1481,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="皮膚症状だけではない、デュピルマブの改善効果" src="https://asset.mtweb.jp/media/2026/06/18130059/com_dr_hashiro_thum_w440h275.jpg">
++																<img alt="抗インフルエンザ薬の予防投与、やはり有効" src="https://asset.mtweb.jp/media/2026/06/19183756/com_drwatanabe_thum_w440h275_old.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
+-																			皮膚症状だけではない、デュピルマブの改善効果
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618072" rel="noopener noreferrer">
++																			抗インフルエンザ薬の予防投与、やはり有効
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-18
++																			2026-10-19
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1530,20 +1530,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="全身型重症筋無力症にCAR-T療法は有効か" src="https://asset.mtweb.jp/media/2026/06/10160021/com_dr_suzuki_thum_w440h275.jpg">
++																<img alt="皮膚症状だけではない、デュピルマブの改善効果" src="https://asset.mtweb.jp/media/2026/06/18130059/com_dr_hashiro_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617866" rel="noopener noreferrer">
+-																			全身型重症筋無力症にCAR-T療法は有効か
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
++																			皮膚症状だけではない、デュピルマブの改善効果
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-17
++																			2026-10-18
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1579,20 +1579,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="尿意切迫感に「全身性感覚過敏」が潜む？" src="https://asset.mtweb.jp/media/2026/06/23103038/com_dr_omae_thum_w440h275.jpg">
++																<img alt="全身型重症筋無力症にCAR-T療法は有効か" src="https://asset.mtweb.jp/media/2026/06/10160021/com_dr_suzuki_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617833" rel="noopener noreferrer">
+-																			尿意切迫感に「全身性感覚過敏」が潜む？
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617866" rel="noopener noreferrer">
++																			全身型重症筋無力症にCAR-T療法は有効か
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-16
++																			2026-10-17
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1628,13 +1628,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="非感染性ぶどう膜炎、アダリムマブで治療失敗リスク減" src="https://asset.mtweb.jp/media/2026/10/16155447/ChatGPT-Image-20261015_NIUxADA.jpg">
++																<img alt="尿意切迫感に「全身性感覚過敏」が潜む？" src="https://asset.mtweb.jp/media/2026/06/23103038/com_dr_omae_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618411" rel="noopener noreferrer">
+-																			非感染性ぶどう膜炎、アダリムマブで治療失敗リスク減
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617833" rel="noopener noreferrer">
++																			尿意切迫感に「全身性感覚過敏」が潜む？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1677,13 +1677,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="経口deucrictibantで遺伝性血管性浮腫の発作が迅速緩和" src="https://asset.mtweb.jp/media/2026/10/16124929/ChatGPT-Image-20261015_HAE.jpg">
++																<img alt="非感染性ぶどう膜炎、アダリムマブで治療失敗リスク減" src="https://asset.mtweb.jp/media/2026/10/16155447/ChatGPT-Image-20261015_NIUxADA.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618359" rel="noopener noreferrer">
+-																			経口deucrictibantで遺伝性血管性浮腫の発作が迅速緩和
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618411" rel="noopener noreferrer">
++																			非感染性ぶどう膜炎、アダリムマブで治療失敗リスク減
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1726,13 +1726,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「MRI検査時の植え込み機器確認が不十分」と注意喚起" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
++																<img alt="経口deucrictibantで遺伝性血管性浮腫の発作が迅速緩和" src="https://asset.mtweb.jp/media/2026/10/16124929/ChatGPT-Image-20261015_HAE.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618340" rel="noopener noreferrer">
+-																			「MRI検査時の植え込み機器確認が不十分」と注意喚起
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618359" rel="noopener noreferrer">
++																			経口deucrictibantで遺伝性血管性浮腫の発作が迅速緩和
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1775,13 +1775,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="鼻の不快感を緩和するサプリメント登場" src="https://asset.mtweb.jp/media/2026/10/16105647/70067_photo01.jpg">
++																<img alt="「MRI検査時の植え込み機器確認が不十分」と注意喚起" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618050" rel="noopener noreferrer">
+-																			鼻の不快感を緩和するサプリメント登場
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618340" rel="noopener noreferrer">
++																			「MRI検査時の植え込み機器確認が不十分」と注意喚起
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1841,19 +1841,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
+-																					<img alt="皮膚症状だけではない、デュピルマブの改善効果" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618072" rel="noopener noreferrer">
++																					<img alt="抗インフルエンザ薬の予防投与、やはり有効" src="/assets/images/rensai/thumbnails/com_drwatanabe_thum_w440h275_new.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618072" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-18
++																							2026-10-19
+ 																						</time>
+ 																						<h2>
+-																							皮膚症状だけではない、デュピルマブの改善効果
++																							抗インフルエンザ薬の予防投与、やはり有効
+ 																						</h2>
+ 																						<p>
+-																							アトピー性皮膚炎患者の抑うつ・疲労に着目
++																							臨床試験の解析から導く、予防投与の『真なる効果』
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1862,20 +1862,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									1
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									1件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									21
++																									4
+ 																								</span>
+ 																								<span>
+-																									21件「いいね！」されています
++																									4件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1892,19 +1892,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617866" rel="noopener noreferrer">
+-																					<img alt="全身型重症筋無力症にCAR-T療法は有効か" src="/assets/images/rensai/doceye/thumbnails/鈴木重明（脳神経内科）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
++																					<img alt="皮膚症状だけではない、デュピルマブの改善効果" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617866" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618281" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-17
++																							2026-10-18
+ 																						</time>
+ 																						<h2>
+-																							全身型重症筋無力症にCAR-T療法は有効か
++																							皮膚症状だけではない、デュピルマブの改善効果
+ 																						</h2>
+ 																						<p>
+-																							BCMAを標的とする新たな治療アプローチ
++																							アトピー性皮膚炎患者の抑うつ・疲労に着目
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1913,20 +1913,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									5
++																									3
+ 																								</span>
+ 																								<span>
+-																									5件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									22
++																									27
+ 																								</span>
+ 																								<span>
+-																									22件「いいね！」されています
++																									27件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1943,19 +1943,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617833" rel="noopener noreferrer">
+-																					<img alt="尿意切迫感に「全身性感覚過敏」が潜む？" src="/assets/images/rensai/doceye/thumbnails/大前憲史（泌尿器）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617866" rel="noopener noreferrer">
++																					<img alt="全身型重症筋無力症にCAR-T療法は有効か" src="/assets/images/rensai/doceye/thumbnails/鈴木重明（脳神経内科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617833" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617866" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-16
++																							2026-10-17
+ 																						</time>
+ 																						<h2>
+-																							尿意切迫感に「全身性感覚過敏」が潜む？
++																							全身型重症筋無力症にCAR-T療法は有効か
+ 																						</h2>
+ 																						<p>
+-																							過活動膀胱患者617例対象の多施設観察研究
++																							BCMAを標的とする新たな治療アプローチ
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1964,20 +1964,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									5
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									5件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									32
++																									24
+ 																								</span>
+ 																								<span>
+-																									32件「いいね！」されています
++																									24件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1994,19 +1994,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617953" rel="noopener noreferrer">
+-																					<img alt="GLP-1関連薬で議論される「7種の重篤有害事象」" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617833" rel="noopener noreferrer">
++																					<img alt="尿意切迫感に「全身性感覚過敏」が潜む？" src="/assets/images/rensai/doceye/thumbnails/大前憲史（泌尿器）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617953" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617833" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-16
+ 																						</time>
+ 																						<h2>
+-																							GLP-1関連薬で議論される「7種の重篤有害事象」
++																							尿意切迫感に「全身性感覚過敏」が潜む？
+ 																						</h2>
+ 																						<p>
+-																							NNTとNNHを勘案した処方判断が適切か
++																							過活動膀胱患者617例対象の多施設観察研究
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2015,20 +2015,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									5
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									5件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									32
++																									41
+ 																								</span>
+ 																								<span>
+-																									32件「いいね！」されています
++																									41件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2045,18 +2045,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617641" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕岩井拓磨氏が紹介した研究で示された、高齢大腸がん患者の独立した予後予測因子に「含まれない」ものは？【MT医療検定 No.140】（10/21まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617953" rel="noopener noreferrer">
++																					<img alt="GLP-1関連薬で議論される「7種の重篤有害事象」" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617641" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617953" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-15
++																							2026-10-16
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕岩井拓磨氏が紹介した研究で示された、高齢大腸がん患者の独立した予後予測因子に「含まれない」ものは？【MT医療検定 No.140】（10/21まで）
++																							GLP-1関連薬で議論される「7種の重篤有害事象」
+ 																						</h2>
+ 																						<p>
++																							NNTとNNHを勘案した処方判断が適切か
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2065,20 +2066,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									4
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									20
++																									41
+ 																								</span>
+ 																								<span>
+-																									20件「いいね！」されています
++																									41件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

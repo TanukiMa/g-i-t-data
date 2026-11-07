@@ -1,0 +1,290 @@
+diff --git a/sites/mhlw/jp/go/mhlw/index.html b/sites/mhlw/jp/go/mhlw/index.html
+index 8113ea86b..c25a85e7e 100644
+--- a/sites/mhlw/jp/go/mhlw/index.html
++++ b/sites/mhlw/jp/go/mhlw/index.html
+@@ -1293,37 +1293,37 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000143356_00038.html" rel="noopener noreferrer">
++									<a href="https://tsuikakyufu-sodancenter.mhlw.go.jp/" rel="noopener noreferrer">
+ 										<span>
+-											国民年金保険料の育児免除制度が始まりました
++											生活保護　追加給付のお知らせ
+ 										</span>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194194_00004.html" rel="noopener noreferrer">
++									<a href="https://www.mhlw.go.jp/stf/toukei/20260703.html" rel="noopener noreferrer">
+ 										<span>
+-											令和８年12月からiDeCoがパワーアップ！
++											医療に関する調査へのご協力をお願いします
+ 										</span>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.no-harassment.mhlw.go.jp/foundation/law-amendment/" rel="noopener noreferrer">
++									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000113598.html" rel="noopener noreferrer">
+ 										<span>
+-											令和８年10月１日からハラスメント対策が強化されます
++											10月は中小企業退職金共制度の加入促進強化月間
+ 										</span>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.mhlw.go.jp/kokoro/mental_health_day/index.html" rel="noopener noreferrer">
++									<a href="http://www.mhlw.go.jp/nenkinkyuufukin/index.html" rel="noopener noreferrer">
+ 										<span>
+-											世界メンタルヘルスデー2026　＃ココロに聞いてみよう
++											年金生活者支援給付金のお知らせ
+ 										</span>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.mhlw.go.jp/acp-jinseikaigi/archive/" rel="noopener noreferrer">
++									<a href="https://www.green-ribbon.jp/" rel="noopener noreferrer">
+ 										<span>
+-											和歌山県で「人生会議」はじめてみませんか？
++											10月は臓器移植普及推進月間です。
+ 										</span>
+ 									</a>
+ 								</li>
+@@ -1355,37 +1355,37 @@
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000143356_00038.html" rel="noopener noreferrer">
++									<a href="https://tsuikakyufu-sodancenter.mhlw.go.jp/" rel="noopener noreferrer">
+ 										<figure>
+-											<img alt=" 国民年金保険料の育児免除制度が始まりました" src="/content/001754869.jpg">
++											<img alt="生活保護　追加給付のお知らせ" src="/content/001758743.jpg">
+ 										</figure>
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194194_00004.html" rel="noopener noreferrer">
++									<a href="https://www.mhlw.go.jp/stf/toukei/20260703.html" rel="noopener noreferrer">
+ 										<figure>
+-											<img alt="令和８年12月からiDeCoがパワーアップ！" src="/content/001754870.png">
++											<img alt="医療に関する調査へのご協力をお願いします" src="/content/001758744.png">
+ 										</figure>
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="https://www.no-harassment.mhlw.go.jp/foundation/law-amendment/" rel="noopener noreferrer">
++									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000113598.html" rel="noopener noreferrer">
+ 										<figure>
+-											<img alt="令和８年10月１日からハラスメント対策が強化されます" src="/content/001754871.jpg">
++											<img alt="10月は中小企業退職金共制度の加入促進強化月間" src="/content/001758745.jpg">
+ 										</figure>
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="https://www.mhlw.go.jp/kokoro/mental_health_day/index.html" rel="noopener noreferrer">
++									<a href="http://www.mhlw.go.jp/nenkinkyuufukin/index.html" rel="noopener noreferrer">
+ 										<figure>
+-											<img alt="世界メンタルヘルスデー2026　＃ココロに聞いてみよう" src="/content/001754872.jpg">
++											<img alt="年金生活者支援給付金のお知らせ" src="/content/001758746.jpg">
+ 										</figure>
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="https://www.mhlw.go.jp/acp-jinseikaigi/archive/" rel="noopener noreferrer">
++									<a href="https://www.green-ribbon.jp/" rel="noopener noreferrer">
+ 										<figure>
+-											<img alt="和歌山県で「人生会議」はじめてみませんか？" src="/content/001754873.png">
++											<img alt="10月は臓器移植普及推進月間です。" src="/content/001758747.png">
+ 										</figure>
+ 									</a>
+ 								</div>
+@@ -1445,7 +1445,7 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/newpage_76692.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76702.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+@@ -1458,70 +1458,70 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第２７回新型インフルエンザ対策に関する小委員会　第１２回危機対応医薬品等に関する小委員会　資料
++																令和８年度第１回社会復帰促進等事業に関する検討会（議事録)
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_021225156_00115.html" rel="noopener noreferrer">
++													<a href="/stf/kaiken/daijin/0000194708_00975.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	審議会等
++																	大臣会見等
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																第228回労働政策審議会職業安定分科会を開催します
++																令和８年１０月１３日付大臣会見概要
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76634.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76698.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	報道発表
++																	審議会等
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																食品中の放射性物質の検査結果について（１５１６報）
++																第133回労働政策審議会労働条件分科会労災保険部会資料
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/aseanjapan_highlevelofficialsmeeting24.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76692.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	報道発表
++																	審議会等
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																第24回 ASEAN・日本社会保障ハイレベル会合（開催案内）
++																第２７回新型インフルエンザ対策に関する小委員会　第１２回危機対応医薬品等に関する小委員会　資料
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76627.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_021225156_00115.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+@@ -1534,7 +1534,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第270回社会保障審議会介護給付費分科会（Web会議）を開催します
++																第228回労働政策審議会職業安定分科会を開催します
+ 															</span>
+ 														</div>
+ 													</a>
+@@ -1695,7 +1695,7 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/newpage_76692.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76702.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+@@ -1708,13 +1708,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第２７回新型インフルエンザ対策に関する小委員会　第１２回危機対応医薬品等に関する小委員会　資料
++																令和８年度第１回社会復帰促進等事業に関する検討会（議事録)
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_021225156_00115.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76698.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+@@ -1727,13 +1727,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第228回労働政策審議会職業安定分科会を開催します
++																第133回労働政策審議会労働条件分科会労災保険部会資料
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76627.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76692.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+@@ -1746,16 +1746,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第270回社会保障審議会介護給付費分科会（Web会議）を開催します
++																第２７回新型インフルエンザ対策に関する小委員会　第１２回危機対応医薬品等に関する小委員会　資料
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76621.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_021225156_00115.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月9日
++																2026年10月13日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1765,16 +1765,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第10回労働政策審議会職業安定分科会地方連携部会を開催します
++																第228回労働政策審議会職業安定分科会を開催します
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76600.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76627.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月9日
++																2026年10月13日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1784,7 +1784,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																薬事審議会　医薬品第一部会を開催します
++																第270回社会保障審議会介護給付費分科会（Web会議）を開催します
+ 															</span>
+ 														</div>
+ 													</a>

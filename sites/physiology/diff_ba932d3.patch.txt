@@ -1,0 +1,410 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index 164dd5814..2ab35e618 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -647,30 +647,33 @@
+ 								</h2>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34858/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/offer/34862/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-08
++															2026-10-09
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															募集情報
++														</p>
++														<p>
++															研究助成
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														慶應義塾大学医学部生理学教室教授候補者の公募
++														第68回藤原賞受賞候補者推薦について
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34856/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34858/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -680,20 +683,20 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															研究助成
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														金原一郎記念医学医療振興財団
++														慶應義塾大学医学部生理学教室教授候補者の公募
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34848/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34856/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -709,14 +712,14 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														山田科学振興財団 研究助成
++														金原一郎記念医学医療振興財団
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34843/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34848/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -732,37 +735,37 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														【三島海雲記念財団】第３回(2027年度)特定研究助成金
++														山田科学振興財団 研究助成
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/hold/34837/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34843/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-06
++															2026-10-08
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															セミナー情報
++															研究助成
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														第53回 自律神経生理研究会の参加募集のお知らせ
++														【三島海雲記念財団】第３回(2027年度)特定研究助成金
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/guidance/34835/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/hold/34837/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -772,13 +775,13 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															お知らせ
++															セミナー情報
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告
++														第53回 自律神経生理研究会の参加募集のお知らせ
+ 													</em>
+ 												</p>
+ 											</div>
+@@ -1426,12 +1429,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/offer/34495/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/offer/34862/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-06-22
++																2026-10-09
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1445,14 +1448,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第58回（2026年度）内藤記念科学振興賞
++															第68回藤原賞受賞候補者推薦について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/offer/34493/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/offer/34495/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -1471,42 +1474,45 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【上原記念生命科学財団】研究業績褒賞(上原賞)
++															第58回（2026年度）内藤記念科学振興賞
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/offer/32364/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/offer/34493/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2025-12-16
++																2026-06-22
+ 															</time>
+ 														</p>
+ 														<div>
+ 															<p>
+ 																募集情報
+ 															</p>
++															<p>
++																研究助成
++															</p>
+ 														</div>
+ 													</div>
+ 													<p>
+ 														<em>
+-															井上春成賞募集のおしらせ
++															【上原記念生命科学財団】研究業績褒賞(上原賞)
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/offer/32174/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/offer/32364/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2025-10-03
++																2025-12-16
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1517,19 +1523,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第30回　久野寧記念賞・候補論文の募集について
++															井上春成賞募集のおしらせ
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/offer/31118/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/offer/32174/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2024-10-01
++																2025-10-03
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1540,33 +1546,30 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第29回　久野寧記念賞・候補論文の募集について
++															第30回　久野寧記念賞・候補論文の募集について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/offer/16437/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/offer/31118/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2015-02-10
++																2024-10-01
+ 															</time>
+ 														</p>
+ 														<div>
+ 															<p>
+ 																募集情報
+ 															</p>
+-															<p>
+-																研究助成
+-															</p>
+ 														</div>
+ 													</div>
+ 													<p>
+ 														<em>
+-															第12回 （平成27年度）「日本学術振興会賞」受賞候補者推薦について
++															第29回　久野寧記念賞・候補論文の募集について
+ 														</em>
+ 													</p>
+ 												</div>
+@@ -1591,15 +1594,18 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/promotion/34856/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/offer/34862/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-08
++																2026-10-09
+ 															</time>
+ 														</p>
+ 														<div>
++															<p>
++																募集情報
++															</p>
+ 															<p>
+ 																研究助成
+ 															</p>
+@@ -1607,14 +1613,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															金原一郎記念医学医療振興財団
++															第68回藤原賞受賞候補者推薦について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/promotion/34848/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/promotion/34856/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -1630,14 +1636,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															山田科学振興財団 研究助成
++															金原一郎記念医学医療振興財団
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/promotion/34843/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/promotion/34848/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -1653,19 +1659,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【三島海雲記念財団】第３回(2027年度)特定研究助成金
++															山田科学振興財団 研究助成
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/promotion/34810/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/promotion/34843/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-29
++																2026-10-08
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1676,14 +1682,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															『時実利彦記念賞』2027年度募集要領について
++															【三島海雲記念財団】第３回(2027年度)特定研究助成金
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/promotion/34799/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/promotion/34810/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -1699,14 +1705,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															ソルト・サイエンス研究財団
++															『時実利彦記念賞』2027年度募集要領について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/promotion/34797/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/promotion/34799/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -1722,7 +1728,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															パブリックヘルス科学研究助成
++															ソルト・サイエンス研究財団
+ 														</em>
+ 													</p>
+ 												</div>

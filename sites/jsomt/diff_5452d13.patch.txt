@@ -1,0 +1,19 @@
+diff --git a/sites/jsomt/jp/jsomt/index.html b/sites/jsomt/jp/jsomt/index.html
+index b124b494..015ed6ba 100644
+--- a/sites/jsomt/jp/jsomt/index.html
++++ b/sites/jsomt/jp/jsomt/index.html
+@@ -113,6 +113,14 @@
+ 						</span>
+ 					</h1>
+ 					<ul>
++						<li>
++							日本医学会からのお知らせ
++							<br>
++							<a href="https://www.medsafe.or.jp/survey/alarm" rel="noopener noreferrer">
++								医療事故の再発防止に向けた警鐘レポート | 日本医療安全調査機構
++							</a>
++							（2026.11.5）
++						</li>
+ 						<li>
+ 							日本医学会からのお知らせ
+ 							<br>

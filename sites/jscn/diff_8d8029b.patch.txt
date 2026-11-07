@@ -1,0 +1,50 @@
+diff --git a/sites/jscn/jp/ac/umin/square/JSCN-index-html.html b/sites/jscn/jp/ac/umin/square/JSCN-index-html.html
+index b231429ea..80ce58efc 100644
+--- a/sites/jscn/jp/ac/umin/square/JSCN-index-html.html
++++ b/sites/jscn/jp/ac/umin/square/JSCN-index-html.html
+@@ -300,14 +300,14 @@
+ 				</div>
+ 				<div>
+ 					<a href="http://www.tscn01.org.tw/meeting/2026AOC/" rel="noopener noreferrer" title="">
+-						<img alt="" src="./images/index/AOC2026.png">
++						<img alt="" src="./images/index/AOC20261124.png">
+ 					</a>
+ 				</div>
+ 			</div>
+ 			<div>
+ 				<img alt="" src="./images/index/jscn_english-site_tn.png">
+ 				<img alt="「第56回 日本臨床神経生理学会学術大会」「第63回 日本臨床神経生理学会技術講習会」" src="./images/index/jscn56_tn.png">
+-				<img alt="" src="./images/index/AOC2026_tn.png">
++				<img alt="" src="./images/index/AOC20261124_tn.png">
+ 			</div>
+ 		</div>
+ 		<div>
+@@ -369,6 +369,28 @@
+ 						</a>
+ 					</h3>
+ 					<ul>
++						<li>
++							2026.10.20
++							<span>
++								ICCN,AOCCN関連
++							</span>
++							<p>
++								<a href="seminar/ICCN-AOCCN.html" rel="noopener noreferrer">
++									ECCN 2027 開催およびSymposia・Teaching Courses企画募集のご案内
++								</a>
++							</p>
++						</li>
++						<li>
++							2026.10.20
++							<span>
++								ICCN,AOCCN関連
++							</span>
++							<p>
++								<a href="seminar/ICCN-AOCCN.html#202610_AOC-IFCN" rel="noopener noreferrer">
++									AOC-IFCN Hands-on Learning Series Ⅱのご案内
++								</a>
++							</p>
++						</li>
+ 						<li>
+ 							2026.10.08
+ 							<span>

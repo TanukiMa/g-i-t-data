@@ -1,0 +1,448 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 48ef6fa6..8575ad82 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1417,7 +1417,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															10月29日の新着ニュース
++															10月30日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1434,20 +1434,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="乗馬が自閉症の子どもの多動性軽減の助けに" src="https://asset.mtweb.jp/media/2026/10/28183235/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8826%E6%97%A5%E9%85%8D%E4%BF%A14.jpg">
++																<img alt="運動は脊髄損傷患者の慢性疼痛を軽減する？" src="https://asset.mtweb.jp/media/2026/10/29182730/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8829%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619739" rel="noopener noreferrer">
+-																			乗馬が自閉症の子どもの多動性軽減の助けに
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619945" rel="noopener noreferrer">
++																			運動は脊髄損傷患者の慢性疼痛を軽減する？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-29
++																			2026-10-30
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1483,20 +1483,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ロルラチニブ耐性にALK以外の経路が関与か" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
++																<img alt="心不全に「MASLDパラドクス」浮上" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619689" rel="noopener noreferrer">
+-																			ロルラチニブ耐性にALK以外の経路が関与か
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619716" rel="noopener noreferrer">
++																			心不全に「MASLDパラドクス」浮上
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-28
++																			2026-10-29
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1532,20 +1532,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="重症児診療、重要と認識も診療意欲は3割" src="https://asset.mtweb.jp/media/2026/10/28120715/AdobeStock_449402908.png">
++																<img alt="寒冷凝集素症へのスチムリマブ、実臨床での安全性は" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619648" rel="noopener noreferrer">
+-																			重症児診療、重要と認識も診療意欲は3割
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619629" rel="noopener noreferrer">
++																			寒冷凝集素症へのスチムリマブ、実臨床での安全性は
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-28
++																			2026-10-29
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1581,20 +1581,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="新病名「PMOS」知っておくべき10項目とは" src="https://asset.mtweb.jp/media/2026/10/21092908/25_Teigen_seimei.jpg">
++																<img alt="mRNAワクチンでメラノーマの再発・死亡リスク42％減" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619650" rel="noopener noreferrer">
+-																			新病名「PMOS」知っておくべき10項目とは
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619566" rel="noopener noreferrer">
++																			mRNAワクチンでメラノーマの再発・死亡リスク42％減
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-28
++																			2026-10-29
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1630,20 +1630,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="降圧の新たな一手、アルドステロン合成酵素阻害薬" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
++																<img alt="肩関節不安定症、開放Latarjet法で再脱臼率8割減" src="https://asset.mtweb.jp/media/2026/10/27093959/%E8%82%A9%E3%81%AE%E7%97%9B%E3%81%BF%E3%81%AB%E8%80%90%E3%81%88%E3%82%8B%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619611" rel="noopener noreferrer">
+-																			降圧の新たな一手、アルドステロン合成酵素阻害薬
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619420" rel="noopener noreferrer">
++																			肩関節不安定症、開放Latarjet法で再脱臼率8割減
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-28
++																			2026-10-29
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1679,20 +1679,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="プロトピック小児用軟膏、生後6カ月から使用可能に" src="https://asset.mtweb.jp/media/2026/06/02185852/25_Tenbunkaitei.jpg">
++																<img alt="〔10pt進呈〕躁状態の患者が生成AIを利用するリスクとして、加藤忠史氏が特に懸念しているものは？【MT医療検定 No.144】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619646" rel="noopener noreferrer">
+-																			プロトピック小児用軟膏、生後6カ月から使用可能に
++																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619350" rel="noopener noreferrer">
++																			〔10pt進呈〕躁状態の患者が生成AIを利用するリスクとして、加藤忠史氏が特に懸念しているものは？【MT医療検定 No.144】（11/4まで）
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-28
++																			2026-10-29
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1728,20 +1728,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ITPへのリルザブルチニブ、アジア人でも長期有効" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
++																<img alt="小児期から若年成人期にかけての抗菌薬使用、過敏性腸症候群と関連" src="https://asset.mtweb.jp/media/2026/10/29164158/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8829%E6%97%A5%E9%85%8D%E4%BF%A11.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619237" rel="noopener noreferrer">
+-																			ITPへのリルザブルチニブ、アジア人でも長期有効
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619893" rel="noopener noreferrer">
++																			小児期から若年成人期にかけての抗菌薬使用、過敏性腸症候群と関連
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-28
++																			2026-10-29
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1774,7 +1774,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															10月29日の新着連載
++															10月30日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1794,19 +1794,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
+-																					<img alt="乳がん患者の妊娠・出産をどう支えるか" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619716" rel="noopener noreferrer">
++																					<img alt="心不全に「MASLDパラドクス」浮上" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619716" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-27
++																							2026-10-29
+ 																						</time>
+ 																						<h2>
+-																							乳がん患者の妊娠・出産をどう支えるか
++																							心不全に「MASLDパラドクス」浮上
+ 																						</h2>
+ 																						<p>
+-																							POSITIVE試験が変えた生殖医療との連携
++																							アジア人特有の現象？
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1815,20 +1815,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									1
++																									3
+ 																								</span>
+ 																								<span>
+-																									1件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									40
++																									15
+ 																								</span>
+ 																								<span>
+-																									40件「いいね！」されています
++																									15件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1845,19 +1845,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619442" rel="noopener noreferrer">
+-																					<img alt="インフル大幅減も前年同週の約2.7倍" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619350" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕躁状態の患者が生成AIを利用するリスクとして、加藤忠史氏が特に懸念しているものは？【MT医療検定 No.144】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619442" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619350" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-27
++																							2026-10-29
+ 																						</time>
+ 																						<h2>
+-																							インフル大幅減も前年同週の約2.7倍
++																							〔10pt進呈〕躁状態の患者が生成AIを利用するリスクとして、加藤忠史氏が特に懸念しているものは？【MT医療検定 No.144】（11/4まで）
+ 																						</h2>
+ 																						<p>
+-																							【感染症動向調査第42週：10月12～18日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1866,20 +1865,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									0
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									30
++																									8
+ 																								</span>
+ 																								<span>
+-																									30件「いいね！」されています
++																									8件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1896,18 +1895,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619347" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕今回のレビュー結果を踏まえ、羽白誠氏の乾癬治療時のバイオ選択に関する考え方として最も適切なものは？【MT医療検定 No.143】（11/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
++																					<img alt="乳がん患者の妊娠・出産をどう支えるか" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619347" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-27
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕今回のレビュー結果を踏まえ、羽白誠氏の乾癬治療時のバイオ選択に関する考え方として最も適切なものは？【MT医療検定 No.143】（11/2まで）
++																							乳がん患者の妊娠・出産をどう支えるか
+ 																						</h2>
+ 																						<p>
++																							POSITIVE試験が変えた生殖医療との連携
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1916,20 +1916,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									2
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									20
++																									40
+ 																								</span>
+ 																								<span>
+-																									20件「いいね！」されています
++																									40件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1946,19 +1946,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
+-																					<img alt="ケトン体に新時代、「味方」にするための指針" src="/assets/images/rensai/doceye/thumbnails/山田悟（糖尿病）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619442" rel="noopener noreferrer">
++																					<img alt="インフル大幅減も前年同週の約2.7倍" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619442" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-26
++																							2026-10-27
+ 																						</time>
+ 																						<h2>
+-																							ケトン体に新時代、「味方」にするための指針
++																							インフル大幅減も前年同週の約2.7倍
+ 																						</h2>
+ 																						<p>
+-																							日本でも持続モニタリングが導入されたら
++																							【感染症動向調査第42週：10月12～18日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1967,20 +1967,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									6
++																									2
+ 																								</span>
+ 																								<span>
+-																									6件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									51
++																									30
+ 																								</span>
+ 																								<span>
+-																									51件「いいね！」されています
++																									30件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1997,19 +1997,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
+-																					<img alt="「輸液反応性」と「輸液忍容性」は別物" src="/assets/images/rensai/doceye/thumbnails/丹保亜希仁（救急医療）.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619347" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕今回のレビュー結果を踏まえ、羽白誠氏の乾癬治療時のバイオ選択に関する考え方として最も適切なものは？【MT医療検定 No.143】（11/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619347" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-24
++																							2026-10-27
+ 																						</time>
+ 																						<h2>
+-																							「輸液反応性」と「輸液忍容性」は別物
++																							〔10pt進呈〕今回のレビュー結果を踏まえ、羽白誠氏の乾癬治療時のバイオ選択に関する考え方として最も適切なものは？【MT医療検定 No.143】（11/2まで）
+ 																						</h2>
+ 																						<p>
+-																							敗血症性ショックでの多施設RCT
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2018,20 +2017,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									5
++																									0
+ 																								</span>
+ 																								<span>
+-																									5件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									50
++																									20
+ 																								</span>
+ 																								<span>
+-																									50件「いいね！」されています
++																									20件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

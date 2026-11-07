@@ -1,0 +1,121 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 831ece8b..5846cbd9 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -608,13 +608,18 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/news/event/270301_torikumiseika.html" rel="noopener noreferrer">
+-												<img alt="｢令和8年度臨床研究中核病院取組報告会 / 革新的医療技術創出拠点令和８年度成果報告会｣ 開催のお知らせ令和9年3月1日（月）10時00分～令和9年3月2日（火）17時30分" src="/content/000167462.png">
++											<a href="/news/event/261126_RSsympo.html" rel="noopener noreferrer">
++												<img alt="「第12回 レギュラトリーサイエンス公開シンポジウム」開催のお知らせ令和8年11月26日（木）13時00分～18時00分（予定）" src="/content/000167996.png">
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/topics/20261030.html" rel="noopener noreferrer">
+-												<img alt="広報ウェブマガジン「AMED Pickup」で「研究者と創薬を支える“縁の下の力持ち”！BINDSが生み出す研究成果とはーBINDSシンポジウム2026レポート」を公開しました！" src="/content/000167466.png">
++											<a href="/news/event/20261112_aspiresympo.html" rel="noopener noreferrer">
++												<img alt="「第3回 ASPIRE合同シンポジウム（健康・医療分野）～世界のトップ研究コミュニティとの連携による国際頭脳循環の推進に向けて～」開催のお知らせ令和8年11月12日（木）8時30分～19時30分" src="/content/000166774.png">
++											</a>
++										</li>
++										<li>
++											<a href="/news/event/20261107_nambyo.html" rel="noopener noreferrer">
++												<img alt="「難治性疾患実用化研究事業 2026年度 活動・成果報告会『研究結果を明日の医療へ～難病克服の実装挑戦～』」開催のお知らせ（会場開催）令和8年11月7日（土）13時00分～15時35分 ／（オンデマンド配信）令和8年11月7日（土）13時00分～令和9年3月17日（水）23時59分" src="/content/000166549.jpg">
+ 											</a>
+ 										</li>
+ 										<li>
+@@ -622,14 +627,19 @@
+ 												<img alt="令和8年11月19日（木）16時00分～19時00分　「AMED責任ある研究・イノベーション（RRI）ワークショップ with 富山大学」" src="/content/000167056.png">
+ 											</a>
+ 										</li>
++										<li>
++											<a href="/news/topics/20261030.html" rel="noopener noreferrer">
++												<img alt="広報ウェブマガジン「AMED Pickup」で「研究者と創薬を支える“縁の下の力持ち”！BINDSが生み出す研究成果とはーBINDSシンポジウム2026レポート」を公開しました！" src="/content/000167997.png">
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
+-												<img alt="AMED事業の年間の公募状況がわかる！「公募カレンダー」の運用を開始" src="/content/000167484.png">
++												<img alt="AMED事業の年間の公募状況がわかる！「公募カレンダー」の運用を開始" src="/content/000167998.png">
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/event/20261107_nambyo.html" rel="noopener noreferrer">
+-												<img alt="「難治性疾患実用化研究事業 2026年度 活動・成果報告会『研究結果を明日の医療へ～難病克服の実装挑戦～』」開催のお知らせ（会場開催）令和8年11月7日（土）13時00分～15時35分 ／（オンデマンド配信）令和8年11月7日（土）13時00分～令和9年3月17日（水）23時59分" src="/content/000167467.jpg">
++											<a href="/news/event/sympo_20261130.html" rel="noopener noreferrer">
++												<img alt="研究公正シンポジウム「研究の未来と公正性～生成AI時代の研究公正の課題とは～」開催のお知らせ令和8年11月30日（月）13時30分～17時00分（開場・オンライン入室 13時00分）JPタワーホール＆カンファレンス ホール1＋2" src="/content/000166773.png">
+ 											</a>
+ 										</li>
+ 									</ul>
+@@ -693,23 +703,23 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/20261104.html" rel="noopener noreferrer">
+-											【トピックス】濵口道成先進的研究開発戦略センター（SCARDA）センター長が、令和8年秋の叙勲において瑞宝大綬章...
++										<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
++											（情報更新）「公募カレンダー」最新情報を掲載しました
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年11月2日
++												令和8年11月4日
+ 											</span>
+ 											<div>
+ 												<span>
+-													事業に関するお知らせ
++													トピックス
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/program/20261029.html" rel="noopener noreferrer">
+-											検査マニュアルの掲載について
++										<a href="/news/topics/20261104.html" rel="noopener noreferrer">
++											【トピックス】濵口道成先進的研究開発戦略センター（SCARDA）センター長が、令和8年秋の叙勲において瑞宝大綬章...
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -723,8 +733,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/program/20260408-1.html" rel="noopener noreferrer">
+-											「日本医療研究開発機構における課題管理（資金管理）について」の資料を掲載しました
++										<a href="/news/program/20261029.html" rel="noopener noreferrer">
++											検査マニュアルの掲載について
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -738,23 +748,23 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/program/20260408.html" rel="noopener noreferrer">
+-											令和8年度の確定検査の合理化・効率化の対象となる大学等の一覧を掲載しました
++										<a href="/news/program/20260408-1.html" rel="noopener noreferrer">
++											「日本医療研究開発機構における課題管理（資金管理）について」の資料を掲載しました
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年10月29日
++												令和8年11月2日
+ 											</span>
+ 											<div>
+ 												<span>
+-													イベント
++													事業に関するお知らせ
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/lcsymposium20270122.html" rel="noopener noreferrer">
+-											（令和9年1月22日開催）「ライフコースを通じた健康とウェルビーイングの実現　～ライフコースアプローチ研究が拓く...
++										<a href="/news/program/20260408.html" rel="noopener noreferrer">
++											令和8年度の確定検査の合理化・効率化の対象となる大学等の一覧を掲載しました
+ 										</a>
+ 									</li>
+ 								</ul>

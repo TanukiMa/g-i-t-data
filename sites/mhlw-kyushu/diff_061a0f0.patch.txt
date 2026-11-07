@@ -1,0 +1,147 @@
+diff --git a/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html b/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
+index c45ba4a46..f66769eb9 100644
+--- a/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
++++ b/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
+@@ -764,10 +764,6 @@
+ 								<img alt="緊急のお知らせ" src="/common/img/icn_notice.svg">
+ 							</h2>
+ 							<ul>
+-								<a href="/kyushu/info/oshirase.html" rel="noopener noreferrer">
+-									（緊急のお知らせ）10月26日（月）は台風接近のため、体制を縮小して業務を実施する可能性があります。
+-								</a>
+-								<br>
+ 								<a href="/kyushu/info/saigai/r0807.html" rel="noopener noreferrer">
+ 									令和8年熊本地震に関するお知らせ
+ 								</a>
+@@ -856,111 +852,111 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kyushu/info/oshirase.html" rel="noopener noreferrer">
++										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_kyushu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月23日
++													2026年10月15日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															その他
++															医療機関等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													（緊急のお知らせ）10月26日（月）は台風接近のため、体制を縮小して業務を実施する可能性があります。
++													九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_kyushu.html" rel="noopener noreferrer">
++										<a href="/kyushu/somu/tyutosaiyo-senkou.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月15日
++													2026年10月2日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															採用情報
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。
++													2026年度国家公務員中途採用者選考試験(就職氷河期世代)第2次選考(採用面接等)について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/somu/tyutosaiyo-senkou.html" rel="noopener noreferrer">
++										<a href="/kyushu/iryo_shido/080930keikasochi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月2日
++													2026年9月16日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															採用情報
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													2026年度国家公務員中途採用者選考試験(就職氷河期世代)第2次選考(採用面接等)について
++													【保険医療機関のみなさまへ】令和8年9月30日に経過措置の期限が到来する施設基準について、 令和8年10月14日（水）までに届出直しが必要な場合があるため、必ずご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/iryo_shido/080930keikasochi.html" rel="noopener noreferrer">
++										<a href="/kyushu/info/saigai/r0807.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月16日
++													2026年8月10日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													【保険医療機関のみなさまへ】令和8年9月30日に経過措置の期限が到来する施設基準について、 令和8年10月14日（水）までに届出直しが必要な場合があるため、必ずご確認ください。
++													令和8年熊本地震に関するお知らせ
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/info/saigai/r0807.html" rel="noopener noreferrer">
++										<a href="/kyushu/iryo_shido/080801keikasochi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年8月10日
++													2026年7月17日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															その他
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年熊本地震に関するお知らせ
++													【保険医療機関のみなさまへ】令和8年度診療報酬改定において、令和8年8月1日以降の算定について再度の届出が必要とされた施設基準については、 令和8年8月12日（水）までに届出直しが必要ですので、必ずご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>

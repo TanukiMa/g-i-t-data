@@ -1,0 +1,56 @@
+diff --git a/sites/jacsurg/jp/gr/jacsurg/index.html b/sites/jacsurg/jp/gr/jacsurg/index.html
+index 8b6bbe392..2ea79a8aa 100644
+--- a/sites/jacsurg/jp/gr/jacsurg/index.html
++++ b/sites/jacsurg/jp/gr/jacsurg/index.html
+@@ -1469,6 +1469,11 @@
+ 				<div>
+ 					<div>
+ 						<div>
++							<div>
++								<a href="https://www.jpats-dic.jp/" rel="noopener noreferrer">
++									<img alt="胸部外科教育施設協議会" src="././imagesN/ban_J-CONNECTS.png">
++								</a>
++							</div>
+ 							<div>
+ 								<a href="https://juvig.org/" rel="noopener noreferrer">
+ 									<img alt="単孔式胸腔鏡手術研究会" src="././imagesN/ban_JUVIG.png">
+@@ -1484,23 +1489,18 @@
+ 									<img alt="呼吸器胸腔鏡手術研究会" src="././imagesN/ban_tcsnet.gif">
+ 								</a>
+ 							</div>
++						</div>
++						<div>
+ 							<div>
+ 								<a href="http://www.jpats.org/modules/journal/index.php?content_id=1" rel="noopener noreferrer">
+ 									<img alt="GTCS" src="././imagesN/ban_GTCS.jpg">
+ 								</a>
+ 							</div>
+-						</div>
+-						<div>
+ 							<div>
+ 								<a href="http://www.ncd.or.jp/" rel="noopener noreferrer">
+ 									<img alt="National Clinical Database" src="././imagesN/ban_ncd.jpg">
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="https://isoukai2027.jp" rel="noopener noreferrer">
+-									<img alt="第32回日本医学会総会" src="././imagesN/ban_isoukai32nd.png">
+-								</a>
+-							</div>
+ 							<div>
+ 								<a href="././top/banner_app.html" rel="noopener noreferrer">
+ 									<img alt="企業様向けバナー広告募集中" src="././imagesN/footer_ban_01.jpg">
+@@ -1512,6 +1512,13 @@
+ 								</a>
+ 							</div>
+ 						</div>
++						<div>
++							<div>
++								<a href="https://isoukai2027.jp" rel="noopener noreferrer">
++									<img alt="第32回日本医学会総会" src="././imagesN/ban_isoukai32nd.png">
++								</a>
++							</div>
++						</div>
+ 					</div>
+ 				</div>
+ 				<div>

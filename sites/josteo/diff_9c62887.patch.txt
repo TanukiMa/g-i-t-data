@@ -1,0 +1,29 @@
+diff --git a/sites/josteo/com/josteo/index.html b/sites/josteo/com/josteo/index.html
+index d4a0d8aa..234c9229 100644
+--- a/sites/josteo/com/josteo/index.html
++++ b/sites/josteo/com/josteo/index.html
+@@ -32,6 +32,24 @@
+ 							</div>
+ 						</a>
+ 					</div>
++					<div>
++						<a href="https://www.congre.co.jp/29jos/" rel="noopener noreferrer">
++							<img alt="" src="/assets/images/top/pc-visual-03.jpg">
++							<img alt="" src="/assets/images/top/sp-visual-03.jpg">
++						</a>
++					</div>
++				</div>
++				<div>
++				</div>
++				<div>
++					<div>
++						<img alt="" src="/assets/images/icn-arrow.svg">
++					</div>
++				</div>
++				<div>
++					<div>
++						<img alt="" src="/assets/images/icn-arrow.svg">
++					</div>
+ 				</div>
+ 			</div>
+ 			<div>

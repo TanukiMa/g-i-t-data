@@ -1,0 +1,106 @@
+diff --git a/sites/jsre/org/jsre/index.html b/sites/jsre/org/jsre/index.html
+index 0277b4204..d5012429b 100644
+--- a/sites/jsre/org/jsre/index.html
++++ b/sites/jsre/org/jsre/index.html
+@@ -348,8 +348,8 @@
+ 					</h3>
+ 					<div>
+ 						<p>
+-							<a href="https://www.jsre.org/modules/info/index.php?content_id=335" rel="noopener noreferrer">
+-								評議員資格申請受付について（申請期間：2026年9月1日～2026年9月30日必着）
++							<a href="https://www.jsre.org/modules/info/index.php?content_id=357" rel="noopener noreferrer">
++								【重要】PHP脆弱性によるマイページの影響について
+ 							</a>
+ 						</p>
+ 					</div>
+@@ -376,6 +376,21 @@
+ 							<div>
+ 								<div>
+ 									<div>
++										<ul>
++											<li>
++												2026年10月27日
++											</li>
++											<li>
++												<a href="/modules/infolist/index.php?content_id=2" rel="noopener noreferrer">
++													学会から
++												</a>
++											</li>
++											<li>
++												<a href="https://www.jsre.org/modules/info/index.php?content_id=357" rel="noopener noreferrer">
++													【重要】PHP脆弱性によるマイページの影響について
++												</a>
++											</li>
++										</ul>
+ 										<ul>
+ 											<li>
+ 												2026年9月25日
+@@ -496,9 +511,20 @@
+ 												</a>
+ 											</li>
+ 										</ul>
++									</div>
++								</div>
++								<div>
++									<a href="https://www.jsre.org/modules/infolist/index.php?content_id=1" rel="noopener noreferrer">
++										すべてのお知らせ一覧へ
++									</a>
++								</div>
++							</div>
++							<div>
++								<div>
++									<div>
+ 										<ul>
+ 											<li>
+-												2026年7月27日
++												2026年10月27日
+ 											</li>
+ 											<li>
+ 												<a href="/modules/infolist/index.php?content_id=2" rel="noopener noreferrer">
+@@ -506,22 +532,11 @@
+ 												</a>
+ 											</li>
+ 											<li>
+-												<a href="https://www.jsre.org/modules/info/index.php?content_id=333" rel="noopener noreferrer">
+-													第49回　日本呼吸器内視鏡学会学術集会・第38回　気管支鏡セミナー報告
++												<a href="https://www.jsre.org/modules/info/index.php?content_id=357" rel="noopener noreferrer">
++													【重要】PHP脆弱性によるマイページの影響について
+ 												</a>
+ 											</li>
+ 										</ul>
+-									</div>
+-								</div>
+-								<div>
+-									<a href="https://www.jsre.org/modules/infolist/index.php?content_id=1" rel="noopener noreferrer">
+-										すべてのお知らせ一覧へ
+-									</a>
+-								</div>
+-							</div>
+-							<div>
+-								<div>
+-									<div>
+ 										<ul>
+ 											<li>
+ 												2026年9月25日
+@@ -642,21 +657,6 @@
+ 												</a>
+ 											</li>
+ 										</ul>
+-										<ul>
+-											<li>
+-												2026年7月27日
+-											</li>
+-											<li>
+-												<a href="/modules/infolist/index.php?content_id=2" rel="noopener noreferrer">
+-													学会から
+-												</a>
+-											</li>
+-											<li>
+-												<a href="https://www.jsre.org/modules/info/index.php?content_id=336" rel="noopener noreferrer">
+-													次期副会長選挙結果
+-												</a>
+-											</li>
+-										</ul>
+ 									</div>
+ 								</div>
+ 								<div>

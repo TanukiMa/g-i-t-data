@@ -1,0 +1,77 @@
+diff --git a/sites/jihsinfo/jp/go/jihs/id-info/index.html b/sites/jihsinfo/jp/go/jihs/id-info/index.html
+index 94f0d178..b5d79cb0 100644
+--- a/sites/jihsinfo/jp/go/jihs/id-info/index.html
++++ b/sites/jihsinfo/jp/go/jihs/id-info/index.html
+@@ -511,61 +511,61 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="./surveillance/idwr/article/influenza/article.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/diseases/influenza/school/flulike.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年10月30日
+ 													</time>
+ 													<h3>
+-														「インフルエンザ（鳥インフルエンザ及び新型インフルエンザ等感染症を除く。）」の記事を更新しました
++														「インフルエンザ様疾患発生報告（学校欠席者数）」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idwr/idwr/2026/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/article/influenza/article.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年10月30日
+ 													</time>
+ 													<h3>
+-														「感染症発生動向調査週報ダウンロード2026年」の記事を更新しました
++														「インフルエンザ（鳥インフルエンザ及び新型インフルエンザ等感染症を除く。）」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idss/target-diseases/acute-respiratory-infection/weekly-report/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/idwr/2026/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年10月30日
+ 													</time>
+ 													<h3>
+-														「急性呼吸器感染症サーベイランス週報」の記事を更新しました
++														「感染症発生動向調査週報ダウンロード2026年」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idss/target-diseases/dengue-fever/imported/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idss/target-diseases/acute-respiratory-infection/weekly-report/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年10月30日
+ 													</time>
+ 													<h3>
+-														「日本の輸入デング熱症例の動向について Notification Trends Among Imported Dengue Cases in Japan」の記事を更新しました
++														「急性呼吸器感染症サーベイランス週報」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idss/target-diseases/rubella/epidemiological-status/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idss/target-diseases/dengue-fever/imported/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+-														2026年10月29日
++														2026年10月30日
+ 													</time>
+ 													<h3>
+-														「風疹に関する疫学情報」の記事を更新しました
++														「日本の輸入デング熱症例の動向について Notification Trends Among Imported Dengue Cases in Japan」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>

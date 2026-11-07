@@ -1,0 +1,122 @@
+diff --git a/sites/jsha/jp/gr/jsha/index.html b/sites/jsha/jp/gr/jsha/index.html
+index 791c4354e..47d74659b 100644
+--- a/sites/jsha/jp/gr/jsha/index.html
++++ b/sites/jsha/jp/gr/jsha/index.html
+@@ -438,6 +438,19 @@
+ 									<div>
+ 										<div>
+ 											<dl>
++												<dt>
++													<span>
++														2026年10月15日
++													</span>
++													<a href="https://www.jsha.gr.jp/category/news/meeting/" rel="noopener noreferrer" title="View all posts in 例会">
++														例会
++													</a>
++												</dt>
++												<dd>
++													<a href="/meeting/details/" rel="noopener noreferrer">
++														例会第444回は、2026年11月1 日（日） 15:00～17:00札幌医科大学とオンライン (Zoom) にてハイブリッド開催されます。テーマは「地域医療を支える特定行為研修修了者の活用 -実践と管理から考える活用促進モデル-」です。
++													</a>
++												</dd>
+ 												<dt>
+ 													<span>
+ 														2026年7月31日
+@@ -490,19 +503,6 @@
+ 														第64回日本医療・病院管理学会学術総会の参加登録が開始されました。
+ 													</a>
+ 												</dd>
+-												<dt>
+-													<span>
+-														2026年5月26日
+-													</span>
+-													<a href="https://www.jsha.gr.jp/category/news/meeting/" rel="noopener noreferrer" title="View all posts in 例会">
+-														例会
+-													</a>
+-												</dt>
+-												<dd>
+-													<a href="/meeting/details/" rel="noopener noreferrer">
+-														例会第445回は、2026年6月27日（土）13：30～15：30オンライン（Zoom）にて開催されます。テーマは「ICD-11とICFによるヘルスデータ活用の新展開― 一次利用から二次利用へつながる標準化戦略 ―」です。
+-													</a>
+-												</dd>
+ 											</dl>
+ 										</div>
+ 									</div>
+@@ -653,7 +653,7 @@
+ 											<dl>
+ 												<dt>
+ 													<span>
+-														2026年7月28日
++														2026年10月15日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/meeting/" rel="noopener noreferrer" title="View all posts in 例会">
+ 														例会
+@@ -661,12 +661,12 @@
+ 												</dt>
+ 												<dd>
+ 													<a href="/meeting/details/" rel="noopener noreferrer">
+-														例会第448回は、2026年9月8日（火）17：30～19：00Zoomによるオンラインにて開催されます。テーマは「新たな地域医療構想を見据えた地域連携と経営企画の役割」です。
++														例会第444回は、2026年11月1 日（日） 15:00～17:00札幌医科大学とオンライン (Zoom) にてハイブリッド開催されます。テーマは「地域医療を支える特定行為研修修了者の活用 -実践と管理から考える活用促進モデル-」です。
+ 													</a>
+ 												</dd>
+ 												<dt>
+ 													<span>
+-														2026年7月1日
++														2026年7月28日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/meeting/" rel="noopener noreferrer" title="View all posts in 例会">
+ 														例会
+@@ -674,12 +674,12 @@
+ 												</dt>
+ 												<dd>
+ 													<a href="/meeting/details/" rel="noopener noreferrer">
+-														例会第447回は、2026年7月11日（土）14：00～16：30スペースマーケット 名駅セミナーオフィスDおよびGoogle Meet配信にて開催されます。テーマは「AIとトランプ時代の医療機関の生き方」です。
++														例会第448回は、2026年9月8日（火）17：30～19：00Zoomによるオンラインにて開催されます。テーマは「新たな地域医療構想を見据えた地域連携と経営企画の役割」です。
+ 													</a>
+ 												</dd>
+ 												<dt>
+ 													<span>
+-														2026年5月26日
++														2026年7月1日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/meeting/" rel="noopener noreferrer" title="View all posts in 例会">
+ 														例会
+@@ -687,12 +687,12 @@
+ 												</dt>
+ 												<dd>
+ 													<a href="/meeting/details/" rel="noopener noreferrer">
+-														例会第445回は、2026年6月27日（土）13：30～15：30オンライン（Zoom）にて開催されます。テーマは「ICD-11とICFによるヘルスデータ活用の新展開― 一次利用から二次利用へつながる標準化戦略 ―」です。
++														例会第447回は、2026年7月11日（土）14：00～16：30スペースマーケット 名駅セミナーオフィスDおよびGoogle Meet配信にて開催されます。テーマは「AIとトランプ時代の医療機関の生き方」です。
+ 													</a>
+ 												</dd>
+ 												<dt>
+ 													<span>
+-														2026年5月14日
++														2026年5月26日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/meeting/" rel="noopener noreferrer" title="View all posts in 例会">
+ 														例会
+@@ -700,12 +700,12 @@
+ 												</dt>
+ 												<dd>
+ 													<a href="/meeting/details/" rel="noopener noreferrer">
+-														例会第446回は、2026年5月31日（日）9：00～12：00ハイブリットにて開催されます。テーマは「“辞めたい”ではなく“ここで働きたい”へ ― 個人と組織を育む定着支援のかたち（第2弾）」です。
++														例会第445回は、2026年6月27日（土）13：30～15：30オンライン（Zoom）にて開催されます。テーマは「ICD-11とICFによるヘルスデータ活用の新展開― 一次利用から二次利用へつながる標準化戦略 ―」です。
+ 													</a>
+ 												</dd>
+ 												<dt>
+ 													<span>
+-														2026年4月7日
++														2026年5月14日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/meeting/" rel="noopener noreferrer" title="View all posts in 例会">
+ 														例会
+@@ -713,7 +713,7 @@
+ 												</dt>
+ 												<dd>
+ 													<a href="/meeting/details/" rel="noopener noreferrer">
+-														例会第433回は、2026年4月28日（火）17：00～18：30ハイブリットにて開催されます。テーマは「病院見学ツアー報告会：自病院の経営に活かす病院見学」です。
++														例会第446回は、2026年5月31日（日）9：00～12：00ハイブリットにて開催されます。テーマは「“辞めたい”ではなく“ここで働きたい”へ ― 個人と組織を育む定着支援のかたち（第2弾）」です。
+ 													</a>
+ 												</dd>
+ 											</dl>

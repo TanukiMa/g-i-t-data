@@ -1,0 +1,44 @@
+diff --git a/sites/nihon-eisei/org/nihon-eisei/index.html b/sites/nihon-eisei/org/nihon-eisei/index.html
+index b013e6ef1..3634edc83 100644
+--- a/sites/nihon-eisei/org/nihon-eisei/index.html
++++ b/sites/nihon-eisei/org/nihon-eisei/index.html
+@@ -350,6 +350,19 @@
+ 					最新情報
+ 				</h3>
+ 				<ul>
++					<li>
++						<span>
++							2026年10月16日
++						</span>
++						<span>
++							採用・求人・大学院生の募集
++						</span>
++						<p>
++							<a href="https://www.nihon-eisei.org/activity/job/" rel="noopener noreferrer">
++								北里大学医学部衛生学教室　専任教員（講師・助教）の公募（一般・医師免許保有者対象）について
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<span>
+ 							2026年10月13日
+@@ -468,19 +481,6 @@
+ 							</a>
+ 						</p>
+ 					</li>
+-					<li>
+-						<span>
+-							2026年8月25日
+-						</span>
+-						<span>
+-							その他
+-						</span>
+-						<p>
+-							<a href="https://www.nihon-eisei.org/isp-cwp202608/" rel="noopener noreferrer">
+-								化学物質、廃棄物及び汚染に関する政府間科学・政策パネルについて
+-							</a>
+-						</p>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://www.nihon-eisei.org/?cat=2" rel="noopener noreferrer">

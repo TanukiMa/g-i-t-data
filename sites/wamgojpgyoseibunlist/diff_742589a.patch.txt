@@ -1,0 +1,39 @@
+diff --git a/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html b/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
+index 14a00a85..a1cd1e51 100644
+--- a/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
++++ b/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
+@@ -1968,6 +1968,17 @@
+ 											</tr>
+ 										</thead>
+ 										<tbody>
++											<tr>
++												<td>
++													<img alt="" src="/content/css/img/icon_szl_new.gif" title="新着アイコン">
++													<a href="detail-list?bun=010010050" rel="noopener noreferrer" title="医療保険部会">
++														医療保険部会
++													</a>
++												</td>
++												<td>
++													2026/11/05
++												</td>
++											</tr>
+ 											<tr>
+ 												<td>
+ 													<img alt="" src="/content/css/img/icon_szl_new.gif" title="新着アイコン">
+@@ -2001,16 +2012,6 @@
+ 													2026/10/22
+ 												</td>
+ 											</tr>
+-											<tr>
+-												<td>
+-													<a href="detail-list?bun=010010050" rel="noopener noreferrer" title="医療保険部会">
+-														医療保険部会
+-													</a>
+-												</td>
+-												<td>
+-													2026/10/19
+-												</td>
+-											</tr>
+ 											<tr>
+ 												<td>
+ 													<a href="detail-list?bun=010010220" rel="noopener noreferrer" title="生活保護基準部会">

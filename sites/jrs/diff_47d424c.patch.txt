@@ -1,0 +1,57 @@
+diff --git a/sites/jrs/jp/or/jrs/index.html b/sites/jrs/jp/or/jrs/index.html
+index 3ab5b91c9..ad16db2e7 100644
+--- a/sites/jrs/jp/or/jrs/index.html
++++ b/sites/jrs/jp/or/jrs/index.html
+@@ -599,6 +599,27 @@
+ 							</a>
+ 						</div>
+ 						<div>
++							<div>
++								<a href="https://www.jrs.or.jp/information/jrs/20261016171200.html" rel="noopener noreferrer">
++									<dl>
++										<dt>
++											<time>
++												2026年10月16日
++											</time>
++											<br>
++											<span>
++												呼吸器学会
++											</span>
++											<span>
++												感染症・結核学術部会
++											</span>
++										</dt>
++										<dd>
++											インターネット・サーベイワーキンググループより論文公開のお知らせ
++										</dd>
++									</dl>
++								</a>
++							</div>
+ 							<div>
+ 								<a href="https://www.jrs.or.jp/information/related/20261016134445.html" rel="noopener noreferrer">
+ 									<dl>
+@@ -803,24 +824,6 @@
+ 									</dl>
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="https://www.jrs.or.jp/information/assemblies/it/20260916171300.html" rel="noopener noreferrer">
+-									<dl>
+-										<dt>
+-											<time>
+-												2026年09月16日
+-											</time>
+-											<br>
+-											<span>
+-												感染症・結核学術部会
+-											</span>
+-										</dt>
+-										<dd>
+-											ハイリスク者を診療する医療従事者への肺炎球菌ワクチン啓発Webinar開催のご案内（2026年10月17日）
+-										</dd>
+-									</dl>
+-								</a>
+-							</div>
+ 						</div>
+ 					</div>
+ 					<a rel="noopener noreferrer">

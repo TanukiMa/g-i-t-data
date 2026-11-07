@@ -1,0 +1,60 @@
+diff --git a/sites/jaotorjp/jp/or/jaot/index.html b/sites/jaotorjp/jp/or/jaot/index.html
+index 465a3fc6d..865161e25 100644
+--- a/sites/jaotorjp/jp/or/jaot/index.html
++++ b/sites/jaotorjp/jp/or/jaot/index.html
+@@ -672,6 +672,29 @@
+ 										<div>
+ 											<div>
+ 												<ul>
++													<li>
++														<a href="/member/from_assoc/detail/1467/" rel="noopener noreferrer">
++															<div>
++																<div>
++																	<div>
++																		<span>
++																			お知らせ
++																		</span>
++																	</div>
++																</div>
++																<div>
++																	<h3>
++																		<span>
++																			学術誌『作業療法』第45巻第5号（通巻254号）発刊
++																		</span>
++																	</h3>
++																</div>
++																<p>
++																	学術誌『作業療法』第45巻第5号が10月15日に発刊されました。
++																</p>
++															</div>
++														</a>
++													</li>
+ 													<li>
+ 														<a href="/member/from_assoc/detail/1455/" rel="noopener noreferrer">
+ 															<div>
+@@ -763,25 +786,6 @@
+ 															</div>
+ 														</a>
+ 													</li>
+-													<li>
+-														<a href="/member/from_assoc/detail/1444/" rel="noopener noreferrer">
+-															<div>
+-																<div>
+-																	<div>
+-																	</div>
+-																</div>
+-																<div>
+-																	<h3>
+-																		<span>
+-																			機関誌『日本作業療法士協会誌』第174号（2026年9月15日発行）を発行しました
+-																		</span>
+-																	</h3>
+-																</div>
+-																<p>
+-																</p>
+-															</div>
+-														</a>
+-													</li>
+ 												</ul>
+ 											</div>
+ 										</div>

@@ -1,0 +1,54 @@
+diff --git a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+index f6a44b252..ba98b33eb 100644
+--- a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
++++ b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+@@ -1228,12 +1228,12 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年10月02日
++										令和08年10月16日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/about/business/public_relations/009/004/" rel="noopener noreferrer">
+-										健康保険コラムを掲載しました
++									<a href="/news/r08_oct/6520.html" rel="noopener noreferrer">
++										【復旧】コミュニケーションサイトの初回登録ができない事象について
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -1246,8 +1246,8 @@
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/electronic_application/important_guidelines/how_to_save/" rel="noopener noreferrer">
+-										【電子申請】入力内容の保存方法について
++									<a href="/about/business/public_relations/009/004/" rel="noopener noreferrer">
++										健康保険コラムを掲載しました
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -1256,19 +1256,14 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年10月01日
++										令和08年10月02日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_oct/6273.html" rel="noopener noreferrer">
+-										令和8年台風第18号に伴う災害（鹿児島県）
++									<a href="/electronic_application/important_guidelines/how_to_save/" rel="noopener noreferrer">
++										【電子申請】入力内容の保存方法について
+ 									</a>
+ 								</h3>
+-								<ul>
+-									<li>
+-										災害情報
+-									</li>
+-								</ul>
+ 							</article>
+ 						</li>
+ 					</ul>

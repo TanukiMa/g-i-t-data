@@ -1,0 +1,38 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index a35ab652..cbb6a2fa 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -757,6 +757,16 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="/information/kaiho/prompt_report/" rel="noopener noreferrer">
++								<span>
++									2026.11.02
++								</span>
++								<span>
++									会報JAMT　Vol.32  No.21を掲載しました
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="/studysession/relation/#kanren6544" rel="noopener noreferrer">
+ 								<span>
+@@ -797,16 +807,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="/studysession/relation/#kanren6530" rel="noopener noreferrer">
+-								<span>
+-									2026.10.15
+-								</span>
+-								<span>
+-									日本遺伝子診療学会より「遺伝子診断・検査技術推進フォーラム 公開シンポジウム2026」の開催について
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 				<div>

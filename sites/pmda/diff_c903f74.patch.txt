@@ -1,0 +1,177 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 1de7f8bea..cc248f94b 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2338,69 +2338,85 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/review-services/drug-reviews/foreign-mfr/0003.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
+ 												<p>
+ 													2026年10月21日
+ 												</p>
+ 												<p>
+-													審査
++													安全
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													外国製造業者認定・登録番号を掲載しました
++													「アバコパン製剤の使用に当たっての留意事項について」を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/rs-std-jp/0002.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+ 												<p>
+ 													2026年10月21日
+ 												</p>
+ 												<p>
+-													その他
++													安全
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													「申請電子データを活用した解析」のページを更新しました
++													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/review-services/symposia/0208.html" rel="noopener noreferrer">
++											<a href="/review-services/drug-reviews/foreign-mfr/0003.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月20日
++													2026年10月21日
+ 												</p>
+ 												<p>
+ 													審査
+ 												</p>
+ 												<p>
+-													イベント
++													New
++												</p>
++												<p>
++													外国製造業者認定・登録番号を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/rs-std-jp/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年10月21日
++												</p>
++												<p>
++													その他
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													「2026年度マスターファイル講習会」の案内を更新しました
++													「申請電子データを活用した解析」のページを更新しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
++											<a href="/review-services/symposia/0208.html" rel="noopener noreferrer">
+ 												<p>
+ 													2026年10月20日
+ 												</p>
+ 												<p>
+-													安全
++													審査
++												</p>
++												<p>
++													イベント
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													「「GLP-1受容体作動薬及びGIP/GLP-1受容体作動薬の適正使用について」の再周知について」を掲載しました
++													「2026年度マスターファイル講習会」の案内を更新しました
+ 												</p>
+ 											</a>
+ 										</li>
+@@ -2629,19 +2645,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/generics-info/0003.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月9日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													「第37回ジェネリック医薬品・バイオシミラー品質情報検討会」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2790,7 +2793,23 @@
+ 										<li>
+ 											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月20日
++													2026年10月21日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「アバコパン製剤の使用に当たっての留意事項について」を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年10月21日
+ 												</p>
+ 												<p>
+ 													医薬品
+@@ -2799,7 +2818,7 @@
+ 													New
+ 												</p>
+ 												<p>
+-													「「GLP-1受容体作動薬及びGIP/GLP-1受容体作動薬の適正使用について」の再周知について」を掲載しました
++													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
+ 												</p>
+ 											</a>
+ 										</li>
+@@ -2858,19 +2877,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月8日
+-												</p>
+-												<p>
+-													医薬品
+-												</p>
+-												<p>
+-													クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」240
+-												</p>
+-											</a>
+-										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html" rel="noopener noreferrer">
+ 												<p>

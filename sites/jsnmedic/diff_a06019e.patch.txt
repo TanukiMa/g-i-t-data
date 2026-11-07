@@ -1,0 +1,17 @@
+diff --git a/sites/jsnmedic/jp/or/jsn/medic.html b/sites/jsnmedic/jp/or/jsn/medic.html
+index 7da9cc267..641d23595 100644
+--- a/sites/jsnmedic/jp/or/jsn/medic.html
++++ b/sites/jsnmedic/jp/or/jsn/medic.html
+@@ -1185,10 +1185,11 @@
+ 									2026.10.07
+ 								</div>
+ 								<div>
++									会員向け
+ 								</div>
+ 							</div>
+ 							<div>
+-								<a href="https://jsn.or.jp/medic/post-590.php" rel="noopener noreferrer">
++								<a href="https://jsn.or.jp/medic/newstopics/formember/post-590.php" rel="noopener noreferrer">
+ 									特定の紅麹関連製品摂取後に認められた長期予後調査について
+ 								</a>
+ 							</div>

@@ -1,0 +1,28 @@
+diff --git a/sites/ajhcorjp/jp/or/ajhc/index.html b/sites/ajhcorjp/jp/or/ajhc/index.html
+index dd97eff04..62eac5ca8 100644
+--- a/sites/ajhcorjp/jp/or/ajhc/index.html
++++ b/sites/ajhcorjp/jp/or/ajhc/index.html
+@@ -52,7 +52,10 @@
+ 						</figure>
+ 						<div>
+ 							<h4>
+-								第41回全国医療法人経営セミナー(11/21(土)開催／参加募集中)
++								第41回全国医療法人経営セミナー(11/21(土)開催）
++								<u>
++									只今 参加者募集中
++								</u>
+ 							</h4>
+ 							<p>
+ 								<a href="info/seminer2026.html" rel="noopener noreferrer">
+@@ -72,7 +75,10 @@
+ 						</figure>
+ 						<div>
+ 							<h4>
+-								第2回経営講座 (10/30(金)WEB開催／10/28締切)
++								第2回経営講座 (10/30(金)WEB開催)
++								<u>
++									※10/28締切です。
++								</u>
+ 							</h4>
+ 							<p>
+ 								<a href="seminer.html#semi20261030" rel="noopener noreferrer">

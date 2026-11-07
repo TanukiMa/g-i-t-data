@@ -1,0 +1,122 @@
+diff --git a/sites/jeaweb/jp/jeaweb/index.html b/sites/jeaweb/jp/jeaweb/index.html
+index 1fa25ba4..00844c0e 100644
+--- a/sites/jeaweb/jp/jeaweb/index.html
++++ b/sites/jeaweb/jp/jeaweb/index.html
+@@ -298,26 +298,26 @@
+ 							<article>
+ 								<h3>
+ 									<time>
+-										2026年09月18日
++										2026年10月01日
+ 									</time>
+ 									<span>
+ 										学術総会
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/individual.html?entry_id=2837" rel="noopener noreferrer">
+-										第37回学術総会の演題登録期間延長のお知らせ
++									<a href="https://pub.confit.atlas.jp/ja/event/jeatokyo37" rel="noopener noreferrer">
++										第37回日本疫学会学術総会の参加登録を開始いたします
+ 									</a>
+ 								</h3>
+ 							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+-										2026年07月31日
++										2026年09月18日
+ 									</time>
+ 									<span>
+ 										学術総会
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/individual.html?entry_id=2789" rel="noopener noreferrer">
+-										【8月3日12:00～】 第37回日本疫学会学術総会の演題登録の受付を開始いたします
++									<a href="https://jeaweb.jp/jeanews/individual.html?entry_id=2837" rel="noopener noreferrer">
++										第37回学術総会の演題登録期間延長のお知らせ
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -327,10 +327,10 @@
+ 										2026年07月31日
+ 									</time>
+ 									<span>
+-										事務局から
++										学術総会
+ 									</span>
+-									<a href="https://jeaweb.jp/senmonka/application/index.html" rel="noopener noreferrer">
+-										8月1日より疫学専門家および上級疫学専門家の新規申請・更新申請の受け付けを開始します
++									<a href="https://jeaweb.jp/jeanews/individual.html?entry_id=2789" rel="noopener noreferrer">
++										【8月3日12:00～】 第37回日本疫学会学術総会の演題登録の受付を開始いたします
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -354,8 +354,8 @@
+ 									<span>
+ 										募集
+ 									</span>
+-									<a href="https://www.amed.go.jp/koubo/03005/01/B_00011.html" rel="noopener noreferrer">
+-										【AMED】次世代医療実現バイオバンク利活用プログラムの関わる公募について（11/18正午締切）
++									<a href="https://www.amed.go.jp/koubo/03005/02/B_00024.html" rel="noopener noreferrer">
++										【AMED】令和９年度「革新的がん医療実用化研究事業」に係る公募について（11/25正午締切））
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -365,10 +365,10 @@
+ 										2026年10月29日
+ 									</time>
+ 									<span>
+-										周知依頼
++										募集
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2869" rel="noopener noreferrer">
+-										【Minds】第28回 診療ガイドライン作成に関する意見交換会開催のご案内
++									<a href="https://www.jaame.or.jp/mdsi/activity/tech-grant_application.html" rel="noopener noreferrer">
++										2027年度自然科学系研究者向け研究助成（医療技術研究開発）のご案内（12/14(月)締切）
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -378,36 +378,36 @@
+ 										2026年10月29日
+ 									</time>
+ 									<span>
+-										募集
++										周知依頼
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2868" rel="noopener noreferrer">
+-										医学書院『公衆衛生』編集室より研究者紹介企画のご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2874" rel="noopener noreferrer">
++										【J-MICC研究】2026年度第2回全体会議開催のご案内
+ 									</a>
+ 								</h3>
+ 							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+-										2026年10月20日
++										2026年10月29日
+ 									</time>
+ 									<span>
+ 										募集
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2870" rel="noopener noreferrer">
+-										10/31まで！【日本学術会議】若手アカデミー候補者〔連携会員（特任）候補者〕募集のご案内
++									<a href="https://www.amed.go.jp/koubo/03005/01/B_00011.html" rel="noopener noreferrer">
++										【AMED】次世代医療実現バイオバンク利活用プログラム（次世代医療実現推進プラットフォーム・社会共創推進領域）に関わる公募について（11/18正午締切）
+ 									</a>
+ 								</h3>
+ 							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+-										2026年10月17日
++										2026年10月29日
+ 									</time>
+ 									<span>
+ 										周知依頼
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2866" rel="noopener noreferrer">
+-										【日本学術会議】　公開シンポジウムのお知らせ
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2869" rel="noopener noreferrer">
++										【Minds】第28回 診療ガイドライン作成に関する意見交換会開催のご案内
+ 									</a>
+ 								</h3>
+ 							</article>

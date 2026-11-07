@@ -1,0 +1,318 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index a6ac3238b..1de7f8bea 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2337,6 +2337,38 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/review-services/drug-reviews/foreign-mfr/0003.html" rel="noopener noreferrer">
++												<p>
++													2026年10月21日
++												</p>
++												<p>
++													審査
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													外国製造業者認定・登録番号を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/rs-std-jp/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年10月21日
++												</p>
++												<p>
++													その他
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「申請電子データを活用した解析」のページを更新しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/symposia/0208.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2514,9 +2546,6 @@
+ 												<p>
+ 													審査
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													プログラム医療機器のページを更新（「生成AIを活用した医療機器の審査ポイント(Draft)」の英訳を公開、対面助言調整可能時期の更新）しました。
+ 												</p>
+@@ -2530,9 +2559,6 @@
+ 												<p>
+ 													審査
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「バイオ後続品」のページを更新しました
+ 												</p>
+@@ -2546,9 +2572,6 @@
+ 												<p>
+ 													審査
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													未承認薬データベースを更新しました
+ 												</p>
+@@ -2619,35 +2642,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/items-information/rmp/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月9日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													「医薬品リスク管理計画書　記載事例」を更新しました。
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/about-pmda/symposia/0030.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月9日
+-												</p>
+-												<p>
+-													その他
+-												</p>
+-												<p>
+-													イベント
+-												</p>
+-												<p>
+-													2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2666,6 +2660,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/review-services/drug-reviews/foreign-mfr/0003.html" rel="noopener noreferrer">
++												<p>
++													2026年10月21日
++												</p>
++												<p>
++													全製品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													外国製造業者認定・登録番号を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/symposia/0208.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2715,9 +2725,6 @@
+ 												<p>
+ 													医療機器
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													プログラム医療機器のページを更新（「生成AIを活用した医療機器の審査ポイント(Draft)」の英訳を公開、対面助言調整可能時期の更新）しました。
+ 												</p>
+@@ -2731,9 +2738,6 @@
+ 												<p>
+ 													医薬品
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「バイオ後続品」のページを更新しました
+ 												</p>
+@@ -2747,9 +2751,6 @@
+ 												<p>
+ 													医薬品
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													未承認薬データベースを更新しました
+ 												</p>
+@@ -2768,32 +2769,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/foreign-mfr/0003.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月6日
+-												</p>
+-												<p>
+-													全製品
+-												</p>
+-												<p>
+-													外国製造業者認定・登録番号を掲載しました
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/review-services/symposia/0207.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月6日
+-												</p>
+-												<p>
+-													イベント
+-												</p>
+-												<p>
+-													Early Consideration「少数例臨床試験に関する留意事項」説明会の資料を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2959,73 +2934,63 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/rs-std-jp/standards-development/jp/0262.html" rel="noopener noreferrer">
++											<a href="/rs-std-jp/0002.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月19日
++													2026年10月21日
+ 												</p>
+ 												<p>
+-													薬局方
++													その他
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													第二十改正日本薬局方作成基本方針を掲載しました
++													「申請電子データを活用した解析」のページを更新しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
++											<a href="/rs-std-jp/standards-development/jp/0262.html" rel="noopener noreferrer">
+ 												<p>
+ 													2026年10月19日
+ 												</p>
+ 												<p>
+-													基準
++													薬局方
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました
++													第二十改正日本薬局方作成基本方針を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/rs-std-jp/standards-development/jp/0021.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月13日
+-												</p>
++											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
+ 												<p>
+-													薬局方
++													2026年10月19日
+ 												</p>
+ 												<p>
+-													日局におけるPDG調和文書への対応状況（試験法等）を更新しました
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/rs-std-jp/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月6日
++													基準
+ 												</p>
+ 												<p>
+-													その他
++													New
+ 												</p>
+ 												<p>
+-													「申請電子データを活用した解析」のページを更新しました
++													「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/rs-std-jp/outline/0001.html" rel="noopener noreferrer">
++											<a href="/rs-std-jp/standards-development/jp/0021.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月6日
++													2026年10月13日
+ 												</p>
+ 												<p>
+-													RS
++													薬局方
+ 												</p>
+ 												<p>
+-													2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。
++													日局におけるPDG調和文書への対応状況（試験法等）を更新しました
+ 												</p>
+ 											</a>
+ 										</li>
+@@ -3232,32 +3197,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/procurements/public-bidding/general-competition-government/0236.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月6日
+-												</p>
+-												<p>
+-													調達
+-												</p>
+-												<p>
+-													一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入業務）
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/procurements/public-bidding/general-competition-government/0237.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月6日
+-												</p>
+-												<p>
+-													調達
+-												</p>
+-												<p>
+-													一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入に伴う医薬品安全対策支援システム改修業務）
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
