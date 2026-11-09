@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/medorjp.xml</id>
-  <updated>2026-11-09T07:34:07Z</updated>
+  <updated>2026-11-09T22:33:02Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/medorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>日本医師会: 変更: 「2026.11.02」の日付が「2026.11.09」に変更されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/029327384e072f1e0fe7ec4751f890d534b52c33</id>
+    <updated>2026-11-09T22:33:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.11.02」の日付が「2026.11.09」に変更されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「JMAMDC 日本医師会医師主導による医療機器の開発・事業化支援事業」へのリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「令和８年度「死体検案研修会（上級）」のご案内」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_0293273.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>日本医師会: 変更: 「2026.11.02」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/c3cf5ac3945b9a92f3a0a61cd554a26c5012d55f</id>
     <updated>2026-11-09T07:34:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.11.02」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「&amp;lt;a href=&amp;quot;https://www.med.or.jp/doctor/region/001757.html&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;重要 令和８年医師の届出に関するお知らせ （届出期限 令和９年１月15日）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.09&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: オンライン診療について（&amp;lt;a href=&amp;quot;https://www.med.or.jp/doctor/sien/s_sien/010599.html&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_c3cf5ac.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.11.02」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「&amp;lt;a href=&amp;quot;https://www.med.or.jp/doctor/region/001757.html&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;重要 令和８年医師の届出に関するお知らせ （届出期限 令和９年１月15日）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.09&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: オンライン診療について（&amp;lt;a href=&amp;quot;https://www.med.or.jp/doctor/sien/s_sien/010599.html&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_c3cf5ac.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261109123204/https://www.med.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本医師会: 変更: メインビジュアルのリンク先が「/people/iiiryo/」（11月1日は「いい医療の日」）から「/people/yushin/」（12月4日は有床診療所の日　有床診療…</title>

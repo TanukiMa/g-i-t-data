@@ -1,0 +1,93 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 39abec2e..6453368c 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2370,6 +2370,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年11月9日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/drug-reviews/about-reviews/p-drugs/0028.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2656,22 +2672,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/rs-std-jp/standards-development/jp/pub-comments/jp/0267.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月30日
+-												</p>
+-												<p>
+-													薬局方
+-												</p>
+-												<p>
+-													パブコメ
+-												</p>
+-												<p>
+-													第二十改正日本薬局方原案作成要領（案）に関するご意見の募集について
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2910,6 +2910,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年11月9日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/devices/0054.html" rel="noopener noreferrer">
+ 												<p>
+@@ -3000,19 +3016,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月29日
+-												</p>
+-												<p>
+-													医薬品
+-												</p>
+-												<p>
+-													クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480
+-												</p>
+-											</a>
+-										</li>
+ 										<li>
+ 											<a href="/safety/info-services/medical-safety-info/0005.html" rel="noopener noreferrer">
+ 												<p>

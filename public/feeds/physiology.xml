@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本生理学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/physiology.xml</id>
-  <updated>2026-10-30T03:35:37Z</updated>
+  <updated>2026-11-09T22:33:03Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/physiology.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/physiology/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本生理学会: 追加: 「2026-11-09 サイエンストピックス 198. HCNチャネルにおける新たな細胞外VSD-PDカップリング機構の発見」および執筆者（劉嘉瑩（中條浩一）自治医科大学…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/physiology/8c6406063fe849be7c368e142f922c93d5f1e8b3</id>
+    <updated>2026-11-09T22:33:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/physiology/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026-11-09 サイエンストピックス 198. HCNチャネルにおける新たな細胞外VSD-PDカップリング機構の発見」および執筆者（劉嘉瑩（中條浩一）自治医科大学大学院・医学研究科・生理学講座・統合生理学部門）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「自然科学研究機構Open Mix Lab（OML）公募研究プログラム」「195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する」「192. チック障害に関与する心と身体をつなぐ新たな神経回路を解明」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.physiology.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/physiology/diff_8c64060.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本生理学会: 追加: 「2026-10-30 高知大学医学部生理学講座（統合生理学）教員の公募について」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/physiology/7e5d47abd328a86c60dfd226cc7b57be3a84f04a</id>
