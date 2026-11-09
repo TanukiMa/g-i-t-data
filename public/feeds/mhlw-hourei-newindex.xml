@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省 - 新着の法令</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlw-hourei-newindex.xml</id>
-  <updated>2026-11-05T07:33:55Z</updated>
+  <updated>2026-11-09T07:34:08Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlw-hourei-newindex.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 新着の法令: 追加: 令和８年１１月９日掲載として「消費生活協同組合法施行規則の一部を改正する省令（令和８年11月５日厚生労働省令第152号）」が追加されました（社会・援護局福祉基盤課）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-hourei-newindex/1656c7a917ff9600f0c982286f37cb59963d7a9d</id>
+    <updated>2026-11-09T07:34:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和８年１１月９日掲載として「消費生活協同組合法施行規則の一部を改正する省令（令和８年11月５日厚生労働省令第152号）」が追加されました（社会・援護局福祉基盤課）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和８年１１月９日掲載として「消費生活協同組合法施行規程の一部を改正する件（令和８年11月５日厚生労働省告示第383号）」が追加されました（社会・援護局福祉基盤課）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/hourei/new/hourei/newindex.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/diff_1656c7a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 新着の法令: 追加: 令和８年１１月５日掲載として「医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第五項から第七項までの規定により厚生労働大臣が指定する高度管理医療機器、…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-hourei-newindex/1387b428841e446a4ed26b370e288d5ed75ec60e</id>
