@@ -1,0 +1,139 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 5ff81721..70ec0b14 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1189,7 +1189,24 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/11/06
++												2026/11/09
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-pediatrician" rel="noopener noreferrer">
++												専門医・認定資格等
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-pediatrician/post-160297.html" rel="noopener noreferrer">
++												単位取得講演一覧（現地・WEB：2026年11月承認分）の追加掲載について
++											</a>
++										</td>
++									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/11/09
+ 											</time>
+ 										</td>
+ 										<td>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/08
+-											</time>
+-										</td>
+-										<td>
+-											<a href="/members-only/members-news" rel="noopener noreferrer">
+-												会員限定のお知らせ
+-											</a>
+-										</td>
+-										<td>
+-											<a href="/members-only/" rel="noopener noreferrer">
+-												会員専用ホームページに新しいお知らせを掲載しました
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2154,7 +2154,7 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/11/06
++												2026/11/09
+ 											</time>
+ 										</td>
+ 										<td>
+@@ -2253,6 +2253,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/09
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-pediatrician/post-160297.html" rel="noopener noreferrer">
++												単位取得講演一覧（現地・WEB：2026年11月承認分）の追加掲載について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2325,18 +2337,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/08
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-pediatrician/post-159405.html" rel="noopener noreferrer">
+-												単位取得講演一覧（現地・WEB：2026年9月承認分）の追加掲載について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2355,6 +2355,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/09
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/organizationnews/post-160293.html" rel="noopener noreferrer">
++												医薬品の適応外使用に係る保険診療上の取扱いについて（日本医学会）
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2583,18 +2595,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/09
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159430.html" rel="noopener noreferrer">
+-												自殺予防週間の取り組み等について（厚生労働省）
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

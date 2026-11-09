@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本臨床腫瘍学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jsmo.xml</id>
-  <updated>2026-11-05T22:33:29Z</updated>
+  <updated>2026-11-09T03:33:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jsmo.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsmo/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本臨床腫瘍学会: 変更：「第5回ゲノム医療ことはじめ」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsmo/78665d888c8cf6e8a503005fe2284d041a18ba4e</id>
+    <updated>2026-11-09T03:33:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsmo/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「第5回ゲノム医療ことはじめ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsmo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsmo/diff_78665d8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本臨床腫瘍学会: 追加：2026.11.05 学会からのお知らせ「がん免疫薬物療法マネジメントセミナーアドバンスドコース_2026年12月6日オンライン開催（参加者受付中）」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsmo/b98ec2286fe4a6437280db5f95d6de55833aa4ee</id>

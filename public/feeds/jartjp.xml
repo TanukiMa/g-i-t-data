@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本診療放射線技師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jartjp.xml</id>
-  <updated>2026-11-06T07:35:52Z</updated>
+  <updated>2026-11-09T03:33:30Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jartjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jartjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本診療放射線技師会: 変更：「受付前」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jartjp/d01bc59100e5817b1dd107ea50a3c68101f5be6c</id>
+    <updated>2026-11-09T03:33:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jartjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「受付前」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加：表記事項として「申込み不可」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jart.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jartjp/diff_d01bc59.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本診療放射線技師会: 追加: 2026/11/06「告示研修（実技研修）東京都　申込受付開始のお知らせ」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jartjp/63ed508ad989b669b5409be29eab6836a5a723c2</id>

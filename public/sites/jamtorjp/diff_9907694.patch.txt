@@ -1,0 +1,38 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index 9a74befd..886d2d7b 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -757,6 +757,16 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="/news/2026/news_005631.html" rel="noopener noreferrer">
++								<span>
++									2026.11.09
++								</span>
++								<span>
++									第76回 日本医学検査学会「国際学生フォーラム」発表者募集！
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="/information/kaiho/prompt_report/" rel="noopener noreferrer">
+ 								<span>
+@@ -797,16 +807,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="/studysession/relation/#kanren6532" rel="noopener noreferrer">
+-								<span>
+-									2026.10.15
+-								</span>
+-								<span>
+-									日本医師会より「令和８年度医療事故調査制度に係る「管理者・実務者セミナー」」のご案内
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 				<div>
