@@ -1,0 +1,91 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index f14fdf07..f4caa1c9 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1425,6 +1425,23 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<a href="https://www.jsicm.org/news/news261110.html" rel="noopener noreferrer">
++										</a>
++										<div>
++											<div>
++												2026年11月10日
++											</div>
++											<div>
++												学会より
++											</div>
++										</div>
++										<div>
++											<div>
++												2027年会費納入のお願い
++											</div>
++										</div>
++									</li>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261102.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1586,12 +1603,18 @@
+ 											</div>
+ 										</div>
+ 									</li>
++								</ul>
++								<span>
++								</span>
++							</div>
++							<div>
++								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/meeting/report/kyushu10.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261110.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月6日
++												2026年11月10日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1599,16 +1622,10 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												第10回支部学術集会レポート掲載のお知らせ：九州支部（2026.8.22開催）
++												2027年会費納入のお願い
+ 											</div>
+ 										</div>
+ 									</li>
+-								</ul>
+-								<span>
+-								</span>
+-							</div>
+-							<div>
+-								<ul>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261102.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1770,23 +1787,6 @@
+ 											</div>
+ 										</div>
+ 									</li>
+-									<li>
+-										<a href="https://www.jsicm.org/meeting/report/kyushu10.html" rel="noopener noreferrer">
+-										</a>
+-										<div>
+-											<div>
+-												2026年10月6日
+-											</div>
+-											<div>
+-												学会より
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												第10回支部学術集会レポート掲載のお知らせ：九州支部（2026.8.22開催）
+-											</div>
+-										</div>
+-									</li>
+ 								</ul>
+ 								<span>
+ 								</span>
