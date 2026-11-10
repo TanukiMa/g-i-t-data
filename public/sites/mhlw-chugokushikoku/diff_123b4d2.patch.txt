@@ -1,0 +1,165 @@
+diff --git a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+index ffa62f61..3620b9c6 100644
+--- a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
++++ b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+@@ -810,45 +810,45 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/chugokushikoku/info/200911/05.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/kijunjuriichiran_shinkihenkou_shikkou_00001.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月26日
++													2026年11月10日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															行政処分等
++															医療機関等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険診療等において不正診療や不正請求が行われた場合の取扱いについて」のページを更新しました。
++													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」（直近届出分）のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/kijunjuriichiran_shinkihenkou_shikkou_00001.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/info/200911/05.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月23日
++													2026年10月26日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															行政処分等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」（直近届出分）のページを更新しました。
++													「保険診療等において不正診療や不正請求が行われた場合の取扱いについて」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -943,26 +943,26 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/iryoukikanshitei.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/newpage_00838.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月9日
++													2026年11月10日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険医療機関等・指定訪問看護事業所・はり、きゅう及びあん摩マッサージ指圧の受領委任取扱い施術所の指定状況等について」を更新しました。
++													11月はねんきん月間です。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/hokenitouroku.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/iryoukikanshitei.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月9日
+@@ -975,35 +975,35 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													「指定登録政令に基づく公示について」のページを更新しました。
++													「保険医療機関等・指定訪問看護事業所・はり、きゅう及びあん摩マッサージ指圧の受領委任取扱い施術所の指定状況等について」を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chiiki/seminar_20261203_00003.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/hokenitouroku.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月4日
++													2026年11月9日
+ 												</time>
+ 												<em>
+ 													<span>
+-														開催案内
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「地域の移動を支える連携」をテーマに、研修会を開催します。
++													「指定登録政令に基づく公示について」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/newpage_00862.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chiiki/seminar_20261203_00003.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月2日
++													2026年11月4日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -1013,26 +1013,26 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年度　医療安全に関するワークショップ及びオンデマンドセミナーの開催について
++													「地域の移動を支える連携」をテーマに、研修会を開催します。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/chousaka03.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/newpage_00862.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月28日
++													2026年11月2日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														開催案内
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和7年度分の主な指摘事項（適時調査）を掲載しました。
++													令和8年度　医療安全に関するワークショップ及びオンデマンドセミナーの開催について
+ 												</span>
+ 											</div>
+ 										</a>

@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本薬剤師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/nichiyakuorjp.xml</id>
-  <updated>2026-11-09T07:34:08Z</updated>
+  <updated>2026-11-10T03:33:36Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/nichiyakuorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nichiyakuorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本薬剤師会: 変更：「【重要】日本薬剤師会雑誌の電子化推進について」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/nichiyakuorjp/3c85cdde2d0a7ed0251b750136e3366ea96b12a5</id>
+    <updated>2026-11-10T03:33:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nichiyakuorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「【重要】日本薬剤師会雑誌の電子化推進について」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.nichiyaku.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nichiyakuorjp/diff_3c85cdd.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本薬剤師会: 追加: 「セルフメディケーション税制対象品目リスト（12月分）を掲載しました。」（2026.11.09）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/nichiyakuorjp/46f8e470ba3d6b824a5e23468309a00986efcd77</id>

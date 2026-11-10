@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 医療DX・医療情報</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-b00dc86b.xml</id>
-  <updated>2026-11-09T22:33:04Z</updated>
+  <updated>2026-11-10T03:33:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-b00dc86b.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: 「月刊DX審査支払機構「医療をつなぐ」を掲載しました。」（令和8年11月10日、医療機関・保険者向け、/about/kohoshi/gekkankikin/r08/r08…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/4b92ad36cfb9c819590565b8a1feae2a4d35767a</id>
+    <updated>2026-11-10T03:33:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「月刊DX審査支払機構「医療をつなぐ」を掲載しました。」（令和8年11月10日、医療機関・保険者向け、&lt;code&gt;/about/kohoshi/gekkankikin/r08/r08_11.html&lt;/code&gt;）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_4b92ad3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「秋田大学 大学院医学系研究科保健学専攻看護学講座 教授公募」ほか 9 件の教職員・医師等の公募情報が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/176dce296960bfd32a475d0f5115d82b6461c3e0</id>
@@ -20,7 +27,7 @@
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx-kihonmasta-07/9008ea4d5e4c580c4de75037cdd56403a95ff8f8</id>
     <updated>2026-11-09T22:33:00Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-kihonmasta-07/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; 「DX審査支払機構における審査の一般的な取扱い（医科）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt; 「訪問看護療養費マスター」（/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_10.html）へのリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-kihonmasta-07/diff_9008ea4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; 「DX審査支払機構における審査の一般的な取扱い（医科）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt; 「訪問看護療養費マスター」（/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_10.html）へのリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-kihonmasta-07/diff_9008ea4.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261109232856/https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>医療情報システム開発センター(MEDIS-DC): 追加: 「R8年度マスター等の標準化事業（厚生労働省より受託）のページが開設されました」（2026.11.09）の案内およびバナーリンクが追加されました。</title>
@@ -350,12 +357,5 @@
     <updated>2026-10-27T22:33:28Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「大分大学医学部 医学科　解剖学講座 教授公募」「国立保健医療科学院 防災・公衆衛生レジリエンス研究センター 室長等公募」の記載が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「国立大学法人　長崎大学 生命医科学域　医学系　総合診療学分野 教授公募」「国立大学法人　長崎大学 生命医科学域　医学系　循環器内科学分野 教授公募」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 研究助成として「医療機器センター 2027年度【実用化展開型】医療技術研究開発助成」「医療機器センター 2027年度【萌芽・探索型】医療技術研究開発助成」が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「須田記念緑内障治療研究奨励基金 須田記念緑内障治療研究奨励基金 研究助成金」「船井情報科学振興財団 船井学術賞」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 臨床試験情報（UMIN-CTR）として医療法人社団神谷レディースクリニック、川崎医療福祉大学、岩手医科大学、聖隷クリストファー大学、共立女子大学、名古屋市立大学、大塚製薬、福岡女子大学、アサヒクオリティーアンドイノベーションズ、大阪大学、中部大学などの試験登録・計画が新たに追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 東北大学、西日本がん研究機構、株式会社 明治、東洋大学、岐阜大学、日本体育大学、鶴見大学、京都大学、高知健康科学大学などの臨床試験情報（UMIN-CTR）計11件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_95aa6e3.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261028030420/https://www.umin.ac.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>令和6年 基本マスターに関する変更情報: 変更：「事務費手数料」の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx-r06kaiteijoho/ef43e3e6a14f1c23bbbd8c46f4d3565543ddc792</id>
-    <updated>2026-10-27T22:33:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-r06kaiteijoho/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「事務費手数料」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「平成30年　基本マスターに関する変更情報」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-r06kaiteijoho/diff_ef43e3e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261028042647/https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

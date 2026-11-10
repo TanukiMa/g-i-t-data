@@ -1,0 +1,44 @@
+diff --git a/sites/jeaweb/jp/jeaweb/index.html b/sites/jeaweb/jp/jeaweb/index.html
+index 29f723c4..82813a20 100644
+--- a/sites/jeaweb/jp/jeaweb/index.html
++++ b/sites/jeaweb/jp/jeaweb/index.html
+@@ -346,6 +346,19 @@
+ 							関連団体からのお知らせ
+ 						</h2>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026年11月10日
++									</time>
++									<span>
++										セミナー
++									</span>
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2893" rel="noopener noreferrer">
++										【医学統計学研究センター】 令和8年度第3回セミナーのご案内
++									</a>
++								</h3>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -398,19 +411,6 @@
+ 									</a>
+ 								</h3>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2026年10月29日
+-									</time>
+-									<span>
+-										周知依頼
+-									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2869" rel="noopener noreferrer">
+-										【Minds】第28回 診療ガイドライン作成に関する意見交換会開催のご案内
+-									</a>
+-								</h3>
+-							</article>
+ 						</div>
+ 						<div>
+ 							<a href="https://jeaweb.jp/jeanews/network/index.html" rel="noopener noreferrer">

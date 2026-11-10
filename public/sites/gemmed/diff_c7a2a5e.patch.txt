@@ -1,0 +1,260 @@
+diff --git a/sites/gemmed/com/ghc-j/gemmed/index.html b/sites/gemmed/com/ghc-j/gemmed/index.html
+index 1f238755..560c67e1 100644
+--- a/sites/gemmed/com/ghc-j/gemmed/index.html
++++ b/sites/gemmed/com/ghc-j/gemmed/index.html
+@@ -297,6 +297,45 @@
+ 				</div>
+ 				<img alt="" src="">
+ 			</header>
++			<div>
++				<figure>
++					<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-3-960x600.png" width="800">
++					</a>
++				</figure>
++				<h2>
++					<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
++						かぜやインフルなどの医療費適正化には「予防策」が重要、コロナ感染症の診療内容変化の可能性―健保連
++					</a>
++				</h2>
++				<p>
++					2026.11.10.（火）
++				</p>
++				<div>
++					<ul>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=42" rel="noopener noreferrer">
++								新型コロナ対応
++							</a>
++						</li>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++								医療保険制度
++							</a>
++						</li>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=59" rel="noopener noreferrer">
++								健保連統計関連
++							</a>
++						</li>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++								ピックアップ
++							</a>
++						</li>
++					</ul>
++				</div>
++			</div>
+ 			<div>
+ 				<figure>
+ 					<a href="https://gemmed.ghc-j.com/?p=77607" rel="noopener noreferrer">
+@@ -418,40 +457,6 @@
+ 					</ul>
+ 				</div>
+ 			</div>
+-			<div>
+-				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77580" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-9-960x600.png" width="800">
+-					</a>
+-				</figure>
+-				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77580" rel="noopener noreferrer">
+-						2028年度診療報酬改定に向けて、医療機関・薬局・訪問看護ステーションの経営状況を詳細に把握—中医協・調査小委
+-					</a>
+-				</h2>
+-				<p>
+-					2026.11.6.（金）
+-				</p>
+-				<div>
+-					<ul>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
+-								2026診療報酬改定
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=37" rel="noopener noreferrer">
+-								看護
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-								ピックアップ
+-							</a>
+-						</li>
+-					</ul>
+-				</div>
+-			</div>
+ 			<aside>
+ 				<div>
+ 					<figure>
+@@ -512,6 +517,45 @@
+ 			</h2>
+ 			<div>
+ 				<div>
++					<div>
++						<figure>
++							<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
++								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-3-300x300.png" width="300">
++							</a>
++						</figure>
++						<h3>
++							<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
++								かぜやインフルなどの医療費適正化には「予防策」が重要、コロナ感染症の診療内容変化の可能性―健保連
++							</a>
++						</h3>
++						<p>
++							2026.11.10.（火）
++						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=42" rel="noopener noreferrer">
++										新型コロナ対応
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++										医療保険制度
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=59" rel="noopener noreferrer">
++										健保連統計関連
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++										ピックアップ
++									</a>
++								</li>
++							</ul>
++						</div>
++					</div>
+ 					<div>
+ 						<figure>
+ 							<a href="https://gemmed.ghc-j.com/?p=77607" rel="noopener noreferrer">
+@@ -856,35 +900,6 @@
+ 							</ul>
+ 						</div>
+ 					</div>
+-					<div>
+-						<figure>
+-							<a href="https://gemmed.ghc-j.com/?p=77488" rel="noopener noreferrer">
+-								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-1-300x300.png" width="300">
+-							</a>
+-						</figure>
+-						<h3>
+-							<a href="https://gemmed.ghc-j.com/?p=77488" rel="noopener noreferrer">
+-								2024年度の国民医療費は48兆8100億円、1人当たり医療費に大きな地域格差あり最高の高知と最低の埼玉とで1.44倍の開き―厚労省
+-							</a>
+-						</h3>
+-						<p>
+-							2026.11.4.（水）
+-						</p>
+-						<div>
+-							<ul>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-										医療保険制度
+-									</a>
+-								</li>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-										ピックアップ
+-									</a>
+-								</li>
+-							</ul>
+-						</div>
+-					</div>
+ 				</div>
+ 			</div>
+ 			<div>
+@@ -919,6 +934,45 @@
+ 					</span>
+ 					SSUES
+ 				</h2>
++				<div>
++					<figure>
++						<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-3-960x600.png" width="800">
++						</a>
++					</figure>
++					<h3>
++						<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
++							かぜやインフルなどの医療費適正化には「予防策」が重要、コロナ感染症の診療内容変化の可能性―健保連
++						</a>
++					</h3>
++					<p>
++						2026.11.10.（火）
++					</p>
++					<div>
++						<ul>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=42" rel="noopener noreferrer">
++									新型コロナ対応
++								</a>
++							</li>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++									医療保険制度
++								</a>
++							</li>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=59" rel="noopener noreferrer">
++									健保連統計関連
++								</a>
++							</li>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++									ピックアップ
++								</a>
++							</li>
++						</ul>
++					</div>
++				</div>
+ 				<div>
+ 					<figure>
+ 						<a href="https://gemmed.ghc-j.com/?p=77607" rel="noopener noreferrer">
+@@ -1040,40 +1094,6 @@
+ 						</ul>
+ 					</div>
+ 				</div>
+-				<div>
+-					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77580" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-9-960x600.png" width="800">
+-						</a>
+-					</figure>
+-					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77580" rel="noopener noreferrer">
+-							2028年度診療報酬改定に向けて、医療機関・薬局・訪問看護ステーションの経営状況を詳細に把握—中医協・調査小委
+-						</a>
+-					</h3>
+-					<p>
+-						2026.11.6.（金）
+-					</p>
+-					<div>
+-						<ul>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=82" rel="noopener noreferrer">
+-									2026診療報酬改定
+-								</a>
+-							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=37" rel="noopener noreferrer">
+-									看護
+-								</a>
+-							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-									ピックアップ
+-								</a>
+-							</li>
+-						</ul>
+-					</div>
+-				</div>
+ 				<div>
+ 					<a href="https://gemmed.ghc-j.com?cat=40" rel="noopener noreferrer">
+ 						もっと見る
