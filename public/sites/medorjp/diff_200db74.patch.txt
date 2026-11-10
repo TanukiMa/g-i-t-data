@@ -1,0 +1,45 @@
+diff --git a/sites/medorjp/jp/or/med/index.html b/sites/medorjp/jp/or/med/index.html
+index 60a2ccad..7e9fea98 100644
+--- a/sites/medorjp/jp/or/med/index.html
++++ b/sites/medorjp/jp/or/med/index.html
+@@ -494,32 +494,32 @@
+ 					</h2>
+ 					<ul>
+ 						<li>
+-							<a href="https://www.med.or.jp/doctor/sien/s_sien/010599.html" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/doctor/sien/s_sien/010620.html" rel="noopener noreferrer">
+ 								<em>
+-									2026.11.09
++									2026.11.10
+ 								</em>
+ 								<span>
+-									オンライン診療について
++									医薬品・医療機器等に関する通知のご案内
+ 								</span>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://www.med.or.jp/doctor/sien/s_sien/012949.html" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/doctor/sien/s_sien/010599.html" rel="noopener noreferrer">
+ 								<em>
+ 									2026.11.09
+ 								</em>
+ 								<span>
+-									JMAMDC 日本医師会医師主導による医療機器の開発・事業化支援事業
++									オンライン診療について
+ 								</span>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://www.med.or.jp/doctor/sien/s_sien/012829.html" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/doctor/sien/s_sien/012949.html" rel="noopener noreferrer">
+ 								<em>
+-									2026.11.02
++									2026.11.09
+ 								</em>
+ 								<span>
+-									令和８年熊本地震関連
++									JMAMDC 日本医師会医師主導による医療機器の開発・事業化支援事業
+ 								</span>
+ 							</a>
+ 						</li>
