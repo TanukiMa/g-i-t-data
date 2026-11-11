@@ -1,0 +1,18 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 7a28fa3b..ee4ff951 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -276,6 +276,13 @@
+ 						</h2>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								<a href="/about/chotatsu/koubokoukoku.html" rel="noopener noreferrer">
++									共通算定モジュールの請求支援機能に係る品質検証等の支援業 務一式（協力レセコンベンダーの募集）についてを掲載しました
++								</a>
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								<a href="/shinryohoshu/hpdx_cc/index.html" rel="noopener noreferrer">

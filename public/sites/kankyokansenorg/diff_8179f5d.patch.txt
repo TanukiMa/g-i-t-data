@@ -1,0 +1,44 @@
+diff --git a/sites/kankyokansenorg/org/kankyokansen/index.html b/sites/kankyokansenorg/org/kankyokansen/index.html
+index 4499381f..e1ec8fbb 100644
+--- a/sites/kankyokansenorg/org/kankyokansen/index.html
++++ b/sites/kankyokansenorg/org/kankyokansen/index.html
+@@ -794,6 +794,19 @@
+ 							</div>
+ 							<div>
+ 								<dl>
++									<dt>
++										<span>
++											関連団体
++										</span>
++										2026年11月11日
++									</dt>
++									<dd>
++										<div>
++											<a href="https://www.kankyokansen.org/news/20261111/" rel="noopener noreferrer">
++												AMR対策臨床セミナー 「抗微生物薬適正使用の手引き第四版」 解説編②（WEB開催）のお知らせ （AMR臨床リファレンスセンター）
++											</a>
++										</div>
++									</dd>
+ 									<dt>
+ 										<span>
+ 											学会より
+@@ -2081,19 +2094,6 @@
+ 											</a>
+ 										</div>
+ 									</dd>
+-									<dt>
+-										<span>
+-											学会より
+-										</span>
+-										2020年3月30日
+-									</dt>
+-									<dd>
+-										<div>
+-											<a href="https://www.kankyokansen.org/news/who%e3%82%a2%e3%82%a6%e3%83%88%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ac%e3%82%a4%e3%83%89%e3%83%a9%e3%82%a4/" rel="noopener noreferrer">
+-												WHOアウトブレイクコミュニケーションガイドライン【日本語版】（原文タイトル：WHO Outbreak communication guidelines）発行のお知らせ
+-											</a>
+-										</div>
+-									</dd>
+ 								</dl>
+ 							</div>
+ 						</div>
