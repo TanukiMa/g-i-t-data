@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 行政</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-71e138a5.xml</id>
-  <updated>2026-11-11T07:33:25Z</updated>
+  <updated>2026-11-11T22:33:29Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-71e138a5.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>デジタル庁 - 医療DXに関するダッシュボード: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/digitalmeddx/1d9f55a19e123810c92639fa37828eebd15ca3d2</id>
+    <updated>2026-11-11T22:33:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/digitalmeddx/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.digital.go.jp/resources/govdashboard/healthcare-dx"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/digitalmeddx/diff_1d9f55a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>デジタル庁 - 健康・医療・介護: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/digitalgojppolicieshealth/ecd6c4be2efcbbc456c4a5931425a226b58bd314</id>
+    <updated>2026-11-11T22:33:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/digitalgojppolicieshealth/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.digital.go.jp/policies/health"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/digitalgojppolicieshealth/diff_ecd6c4b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 東北厚生局: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-tohoku/155b0c4adcab6f0c1242c4aecdcf1fb20f01e2a8</id>
@@ -20,21 +34,21 @@
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-new-info/599a3cc467e676dec74f109f1ef8a9557bb262e4</id>
     <updated>2026-11-11T07:33:25Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-new-info/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「検体採取の結果について（９月）」が追加されました（/stf/newpage_77296.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「薬事審議会　医療機器・体外診断薬部会を開催します」が追加されました（/stf/newpage_77330.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第２回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース」が追加されました（/stf/newpage_77198.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第10回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)」が追加されました（/stf/shinngi_00023.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「（開催案内）第122回厚生科学審議会　再生医療等評価部会」が追加されました（/stf/newpage_77324.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「令和８年度地域・職域連携推進関係者会議 」開催案内」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-new-info/diff_599a3cc.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「検体採取の結果について（９月）」が追加されました（/stf/newpage_77296.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「薬事審議会　医療機器・体外診断薬部会を開催します」が追加されました（/stf/newpage_77330.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第２回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース」が追加されました（/stf/newpage_77198.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第10回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)」が追加されました（/stf/shinngi_00023.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「（開催案内）第122回厚生科学審議会　再生医療等評価部会」が追加されました（/stf/newpage_77324.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「令和８年度地域・職域連携推進関係者会議 」開催案内」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-new-info/diff_599a3cc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261111034530/https://www.mhlw.go.jp/stf/new-info/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省 - 新着の法令: 追加: 令和８年１１月１１日掲載「健康保険法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令（令和８年11月11日政令第347号）」(PDF,134KB)</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-hourei-newindex/c102bf3dc7bad826623549a62adecef2444f0a2b</id>
     <updated>2026-11-11T07:33:25Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 令和８年１１月１１日掲載「健康保険法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令（令和８年11月11日政令第347号）」(PDF,134KB)&lt;/li&gt;&lt;li&gt;追加: 令和８年１１月１１日掲載の新旧対照条文(PDF,262KB)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/hourei/new/hourei/newindex.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/diff_c102bf3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 令和８年１１月１１日掲載「健康保険法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令（令和８年11月11日政令第347号）」(PDF,134KB)&lt;/li&gt;&lt;li&gt;追加: 令和８年１１月１１日掲載の新旧対照条文(PDF,262KB)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/hourei/new/hourei/newindex.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/diff_c102bf3.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261111120952/https://www.mhlw.go.jp/hourei/new/hourei/newindex.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省: 追加: 「検体採取の結果について（９月）」の記載が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/1309aae7b3e015c5dfad6bf262e3de52760c691b</id>
     <updated>2026-11-11T07:33:24Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「検体採取の結果について（９月）」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「薬事審議会　医療機器・体外診断薬部会を開催します」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月11日付で「第２回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月11日付で「第10回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「厚生科学審議会 (疾病対策部会臓器移植委員会)」「採用情報 公務研究セミナーin霞が関のご案内」「第131回社会保障審議会医療部会　資料」ほか 3 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_1309aae.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「検体採取の結果について（９月）」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「薬事審議会　医療機器・体外診断薬部会を開催します」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月11日付で「第２回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月11日付で「第10回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「厚生科学審議会 (疾病対策部会臓器移植委員会)」「採用情報 公務研究セミナーin霞が関のご案内」「第131回社会保障審議会医療部会　資料」ほか 3 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_1309aae.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261111194403/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省 - 社会保障審議会（医療保険部会）: 追加: 11月11日付けの「資料等」の掲載（リンク先：/stf/newpage_77338.html）が追加されました。</title>
@@ -343,19 +357,5 @@
     <updated>2026-11-05T22:33:30Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-new-info/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 上野厚生労働大臣　閣議後記者会見のお知らせ（/stf/newpage_77204.html）が掲載されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-new-info/diff_8cae78b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261106033409/https://www.mhlw.go.jp/stf/new-info/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省: 変更：「第111回社会保障審議会年金数理部会　議事録」ほか1件の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/7430273ebd40f9ccea5ec8e0bdc086641496b7e2</id>
-    <updated>2026-11-05T22:33:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「第111回社会保障審議会年金数理部会　議事録」ほか1件の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：報道発表「上野厚生労働大臣　閣議後記者会見のお知らせ（2026年11月5日）」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_7430273.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261106020816/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>中央社会保険医療協議会(中央社会保険医療協議会総会): 変更: 「https://www.mhlw.go.jp/stf/newpage_77202.html」へのリンクおよび「議事録」の記載が追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/shingi-chuo/24037e8bb71334e3d674ba90aef6c3264ab865a9</id>
-    <updated>2026-11-05T07:33:57Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/shingi-chuo/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「https://www.mhlw.go.jp/stf/newpage_77202.html」へのリンクおよび「議事録」の記載が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/shingi-chuo/diff_24037e8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261105083213/https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
