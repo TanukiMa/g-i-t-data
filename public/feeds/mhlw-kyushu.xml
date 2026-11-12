@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省 - 九州厚生局</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlw-kyushu.xml</id>
-  <updated>2026-11-05T07:33:55Z</updated>
+  <updated>2026-11-12T03:35:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlw-kyushu.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-kyushu/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 九州厚生局: 追加: 「調達情報」の項目に「入札公告（一般競争）を掲載しました。」（2026年11月12日）が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-kyushu/42085ad6c5fa5e2d0fdba1310c98f65fe7e07e24</id>
+    <updated>2026-11-12T03:35:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-kyushu/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「調達情報」の項目に「入札公告（一般競争）を掲載しました。」（2026年11月12日）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年11月5日」の日付記載が消え、「「保険医療機関・保険薬局の管内指定状況」及び「保険医・保険薬剤師の登録状況」について更新しました。」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年11月12日」付で「「施設基準等の管内届出状況」、「保険外併用療養費医療機関名簿」及び「指定訪問看護　事業者の管内指定状況」について更新しました。」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年11月2日」付の「令和8年度 九州・沖縄地区 医療安全に関するワークショップの申込を開始しました。」（開催案内）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/kyushu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-kyushu/diff_42085ad.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 九州厚生局: 変更: 「医療機関等」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-kyushu/04b7eae8c33af91d92a053c03888dcd7f4b648eb</id>

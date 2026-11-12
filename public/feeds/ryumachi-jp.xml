@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本リウマチ学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/ryumachi-jp.xml</id>
-  <updated>2026-11-05T03:34:29Z</updated>
+  <updated>2026-11-12T03:35:32Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/ryumachi-jp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ryumachi-jp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本リウマチ学会: 変更: 「2026.09.01 小児・移行期医療についてページ 更新いたしました」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/ryumachi-jp/4080ffd978d14f7ab4412a333cc190c8dbe735be</id>
+    <updated>2026-11-12T03:35:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ryumachi-jp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026.09.01 小児・移行期医療についてページ 更新いたしました」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026.11.12 支部学術集会ページ 更新いたしました」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ryumachi-jp.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ryumachi-jp/diff_4080ffd.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本リウマチ学会: 変更：「腎疾患遠隔コンサルテーションネットワーク「Kidney Bridge」についてのお知らせ」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ryumachi-jp/03aecc1b7d6547077fa3ea7ec13ad19fe091509b</id>
