@@ -1,0 +1,99 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 81cc7140..3f77b997 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -695,37 +695,37 @@
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年11月9日
++												令和8年11月12日
+ 											</span>
+ 											<div>
+ 												<span>
+-													イベント
++													事業に関するお知らせ
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/20261201-04.html" rel="noopener noreferrer">
+-											（令和8年12月1日～4日開催）「BMB2026合同大会（第49回日本分子生物学会年会、第99回日本生化学会大会...
++										<a href="/news/program/su20270115.html" rel="noopener noreferrer">
++											「AMED事務処理実務講習会（スタートアップ等向け）」開催のお知らせ
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年11月9日
++												令和8年11月12日
+ 											</span>
+ 											<div>
+ 												<span>
+-													トピックス
++													イベント
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
+-											（情報更新）「公募カレンダー」最新情報を掲載しました
++										<a href="/news/event/20261216_cannds.html" rel="noopener noreferrer">
++											（令和8年12月16日開催）「健康・医療研究開発データ統合利活用プラットフォーム事業 令和8年度 成果報告会　～...
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年11月6日
++												令和8年11月9日
+ 											</span>
+ 											<div>
+ 												<span>
+@@ -733,14 +733,14 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/20261128.html" rel="noopener noreferrer">
+-											（令和8年11月28日開催）「AMEDスポンサードセミナー『AMED患者・市民参画（PPI） ガイドブック、ただ...
++										<a href="/news/event/20261201-04.html" rel="noopener noreferrer">
++											（令和8年12月1日～4日開催）「BMB2026合同大会（第49回日本分子生物学会年会、第99回日本生化学会大会...
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年11月6日
++												令和8年11月9日
+ 											</span>
+ 											<div>
+ 												<span>
+@@ -748,23 +748,23 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/20261106.html" rel="noopener noreferrer">
+-											広報ウェブマガジン「AMED Pickup」で「中釜理事長も登壇：第85回日本癌学会学術総会AMED合同シンポジ...
++										<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
++											（情報更新）「公募カレンダー」最新情報を掲載しました
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年11月4日
++												令和8年11月6日
+ 											</span>
+ 											<div>
+ 												<span>
+-													トピックス
++													イベント
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/20261104.html" rel="noopener noreferrer">
+-											【トピックス】濵口道成先進的研究開発戦略センター（SCARDA）センター長が、令和8年秋の叙勲において瑞宝大綬章...
++										<a href="/news/event/20261128.html" rel="noopener noreferrer">
++											（令和8年11月28日開催）「AMEDスポンサードセミナー『AMED患者・市民参画（PPI） ガイドブック、ただ...
+ 										</a>
+ 									</li>
+ 								</ul>

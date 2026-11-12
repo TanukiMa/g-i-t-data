@@ -1,0 +1,175 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index e9ad9d17..ccb0a6a7 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -760,6 +760,24 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015717" rel="noopener noreferrer">
++							佐賀大学 医学部附属病院血液・腫瘍内科 講師公募
++						</a>
++					</li>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015716" rel="noopener noreferrer">
++							国立大学法人筑波大学 医学医療系　サイバニクス医学分野 助教公募
++						</a>
++					</li>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015715" rel="noopener noreferrer">
++							名古屋大学 大学院医学系研究科 総合保健学専攻 オミックス医療科学 生体防御情報科学 助教公募
++						</a>
++					</li>
+ 					<li>
+ 						[教職員公募]
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015714" rel="noopener noreferrer">
+@@ -802,24 +820,6 @@
+ 							秋田大学 大学院医学系研究科保健学専攻看護学講座 教授公募
+ 						</a>
+ 					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015705" rel="noopener noreferrer">
+-							東北医科薬科大学 心臓血管外科学教室 准教授公募
+-						</a>
+-					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015704" rel="noopener noreferrer">
+-							東北医科薬科大学 皮膚科学教室 特任助教公募
+-						</a>
+-					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015703" rel="noopener noreferrer">
+-							東北医科薬科大学 皮膚科学教室 助教公募
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">
+@@ -973,81 +973,81 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						株式会社マクロミル：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000068267" rel="noopener noreferrer">
+-							食品成分の心理に及ぼす影響に関するヒト試験－プラセボ対照ダブルブラインド　クロスオーバー試験－
++						Integrated Health Science株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072690" rel="noopener noreferrer">
++							脳疲労に対する酢酸含有機能性飲料の効能試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						北陸大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072758" rel="noopener noreferrer">
+-							温熱療法とストレッチングによる柔軟性への影響
++						平成医療短期大学看護学科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072708" rel="noopener noreferrer">
++							高齢者スピリチュアリティ健康増進プログラム研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						北陸大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072760" rel="noopener noreferrer">
+-							筋疲労・筋肉痛に対する物理療法の効果
++						東京大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072787" rel="noopener noreferrer">
++							がん患者を対象とした臨床瞑想法のメンタルヘルス改善効果の検証
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社マクロミルケアネット：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072752" rel="noopener noreferrer">
+-							被験食品の継続摂取による集中力への影響
++						大塚製薬株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072685" rel="noopener noreferrer">
++							うつ病治療用アプリのユーザビリティ試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						北海道大学保健科学研究院地域看護学／公衆衛生看護学教室：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072761" rel="noopener noreferrer">
+-							地域在住高次脳機能障害者の家族介護者におけるWebベースライフチェンジ適応支援プログラムの効果検証
++						大阪大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072674" rel="noopener noreferrer">
++							口唇裂・口蓋裂の口腔顎顔面成長変化に関する研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						慶應義塾大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072700" rel="noopener noreferrer">
+-							循環動態が自己主体感に与える影響についての研究
++						盛岡おおうら脳神経内科クリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072789" rel="noopener noreferrer">
++							LECAN-SHIFT
+ 						</a>
+ 					</li>
+ 					<li>
+-						慶應義塾大学医学部：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072767" rel="noopener noreferrer">
+-							食道機能検査および治療のレジストリ研究
++						浜松学院大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072794" rel="noopener noreferrer">
++							歩数とCKM進行
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社 食のおくすり：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072771" rel="noopener noreferrer">
+-							TK Kids Japan
++						新潟大学新潟大学院医歯学総合研究科 麻酔科学分野 / Division of Anesthesiology Niigata University Graduate School of Medical and Dental Sciences：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072798" rel="noopener noreferrer">
++							人工心肺回路に残った血液の濃縮と成分回収に関する研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						相澤病院 ：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072669" rel="noopener noreferrer">
+-							脳卒中患者と介護者の退院後在宅生活に関する実態調査
++						群馬パース大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072800" rel="noopener noreferrer">
++							ハンドヘルドダイナモメーターを用いた頸部前屈筋力測定の検者内信頼性と舌圧測定・等尺性頸部前屈姿勢持続時間との関連：若年健常者における予備的検討
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社メドミライ：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072776" rel="noopener noreferrer">
+-							-
++						群馬パース大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072802" rel="noopener noreferrer">
++							健常成人の頸部筋力研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						福島大学人間発達文化学類　運動生理学研究室：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072780" rel="noopener noreferrer">
+-							IEH Cycling Study
++						群馬パース大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072803" rel="noopener noreferrer">
++							摂食嚥下障害患者の頸部筋力縦断研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						Baskent Univeristy：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000072785" rel="noopener noreferrer">
+-							EC-CVQoL
++						群馬パース大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072804" rel="noopener noreferrer">
++							頸部筋力測定器の比較研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						名古屋市立大学大学院医学研究科 精神・認知・行動医学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000066428" rel="noopener noreferrer">
+-							遷延性悲嘆症の構造化診断面接（SCIP）日本語版の信頼性と妥当性の検証研究
++						ストレスケア東京上野駅前クリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072805" rel="noopener noreferrer">
++							思春期ADHD BPT-ACT研究
+ 						</a>
+ 					</li>
+ 				</ul>

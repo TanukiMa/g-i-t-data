@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 大学病院医療情報ネットワークセンター(UMIN)</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/uminacjp.xml</id>
-  <updated>2026-11-11T22:33:32Z</updated>
+  <updated>2026-11-12T22:33:23Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/uminacjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「佐賀大学 医学部附属病院血液・腫瘍内科 講師公募」「国立大学法人筑波大学 医学医療系　サイバニクス医学分野 助教公募」「名古屋大学 大学院医学系研究科 総合保健学専攻 …</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/e2a7b00138914a2adaefc738beb46905ce315cee</id>
+    <updated>2026-11-12T22:33:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「佐賀大学 医学部附属病院血液・腫瘍内科 講師公募」「国立大学法人筑波大学 医学医療系　サイバニクス医学分野 助教公募」「名古屋大学 大学院医学系研究科 総合保健学専攻 オミックス医療科学 生体防御情報科学 助教公募」の記載が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「東北医科薬科大学 心臓血管外科学教室 准教授公募」「東北医科薬科大学 皮膚科学教室 特任助教公募」「東北医科薬科大学 皮膚科学教室 助教公募」ほか 10 件の教員公募・臨床試験情報の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: Integrated Health Science株式会社による「脳疲労に対する酢酸含有機能性飲料の効能試験」ほか 8 件の臨床試験情報が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_e2a7b00.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 追加: 「札幌医科大学附属病院 リハビリテーション部 理学療法士公募」ほか2件の公募情報が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/45ffb69706f668de04d52e8720025c7263ec4a60</id>

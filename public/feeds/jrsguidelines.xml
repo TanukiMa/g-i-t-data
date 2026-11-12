@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本呼吸器学会 - ガイドライン</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jrsguidelines.xml</id>
-  <updated>2026-11-12T07:35:27Z</updated>
+  <updated>2026-11-12T22:33:22Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jrsguidelines.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jrsguidelines/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本呼吸器学会 - ガイドライン: 追加：APSRのご案内バナー（リンク先：https://apsr.org/member-guide-jp/）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jrsguidelines/170828c21c69f5b657f467fb44f6590f62d72922</id>
+    <updated>2026-11-12T22:33:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jrsguidelines/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：APSRのご案内バナー（リンク先：https://apsr.org/member-guide-jp/）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jrs.or.jp/publication/jrs_guidelines/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jrsguidelines/diff_170828c.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 </feed>

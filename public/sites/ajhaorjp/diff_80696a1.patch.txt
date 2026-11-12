@@ -1,0 +1,44 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index f8e921e9..0064bad9 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1876,6 +1876,19 @@
+ 				</div>
+ 				<div>
+ 					<dl>
++						<dt>
++							2026/11/12
++						</dt>
++						<dd>
++							<a href="/topics/admininfo/" rel="noopener noreferrer">
++								医療行政情報
++							</a>
++							<p>
++								<a href="/topics/admininfo/" rel="noopener noreferrer">
++									医療行政情報を1件更新しました
++								</a>
++							</p>
++						</dd>
+ 						<dt>
+ 							2026/11/12
+ 						</dt>
+@@ -1915,19 +1928,6 @@
+ 								</a>
+ 							</p>
+ 						</dd>
+-						<dt>
+-							2026/11/10
+-						</dt>
+-						<dd>
+-							<a href="/topics/admininfo/" rel="noopener noreferrer">
+-								医療行政情報
+-							</a>
+-							<p>
+-								<a href="/topics/admininfo/" rel="noopener noreferrer">
+-									医療行政情報を1件更新しました
+-								</a>
+-							</p>
+-						</dd>
+ 						<dt>
+ 							2026/10/23
+ 						</dt>
