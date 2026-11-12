@@ -2,18 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 診療報酬・保険</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-9bb7f779.xml</id>
-  <updated>2026-11-12T03:35:31Z</updated>
+  <updated>2026-11-12T07:33:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-9bb7f779.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>診療報酬情報提供サービス - ファイルダウンロード: 変更: ファイルサイズの記載が変更され、「本編(870KB)」から「本編(875KB)」になりました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/shinryohoshu-download-menu/38acb0f47e438c7c1021fce13e41d0a730de99b2</id>
+    <updated>2026-11-12T07:33:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/shinryohoshu-download-menu/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: ファイルサイズの記載が変更され、「本編(870KB)」から「本編(875KB)」になりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: ファイルサイズの記載が変更され、「（1.10MB）」から「（852KB）」になりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 件数の記載が変更され、「19,286件」から「19,324件」になりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 日付の記載が変更され、複数の日程から「令和 8年11月12日」に変更または統一されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://shinryohoshu.mhlw.go.jp/shinryohoshu/downloadMenu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/shinryohoshu-download-menu/diff_38acb0f.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>診療報酬情報提供サービス: 追加：令和8年11月12日 - 令和8年度診療報酬改定に係る医薬品マスターに変更がありましたので更新しました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/shinryohoshu/911bd28bb598e3df946595d134657a47e05494fb</id>
+    <updated>2026-11-12T07:33:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/shinryohoshu/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：令和8年11月12日 - 令和8年度診療報酬改定に係る医薬品マスターに変更がありましたので更新しました。&lt;/li&gt;&lt;li&gt;追加：令和8年11月12日 - 令和8年度診療報酬改定に係る歯科診療行為マスターに変更がありましたので更新しました。&lt;/li&gt;&lt;li&gt;追加：令和8年11月12日 - 令和8年度診療報酬改定に係るコメントマスターに変更がありましたので更新しました。&lt;/li&gt;&lt;li&gt;追加：令和8年11月12日 - 令和8年度版マスターファイル仕様説明書に変更がありましたので更新しました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://shinryohoshu.mhlw.go.jp/shinryohoshu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/shinryohoshu/diff_911bd28.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: 令和8年11月12日付けで、基本マスター（歯科診療行為・医薬品・コメント）、コメント関連テーブル、レセプト電算処理システムマスターファイル仕様説明書及びコメント関連テーブ…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/2718728f3ea709b79a9f3a75f0dc98b59797e3d0</id>
+    <updated>2026-11-12T07:33:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和8年11月12日付けで、基本マスター（歯科診療行為・医薬品・コメント）、コメント関連テーブル、レセプト電算処理システムマスターファイル仕様説明書及びコメント関連テーブルファイル仕様説明書を更新した旨の記載（対象：ベンダー）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_2718728.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>薬価基準収載品目リスト及び後発医薬品に関する情報について: 変更: 「薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月１日適用）」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-topics-20260401-01/1aaaa250a30efd00bbc7ab3e5be070160f5c11bf</id>
     <updated>2026-11-12T03:35:31Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-topics-20260401-01/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月１日適用）」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月13日適用）の掲載に伴い、関連するExcel・PDFファイル（各リンクの適用日・収載品目）が更新されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-topics-20260401-01/diff_1aaaa25.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月１日適用）」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月13日適用）の掲載に伴い、関連するExcel・PDFファイル（各リンクの適用日・収載品目）が更新されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-topics-20260401-01/diff_1aaaa25.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261112041140/https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本保険薬局協会: 追加: 2027年2月14日（日）10時より、オンラインにて「症例報告書き方セミナー」が開催されます。日本薬剤師研修センターの研修認定薬剤師制度の認定対象集合研修会（2単位）とな…</title>
@@ -336,26 +357,5 @@
     <updated>2026-10-23T07:35:55Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
     <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_e2bb97d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023092936/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>国民健康保険中央会: 追加：「県在宅保健師等会会報を掲載いたしました。」（2026年10月5日／保健事業情報）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/kokuho/e85814bd0d88ca236182be598c7a8cdf6df0025a</id>
-    <updated>2026-10-23T03:35:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/kokuho/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加：「県在宅保健師等会会報を掲載いたしました。」（2026年10月5日／保健事業情報）&lt;/li&gt;&lt;li&gt;変更：「令和８年10月請求におけるオンライン請求システム接続障害について」ほか6件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kokuho.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kokuho/diff_e85814b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023134846/https://www.kokuho.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/3c993420df2a99bd1e108ac84ba6ae3bd3f1460b</id>
-    <updated>2026-10-23T03:35:05Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_3c99342.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023092936/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>協会けんぽ: 変更：「情報提供サービス」の一部メニューおよびけんぽアプリの一時停止の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/kyoukaikenpo/84fa2e21e29a2aff7139966c5e9df0255b708c5e</id>
-    <updated>2026-10-22T22:34:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/kyoukaikenpo/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「情報提供サービス」の一部メニューおよびけんぽアプリの一時停止の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「情報提供サービス」の一部メニューの一時停止が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kyoukaikenpo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kyoukaikenpo/diff_84fa2e2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023022225/https://www.kyoukaikenpo.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
