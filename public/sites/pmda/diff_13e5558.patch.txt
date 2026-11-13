@@ -1,0 +1,132 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index e05cb88e0..a08302fa8 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2223,30 +2223,42 @@
+ 							<p>
+ 								<span>
+ 									<strong>
+-										医療機器WEB申請プラットフォーム（DWAP）の運用停止について
++										1 【重要】メールシステムの障害の伴うお問い合わせ等について（11月13日（金）15:30）
++										<br>
+ 									</strong>
++									現在発生しているMicrosoft Outlookの障害により、当機構へのお問い合わせ等に影響が生じる可能性があります。
+ 									<br>
+-									令和8年10月23日（金）から10月26日（月）までの間、PMDAのDWAPへの不正アクセスが確認されたことから、システム上の脆弱性への対応のため、当面の間運用を停止いたします。 再開時期は現時点では未定ですが、復旧まで相当の時間を要する見込みです。再開時期が決まり次第、ホームページでお知らせします。
+-									<br>
+-									なお、現時点において、不正アクセスと考えられる痕跡は確認されましたが、情報の漏洩・既存データの改ざん・破壊は認められませんでした。
+-									<br>
+-									平素からDWAPをご利用いただいている皆様におかれては、ご迷惑をおかけいたしますが、何卒ご理解・ご協力の程よろしくお願い申し上げます。
+-									<br>
+-									DWAP運用停止中の申請手続きについては以下をご参照ください。
+-									<br>
+-									<br>
+-									【新規の承認申請・届出】
+-									<br>
+-									・申請書・届書の作成は厚生労働省の提供する「FD申請ソフト」をご利用ください。
++									当該障害の影響があった場合は、状況を踏まえ、柔軟に対応いたします。
+ 									<br>
+-									https://web.fd-shinsei.mhlw.go.jp/
+-									<br>
+-									<br>
+-									【申請・届出中の資料の差換え】
+-									<br>
+-									・手続きが決定次第、お知らせいたします。
++									各手続きのメール以外の代替手段等が決定次第、随時お知らせいたします。
+ 								</span>
+ 							</p>
++							<hr>
++							<strong>
++								2 医療機器WEB申請プラットフォーム（DWAP）の運用停止について
++							</strong>
++							<br>
++							令和8年10月23日（金）から10月26日（月）までの間、PMDAのDWAPへの不正アクセスが確認されたことから、システム上の脆弱性への対応のため、当面の間運用を停止いたします。 再開時期は現時点では未定ですが、復旧まで相当の時間を要する見込みです。再開時期が決まり次第、ホームページでお知らせします。
++							<br>
++							なお、現時点において、不正アクセスと考えられる痕跡は確認されましたが、情報の漏洩・既存データの改ざん・破壊は認められませんでした。
++							<br>
++							平素からDWAPをご利用いただいている皆様におかれては、ご迷惑をおかけいたしますが、何卒ご理解・ご協力の程よろしくお願い申し上げます。
++							<br>
++							DWAP運用停止中の申請手続きについては以下をご参照ください。
++							<br>
++							<br>
++							【新規の承認申請・届出】
++							<br>
++							・申請書・届書の作成は厚生労働省の提供する「FD申請ソフト」をご利用ください。
++							<br>
++							https://web.fd-shinsei.mhlw.go.jp/
++							<br>
++							<br>
++							【申請・届出中の資料の差換え】
++							<br>
++							・手続きが決定次第、お知らせいたします。
++							<p>
++							</p>
+ 						</div>
+ 					</div>
+ 				</div>
+@@ -2370,6 +2382,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年11月13日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/rs-std-jp/standards-development/guidance-guideline/0006.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2650,19 +2678,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/int-activities/training-center/0005.html" rel="noopener noreferrer">
+-												<p>
+-													2026年11月2日
+-												</p>
+-												<p>
+-													国際
+-												</p>
+-												<p>
+-													PMDA-ATC ラーニングビデオを更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2882,6 +2897,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年11月13日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/0371.html" rel="noopener noreferrer">
+ 												<p>

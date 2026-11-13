@@ -1,0 +1,165 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index e285d706f..01bfbc1c9 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1478,13 +1478,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="三重作動薬で膝OA合併肥満例の疼痛軽減" src="https://asset.mtweb.jp/media/2026/11/13092539/ChatGPT-Image-20261113_OAxObesity.jpg">
++																<img alt="スティッフパーソン症候群にCAR-T単回投与が奏効" src="https://asset.mtweb.jp/media/2026/11/11184008/ChatGPT-Image-20261111_SPSxCAR-T.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621511" rel="noopener noreferrer">
+-																			三重作動薬で膝OA合併肥満例の疼痛軽減
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621548" rel="noopener noreferrer">
++																			スティッフパーソン症候群にCAR-T単回投与が奏効
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1527,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="高用量EPAで肝転移切除後の大腸がん患者の生存率が改善？" src="https://asset.mtweb.jp/media/2026/11/12183222/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8812%E6%97%A5%E9%85%8D%E4%BF%A11.jpg">
++																<img alt="ダロルタミド併用で前立腺がんの転移・死亡リスク58％減" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621654" rel="noopener noreferrer">
+-																			高用量EPAで肝転移切除後の大腸がん患者の生存率が改善？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621488" rel="noopener noreferrer">
++																			ダロルタミド併用で前立腺がんの転移・死亡リスク58％減
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1576,20 +1576,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="アトピーへのデュピルマブ、効果不十分は4％" src="https://asset.mtweb.jp/media/2026/11/10161747/ChatGPT-Image-20261110_Dupilumab-in-AD.jpg">
++																<img alt="三重作動薬で膝OA合併肥満例の疼痛軽減" src="https://asset.mtweb.jp/media/2026/11/13092539/ChatGPT-Image-20261113_OAxObesity.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621361" rel="noopener noreferrer">
+-																			アトピーへのデュピルマブ、効果不十分は4％
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621511" rel="noopener noreferrer">
++																			三重作動薬で膝OA合併肥満例の疼痛軽減
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-12
++																			2026-11-13
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1625,20 +1625,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="新しい不眠症治療薬、睡眠麻痺や鮮明な悪夢の副作用も" src="https://asset.mtweb.jp/media/2026/11/12182209/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8812%E6%97%A5%E9%85%8D%E4%BF%A13.jpg">
++																<img alt="高用量EPAで肝転移切除後の大腸がん患者の生存率が改善？" src="https://asset.mtweb.jp/media/2026/11/12183222/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8812%E6%97%A5%E9%85%8D%E4%BF%A11.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621649" rel="noopener noreferrer">
+-																			新しい不眠症治療薬、睡眠麻痺や鮮明な悪夢の副作用も
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621654" rel="noopener noreferrer">
++																			高用量EPAで肝転移切除後の大腸がん患者の生存率が改善？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-12
++																			2026-11-13
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1674,13 +1674,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="妊娠糖尿病の体重増加目標をBMI別に新策定" src="https://asset.mtweb.jp/media/2026/10/21092908/25_Teigen_seimei.jpg">
++																<img alt="アトピーへのデュピルマブ、効果不十分は4％" src="https://asset.mtweb.jp/media/2026/11/10161747/ChatGPT-Image-20261110_Dupilumab-in-AD.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621571" rel="noopener noreferrer">
+-																			妊娠糖尿病の体重増加目標をBMI別に新策定
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621361" rel="noopener noreferrer">
++																			アトピーへのデュピルマブ、効果不十分は4％
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1723,13 +1723,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="小児にも使用可、国内初の補体阻害薬ペグセタコプラン登場" src="https://asset.mtweb.jp/media/2026/11/10181648/70573_fig02.jpg">
++																<img alt="新しい不眠症治療薬、睡眠麻痺や鮮明な悪夢の副作用も" src="https://asset.mtweb.jp/media/2026/11/12182209/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8812%E6%97%A5%E9%85%8D%E4%BF%A13.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621283" rel="noopener noreferrer">
+-																			小児にも使用可、国内初の補体阻害薬ペグセタコプラン登場
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621649" rel="noopener noreferrer">
++																			新しい不眠症治療薬、睡眠麻痺や鮮明な悪夢の副作用も
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1772,13 +1772,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="安定冠動脈疾患へのPCI追加、25年でも死亡・MI減らず" src="https://asset.mtweb.jp/media/2026/11/11114808/COURAGE_25yrs_TOP.jpg">
++																<img alt="妊娠糖尿病の体重増加目標をBMI別に新策定" src="https://asset.mtweb.jp/media/2026/10/21092908/25_Teigen_seimei.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621470" rel="noopener noreferrer">
+-																			安定冠動脈疾患へのPCI追加、25年でも死亡・MI減らず
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621571" rel="noopener noreferrer">
++																			妊娠糖尿病の体重増加目標をBMI別に新策定
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1869,10 +1869,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									20
++																									21
+ 																								</span>
+ 																								<span>
+-																									20件「いいね！」されています
++																									21件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1920,10 +1920,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									23
++																									24
+ 																								</span>
+ 																								<span>
+-																									23件「いいね！」されています
++																									24件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

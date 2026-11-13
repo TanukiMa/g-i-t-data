@@ -1,0 +1,276 @@
+diff --git a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+index a67013435..1f9a0b50c 100644
+--- a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
++++ b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+@@ -765,6 +765,10 @@
+ 							</h2>
+ 							<ul>
+ 								<p>
++									<a href="/kinki/newpage_01373.html" rel="noopener noreferrer">
++										Microsoft 365で発生しているシステム障害の影響について
++									</a>
++									<br>
+ 									<a href="https://kouseikyoku.mhlw.go.jp/kinki/newpage_01331.html" rel="noopener noreferrer">
+ 										保険医療機関・保険薬局等の皆様へ（窓口、電話でのご相談及びご照会に係る受付時間が変更になります。）
+ 									</a>
+@@ -860,72 +864,73 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kinki/gyomu/gyomu/hoken_kikan/kijun_jurijoukyou.html" rel="noopener noreferrer">
++										<a href="/kinki/newpage_01373.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月30日
++													2026年11月13日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」をご確認ください。
++													Microsoft 365で発生しているシステム障害の影響について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/iryo_shido/080930_kijyun_keikasochi.html" rel="noopener noreferrer">
++										<a href="/kinki/gyomu/gyomu/hoken_kikan/kijun_jurijoukyou.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月25日
++													2026年10月30日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															医療機関等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「令和8年9月30日に経過措置の期限が到来する施設基準に係る届出について」のページを公開しました
++													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」をご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/iryo_shido/26kaitei-shoshin-gairai.html" rel="noopener noreferrer">
++										<a href="/kinki/iryo_shido/080930_kijyun_keikasochi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月15日
++													2026年9月25日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															その他
++															<img alt="重要" src="/common/img/icn_important.svg">
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													紹介割合（紹介率）及び逆紹介割合（逆紹介率）の報告が必要です。
++													「令和8年9月30日に経過措置の期限が到来する施設基準に係る届出について」のページを公開しました
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/iryo_shido/26kaitei-daketsuritsu.html" rel="noopener noreferrer">
++										<a href="/kinki/iryo_shido/26kaitei-shoshin-gairai.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年9月15日
+@@ -933,7 +938,6 @@
+ 												<em>
+ 													<span>
+ 														<span>
+-															<img alt="重要" src="/common/img/icn_important.svg">
+ 															その他
+ 														</span>
+ 													</span>
+@@ -941,29 +945,29 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年11月30日までに妥結率等に係る報告が必要です。
++													紹介割合（紹介率）及び逆紹介割合（逆紹介率）の報告が必要です。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/shinsei/shido_kansa/shitei_kijun/baseup-oshirase.html" rel="noopener noreferrer">
++										<a href="/kinki/iryo_shido/26kaitei-daketsuritsu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月1日
++													2026年9月15日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													ベースアップ評価料等に係る診療報酬請求について
++													令和8年11月30日までに妥結率等に係る報告が必要です。
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -992,72 +996,73 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kinki/newpage_00251.html" rel="noopener noreferrer">
++										<a href="/kinki/newpage_01373.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月12日
++													2026年11月13日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「はり師、きゅう師及びあん摩・マッサージ・指圧師に係る施術管理者の要件の追加について」を更新しました。
++													Microsoft 365で発生しているシステム障害の影響について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/newpage_01309.html" rel="noopener noreferrer">
++										<a href="/kinki/newpage_00251.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月10日
++													2026年11月12日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															採用情報
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													指導医療官の募集について
++													「はり師、きゅう師及びあん摩・マッサージ・指圧師に係る施術管理者の要件の追加について」を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/gyomu/bu_ka/kanri/documents/30hokenniryoukikanntounikannsurutuuti_00011.html" rel="noopener noreferrer">
++										<a href="/kinki/newpage_01309.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月6日
++													2026年11月10日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															その他
++															<img alt="重要" src="/common/img/icn_important.svg">
++															採用情報
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関等に関する通知（令和8年度）を更新しました。
++													指導医療官の募集について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/newpage_01310.html" rel="noopener noreferrer">
++										<a href="/kinki/gyomu/bu_ka/kanri/documents/30hokenniryoukikanntounikannsurutuuti_00011.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月6日
+@@ -1065,37 +1070,36 @@
+ 												<em>
+ 													<span>
+ 														<span>
+-															<img alt="重要" src="/common/img/icn_important.svg">
+-															採用情報
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													非常勤職員の公募について
++													保険医療機関等に関する通知（令和8年度）を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/gyomu/gyomu/hoken_kikan/shitei_jokyo.html" rel="noopener noreferrer">
++										<a href="/kinki/newpage_01310.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月5日
++													2026年11月6日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															採用情報
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険医療機関・保険薬局等の管内指定状況等について」を更新しました。
++													非常勤職員の公募について
+ 												</span>
+ 											</div>
+ 										</a>

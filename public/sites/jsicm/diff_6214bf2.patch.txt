@@ -1,0 +1,16 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index 51e72586e..19d0057f0 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -3004,11 +3004,6 @@
+ 								<img alt="JIPAD参加施設について" src="https://www.jsicm.org/img/banner/banner-s-jsicm_jipad.webp">
+ 							</a>
+ 						</div>
+-						<div>
+-							<a href="https://jams.med.or.jp/jams120th/" rel="noopener noreferrer">
+-								<img alt="" src="https://www.jsicm.org/img/banner/banner_small_fin.webp">
+-							</a>
+-						</div>
+ 						<div>
+ 							<a href="https://www.jsicm.org/meeting/others.html" rel="noopener noreferrer">
+ 								<img alt="" src="https://www.jsicm.org/img/banner/others_banner.webp">
