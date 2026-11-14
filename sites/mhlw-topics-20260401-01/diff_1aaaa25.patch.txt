@@ -1,0 +1,171 @@
+diff --git a/sites/mhlw-topics-20260401-01/jp/go/mhlw/topics-2026-04-tp20260401-01-html.html b/sites/mhlw-topics-20260401-01/jp/go/mhlw/topics-2026-04-tp20260401-01-html.html
+index 79ec0cbb..8c3ed672 100644
+--- a/sites/mhlw-topics-20260401-01/jp/go/mhlw/topics-2026-04-tp20260401-01-html.html
++++ b/sites/mhlw-topics-20260401-01/jp/go/mhlw/topics-2026-04-tp20260401-01-html.html
+@@ -179,10 +179,11 @@
+ 						<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000078916.html" rel="noopener noreferrer">
+ 							医療保険が適用される医薬品について
+ 						</a>
+-						> 薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月１日適用）
++						>
++薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月13日適用）
+ 					</p>
+ 					<h1>
+-						薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月１日適用）
++						薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月13日適用）
+ 					</h1>
+ 					<div>
+ 						<div>
+@@ -317,17 +318,17 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/topics/2026/04/xls/tp20261101-01_01.xlsx" rel="noopener noreferrer">
++										<a href="/topics/2026/04/xls/tp20261113-01_01.xlsx" rel="noopener noreferrer">
+ 											Excel
+ 										</a>
+-										[710KB]　※11月１日適用品目を反映
++										[713KB]　※11月13日収載品目を反映
+ 									</li>
+ 									<br>
+ 									<li>
+-										<a href="/topics/2026/04/dl/tp20261101-01_01.pdf" rel="noopener noreferrer">
++										<a href="/topics/2026/04/dl/tp20261113-01_01.pdf" rel="noopener noreferrer">
+ 											PDF
+ 										</a>
+-										[778KB]　※11月１日適用品目を反映
++										[781KB]　※11月13日収載品目を反映
+ 									</li>
+ 								</ul>
+ 								<div>
+@@ -339,17 +340,17 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/topics/2026/04/xls/tp20261101-01_02.xlsx" rel="noopener noreferrer">
++										<a href="/topics/2026/04/xls/tp20261113-01_02.xlsx" rel="noopener noreferrer">
+ 											Excel
+ 										</a>
+-										[350KB]　※11月１日適用品目を反映
++										[352KB]　※11月13日収載品目を反映
+ 									</li>
+ 									<br>
+ 									<li>
+-										<a href="/topics/2026/04/dl/tp20261101-01_02.pdf" rel="noopener noreferrer">
++										<a href="/topics/2026/04/dl/tp20261113-01_02.pdf" rel="noopener noreferrer">
+ 											PDF
+ 										</a>
+-										[497KB]　※11月１日適用品目を反映
++										[501KB]　※11月13日収載品目を反映
+ 									</li>
+ 								</ul>
+ 								<div>
+@@ -361,17 +362,17 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/topics/2026/04/xls/tp20261014-01_03.xlsx" rel="noopener noreferrer">
++										<a href="/topics/2026/04/xls/tp20261113-01_03.xlsx" rel="noopener noreferrer">
+ 											Excel
+ 										</a>
+-										[211KB]　※10月14日収載品目を反映
++										[212KB]　※11月13日収載品目を反映
+ 									</li>
+ 									<br>
+ 									<li>
+-										<a href="/topics/2026/04/dl/tp20261014-01_03.pdf" rel="noopener noreferrer">
++										<a href="/topics/2026/04/dl/tp20261113-01_03.pdf" rel="noopener noreferrer">
+ 											PDF
+ 										</a>
+-										[295KB]　※10月14日収載品目を反映
++										[296KB]　※11月13日収載品目を反映
+ 									</li>
+ 								</ul>
+ 								<div>
+@@ -427,17 +428,17 @@
+ 								</p>
+ 								<ul>
+ 									<li>
+-										<a href="/topics/2026/04/xls/tp20261014-01_05.xlsx" rel="noopener noreferrer">
++										<a href="/topics/2026/04/xls/tp20261113-01_05.xlsx" rel="noopener noreferrer">
+ 											Excel
+ 										</a>
+-										[722KB]　※10月14日収載品目を反映
++										[676KB]　※11月13日収載品目を反映
+ 									</li>
+ 									<br>
+ 									<li>
+-										<a href="/topics/2026/04/dl/tp20261014-01_05.pdf" rel="noopener noreferrer">
++										<a href="/topics/2026/04/dl/tp20261113-01_05.pdf" rel="noopener noreferrer">
+ 											PDF
+ 										</a>
+-										[839KB]　※10月14日収載品目を反映
++										[846KB]　※11月13日収載品目を反映
+ 									</li>
+ 								</ul>
+ 								<p>
+@@ -445,7 +446,7 @@
+ 								</p>
+ 								<br>
+ 								<p>
+-									【後発医薬品の出荷停止等を踏まえた診療報酬上の臨時的な取扱い及び令和６年度薬価改定を踏まえた診療報酬上の臨時的な取扱いについて】
++									【後発医薬品の出荷停止等を踏まえた診療報酬上の臨時的な取扱いについて】
+ 								</p>
+ 								<p>
+ 									診療報酬における加算等の算定対象から除外する品目の一覧はこちらをご覧ください。
+@@ -687,6 +688,31 @@
+ 												[65KB]
+ 											</td>
+ 										</tr>
++										<tr>
++											<td>
++												令和8年11月13日以降
++											</td>
++											<td>
++												<a href="/topics/2026/04/xls/tp20261113-01_05.xlsx" rel="noopener noreferrer">
++													Excel
++												</a>
++												[676KB]
++												<a href="/topics/2026/04/dl/tp20261113-01_05.pdf" rel="noopener noreferrer">
++													PDF
++												</a>
++												[846KB]
++											</td>
++											<td>
++												<a href="/topics/2026/04/xls/tp20261113-01_06.xlsx" rel="noopener noreferrer">
++													Excel
++												</a>
++												[37KB]
++												<a href="/topics/2026/04/dl/tp20261113-01_06.pdf" rel="noopener noreferrer">
++													PDF
++												</a>
++												[65KB]
++											</td>
++										</tr>
+ 									</tbody>
+ 								</table>
+ 								<br>
+@@ -758,6 +784,13 @@
+ 										[671KB]
+ （令和8年10月1日～令和8年10月13日の期間における算出にはこちら。）
+ 									</li>
++									<li>
++										<a href="/topics/2026/04/xls/tp20261014-01_05.xlsx" rel="noopener noreferrer">
++											Excel
++										</a>
++										[722KB]
++（令和8年10月14日～令和8年11月12日の期間における算出にはこちら。）
++									</li>
+ 								</ul>
+ 								<p>
+ 									【後発医薬品と同様に変更調剤が認められる基礎的医薬品等の一覧について】
+@@ -860,7 +893,8 @@
+ 						<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000078916.html" rel="noopener noreferrer">
+ 							医療保険が適用される医薬品について
+ 						</a>
+-						> 薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月１日適用）
++						>
++薬価基準収載品目リスト及び後発医薬品に関する情報について（令和８年11月13日適用）
+ 					</p>
+ 				</div>
+ 			</div>

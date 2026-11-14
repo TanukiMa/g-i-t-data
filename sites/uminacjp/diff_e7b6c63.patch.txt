@@ -1,0 +1,256 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 19754b16..466459b1 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -994,93 +994,207 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						国立研究開発法人国立循環器病研究センター心臓血管内科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000063146" rel="noopener noreferrer">
+-							心血管病における各種細菌叢・精神ストレスの役割解明を解明する前向き観察研究
++						埼玉医科大学国際医療センター：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000068452" rel="noopener noreferrer">
++							子宮頸部における異型細胞判定の適正化
+ 						</a>
+ 					</li>
+ 					<li>
+-						独立行政法人国立病院機構佐賀病院（臨床研究部）産婦人科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000068629" rel="noopener noreferrer">
+-							羊水細菌の抗菌薬感受性についての検討
++						東北大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071988" rel="noopener noreferrer">
++							MINT study
+ 						</a>
+ 					</li>
+ 					<li>
+-						Aizawa Hospital：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071592" rel="noopener noreferrer">
+-							橈骨遠位端骨折術後患者におけるPatient-Rated Wrist Evaluation（PRWE）のPatient Acceptable Symptom State（PASS）の検討
++						Tohoku University Hospital：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071989" rel="noopener noreferrer">
++							大型血管炎全国疫学調査
+ 						</a>
+ 					</li>
+ 					<li>
+-						川崎医科大学高齢者医療センター：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072150" rel="noopener noreferrer">
+-							地域包括ケア病棟園芸療法研究
++						公益財団法人がん研究会：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072009" rel="noopener noreferrer">
++							TIPS試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						広島大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072330" rel="noopener noreferrer">
+-							ドライサウナのリカバリー効果
++						東北大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071973" rel="noopener noreferrer">
++							TELOS-AF試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						名古屋市立大学医学研究科 生体情報・機能制御医学専攻　社会復帰医学講座 リハビリテーション医学分野：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072334" rel="noopener noreferrer">
+-							嚥下障害者家族の介護負担を減少するための介入研究
++						岡山大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072059" rel="noopener noreferrer">
++							セノマックウルトラ試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						岡田眼科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072439" rel="noopener noreferrer">
+-							眼鏡処方と緑内障の関連研究
++						群馬大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072095" rel="noopener noreferrer">
++							エンハーツ関連肺障害研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						広島大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072463" rel="noopener noreferrer">
+-							長距離走後のリカバリー
++						大阪大学眼科学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072122" rel="noopener noreferrer">
++							眼瞼けいれんこめかみ圧迫研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						岐阜大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071745" rel="noopener noreferrer">
+-							耳介形態と迷走神経刺激の反応性に関する研究
++						国立研究開発法人国立循環器病研究センター小児循環器内科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072139" rel="noopener noreferrer">
++							小児科・循環器内科による経カテーテル的肺動脈弁留置術のレジストリ研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京医科大学消化器内科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072571" rel="noopener noreferrer">
+-							SMI-UC研究
++						新光会村上記念病院栄養科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072147" rel="noopener noreferrer">
++							血液透析患者における透析日と非透析日の栄養摂取量、食事パターン研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						浜松医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072483" rel="noopener noreferrer">
+-							非小細胞肺がん患者における免疫チェックポイント阻害薬の臨床効果に関わる遺伝子多型の探索：前向き観察コホート研究
++						横浜市立大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072158" rel="noopener noreferrer">
++							救急救命士を対象としたチューブ誘導機能のないビデオ硬性挿管用喉頭鏡の使用可能性を確認するための観察研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						徳島大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072630" rel="noopener noreferrer">
+-							i-Lung の多施設実装可能性評価に関する前向き研究
++						佐賀大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072166" rel="noopener noreferrer">
++							ICUせん妄予防聴覚介入研究
+ 						</a>
+ 					</li>
+ 					<li>
+ 						奈良県立医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072434" rel="noopener noreferrer">
+-							COPD-AWARE研究
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072274" rel="noopener noreferrer">
++							ASCA-PD追跡観察研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						白百合女子大学人間総合学部：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071959" rel="noopener noreferrer">
+-							チックマネジャーRCT
++						東北工業大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072347" rel="noopener noreferrer">
++							こんにゃく抽出物睡眠試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						スリウィジャヤ大学医学部 / Faculty of Medicine, Universitas Sriwijaya：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072658" rel="noopener noreferrer">
+-							HE-PRO-IL6 Test
++						磐田市立総合病院：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072378" rel="noopener noreferrer">
++							レジオネラ肺炎の腎機能異常
++						</a>
++					</li>
++					<li>
++						群馬大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071926" rel="noopener noreferrer">
++							アナフィラキシーとMRGPRX2 -MRGPRX2変異とアナフィラキシーの調査-
++						</a>
++					</li>
++					<li>
++						慶應義塾大学Global Research Institute：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072421" rel="noopener noreferrer">
++							研究食品の摂取が健常成人の近方視機能に及ぼす影響の検討試験
++						</a>
++					</li>
++					<li>
++						東京科学大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072476" rel="noopener noreferrer">
++							Walk-Mate 3.0 TKA研究
++						</a>
++					</li>
++					<li>
++						昭和医科大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072484" rel="noopener noreferrer">
++							小麦アレルギーに対する経口免疫療法の維持期間を比較する研究
++						</a>
++					</li>
++					<li>
++						福岡大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072505" rel="noopener noreferrer">
++							運動と筋肉の脂質運搬機構
++						</a>
++					</li>
++					<li>
++						群馬大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072544" rel="noopener noreferrer">
++							長時間座位者に対するお腹を引き込む運動と腕の運動に関する研究
++						</a>
++					</li>
++					<li>
++						北里大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072412" rel="noopener noreferrer">
++							寛解期潰瘍性大腸炎における腸管ムチンと再燃の関連を調べる研究
++						</a>
++					</li>
++					<li>
++						東京女子医科大学八千代医療センター：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072565" rel="noopener noreferrer">
++							RECOG-MMD Study
++						</a>
++					</li>
++					<li>
++						国立大学法人　広島大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072592" rel="noopener noreferrer">
++							便秘症状のある女性を対象とした接触鍼に関する観察研究
++						</a>
++					</li>
++					<li>
++						東京大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072600" rel="noopener noreferrer">
++							ラケットスポーツ選手におけるスポーツ損傷予防プログラム
++						</a>
++					</li>
++					<li>
++						サトウ眼科クリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072625" rel="noopener noreferrer">
++							Eight-Chop吸引流量比較試験
++						</a>
++					</li>
++					<li>
++						東京家政大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072370" rel="noopener noreferrer">
++							不眠のある大学生に対するACT-IとCBT-Iのパイロット研究
++						</a>
++					</li>
++					<li>
++						特定非営利活動法人婦人科悪性腫瘍研究機構（JGOG）：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072635" rel="noopener noreferrer">
++							漿液性卵管上皮内癌の調査研究（JGOG3038 / EAGOT-OV-001）
++						</a>
++					</li>
++					<li>
++						順天堂大学医療看護学研究科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000069041" rel="noopener noreferrer">
++							子宮頸がん検診の受診勧奨のためのｗｅｂ教育システムの有効性の検証：無作為比較試験
++						</a>
++					</li>
++					<li>
++						株式会社メディカルシステムネットワーク なの花東日本 なの花薬局さつき店：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072590" rel="noopener noreferrer">
++							薬局薬剤師が血圧フォローシートを用いて行う家庭血圧支援の研究
++						</a>
++					</li>
++					<li>
++						佐久市立国保浅間総合病院糖尿病内科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072591" rel="noopener noreferrer">
++							健診からの糖尿病・境界型寛解研究
++						</a>
++					</li>
++					<li>
++						宮崎県立看護大学宮崎県立看護大学大学院　看護学研究科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072661" rel="noopener noreferrer">
++							助産師による妊娠37週以降の妊婦の軟産道熟化ケアが分娩転帰に及ぼす影響
++						</a>
++					</li>
++					<li>
++						札幌医科大学Department of Intensive Care Medicine：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072617" rel="noopener noreferrer">
++							PVループによるtidal derecruitment検証
++						</a>
++					</li>
++					<li>
++						大分大学医学部：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072659" rel="noopener noreferrer">
++							泉質別の温泉水の皮膚への効能評価試験
+ 						</a>
+ 					</li>
+ 				</ul>

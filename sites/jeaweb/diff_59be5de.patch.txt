@@ -1,0 +1,77 @@
+diff --git a/sites/jeaweb/jp/jeaweb/index.html b/sites/jeaweb/jp/jeaweb/index.html
+index d3971bd6e..f6b002194 100644
+--- a/sites/jeaweb/jp/jeaweb/index.html
++++ b/sites/jeaweb/jp/jeaweb/index.html
+@@ -349,39 +349,39 @@
+ 							<article>
+ 								<h3>
+ 									<time>
+-										2026年10月13日
++										2026年10月17日
+ 									</time>
+ 									<span>
+-										セミナー
++										周知依頼
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2861" rel="noopener noreferrer">
+-										第45回（2026年度 第3回）DOHaD疫学セミナーのご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2866" rel="noopener noreferrer">
++										【日本学術会議】　公開シンポジウムのお知らせ
+ 									</a>
+ 								</h3>
+ 							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+-										2026年10月09日
++										2026年10月17日
+ 									</time>
+ 									<span>
+ 										募集
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2859" rel="noopener noreferrer">
+-										【乳の学術連合】  2027年度学術研究公募のご案内
++									<a href="https://ieaweb.org/richard-doll-prize-in-epidemiology/" rel="noopener noreferrer">
++										【IEA】 リチャード・ドール疫学賞 候補者募集のご案内(2026/11/30締切)
+ 									</a>
+ 								</h3>
+ 							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+-										2026年10月09日
++										2026年10月13日
+ 									</time>
+ 									<span>
+-										募集
++										セミナー
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2858" rel="noopener noreferrer">
+-										【AMED】令和９年度「ワクチン・新規モダリティ・治療薬等研究開発事業」募集のご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2861" rel="noopener noreferrer">
++										第45回（2026年度 第3回）DOHaD疫学セミナーのご案内
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -393,8 +393,8 @@
+ 									<span>
+ 										募集
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2857" rel="noopener noreferrer">
+-										「協会けんぽ委託研究事業」募集のご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2859" rel="noopener noreferrer">
++										【乳の学術連合】  2027年度学術研究公募のご案内
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -406,8 +406,8 @@
+ 									<span>
+ 										募集
+ 									</span>
+-									<a href="https://www.phrf.jp/aboutus/gaiyou_jyosei_oubo.php" rel="noopener noreferrer">
+-										「パブリックヘルス科学研究助成」公募のご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2858" rel="noopener noreferrer">
++										【AMED】令和９年度「ワクチン・新規モダリティ・治療薬等研究開発事業」募集のご案内
+ 									</a>
+ 								</h3>
+ 							</article>

@@ -1,0 +1,13 @@
+diff --git a/sites/jssmr/jp/jssmr/index.html b/sites/jssmr/jp/jssmr/index.html
+index 0538fef5..6828f023 100644
+--- a/sites/jssmr/jp/jssmr/index.html
++++ b/sites/jssmr/jp/jssmr/index.html
+@@ -271,7 +271,7 @@
+ 					<br>
+ 					<br>
+ 					<p>
+-						<a href="official/pg_meeting/soukai_68.html" rel="noopener noreferrer" title="Soukai_link">
++						<a href="official/pg_meeting/next_soukai.html" rel="noopener noreferrer" title="Soukai_link">
+ 							<img alt="Soukai_link" height="45" src="official/images/contentsTop/soukai_banner-2.jpg" width="100">
+ 						</a>
+ 					</p>

@@ -1,0 +1,46 @@
+diff --git a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+index 598eb8851..e157c267d 100644
+--- a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
++++ b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+@@ -909,10 +909,10 @@
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/iryo_shido/26kaitei-daketsuritsu.html" rel="noopener noreferrer">
++										<a href="/kinki/shinsei/shido_kansa/shitei_kijun/baseup-oshirase.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月15日
++													2026年9月1日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -925,16 +925,16 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年11月30日までに妥結率等に係る報告が必要です。
++													ベースアップ評価料等に係る診療報酬請求について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/shinsei/shido_kansa/shitei_kijun/baseup-oshirase.html" rel="noopener noreferrer">
++										<a href="/kinki/shinsei/shido_kansa/shitei_kijun/baseup_houkoku.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月1日
++													2026年8月7日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -947,7 +947,7 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													ベースアップ評価料等に係る診療報酬請求について
++													令和7年度賃金改善報告書及び令和8年度賃金改善中間報告書作成に係る説明資料及び手引き動画を公開しました。
+ 												</span>
+ 											</div>
+ 										</a>

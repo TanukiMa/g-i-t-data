@@ -1,0 +1,48 @@
+diff --git a/sites/shinryohoshu-download-menu/jp/go/mhlw/shinryohoshu/shinryohoshu-downloadMenu.html b/sites/shinryohoshu-download-menu/jp/go/mhlw/shinryohoshu/shinryohoshu-downloadMenu.html
+index fb7743cb..38ba802f 100644
+--- a/sites/shinryohoshu-download-menu/jp/go/mhlw/shinryohoshu/shinryohoshu-downloadMenu.html
++++ b/sites/shinryohoshu-download-menu/jp/go/mhlw/shinryohoshu/shinryohoshu-downloadMenu.html
+@@ -62,7 +62,7 @@
+ 								<br>
+ 								・
+ 								<a href="/shinryohoshu/file/spec/R08rec1.pdf" rel="noopener noreferrer">
+-									本編(870KB)
++									本編(875KB)
+ 								</a>
+ 								<br>
+ 								・
+@@ -506,13 +506,13 @@
+ 												<a href="/shinryohoshu/downloadMenu/yFile" rel="noopener noreferrer">
+ 													医薬品マスター
+ 												</a>
+-												（1.10MB）
++												（852KB）
+ 											</td>
+ 											<td align="right">
+-												19,286件
++												19,324件
+ 											</td>
+ 											<td>
+-												令和 8年10月13日
++												令和 8年11月12日
+ 											</td>
+ 											<td>
+ 												○
+@@ -589,7 +589,7 @@
+ 												4,509件
+ 											</td>
+ 											<td>
+-												令和 8年10月 1日
++												令和 8年11月12日
+ 											</td>
+ 											<td>
+ 												○
+@@ -614,7 +614,7 @@
+ 												<br>
+ 											</td>
+ 											<td>
+-												令和 8年 8月 7日
++												令和 8年11月12日
+ 											</td>
+ 											<td>
+ 												<img height="1" src="/shinryohoshu/img/dummy.gif" width="1">

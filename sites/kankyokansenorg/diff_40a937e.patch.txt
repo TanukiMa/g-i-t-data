@@ -1,0 +1,44 @@
+diff --git a/sites/kankyokansenorg/org/kankyokansen/index.html b/sites/kankyokansenorg/org/kankyokansen/index.html
+index 9d42797c..1eb49144 100644
+--- a/sites/kankyokansenorg/org/kankyokansen/index.html
++++ b/sites/kankyokansenorg/org/kankyokansen/index.html
+@@ -490,6 +490,19 @@
+ 									各種委員会からのお知らせ・ご報告等
+ 								</h2>
+ 								<div>
++									<div>
++										<span>
++											教育
++										</span>
++									</div>
++									<div>
++										<a href="https://www.kankyokansen.org/news/20261030/" rel="noopener noreferrer">
++											教育委員会主催 感染制御インストラクターコース 参加者募集のお知らせ
++										</a>
++										<span>
++											（2026年10月30日			）
++										</span>
++									</div>
+ 									<div>
+ 										<span>
+ 											教育
+@@ -607,19 +620,6 @@
+ 											（2026年4月10日							）
+ 										</span>
+ 									</div>
+-									<div>
+-										<span>
+-											教育
+-										</span>
+-									</div>
+-									<div>
+-										<a href="https://www.kankyokansen.org/news/20260317/" rel="noopener noreferrer">
+-											2026年 世界手指衛生の日を祝おう！オンラインセミナー開催のご案内
+-										</a>
+-										<span>
+-											（2026年3月17日							）
+-										</span>
+-									</div>
+ 								</div>
+ 							</div>
+ 							<div>

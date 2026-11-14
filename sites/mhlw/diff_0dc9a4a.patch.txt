@@ -1,0 +1,292 @@
+diff --git a/sites/mhlw/jp/go/mhlw/index.html b/sites/mhlw/jp/go/mhlw/index.html
+index 6f2126db1..0a72b347a 100644
+--- a/sites/mhlw/jp/go/mhlw/index.html
++++ b/sites/mhlw/jp/go/mhlw/index.html
+@@ -1445,45 +1445,45 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="https://www.mhlw.go.jp/topics/2026/10/tp1028-1.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月28日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	政策分野
++																	統計情報
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																民間競争入札実施事業　就労条件総合調査の実施状況について（令和７年度分）
++																労働災害発生状況
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/shinsei_boshu/choutatsujouhou/chotatu/e-wto-iken/newpage_10524.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76975.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月28日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	その他
++																	審議会等
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																労働基準行政及び職業安定行政関係相談業務に係るコールセンター及び説明会等受付サイト設置・運営・広報業務一式
++																第１回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76867.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76850.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月28日
+@@ -1496,45 +1496,45 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																令和８年度栄養関係功労者（食生活改善事業功労者・地区組織）厚生労働大臣表彰受賞者が決まりました
++																労働者派遣事業及び有料の職業紹介事業の許可を取り消しました
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/kaiken/daijin/0000194708_00982.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/topics/2026/10/tp1028-1.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月27日
++																2026年10月28日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	大臣会見等
++																	政策分野
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																令和８年１０月２７日付大臣会見概要
++																民間競争入札実施事業　就労条件総合調査の実施状況について（令和７年度分）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/iyaku/index.html" rel="noopener noreferrer">
++													<a href="/stf/shinsei_boshu/choutatsujouhou/chotatu/e-wto-iken/newpage_10524.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月27日
++																2026年10月28日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	政策分野
++																	その他
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																医薬品等安全性関連情報
++																労働基準行政及び職業安定行政関係相談業務に係るコールセンター及び説明会等受付サイト設置・運営・広報業務一式
+ 															</span>
+ 														</div>
+ 													</a>
+@@ -1570,7 +1570,7 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/newpage_76867.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76850.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月28日
+@@ -1583,16 +1583,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																令和８年度栄養関係功労者（食生活改善事業功労者・地区組織）厚生労働大臣表彰受賞者が決まりました
++																労働者派遣事業及び有料の職業紹介事業の許可を取り消しました
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76947.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76867.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月27日
++																2026年10月28日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1602,13 +1602,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																食品中の放射性物質の検査結果について（１５１８報）
++																令和８年度栄養関係功労者（食生活改善事業功労者・地区組織）厚生労働大臣表彰受賞者が決まりました
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/houdou/0000212707_00057.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76947.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月27日
+@@ -1621,13 +1621,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																危険ドラッグの成分３物質を新たに指定薬物に指定
++																食品中の放射性物質の検査結果について（１５１８報）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76693.html" rel="noopener noreferrer">
++													<a href="/stf/houdou/0000212707_00057.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月27日
+@@ -1640,16 +1640,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																技能実習法に基づく行政処分等を行いました
++																危険ドラッグの成分３物質を新たに指定薬物に指定
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76792.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76693.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月26日
++																2026年10月27日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1659,7 +1659,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																令和８年度第３回「団体等検定制度についての出張相談会」を開催します
++																技能実習法に基づく行政処分等を行いました
+ 															</span>
+ 														</div>
+ 													</a>
+@@ -1695,10 +1695,10 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/newpage_76910.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76975.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月27日
++																2026年10月28日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1708,13 +1708,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第５回）を開催します
++																第１回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76725.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76910.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月27日
+@@ -1727,13 +1727,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第272回社会保障審議会介護給付費分科会（Web会議）を開催します
++																「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第５回）を開催します
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76904.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76725.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月27日
+@@ -1746,16 +1746,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第１回国民年金第３号被保険者制度等に関する検討会（議事録）
++																第272回社会保障審議会介護給付費分科会（Web会議）を開催します
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76922.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76904.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月26日
++																2026年10月27日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1765,13 +1765,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第３回　令和８年度医師の働き方改革の推進等に関する検討会：開催案内
++																第１回国民年金第３号被保険者制度等に関する検討会（議事録）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76741.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76922.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月26日
+@@ -1784,7 +1784,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第4回　困難な問題を抱える女性への支援に関する検討会を開催いたします
++																第３回　令和８年度医師の働き方改革の推進等に関する検討会：開催案内
+ 															</span>
+ 														</div>
+ 													</a>

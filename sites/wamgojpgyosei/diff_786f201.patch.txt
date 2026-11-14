@@ -1,0 +1,108 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index 6877ec72..3d6e7826 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2048,6 +2048,18 @@
+ 															<div>
+ 																<table>
+ 																	<tbody>
++																		<tr>
++																			<td>
++																				<div>
++																					審議会
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=22997&amp;ct=010010020" rel="noopener noreferrer" title="第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）">
++																					第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）
++																				</a>
++																			</td>
++																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+@@ -2110,6 +2122,8 @@
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
++																				<div>
++																				</div>
+ 																				<div>
+ 																					高齢・介護
+ 																				</div>
+@@ -2120,20 +2134,6 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+-																		<tr>
+-																			<td>
+-																				<div>
+-																				</div>
+-																				<div>
+-																					審議会
+-																				</div>
+-																			</td>
+-																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22984&amp;ct=010010030" rel="noopener noreferrer" title="第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）">
+-																					第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）
+-																				</a>
+-																			</td>
+-																		</tr>
+ 																	</tbody>
+ 																</table>
+ 															</div>
+@@ -2164,8 +2164,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22984&amp;ct=010010030" rel="noopener noreferrer" title="第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）">
+-																					第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22997&amp;ct=010010020" rel="noopener noreferrer" title="第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）">
++																					第272回 社会保障審議会 介護給付費分科会（令和8年10月28日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2176,8 +2176,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22976&amp;ct=010010090" rel="noopener noreferrer" title="第160回 社会保障審議会 障害者部会（令和8年10月20日開催） ">
+-																					第160回 社会保障審議会 障害者部会（令和8年10月20日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22984&amp;ct=010010030" rel="noopener noreferrer" title="第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）">
++																					第137回 社会保障審議会 介護保険部会（令和8年10月26日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2188,8 +2188,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22960&amp;ct=010010020" rel="noopener noreferrer" title="第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）">
+-																					第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22976&amp;ct=010010090" rel="noopener noreferrer" title="第160回 社会保障審議会 障害者部会（令和8年10月20日開催） ">
++																					第160回 社会保障審議会 障害者部会（令和8年10月20日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2200,8 +2200,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22964&amp;ct=010010050" rel="noopener noreferrer" title="第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）">
+-																					第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22960&amp;ct=010010020" rel="noopener noreferrer" title="第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）">
++																					第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2212,8 +2212,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22958&amp;ct=010010020" rel="noopener noreferrer" title="第270回 社会保障審議会 介護給付費分科会（令和8年10月14日開催）">
+-																					第270回 社会保障審議会 介護給付費分科会（令和8年10月14日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22964&amp;ct=010010050" rel="noopener noreferrer" title="第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）">
++																					第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>

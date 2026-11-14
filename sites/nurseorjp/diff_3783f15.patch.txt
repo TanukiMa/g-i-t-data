@@ -1,0 +1,46 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index b6bcf64ea..0aef61f8a 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -477,6 +477,21 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/10/28
++					</span>
++					<span>
++						公開のお知らせ
++					</span>
++					<div>
++						<a href="https://li.nurse.or.jp/" rel="noopener noreferrer">
++							看護職賠償責任保険制度ホームページをリニューアルしました。
++						</a>
++						<div>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/10/27
+@@ -518,19 +533,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/10/23
+-					</span>
+-					<span>
+-						メンテナンスのお知らせ
+-					</span>
+-					<div>
+-						<a href="/news/baiseki_20261023.html" rel="noopener noreferrer">
+-							「看護職賠償責任保険制度ホームページ」メンテナンスのお知らせ
+-						</a>
+-					</div>
+-				</li>
+ 				<li>
+ 					<span>
+ 						2026/10/23

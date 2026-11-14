@@ -1,0 +1,18 @@
+diff --git a/sites/jphaorjp/jp/or/jpha/index.html b/sites/jphaorjp/jp/or/jpha/index.html
+index 8075e20fd..0eb387b06 100644
+--- a/sites/jphaorjp/jp/or/jpha/index.html
++++ b/sites/jphaorjp/jp/or/jpha/index.html
+@@ -361,6 +361,13 @@
+ 											</a>
+ 											<img src="images/ico_zip.gif">
+ 										</p>
++										<p>
++											追加配布資料は
++											<a href="sub/topics/2026/20261019_2.zip" rel="noopener noreferrer">
++												こちら
++											</a>
++											<img src="images/ico_zip.gif">
++										</p>
+ 									</td>
+ 								</tr>
+ 								<tr>

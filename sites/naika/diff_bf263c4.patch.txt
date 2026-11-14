@@ -1,0 +1,323 @@
+diff --git a/sites/naika/jp/or/naika/index.html b/sites/naika/jp/or/naika/index.html
+index 4ded13bbd..a64fec9d3 100644
+--- a/sites/naika/jp/or/naika/index.html
++++ b/sites/naika/jp/or/naika/index.html
+@@ -996,6 +996,23 @@
+ 								</div>
+ 								<div>
+ 									<ul>
++										<li>
++											<span>
++												2026年10月05日
++											</span>
++											<span>
++												<div>
++													<a href="/info-cat/related/" rel="noopener noreferrer">
++														関連学会・団体等
++													</a>
++												</div>
++											</span>
++											<span>
++												<a href="https://www.naika.or.jp/info/20250808/" rel="noopener noreferrer">
++													行政機関や関連団体などからの周知依頼について《新着はこちらから》
++												</a>
++											</span>
++										</li>
+ 										<li>
+ 											<span>
+ 												2026年10月01日
+@@ -1250,23 +1267,6 @@
+ 												</a>
+ 											</span>
+ 										</li>
+-										<li>
+-											<span>
+-												2026年07月03日
+-											</span>
+-											<span>
+-												<div>
+-													<a href="/info-cat/announcement/" rel="noopener noreferrer">
+-														日本内科学会
+-													</a>
+-												</div>
+-											</span>
+-											<span>
+-												<a href="https://www.naika.or.jp/info/shimin_2026_news/" rel="noopener noreferrer">
+-													「内科の日」市民公開講座2026　8月上旬頃よりオンデマンド配信を行います
+-												</a>
+-											</span>
+-										</li>
+ 									</ul>
+ 								</div>
+ 								<div>
+@@ -2121,7 +2121,7 @@
+ 										<ul>
+ 											<li>
+ 												<span>
+-													2026年07月23日
++													2026年10月05日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2131,14 +2131,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20260723/" rel="noopener noreferrer">
+-														「女性のヘルスケアに関するガイダンス（中高年編）」を策定しました
++													<a href="https://www.naika.or.jp/info/20250808/" rel="noopener noreferrer">
++														行政機関や関連団体などからの周知依頼について《新着はこちらから》
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2026年07月09日
++													2026年07月23日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2148,14 +2148,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20260709/" rel="noopener noreferrer">
+-														【意見募集：7/16(木)締切】日本学術会議憲章案
++													<a href="https://www.naika.or.jp/info/20260723/" rel="noopener noreferrer">
++														「女性のヘルスケアに関するガイダンス（中高年編）」を策定しました
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2026年07月01日
++													2026年07月09日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2165,14 +2165,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20260701/" rel="noopener noreferrer">
+-														「第32回日本医学会総会奨励賞2027」候補者推薦について
++													<a href="https://www.naika.or.jp/info/20260709/" rel="noopener noreferrer">
++														【意見募集：7/16(木)締切】日本学術会議憲章案
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2026年05月21日
++													2026年07月01日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2182,14 +2182,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20260521/" rel="noopener noreferrer">
+-														第32回日本医学会総会 参加登録のご案内
++													<a href="https://www.naika.or.jp/info/20260701/" rel="noopener noreferrer">
++														「第32回日本医学会総会奨励賞2027」候補者推薦について
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2026年04月03日
++													2026年05月21日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2199,14 +2199,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/%e8%a1%8c%e6%94%bf%e6%a9%9f%e9%96%a2%e3%82%84%e9%96%a2%e9%80%a3%e5%9b%a3%e4%bd%93%e3%81%aa%e3%81%a9%e3%81%8b%e3%82%89%e3%81%ae%e5%91%a8%e7%9f%a5%e4%be%9d%e9%a0%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-2/" rel="noopener noreferrer">
+-														行政機関や関連団体などからの周知依頼について《新着はこちらから》
++													<a href="https://www.naika.or.jp/info/20260521/" rel="noopener noreferrer">
++														第32回日本医学会総会 参加登録のご案内
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2026年03月31日
++													2025年12月18日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2216,14 +2216,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/%e8%a1%8c%e6%94%bf%e6%a9%9f%e9%96%a2%e3%82%84%e9%96%a2%e9%80%a3%e5%9b%a3%e4%bd%93%e3%81%aa%e3%81%a9%e3%81%8b%e3%82%89%e3%81%ae%e5%91%a8%e7%9f%a5%e4%be%9d%e9%a0%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/" rel="noopener noreferrer">
+-														行政機関や関連団体などからの周知依頼について《新着はこちらから》
++													<a href="https://www.naika.or.jp/info/20251218/" rel="noopener noreferrer">
++														2025年改訂 IgG4関連疾患包括診断基準（案）に関するパブリックコメントのお願い
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2025年12月18日
++													2025年03月18日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2233,14 +2233,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20251218/" rel="noopener noreferrer">
+-														2025年改訂 IgG4関連疾患包括診断基準（案）に関するパブリックコメントのお願い
++													<a href="https://www.naika.or.jp/info/20250318-2/" rel="noopener noreferrer">
++														【厚生労働省より】美容医療に関するアンケート調査へのご協力のお願い
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2025年08月08日
++													2025年01月28日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2250,14 +2250,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20250808/" rel="noopener noreferrer">
+-														行政機関や関連団体などからの周知依頼について《新着はこちらから》
++													<a href="https://www.naika.or.jp/info/20250128/" rel="noopener noreferrer">
++														【医療事故調査・支援センターより】提言第20号「血液検査パニック値に係る死亡事例の分析」説明会について
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2025年03月18日
++													2024年07月04日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2267,14 +2267,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20250318-2/" rel="noopener noreferrer">
+-														【厚生労働省より】美容医療に関するアンケート調査へのご協力のお願い
++													<a href="https://www.naika.or.jp/info/20240704/" rel="noopener noreferrer">
++														【生物科学学会連合より】「科学研究費助成事業の全体額増加に関する要望書」への署名について
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2025年01月28日
++													2024年04月05日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2284,14 +2284,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20250128/" rel="noopener noreferrer">
+-														【医療事故調査・支援センターより】提言第20号「血液検査パニック値に係る死亡事例の分析」説明会について
++													<a href="https://www.naika.or.jp/info/20240405-2/" rel="noopener noreferrer">
++														【厚生労働省より】2件の周知依頼について《詳細はこちらから》
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2024年07月04日
++													2024年04月03日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2301,14 +2301,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20240704/" rel="noopener noreferrer">
+-														【生物科学学会連合より】「科学研究費助成事業の全体額増加に関する要望書」への署名について
++													<a href="https://www.naika.or.jp/info/20240403/" rel="noopener noreferrer">
++														【厚生労働省より】4件の周知依頼について《詳細はこちらから》
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2024年05月31日
++													2024年04月01日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2318,14 +2318,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20240531/" rel="noopener noreferrer">
+-														行政機関や関連団体などからの周知依頼について《新着はこちらから》
++													<a href="https://www.naika.or.jp/info/20240401/" rel="noopener noreferrer">
++														【日本腎臓学会より】「紅麹コレステヘルプに関連した腎障害に関する調査研究」アンケート調査（中間報告）について
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2024年04月05日
++													2023年12月28日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2335,14 +2335,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20240405-2/" rel="noopener noreferrer">
++													<a href="https://www.naika.or.jp/info/20231228/" rel="noopener noreferrer">
+ 														【厚生労働省より】2件の周知依頼について《詳細はこちらから》
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2024年04月03日
++													2023年12月14日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2352,14 +2352,14 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20240403/" rel="noopener noreferrer">
+-														【厚生労働省より】4件の周知依頼について《詳細はこちらから》
++													<a href="https://www.naika.or.jp/info/20231214/" rel="noopener noreferrer">
++														【厚生労働省より】最新の周知依頼について《詳細はこちらから》
+ 													</a>
+ 												</span>
+ 											</li>
+ 											<li>
+ 												<span>
+-													2024年04月01日
++													2023年11月22日
+ 												</span>
+ 												<span>
+ 													<div>
+@@ -2369,8 +2369,8 @@
+ 													</div>
+ 												</span>
+ 												<span>
+-													<a href="https://www.naika.or.jp/info/20240401/" rel="noopener noreferrer">
+-														【日本腎臓学会より】「紅麹コレステヘルプに関連した腎障害に関する調査研究」アンケート調査（中間報告）について
++													<a href="https://www.naika.or.jp/info/20231122/" rel="noopener noreferrer">
++														日本版敗血症診療ガイドライン2024に関するパブリックコメント募集のお知らせ
+ 													</a>
+ 												</span>
+ 											</li>

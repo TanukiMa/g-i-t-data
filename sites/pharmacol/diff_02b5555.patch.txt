@@ -1,0 +1,44 @@
+diff --git a/sites/pharmacol/jp/or/pharmacol/index.html b/sites/pharmacol/jp/or/pharmacol/index.html
+index 4c9b4ffc7..0d00c31eb 100644
+--- a/sites/pharmacol/jp/or/pharmacol/index.html
++++ b/sites/pharmacol/jp/or/pharmacol/index.html
+@@ -878,6 +878,19 @@
+ 							お知らせ
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="https://pharmacol.or.jp/2026/11/post-79.html" rel="noopener noreferrer">
++									<span>
++										公募情報
++									</span>
++									<span>
++										2026年11月13日(金)
++									</span>
++									<p>
++										広島大学　大学院医系科学研究科　医系薬理学教授の公募について
++									</p>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://pharmacol.or.jp/2026/10/post-7.html" rel="noopener noreferrer">
+ 									<span>
+@@ -930,19 +943,6 @@
+ 									</p>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="https://pharmacol.or.jp/2026/10/award-2026.html" rel="noopener noreferrer">
+-									<span>
+-										事務局からのお知らせ
+-									</span>
+-									<span>
+-										2026年10月 2日(金)
+-									</span>
+-									<p>
+-										柳沢正史先生および本会賛助会員・中外製薬株式会社の研究者3名が2026年ラスカー賞を受賞
+-									</p>
+-								</a>
+-							</li>
+ 						</ul>
+ 						<div>
+ 							<a href="/information.html" rel="noopener noreferrer">

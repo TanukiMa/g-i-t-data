@@ -1,0 +1,39 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index baec29f9d..a3e042324 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1880,25 +1880,25 @@
+ 							2026/10/20
+ 						</dt>
+ 						<dd>
+-							<a href="/member_info/" rel="noopener noreferrer">
+-								よもやま情報館
++							<a href="/topics/admininfo/" rel="noopener noreferrer">
++								医療行政情報
+ 							</a>
+ 							<p>
+-								<a href="/member_info/column/" rel="noopener noreferrer">
+-									全日病会員からの寄稿コーナーを更新しました
++								<a href="/topics/admininfo/" rel="noopener noreferrer">
++									医療行政情報を1件更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/10/19
++							2026/10/20
+ 						</dt>
+ 						<dd>
+-							<a href="/topics/admininfo/" rel="noopener noreferrer">
+-								医療行政情報
++							<a href="/member_info/" rel="noopener noreferrer">
++								よもやま情報館
+ 							</a>
+ 							<p>
+-								<a href="/topics/admininfo/" rel="noopener noreferrer">
+-									医療行政情報を8件更新しました
++								<a href="/member_info/column/" rel="noopener noreferrer">
++									全日病会員からの寄稿コーナーを更新しました
+ 								</a>
+ 							</p>
+ 						</dd>

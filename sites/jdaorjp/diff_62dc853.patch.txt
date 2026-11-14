@@ -1,0 +1,16 @@
+diff --git a/sites/jdaorjp/jp/or/jda/index.html b/sites/jdaorjp/jp/or/jda/index.html
+index 5a9c2fad..8ed3329a 100644
+--- a/sites/jdaorjp/jp/or/jda/index.html
++++ b/sites/jdaorjp/jp/or/jda/index.html
+@@ -237,6 +237,11 @@
+ 		</header>
+ 		<div>
+ 			<div>
++				<div>
++					<a href="https://www.yobousan.net/20th_touji/index.html" rel="noopener noreferrer">
++						<img alt="よ坊さん20周年記念企画×東寺" src="/assets/images/top/20th_touji_banner.png">
++					</a>
++				</div>
+ 				<div>
+ 					<a href="/info/2026_01.html" rel="noopener noreferrer">
+ 						<img alt="世界口腔保健学術大会記念 第31回口腔保健シンポジウム" src="/assets/images/top/mv-37_v01.png">

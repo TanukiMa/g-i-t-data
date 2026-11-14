@@ -1,0 +1,13 @@
+diff --git a/sites/digitalgojppolicieshealth/jp/go/digital/policies-health.html b/sites/digitalgojppolicieshealth/jp/go/digital/policies-health.html
+index 02aceac6..39ee4021 100644
+--- a/sites/digitalgojppolicieshealth/jp/go/digital/policies-health.html
++++ b/sites/digitalgojppolicieshealth/jp/go/digital/policies-health.html
+@@ -4,7 +4,7 @@
+ 	<body>
+ 		<div>
+ 			<a href="#mainContainer" rel="noopener noreferrer">
+-				メインコンテンツに移動
++				本文へ移動
+ 			</a>
+ 		</div>
+ 		<header>

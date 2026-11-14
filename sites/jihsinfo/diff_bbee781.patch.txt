@@ -1,0 +1,78 @@
+diff --git a/sites/jihsinfo/jp/go/jihs/id-info/index.html b/sites/jihsinfo/jp/go/jihs/id-info/index.html
+index 6900e326..760ed55f 100644
+--- a/sites/jihsinfo/jp/go/jihs/id-info/index.html
++++ b/sites/jihsinfo/jp/go/jihs/id-info/index.html
+@@ -511,61 +511,61 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="./surveillance/idwr/diseases/measles/graph/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idss/target-diseases/influenza/antiviral-drug-resistance/2026/1109/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+-														2026年11月10日
++														2026年11月11日
+ 													</time>
+ 													<h3>
+-														「麻疹 発生動向調査」の記事を更新しました
++														「抗インフルエンザ薬耐性株サーベイランス 2026年11月11日」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idwr/diseases/rubella/graph/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/diseases/measles/graph/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年11月10日
+ 													</time>
+ 													<h3>
+-														「風疹 発生動向調査」の記事を更新しました
++														「麻疹 発生動向調査」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idwr/provisional/2026/44/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/diseases/rubella/graph/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年11月10日
+ 													</time>
+ 													<h3>
+-														「IDWR速報データ 2026年第44週」の記事を更新しました
++														「風疹 発生動向調査」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idwr/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/provisional/2026/44/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年11月10日
+ 													</time>
+ 													<h3>
+-														「感染症発生動向調査週報」の記事を更新しました
++														「IDWR速報データ 2026年第44週」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idwr/idwr/2026/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+-														2026年11月9日
++														2026年11月10日
+ 													</time>
+ 													<h3>
+-														「感染症発生動向調査週報ダウンロード2026年」の記事を更新しました
++														「感染症発生動向調査週報」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>

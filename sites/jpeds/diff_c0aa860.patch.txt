@@ -1,0 +1,90 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 1e9f6b91d..6545cd09a 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,23 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/27
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
++												学会の活動
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159917.html" rel="noopener noreferrer">
++												委員会報告「重症心身障害児（者）・医療的ケア児（者）の診療経験に関する質問紙調査結果報告」について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/08/27
+-											</time>
+-										</td>
+-										<td>
+-											<a href="/members-only/members-news" rel="noopener noreferrer">
+-												会員限定のお知らせ
+-											</a>
+-										</td>
+-										<td>
+-											<a href="/members-only/" rel="noopener noreferrer">
+-												会員専用ホームページに新しいお知らせを掲載しました
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2049,6 +2049,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/27
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159917.html" rel="noopener noreferrer">
++												委員会報告「重症心身障害児（者）・医療的ケア児（者）の診療経験に関する質問紙調査結果報告」について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2121,18 +2133,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/24
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159564.html" rel="noopener noreferrer">
+-												委員会報告「在胎36週0日以降に出生した新生児・乳児におけるビタミンK 欠乏性出血症の予防法ならびに症例に関する全国調査」について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

@@ -1,0 +1,471 @@
+diff --git a/sites/gemmed/com/ghc-j/gemmed/index.html b/sites/gemmed/com/ghc-j/gemmed/index.html
+index 97a21a23..3c50ebac 100644
+--- a/sites/gemmed/com/ghc-j/gemmed/index.html
++++ b/sites/gemmed/com/ghc-j/gemmed/index.html
+@@ -299,23 +299,23 @@
+ 			</header>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77653" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-15-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77647" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-14-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77653" rel="noopener noreferrer">
+-						2026年10月までに累計3982件の医療事故が報告され、うち89.4％で院内調査完了—日本医療安全調査機構
++					<a href="https://gemmed.ghc-j.com/?p=77647" rel="noopener noreferrer">
++						一般病床・8月分も、コロナ禍以降に「在院日数短縮による医療の質向上」と「病床利用率向上による経営の質向上」両立！—病院報告
+ 					</a>
+ 				</h2>
+ 				<p>
+-					2026.11.11.（水）
++					2026.11.12.（木）
+ 				</p>
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=39" rel="noopener noreferrer">
+-								その他医療・介護政策
++							<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
++								医療提供体制改革
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -328,13 +328,13 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77659" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/40dcbe9d88c96297b642179a653642d8-3-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77693" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-17-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77659" rel="noopener noreferrer">
+-						病院病床数の適正化・入院機能の高度医療への重点化とともに、「診療所を含めた外来医療の集約化」を進めよ―財政審
++					<a href="https://gemmed.ghc-j.com/?p=77693" rel="noopener noreferrer">
++						「既存技術に比べて有用性が示されず、価格のみ高い新規薬剤・医療材料」の費用対効果評価による価格調整を厳格化へ—中医協
+ 					</a>
+ 				</h2>
+ 				<p>
+@@ -342,26 +342,11 @@
+ 				</p>
+ 				<div>
+ 					<ul>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-								2027介護報酬改定
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
+-								医療提供体制改革
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+ 								医療保険制度
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=38" rel="noopener noreferrer">
+-								社会保障制度改革
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+ 								ピックアップ
+@@ -372,23 +357,23 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77620" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/shussan-kentokai-P-261104-960x600.jpg" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77653" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-15-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77620" rel="noopener noreferrer">
+-						標準的な出産への新保険給付、「基本単価：大・加算：小」とすべきか、「基本単価：小・加算：大」とすべきか—出産検討会
++					<a href="https://gemmed.ghc-j.com/?p=77653" rel="noopener noreferrer">
++						2026年10月までに累計3982件の医療事故が報告され、うち89.4％で院内調査完了—日本医療安全調査機構
+ 					</a>
+ 				</h2>
+ 				<p>
+-					2026.11.10.（火）
++					2026.11.11.（水）
+ 				</p>
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-								医療保険制度
++							<a href="https://gemmed.ghc-j.com/?cat=39" rel="noopener noreferrer">
++								その他医療・介護政策
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -401,23 +386,28 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-3-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77659" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/40dcbe9d88c96297b642179a653642d8-3-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
+-						かぜやインフルなどの医療費適正化には「予防策」が重要、コロナ感染症の診療内容変化の可能性―健保連
++					<a href="https://gemmed.ghc-j.com/?p=77659" rel="noopener noreferrer">
++						病院病床数の適正化・入院機能の高度医療への重点化とともに、「診療所を含めた外来医療の集約化」を進めよ―財政審
+ 					</a>
+ 				</h2>
+ 				<p>
+-					2026.11.10.（火）
++					2026.11.11.（水）
+ 				</p>
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=42" rel="noopener noreferrer">
+-								新型コロナ対応
++							<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
++								2027介護報酬改定
++							</a>
++						</li>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
++								医療提供体制改革
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -426,8 +416,8 @@
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=59" rel="noopener noreferrer">
+-								健保連統計関連
++							<a href="https://gemmed.ghc-j.com/?cat=38" rel="noopener noreferrer">
++								社会保障制度改革
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -440,13 +430,13 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77607" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-9-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77620" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/shussan-kentokai-P-261104-960x600.jpg" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77607" rel="noopener noreferrer">
+-						中山間地等では「介護事業所の人員配置基準柔軟化」と「介護報酬の上乗せ評価」で介護保険サービス確保を図っては—社保審・介護給付費分科会
++					<a href="https://gemmed.ghc-j.com/?p=77620" rel="noopener noreferrer">
++						標準的な出産への新保険給付、「基本単価：大・加算：小」とすべきか、「基本単価：小・加算：大」とすべきか—出産検討会
+ 					</a>
+ 				</h2>
+ 				<p>
+@@ -455,8 +445,8 @@
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-								2027介護報酬改定
++							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++								医療保険制度
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -527,6 +517,35 @@
+ 			</h2>
+ 			<div>
+ 				<div>
++					<div>
++						<figure>
++							<a href="https://gemmed.ghc-j.com/?p=77647" rel="noopener noreferrer">
++								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-14-300x300.png" width="300">
++							</a>
++						</figure>
++						<h3>
++							<a href="https://gemmed.ghc-j.com/?p=77647" rel="noopener noreferrer">
++								一般病床・8月分も、コロナ禍以降に「在院日数短縮による医療の質向上」と「病床利用率向上による経営の質向上」両立！—病院報告
++							</a>
++						</h3>
++						<p>
++							2026.11.12.（木）
++						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
++										医療提供体制改革
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++										ピックアップ
++									</a>
++								</li>
++							</ul>
++						</div>
++					</div>
+ 					<div>
+ 						<figure>
+ 							<a href="https://gemmed.ghc-j.com/?p=77693" rel="noopener noreferrer">
+@@ -549,8 +568,8 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=6" rel="noopener noreferrer">
+-										GHCをウォッチ
++									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++										ピックアップ
+ 									</a>
+ 								</li>
+ 							</ul>
+@@ -886,35 +905,6 @@
+ 							</ul>
+ 						</div>
+ 					</div>
+-					<div>
+-						<figure>
+-							<a href="https://gemmed.ghc-j.com/?p=77518" rel="noopener noreferrer">
+-								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-4-300x300.png" width="300">
+-							</a>
+-						</figure>
+-						<h3>
+-							<a href="https://gemmed.ghc-j.com/?p=77518" rel="noopener noreferrer">
+-								マンジャロ皮下注等の痩身目的使用で「ケトーシス・ケトアシドーシス→救急搬送」事例が散発、適正使用を再要請！―PMDA
+-							</a>
+-						</h3>
+-						<p>
+-							2026.11.6.（金）
+-						</p>
+-						<div>
+-							<ul>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=39" rel="noopener noreferrer">
+-										その他医療・介護政策
+-									</a>
+-								</li>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-										ピックアップ
+-									</a>
+-								</li>
+-							</ul>
+-						</div>
+-					</div>
+ 				</div>
+ 			</div>
+ 			<div>
+@@ -951,23 +941,23 @@
+ 				</h2>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77653" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-15-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77647" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-14-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77653" rel="noopener noreferrer">
+-							2026年10月までに累計3982件の医療事故が報告され、うち89.4％で院内調査完了—日本医療安全調査機構
++						<a href="https://gemmed.ghc-j.com/?p=77647" rel="noopener noreferrer">
++							一般病床・8月分も、コロナ禍以降に「在院日数短縮による医療の質向上」と「病床利用率向上による経営の質向上」両立！—病院報告
+ 						</a>
+ 					</h3>
+ 					<p>
+-						2026.11.11.（水）
++						2026.11.12.（木）
+ 					</p>
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=39" rel="noopener noreferrer">
+-									その他医療・介護政策
++								<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
++									医療提供体制改革
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -980,13 +970,13 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77659" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/40dcbe9d88c96297b642179a653642d8-3-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77693" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-17-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77659" rel="noopener noreferrer">
+-							病院病床数の適正化・入院機能の高度医療への重点化とともに、「診療所を含めた外来医療の集約化」を進めよ―財政審
++						<a href="https://gemmed.ghc-j.com/?p=77693" rel="noopener noreferrer">
++							「既存技術に比べて有用性が示されず、価格のみ高い新規薬剤・医療材料」の費用対効果評価による価格調整を厳格化へ—中医協
+ 						</a>
+ 					</h3>
+ 					<p>
+@@ -994,26 +984,11 @@
+ 					</p>
+ 					<div>
+ 						<ul>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-									2027介護報酬改定
+-								</a>
+-							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
+-									医療提供体制改革
+-								</a>
+-							</li>
+ 							<li>
+ 								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+ 									医療保険制度
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=38" rel="noopener noreferrer">
+-									社会保障制度改革
+-								</a>
+-							</li>
+ 							<li>
+ 								<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+ 									ピックアップ
+@@ -1024,23 +999,23 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77620" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/shussan-kentokai-P-261104-960x600.jpg" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77653" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-15-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77620" rel="noopener noreferrer">
+-							標準的な出産への新保険給付、「基本単価：大・加算：小」とすべきか、「基本単価：小・加算：大」とすべきか—出産検討会
++						<a href="https://gemmed.ghc-j.com/?p=77653" rel="noopener noreferrer">
++							2026年10月までに累計3982件の医療事故が報告され、うち89.4％で院内調査完了—日本医療安全調査機構
+ 						</a>
+ 					</h3>
+ 					<p>
+-						2026.11.10.（火）
++						2026.11.11.（水）
+ 					</p>
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-									医療保険制度
++								<a href="https://gemmed.ghc-j.com/?cat=39" rel="noopener noreferrer">
++									その他医療・介護政策
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1053,23 +1028,28 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-3-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77659" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/40dcbe9d88c96297b642179a653642d8-3-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77530" rel="noopener noreferrer">
+-							かぜやインフルなどの医療費適正化には「予防策」が重要、コロナ感染症の診療内容変化の可能性―健保連
++						<a href="https://gemmed.ghc-j.com/?p=77659" rel="noopener noreferrer">
++							病院病床数の適正化・入院機能の高度医療への重点化とともに、「診療所を含めた外来医療の集約化」を進めよ―財政審
+ 						</a>
+ 					</h3>
+ 					<p>
+-						2026.11.10.（火）
++						2026.11.11.（水）
+ 					</p>
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=42" rel="noopener noreferrer">
+-									新型コロナ対応
++								<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
++									2027介護報酬改定
++								</a>
++							</li>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
++									医療提供体制改革
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1078,8 +1058,8 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=59" rel="noopener noreferrer">
+-									健保連統計関連
++								<a href="https://gemmed.ghc-j.com/?cat=38" rel="noopener noreferrer">
++									社会保障制度改革
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1092,13 +1072,13 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77607" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-9-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77620" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/shussan-kentokai-P-261104-960x600.jpg" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77607" rel="noopener noreferrer">
+-							中山間地等では「介護事業所の人員配置基準柔軟化」と「介護報酬の上乗せ評価」で介護保険サービス確保を図っては—社保審・介護給付費分科会
++						<a href="https://gemmed.ghc-j.com/?p=77620" rel="noopener noreferrer">
++							標準的な出産への新保険給付、「基本単価：大・加算：小」とすべきか、「基本単価：小・加算：大」とすべきか—出産検討会
+ 						</a>
+ 					</h3>
+ 					<p>
+@@ -1107,8 +1087,8 @@
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-									2027介護報酬改定
++								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
++									医療保険制度
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1178,7 +1158,7 @@
+ 							<p>
+ 								2019.9.5.（木）
+ 								<span>
+-									19,200
++									18,900
+ 								</span>
+ 								ビュー
+ 							</p>
+@@ -1263,7 +1243,7 @@
+ 							<p>
+ 								2026.11.6.（金）
+ 								<span>
+-									9,800
++									10,000
+ 								</span>
+ 								ビュー
+ 							</p>

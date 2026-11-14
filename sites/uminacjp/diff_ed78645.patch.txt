@@ -1,0 +1,104 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 70e69c29..d218aa66 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -994,69 +994,63 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						CPCC株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000067799" rel="noopener noreferrer">
+-							試験食品の単回摂取が心理効果に与える影響についての検証試験
++						東京農業大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072731" rel="noopener noreferrer">
++							香りのある絵の具づくりの心理的効果
+ 						</a>
+ 					</li>
+ 					<li>
+-						KO CLINIC & Lab：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072689" rel="noopener noreferrer">
+-							尋常性ざ瘡患者に対するバクチオール配合美容液の比較試験
++						北海道大学保健科学研究院：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072732" rel="noopener noreferrer">
++							肝門部胆管癌に対する拡大切除例の短期長期成績
+ 						</a>
+ 					</li>
+ 					<li>
+-						コロプラスト株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072681" rel="noopener noreferrer">
+-							ストーマ保有者における装具貼付期間の実態の把握とその意思決定要因の検討
++						広島大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072733" rel="noopener noreferrer">
++							骨強化プログラムが高齢者の姿勢と歩行指標に及ぼす効果
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072248" rel="noopener noreferrer">
+-							乳児おむつ部位へのベビークリームの有用性研究
++						広島大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072734" rel="noopener noreferrer">
++							海洋深層水「ハサル液」の飲用が高齢女性の血管柔軟性と微小循環に及ぼす効果
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社ユーフォリア：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072721" rel="noopener noreferrer">
+-							暑熱環境下での身体活動時における試験食品摂取の深部体温上昇抑制効果の検証
++						信州大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072735" rel="noopener noreferrer">
++							CareLabo医学生研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社 明治：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072702" rel="noopener noreferrer">
+-							既存検体を用いたヨーグルトの摂取と唾液中および血漿中抗体の抗原結合親和性に関する研究_2023年検体
+-						</a>
+-					</li>
+-					<li>
+-						株式会社 明治：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072716" rel="noopener noreferrer">
+-							既存検体を用いたヨーグルトの摂取と唾液中および血漿中抗体の抗原結合親和性に関する研究_2024年検体
++						CPCC株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000067799" rel="noopener noreferrer">
++							試験食品の単回摂取が心理効果に与える影響についての検証試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京女子医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072460" rel="noopener noreferrer">
+-							重症喘息の治療反応性および臨床的寛解に関連する遺伝的背景の研究
++						KO CLINIC & Lab：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072689" rel="noopener noreferrer">
++							尋常性ざ瘡患者に対するバクチオール配合美容液の比較試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						長崎大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071744" rel="noopener noreferrer">
+-							口腔機能低下症予防・改善に向けた口腔機能トレーニング事業
++						コロプラスト株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072681" rel="noopener noreferrer">
++							ストーマ保有者における装具貼付期間の実態の把握とその意思決定要因の検討
+ 						</a>
+ 					</li>
+ 					<li>
+-						埼玉県立大学理学療法学科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072725" rel="noopener noreferrer">
+-							自転車運動と反復腰椎伸展運動による運動誘発性痛覚抑制の比較
++						東京大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072248" rel="noopener noreferrer">
++							乳児おむつ部位へのベビークリームの有用性研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						石川病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072727" rel="noopener noreferrer">
+-							脳卒中患者の方向転換と歩行自立に関する研究
++						株式会社ユーフォリア：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072721" rel="noopener noreferrer">
++							暑熱環境下での身体活動時における試験食品摂取の深部体温上昇抑制効果の検証
+ 						</a>
+ 					</li>
+ 				</ul>

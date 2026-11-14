@@ -1,0 +1,427 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 9da51470b..ea6e7f723 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1417,7 +1417,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															10月27日の新着ニュース
++															10月28日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1434,20 +1434,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="Survodutide、日本人でも有意な体重減少" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
++																<img alt="イプタコパン、東アジア人IgA腎症でも腎機能低下を抑制" src="https://asset.mtweb.jp/media/2026/10/26171921/Iptacopan-in-East-Asian_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619413" rel="noopener noreferrer">
+-																			Survodutide、日本人でも有意な体重減少
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619339" rel="noopener noreferrer">
++																			イプタコパン、東アジア人IgA腎症でも腎機能低下を抑制
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-27
++																			2026-10-28
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1483,13 +1483,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="緑内障の視野障害、初回進行後10年で4割超が再発" src="https://asset.mtweb.jp/media/2026/10/26150507/ChatGPT-Image-20261023_Glaucoma.jpg">
++																<img alt="乳がん患者の妊娠・出産をどう支えるか" src="https://asset.mtweb.jp/media/2026/09/01111416/com_normalinterv_thum_w440h275-1.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619286" rel="noopener noreferrer">
+-																			緑内障の視野障害、初回進行後10年で4割超が再発
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
++																			乳がん患者の妊娠・出産をどう支えるか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1532,13 +1532,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="前立腺がんへのデノスマブ、長期投与で顎骨壊死が増加" src="https://asset.mtweb.jp/media/2026/10/26103402/ChatGPT-Image-20261023_Denosumab.jpg">
++																<img alt="自己免疫疾患の女性患者は精神疾患と誤診されやすい" src="https://asset.mtweb.jp/media/2026/10/27181355/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8826%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619202" rel="noopener noreferrer">
+-																			前立腺がんへのデノスマブ、長期投与で顎骨壊死が増加
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619592" rel="noopener noreferrer">
++																			自己免疫疾患の女性患者は精神疾患と誤診されやすい
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1581,13 +1581,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="プロポフォールでがん手術後の生存・再発改善せず" src="https://asset.mtweb.jp/media/2026/10/23161225/ChatGPT-Image-20261022_Propofol.jpg">
++																<img alt="インフル大幅減も前年同週の約2.7倍" src="https://asset.mtweb.jp/media/2026/07/14185544/com_weeklyreport_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619152" rel="noopener noreferrer">
+-																			プロポフォールでがん手術後の生存・再発改善せず
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619442" rel="noopener noreferrer">
++																			インフル大幅減も前年同週の約2.7倍
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1630,20 +1630,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ケトン体に新時代、「味方」にするための指針" src="https://asset.mtweb.jp/media/2026/06/16162232/com_dr_yamada_thum_w440h275.jpg">
++																<img alt="〔10pt進呈〕今回のレビュー結果を踏まえ、羽白誠氏の乾癬治療時のバイオ選択に関する考え方として最も適切なものは？【MT医療検定 No.143】（11/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
+-																			ケトン体に新時代、「味方」にするための指針
++																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619347" rel="noopener noreferrer">
++																			〔10pt進呈〕今回のレビュー結果を踏まえ、羽白誠氏の乾癬治療時のバイオ選択に関する考え方として最も適切なものは？【MT医療検定 No.143】（11/2まで）
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-26
++																			2026-10-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1679,20 +1679,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="『高尿酸血症・痛風の治療GL』改訂の要点は？" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
++																<img alt="Survodutide、日本人でも有意な体重減少" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619292" rel="noopener noreferrer">
+-																			『高尿酸血症・痛風の治療GL』改訂の要点は？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619413" rel="noopener noreferrer">
++																			Survodutide、日本人でも有意な体重減少
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-26
++																			2026-10-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1728,20 +1728,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="魚鱗癬患者の負担、症状より社会的障壁が深刻" src="https://asset.mtweb.jp/media/2026/10/26114245/ChatGPT-Image-20261023_Ichthyosis.jpg">
++																<img alt="緑内障の視野障害、初回進行後10年で4割超が再発" src="https://asset.mtweb.jp/media/2026/10/26150507/ChatGPT-Image-20261023_Glaucoma.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619221" rel="noopener noreferrer">
+-																			魚鱗癬患者の負担、症状より社会的障壁が深刻
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619286" rel="noopener noreferrer">
++																			緑内障の視野障害、初回進行後10年で4割超が再発
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-26
++																			2026-10-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1774,7 +1774,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															10月27日の新着連載
++															10月28日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1794,19 +1794,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
+-																					<img alt="ケトン体に新時代、「味方」にするための指針" src="/assets/images/rensai/doceye/thumbnails/山田悟（糖尿病）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
++																					<img alt="乳がん患者の妊娠・出産をどう支えるか" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-26
++																							2026-10-27
+ 																						</time>
+ 																						<h2>
+-																							ケトン体に新時代、「味方」にするための指針
++																							乳がん患者の妊娠・出産をどう支えるか
+ 																						</h2>
+ 																						<p>
+-																							日本でも持続モニタリングが導入されたら
++																							POSITIVE試験が変えた生殖医療との連携
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1815,20 +1815,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									6
++																									1
+ 																								</span>
+ 																								<span>
+-																									6件のコメントが投稿されています
++																									1件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									46
++																									13
+ 																								</span>
+ 																								<span>
+-																									46件「いいね！」されています
++																									13件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1845,19 +1845,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
+-																					<img alt="「輸液反応性」と「輸液忍容性」は別物" src="/assets/images/rensai/doceye/thumbnails/丹保亜希仁（救急医療）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619442" rel="noopener noreferrer">
++																					<img alt="インフル大幅減も前年同週の約2.7倍" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619442" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-24
++																							2026-10-27
+ 																						</time>
+ 																						<h2>
+-																							「輸液反応性」と「輸液忍容性」は別物
++																							インフル大幅減も前年同週の約2.7倍
+ 																						</h2>
+ 																						<p>
+-																							敗血症性ショックでの多施設RCT
++																							【感染症動向調査第42週：10月12～18日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1866,20 +1866,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									5
++																									2
+ 																								</span>
+ 																								<span>
+-																									5件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									47
++																									10
+ 																								</span>
+ 																								<span>
+-																									47件「いいね！」されています
++																									10件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1896,19 +1896,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
+-																					<img alt="スタチンは高齢者の「何」を守るのか？" src="/assets/images/rensai/doceye/thumbnails/小島淳（循環器）.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619347" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕今回のレビュー結果を踏まえ、羽白誠氏の乾癬治療時のバイオ選択に関する考え方として最も適切なものは？【MT医療検定 No.143】（11/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619347" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-23
++																							2026-10-27
+ 																						</time>
+ 																						<h2>
+-																							スタチンは高齢者の「何」を守るのか？
++																							〔10pt進呈〕今回のレビュー結果を踏まえ、羽白誠氏の乾癬治療時のバイオ選択に関する考え方として最も適切なものは？【MT医療検定 No.143】（11/2まで）
+ 																						</h2>
+ 																						<p>
+-																							自立して生活する70歳以上対象のSTAREE試験
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1917,20 +1916,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									8
++																									0
+ 																								</span>
+ 																								<span>
+-																									8件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									60
++																									11
+ 																								</span>
+ 																								<span>
+-																									60件「いいね！」されています
++																									11件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1947,19 +1946,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
+-																					<img alt="処方時に「有効性は不確実」と伝えられますか" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
++																					<img alt="ケトン体に新時代、「味方」にするための指針" src="/assets/images/rensai/doceye/thumbnails/山田悟（糖尿病）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618785" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-23
++																							2026-10-26
+ 																						</time>
+ 																						<h2>
+-																							処方時に「有効性は不確実」と伝えられますか
++																							ケトン体に新時代、「味方」にするための指針
+ 																						</h2>
+ 																						<p>
+-																							伝達後の同意率を検討したRCTから
++																							日本でも持続モニタリングが導入されたら
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1968,20 +1967,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									6
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									6件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									40
++																									50
+ 																								</span>
+ 																								<span>
+-																									40件「いいね！」されています
++																									50件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1998,19 +1997,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
+-																					<img alt="人工関節とPRP療法は二者択一ではない" src="/assets/images/rensai/doceye/thumbnails/齋田良知（整形外科）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
++																					<img alt="「輸液反応性」と「輸液忍容性」は別物" src="/assets/images/rensai/doceye/thumbnails/丹保亜希仁（救急医療）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618652" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-22
++																							2026-10-24
+ 																						</time>
+ 																						<h2>
+-																							人工関節とPRP療法は二者択一ではない
++																							「輸液反応性」と「輸液忍容性」は別物
+ 																						</h2>
+ 																						<p>
+-																							最新RCTと国際コンセンサスから見えた「膝OA治療の次の課題」
++																							敗血症性ショックでの多施設RCT
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2019,20 +2018,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									5
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									5件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									36
++																									50
+ 																								</span>
+ 																								<span>
+-																									36件「いいね！」されています
++																									50件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

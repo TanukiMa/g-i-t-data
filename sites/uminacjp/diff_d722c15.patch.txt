@@ -1,0 +1,28 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index f9f425e8e..772140f25 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -698,6 +698,11 @@
+ 						GENERAL（医学・医療系リンク集）
+ 					</h5>
+ 					<ul>
++						<li>
++							<a href="https://jna2027.umin.jp/" rel="noopener noreferrer">
++								第58回（2027年）日本看護学会学術集会
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://bunkan.umin.jp/" rel="noopener noreferrer">
+ 								第65回日本分娩監視研究会
+@@ -728,11 +733,6 @@
+ 								2026年度　医療事故調査・支援センター主催研修のご案内
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://plaza.umin.ac.jp/sssr52/" rel="noopener noreferrer">
+-								2026.8.29(土)-30(日)第52回皮膚かたち研究学会学術大会(川崎) 開催
+-							</a>
+-						</li>
+ 					</ul>
+ 					<h5>
+ 						Drug、Clinical Trial、Epidemiology、Statistics（医薬品、臨床試験、疫学、統計リンク集）

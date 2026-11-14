@@ -1,0 +1,402 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index cef8e762..e7b30410 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1461,7 +1461,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月11日の新着ニュース
++															11月12日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1478,20 +1478,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="退院後2週間の骨粗鬆症性骨折リスク1.8倍" src="https://asset.mtweb.jp/media/2026/11/10112747/%E7%97%85%E5%AE%A4%E3%81%A7%E8%85%B0%E3%82%92%E3%81%84%E3%81%9F%E3%82%8F%E3%82%8B%E9%AB%98%E9%BD%A2%E5%A5%B3%E6%80%A7.jpg">
++																<img alt="胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例" src="https://asset.mtweb.jp/media/2026/06/23100324/com_case_thum_w440h275-1.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621302" rel="noopener noreferrer">
+-																			退院後2週間の骨粗鬆症性骨折リスク1.8倍
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
++																			胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-11
++																			2026-11-12
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1527,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="Lp（a）特異的低下薬、心血管イベントを抑制せず" src="https://asset.mtweb.jp/media/2026/11/10185621/LpaHORIZON_TOP.jpg">
++																<img alt="OAB治療薬の認知症リスク、β3作動薬に優位性なし" src="https://asset.mtweb.jp/media/2026/11/11092959/ChatGPT-Image-20261110_OAB.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621417" rel="noopener noreferrer">
+-																			Lp（a）特異的低下薬、心血管イベントを抑制せず
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621423" rel="noopener noreferrer">
++																			OAB治療薬の認知症リスク、β3作動薬に優位性なし
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1576,13 +1576,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="妊娠中のコロナワクチン、児の神経発達に影響せず" src="https://asset.mtweb.jp/media/2026/11/09163013/ChatGPT-Image-20261109_mRNA-Vaccine.jpg">
++																<img alt="1分でできる！スナック運動とCGMで血糖管理" src="https://asset.mtweb.jp/media/2026/11/10164650/70572_photo01.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621198" rel="noopener noreferrer">
+-																			妊娠中のコロナワクチン、児の神経発達に影響せず
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621231" rel="noopener noreferrer">
++																			1分でできる！スナック運動とCGMで血糖管理
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1625,13 +1625,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="進展型小細胞肺がんへの初回維持療法、転移例でも改善" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
++																<img alt="退院後2週間の骨粗鬆症性骨折リスク1.8倍" src="https://asset.mtweb.jp/media/2026/11/10112747/%E7%97%85%E5%AE%A4%E3%81%A7%E8%85%B0%E3%82%92%E3%81%84%E3%81%9F%E3%82%8F%E3%82%8B%E9%AB%98%E9%BD%A2%E5%A5%B3%E6%80%A7.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621108" rel="noopener noreferrer">
+-																			進展型小細胞肺がんへの初回維持療法、転移例でも改善
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621302" rel="noopener noreferrer">
++																			退院後2週間の骨粗鬆症性骨折リスク1.8倍
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1674,13 +1674,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="アトピーへのウパダシチニブ、評価指標はPOEMが有力" src="https://asset.mtweb.jp/media/2026/11/09132407/ChatGPT-Image-20261109_Upadacitinib_POEM.jpg">
++																<img alt="Lp（a）特異的低下薬、心血管イベントを抑制せず" src="https://asset.mtweb.jp/media/2026/11/10185621/LpaHORIZON_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621162" rel="noopener noreferrer">
+-																			アトピーへのウパダシチニブ、評価指標はPOEMが有力
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621417" rel="noopener noreferrer">
++																			Lp（a）特異的低下薬、心血管イベントを抑制せず
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1723,20 +1723,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="肥満治療薬が男性ホルモンにも追い風？" src="https://asset.mtweb.jp/media/2026/10/27154151/deye_380_kobori.jpg">
++																<img alt="妊娠中のコロナワクチン、児の神経発達に影響せず" src="https://asset.mtweb.jp/media/2026/11/09163013/ChatGPT-Image-20261109_mRNA-Vaccine.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619489" rel="noopener noreferrer">
+-																			肥満治療薬が男性ホルモンにも追い風？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621198" rel="noopener noreferrer">
++																			妊娠中のコロナワクチン、児の神経発達に影響せず
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-10
++																			2026-11-11
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,20 +1772,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="〔10pt進呈〕NHS IIデータの解析結果を踏まえ、今野良氏が更年期女性の長期的な体重管理において特に重要とする考え方は？【MT医療検定 No.147】（11/16まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																<img alt="進展型小細胞肺がんへの初回維持療法、転移例でも改善" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621169" rel="noopener noreferrer">
+-																			〔10pt進呈〕NHS IIデータの解析結果を踏まえ、今野良氏が更年期女性の長期的な体重管理において特に重要とする考え方は？【MT医療検定 No.147】（11/16まで）
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621108" rel="noopener noreferrer">
++																			進展型小細胞肺がんへの初回維持療法、転移例でも改善
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-10
++																			2026-11-11
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1818,7 +1818,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月11日の新着連載
++															11月12日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1838,19 +1838,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619489" rel="noopener noreferrer">
+-																					<img alt="肥満治療薬が男性ホルモンにも追い風？" src="/assets/images/rensai/doceye/thumbnails/小堀善友（泌尿器）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
++																					<img alt="胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例" src="/assets/images/rensai/thumbnails/com_case_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619489" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-10
++																							2026-11-12
+ 																						</time>
+ 																						<h2>
+-																							肥満治療薬が男性ホルモンにも追い風？
++																							胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例
+ 																						</h2>
+ 																						<p>
+-																							勃起障害に対するMC4R作動薬
++																							難治性びまん性大細胞型B細胞リンパ腫の80歳代女性
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									2
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									43
++																									4
+ 																								</span>
+ 																								<span>
+-																									43件「いいね！」されています
++																									4件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1889,18 +1889,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621169" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕NHS IIデータの解析結果を踏まえ、今野良氏が更年期女性の長期的な体重管理において特に重要とする考え方は？【MT医療検定 No.147】（11/16まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619489" rel="noopener noreferrer">
++																					<img alt="肥満治療薬が男性ホルモンにも追い風？" src="/assets/images/rensai/doceye/thumbnails/小堀善友（泌尿器）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621169" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619489" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-10
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕NHS IIデータの解析結果を踏まえ、今野良氏が更年期女性の長期的な体重管理において特に重要とする考え方は？【MT医療検定 No.147】（11/16まで）
++																							肥満治療薬が男性ホルモンにも追い風？
+ 																						</h2>
+ 																						<p>
++																							勃起障害に対するMC4R作動薬
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1909,20 +1910,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									3
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									25
++																									44
+ 																								</span>
+ 																								<span>
+-																									25件「いいね！」されています
++																									44件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1939,19 +1940,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621305" rel="noopener noreferrer">
+-																					<img alt="インフル4万例目前、全国で注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621169" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕NHS IIデータの解析結果を踏まえ、今野良氏が更年期女性の長期的な体重管理において特に重要とする考え方は？【MT医療検定 No.147】（11/16まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621305" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621169" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-10
+ 																						</time>
+ 																						<h2>
+-																							インフル4万例目前、全国で注意報レベル
++																							〔10pt進呈〕NHS IIデータの解析結果を踏まえ、今野良氏が更年期女性の長期的な体重管理において特に重要とする考え方は？【MT医療検定 No.147】（11/16まで）
+ 																						</h2>
+ 																						<p>
+-																							【感染症動向調査第44週：10月26日～11月1日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1960,20 +1960,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									0
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									25
++																									26
+ 																								</span>
+ 																								<span>
+-																									25件「いいね！」されています
++																									26件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1990,19 +1990,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
+-																					<img alt="非肥満のMASLDは低リスクなのか？" src="/assets/images/rensai/doceye/thumbnails/米田正人（消化器内科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621305" rel="noopener noreferrer">
++																					<img alt="インフル4万例目前、全国で注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621305" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-10
+ 																						</time>
+ 																						<h2>
+-																							非肥満のMASLDは低リスクなのか？
++																							インフル4万例目前、全国で注意報レベル
+ 																						</h2>
+ 																						<p>
+-																							肝生検診断1.8万例の国際後ろ向き研究
++																							【感染症動向調査第44週：10月26日～11月1日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2021,10 +2021,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									24
++																									27
+ 																								</span>
+ 																								<span>
+-																									24件「いいね！」されています
++																									27件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2041,19 +2041,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619258" rel="noopener noreferrer">
+-																					<img alt="米国に学ぶ体位性頻脈症候群、どう診療する？" src="/assets/images/rensai/doceye/thumbnails/橋本洋一郎（脳卒中）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
++																					<img alt="非肥満のMASLDは低リスクなのか？" src="/assets/images/rensai/doceye/thumbnails/米田正人（消化器内科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619258" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-10
+ 																						</time>
+ 																						<h2>
+-																							米国に学ぶ体位性頻脈症候群、どう診療する？
++																							非肥満のMASLDは低リスクなのか？
+ 																						</h2>
+ 																						<p>
+-																							起立性調節障害との違いなどポイントを解説
++																							肝生検診断1.8万例の国際後ろ向き研究
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2062,20 +2062,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									6
++																									3
+ 																								</span>
+ 																								<span>
+-																									6件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									36
++																									27
+ 																								</span>
+ 																								<span>
+-																									36件「いいね！」されています
++																									27件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

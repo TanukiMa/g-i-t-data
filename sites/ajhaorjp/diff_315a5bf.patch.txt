@@ -1,0 +1,43 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index 6b28811a..b1be4b42 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1877,28 +1877,28 @@
+ 				<div>
+ 					<dl>
+ 						<dt>
+-							2026/11/09
++							2026/11/10
+ 						</dt>
+ 						<dd>
+-							<a href="/seminar/" rel="noopener noreferrer">
+-								教育研修
++							<a href="/topics/admininfo/" rel="noopener noreferrer">
++								医療行政情報
+ 							</a>
+ 							<p>
+-								<a href="/seminar/other/pdf/260501_3.pdf" rel="noopener noreferrer">
+-									2026年度　医療事故調査制度 適切な対応・事例検討研修会（札幌会場）開催のご案内
++								<a href="/topics/admininfo/" rel="noopener noreferrer">
++									医療行政情報を1件更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/11/06
++							2026/11/09
+ 						</dt>
+ 						<dd>
+-							<a href="/topics/admininfo/" rel="noopener noreferrer">
+-								医療行政情報
++							<a href="/seminar/" rel="noopener noreferrer">
++								教育研修
+ 							</a>
+ 							<p>
+-								<a href="/topics/admininfo/" rel="noopener noreferrer">
+-									医療行政情報を1件更新しました
++								<a href="/seminar/other/pdf/260501_3.pdf" rel="noopener noreferrer">
++									2026年度　医療事故調査制度 適切な対応・事例検討研修会（札幌会場）開催のご案内
+ 								</a>
+ 							</p>
+ 						</dd>

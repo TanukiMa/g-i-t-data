@@ -1,0 +1,66 @@
+diff --git a/sites/hpdx-kihonmasta-01/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-01-html.html b/sites/hpdx-kihonmasta-01/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-01-html.html
+index db0c4d968..b7de33451 100644
+--- a/sites/hpdx-kihonmasta-01/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-01-html.html
++++ b/sites/hpdx-kihonmasta-01/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-01-html.html
+@@ -155,7 +155,7 @@
+ 					</div>
+ 					<div>
+ 						<p>
+-							最終更新日：2026年10月1日
++							最終更新日：2026年10月13日
+ 						</p>
+ 					</div>
+ 					<div>
+@@ -181,11 +181,11 @@
+ 								</tr>
+ 								<tr>
+ 									<td>
+-										2026年10月1日
++										2026年10月13日
+ 									</td>
+ 									<td>
+ 										<img alt="ダウンロードのリンク　新規ウインドウで開きます。" height="1" src="/images/spacer.gif" width="1">
+-										<a href="kihonmasta_01.files/s_ALL20261001.zip" rel="noopener noreferrer">
++										<a href="kihonmasta_01.files/s_ALL20261013.zip" rel="noopener noreferrer">
+ 											全件ファイル(ZIP:577KB)
+ 										</a>
+ 									</td>
+@@ -222,6 +222,26 @@
+ 										お知らせ
+ 									</th>
+ 								</tr>
++								<tr>
++									<td>
++										2026年10月13日
++									</td>
++									<td>
++										<img alt="ダウンロードのリンク　新規ウインドウで開きます。" height="1" src="/images/spacer.gif" width="1">
++										<a href="kihonmasta_01.files/s_20261013.csv" rel="noopener noreferrer">
++											改定分ファイル(CSV:3KB)
++										</a>
++									</td>
++									<td>
++										8件
++									</td>
++									<td>
++										<img alt="ダウンロードのリンク　新規ウインドウで開きます。" height="1" src="/images/spacer.gif" width="1">
++										<a href="kihonmasta_01.files/r08kaitei_20261013_s.pdf" rel="noopener noreferrer">
++											改定分内容(PDF:62KB)
++										</a>
++									</td>
++								</tr>
+ 								<tr>
+ 									<td>
+ 										2026年10月1日
+@@ -727,6 +747,11 @@
+ 									平成24年　基本マスターに関する変更情報
+ 								</a>
+ 							</li>
++							<li>
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_061.html" rel="noopener noreferrer">
++									コメントマスター
++								</a>
++							</li>
+ 							<li>
+ 								<a href="/seikyushiharai/tensuhyo/kihonmasta/h28/index.html" rel="noopener noreferrer">
+ 									平成28年　基本マスター

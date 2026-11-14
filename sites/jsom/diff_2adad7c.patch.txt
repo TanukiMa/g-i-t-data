@@ -1,0 +1,15 @@
+diff --git a/sites/jsom/jp/or/jsom/index.html b/sites/jsom/jp/or/jsom/index.html
+index 76f5fa77d..35c8e957a 100644
+--- a/sites/jsom/jp/or/jsom/index.html
++++ b/sites/jsom/jp/or/jsom/index.html
+@@ -546,9 +546,7 @@
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="/private/meeting/76ondemand/" rel="noopener noreferrer">
+-								</a>
+-								<a href="/file/1dentouigaku.pdf" rel="noopener noreferrer">
++								<a href="/file/1dentouigaku_2610.pdf" rel="noopener noreferrer">
+ 									<img alt="日本の伝統医学" height="230" src="/img/index_cbanner_1dentouigaku.png" width="375">
+ 								</a>
+ 							</li>

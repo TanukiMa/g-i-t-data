@@ -1,0 +1,34 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 7c3b5669..603c737a 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -47,29 +47,6 @@
+ 			<div>
+ 				<div>
+ 					<div>
+-						<div>
+-							<div>
+-								<h4>
+-									【重要】PLAZAのPHP機能提供再開のお知らせ
+-									<span>
+-										(2026.10.22更新)
+-									</span>
+-								</h4>
+-								<div>
+-									<p>
+-										PLAZAにおけるPHP機能について、重大なセキュリティ上のリスクが確認されたために、一時停止しておりましたが、
+-										<br>
+-										安全性の確認および必要な対応を進め、PHPの提供を再開しましたことをお知らせいたします。
+-										<br>
+-										また、この度の対応に伴い、PHPを8.1系から8.4系にバージョンアップいたしました。
+-										<br>
+-										PHPをご利用の場合はページの表示や動作をご確認いただき、バージョンアップのご対応をお願いいたします。
+-										<br>
+-										ご利用の皆様にはご不便、ご迷惑をおかけしましたこと、深くお詫び申し上げます。
+-									</p>
+-								</div>
+-							</div>
+-						</div>
+ 						<div>
+ 							<div>
+ 								<h4>

@@ -1,0 +1,199 @@
+diff --git a/sites/jaotorjp/jp/or/jaot/index.html b/sites/jaotorjp/jp/or/jaot/index.html
+index a0519d5b..51a744d2 100644
+--- a/sites/jaotorjp/jp/or/jaot/index.html
++++ b/sites/jaotorjp/jp/or/jaot/index.html
+@@ -428,44 +428,44 @@
+ 										<div>
+ 											<div>
+ 												<div>
+-													<a href="https://www.jaot.or.jp/about/topics/detail/1397/" rel="noopener noreferrer">
++													<a href="/member/pickup/detail/1373/" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/banner/R8kumamoto.jpg">
++															<img alt="" src="/files/banner/JAOT_60th_Anniversary_Banner_Master.jpg">
+ 														</div>
+ 													</a>
+ 												</div>
+ 												<div>
+-													<a href="/member/from_assoc/detail/1419/" rel="noopener noreferrer">
++													<a href="https://www.jaot.or.jp/ot_alzheimer/" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/banner/R8_chiba.jpg">
++															<img alt="" src="/files/banner/ot_web-ah-02_200810.jpg">
+ 														</div>
+ 													</a>
+ 												</div>
+ 												<div>
+-													<a href="/member/pickup/detail/1373/" rel="noopener noreferrer">
++													<a href="https://www.jaot.or.jp/about/topics/detail/1397/" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/banner/JAOT_60th_Anniversary_Banner_Master.jpg">
++															<img alt="" src="/files/banner/R8kumamoto.jpg">
+ 														</div>
+ 													</a>
+ 												</div>
+ 												<div>
+-													<a href="/ot_alzheimer/" rel="noopener noreferrer">
++													<a href="/member/from_assoc/detail/1419/" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/banner/ot_web-ah-01_200810.jpg">
++															<img alt="" src="/files/banner/R8_chiba.jpg">
+ 														</div>
+ 													</a>
+ 												</div>
+ 												<div>
+-													<a href="https://www.jaot.or.jp/about/kihonrinen/" rel="noopener noreferrer">
++													<a href="https://jaot.ziku.events/e/Hn5WJWVd3M/v/entrance" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/banner/OT_KihonRinen_Bannar01.png">
++															<img alt="" src="/files/parts/Meta01_new.jpg">
+ 														</div>
+ 													</a>
+ 												</div>
+ 												<div>
+-													<a href="https://jaot.ziku.events/e/Hn5WJWVd3M/v/entrance" rel="noopener noreferrer">
++													<a href="https://www.jaot.or.jp/about/kihonrinen/" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/parts/Meta01_new.jpg">
++															<img alt="" src="/files/banner/OT_KihonRinen_Bannar01.png">
+ 														</div>
+ 													</a>
+ 												</div>
+@@ -673,41 +673,43 @@
+ 											<div>
+ 												<ul>
+ 													<li>
+-														<a href="/member/from_assoc/detail/1470/" rel="noopener noreferrer">
++														<a href="/member/from_assoc/detail/1474/" rel="noopener noreferrer">
+ 															<div>
+ 																<div>
+ 																	<div>
+ 																		<span>
+-																			選挙関連
++																			諸手続き
+ 																		</span>
+ 																	</div>
+ 																</div>
+ 																<div>
+ 																	<h3>
+ 																		<span>
+-																			役員選挙の施行について（公示）
++																			2026年度会費クレジット支払い期限について
+ 																		</span>
+ 																	</h3>
+ 																</div>
+ 																<p>
++																	クレジットで2026年度会費を支払う方は、手続きをお急ぎください。
++																	<br>
+ 																</p>
+ 															</div>
+ 														</a>
+ 													</li>
+ 													<li>
+-														<a href="/member/from_assoc/detail/1473/" rel="noopener noreferrer">
++														<a href="/member/from_assoc/detail/1470/" rel="noopener noreferrer">
+ 															<div>
+ 																<div>
+ 																	<div>
+ 																		<span>
+-																			研修会
++																			選挙関連
+ 																		</span>
+ 																	</div>
+ 																</div>
+ 																<div>
+ 																	<h3>
+ 																		<span>
+-																			【研修会情報】認知症基礎Ⅲ、応用ⅣⅤⅥ申込み開始
++																			役員選挙の施行について（公示）
+ 																		</span>
+ 																	</h3>
+ 																</div>
+@@ -717,73 +719,72 @@
+ 														</a>
+ 													</li>
+ 													<li>
+-														<a href="/member/from_assoc/detail/1471/" rel="noopener noreferrer">
++														<a href="/member/from_assoc/detail/1473/" rel="noopener noreferrer">
+ 															<div>
+ 																<div>
+ 																	<div>
+ 																		<span>
+-																			生涯教育
++																			研修会
+ 																		</span>
+ 																	</div>
+ 																</div>
+ 																<div>
+ 																	<h3>
+ 																		<span>
+-																			認定作業療法士読み替え　申請期間延長のお知らせ
++																			【研修会情報】認知症基礎Ⅲ、応用ⅣⅤⅥ申込み開始
+ 																		</span>
+ 																	</h3>
+ 																</div>
+ 																<p>
+-																	協会ホームページの一時閉鎖により、申請要項および必要書類を閲覧・ダウンロードできない期間が生じたことを踏まえ、
+-																	<br>
+-																	認定作業療法士読み替え申請の締切を延長いたします。
+-																	<br>
+ 																</p>
+ 															</div>
+ 														</a>
+ 													</li>
+ 													<li>
+-														<a href="/member/from_assoc/detail/1447/" rel="noopener noreferrer">
++														<a href="/member/from_assoc/detail/1471/" rel="noopener noreferrer">
+ 															<div>
+ 																<div>
+ 																	<div>
+ 																		<span>
+-																			お知らせ
++																			生涯教育
+ 																		</span>
+ 																	</div>
+ 																</div>
+ 																<div>
+ 																	<h3>
+ 																		<span>
+-																			作業療法白書2026　白書アンケート
++																			認定作業療法士読み替え　申請期間延長のお知らせ
+ 																		</span>
+ 																	</h3>
+ 																</div>
+ 																<p>
+-																	調査締め切りが11月13日まで延長されました。
++																	協会ホームページの一時閉鎖により、申請要項および必要書類を閲覧・ダウンロードできない期間が生じたことを踏まえ、
++																	<br>
++																	認定作業療法士読み替え申請の締切を延長いたします。
++																	<br>
+ 																</p>
+ 															</div>
+ 														</a>
+ 													</li>
+ 													<li>
+-														<a href="/member/from_assoc/detail/1425/" rel="noopener noreferrer">
++														<a href="/member/from_assoc/detail/1447/" rel="noopener noreferrer">
+ 															<div>
+ 																<div>
+ 																	<div>
+ 																		<span>
+-																			就労支援
++																			お知らせ
+ 																		</span>
+ 																	</div>
+ 																</div>
+ 																<div>
+ 																	<h3>
+ 																		<span>
+-																			【参加者募集】医療機関における就労支援に関する意見交換会（2026/11/29）
++																			作業療法白書2026　白書アンケート
+ 																		</span>
+ 																	</h3>
+ 																</div>
+ 																<p>
+-																	2026年11月29日（日）に医療機関における就労支援に関する意見交換会（身体障害領域）を開催いたします。ぜひご参加ください。
++																	調査締め切りが11月13日まで延長されました。
+ 																</p>
+ 															</div>
+ 														</a>

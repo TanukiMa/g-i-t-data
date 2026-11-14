@@ -1,0 +1,34 @@
+diff --git a/sites/nisseikyoorjp/jp/or/nisseikyo/index.html b/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
+index 5b64fb330..ba1cdaf2d 100644
+--- a/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
++++ b/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
+@@ -653,6 +653,14 @@
+ 						</h3>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								2026-10-26
++							</span>
++							<a href="https://www.nisseikyo.or.jp/gyousei/tsuuchi/2026_list.php" rel="noopener noreferrer">
++								行政情報　厚労省等通達を更新しました
++							</a>
++						</li>
+ 						<li>
+ 							<span>
+ 								2026-10-22
+@@ -685,14 +693,6 @@
+ 								日精協TOPICS　熊本地震 におけるDPAT活動報告
+ 							</a>
+ 						</li>
+-						<li>
+-							<span>
+-								2026-10-13
+-							</span>
+-							<a href="https://www.nisseikyo.or.jp/gyousei/tsuuchi/2026_list.php" rel="noopener noreferrer">
+-								行政情報　厚労省等通達を更新しました
+-							</a>
+-						</li>
+ 					</ul>
+ 					<br>
+ 					<br>

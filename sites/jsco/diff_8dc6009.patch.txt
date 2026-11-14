@@ -1,0 +1,18 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index 52f66da8..a6ba38dd 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -606,6 +606,13 @@
+ 																	<a href="/snspolicy/jsco_official_sns.html" rel="noopener noreferrer">
+ 																		日本癌治療学会公式SNS
+ 																	</a>
++																	<ul>
++																		<li>
++																			<a href="/snspolicy/gantube.html" rel="noopener noreferrer">
++																				がんチューブ動画の図書館
++																			</a>
++																		</li>
++																	</ul>
+ 																</li>
+ 															</ul>
+ 														</li>

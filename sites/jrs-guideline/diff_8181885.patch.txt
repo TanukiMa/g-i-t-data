@@ -1,0 +1,75 @@
+diff --git a/sites/jrs-guideline/jp/radiology/jrs-gl/index.html b/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
+index e57d6d00..31ddf385 100644
+--- a/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
++++ b/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
+@@ -630,6 +630,19 @@
+ 						</div>
+ 						<div>
+ 							<ul>
++								<li>
++									<a href="https://jrs-gl.radiology.jp/news/3413/" rel="noopener noreferrer">
++										<p>
++											2026.11.08
++										</p>
++										<div>
++											お知らせ
++										</div>
++										<div>
++											パブリックコメントでいただいたご意見を受け，胸部領域の原稿の一部を変更しました。
++										</div>
++									</a>
++								</li>
+ 								<li>
+ 									<a href="https://jrs-gl.radiology.jp/news/3386/" rel="noopener noreferrer">
+ 										<p>
+@@ -669,23 +682,23 @@
+ 										</div>
+ 									</a>
+ 								</li>
++							</ul>
++						</div>
++						<div>
++							<ul>
+ 								<li>
+-									<a href="https://jrs-gl.radiology.jp/news/3076/" rel="noopener noreferrer">
++									<a href="https://jrs-gl.radiology.jp/news/3413/" rel="noopener noreferrer">
+ 										<p>
+-											2026.08.19
++											2026.11.08
+ 										</p>
+ 										<div>
+ 											お知らせ
+ 										</div>
+ 										<div>
+-											新たに「産婦人科」領域の標準的撮像法、BQ、FQ、「心血管」領域の標準的撮像法、CQ、「泌尿器」領域のCQが公開されました。
++											パブリックコメントでいただいたご意見を受け，胸部領域の原稿の一部を変更しました。
+ 										</div>
+ 									</a>
+ 								</li>
+-							</ul>
+-						</div>
+-						<div>
+-							<ul>
+ 								<li>
+ 									<a href="https://jrs-gl.radiology.jp/news/3386/" rel="noopener noreferrer">
+ 										<p>
+@@ -725,19 +738,6 @@
+ 										</div>
+ 									</a>
+ 								</li>
+-								<li>
+-									<a href="https://jrs-gl.radiology.jp/news/3076/" rel="noopener noreferrer">
+-										<p>
+-											2026.08.19
+-										</p>
+-										<div>
+-											お知らせ
+-										</div>
+-										<div>
+-											新たに「産婦人科」領域の標準的撮像法、BQ、FQ、「心血管」領域の標準的撮像法、CQ、「泌尿器」領域のCQが公開されました。
+-										</div>
+-									</a>
+-								</li>
+ 							</ul>
+ 						</div>
+ 						<div>

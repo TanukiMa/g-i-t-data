@@ -1,0 +1,419 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 426130e08..9d4abb25b 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1464,7 +1464,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															10月21日の新着ニュース
++															10月22日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1481,20 +1481,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「異常分娩」を使用しないで！" src="https://asset.mtweb.jp/media/2026/10/21092908/25_Teigen_seimei.jpg">
++																<img alt="「CPAP×減量」で挑む肥満合併睡眠時無呼吸" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618780" rel="noopener noreferrer">
+-																			「異常分娩」を使用しないで！
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618525" rel="noopener noreferrer">
++																			「CPAP×減量」で挑む肥満合併睡眠時無呼吸
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-21
++																			2026-10-22
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1530,20 +1530,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="α1-アンチトリプシン欠乏症、COPD・喘息患者の検査率6％弱" src="https://asset.mtweb.jp/media/2026/10/19161320/ChatGPT-Image-20261019_AATD.jpg">
++																<img alt="近視の低年齢化が顕著も、眼科受診は約半数にとどまる" src="https://asset.mtweb.jp/media/2026/10/21122448/618772_thum.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618588" rel="noopener noreferrer">
+-																			α1-アンチトリプシン欠乏症、COPD・喘息患者の検査率6％弱
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618772" rel="noopener noreferrer">
++																			近視の低年齢化が顕著も、眼科受診は約半数にとどまる
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-21
++																			2026-10-22
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1579,20 +1579,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="尋常性痤瘡、罹患率・有病率が30年で6割超上昇" src="https://asset.mtweb.jp/media/2026/10/20144333/ChatGPT-Image-20261020_Global-Acne-Burden.jpg">
++																<img alt="〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618679" rel="noopener noreferrer">
+-																			尋常性痤瘡、罹患率・有病率が30年で6割超上昇
++																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
++																			〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-21
++																			2026-10-22
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1628,13 +1628,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選" src="https://asset.mtweb.jp/media/2026/09/08184545/com_kaigaiwatch_thum_w440h275.jpg">
++																<img alt="イヌをモフモフするとストレス反応が軽減" src="https://asset.mtweb.jp/media/2026/10/19181914/ChatGPT-Image-20261019_Petsowner.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
+-																			糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618606" rel="noopener noreferrer">
++																			イヌをモフモフするとストレス反応が軽減
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1677,13 +1677,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="カテーテル関連尿路感染症のリスク低減対策、実施病院は依然として少ない" src="https://asset.mtweb.jp/media/2026/10/20160613/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8819%E6%97%A5%E9%85%8D%E4%BF%A11.jpg">
++																<img alt="「異常分娩」を使用しないで！" src="https://asset.mtweb.jp/media/2026/10/21092908/25_Teigen_seimei.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618697" rel="noopener noreferrer">
+-																			カテーテル関連尿路感染症のリスク低減対策、実施病院は依然として少ない
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618780" rel="noopener noreferrer">
++																			「異常分娩」を使用しないで！
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1726,20 +1726,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="認知症リスクが低下する糖尿病治療薬は？" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
++																<img alt="α1-アンチトリプシン欠乏症、COPD・喘息患者の検査率6％弱" src="https://asset.mtweb.jp/media/2026/10/19161320/ChatGPT-Image-20261019_AATD.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618052" rel="noopener noreferrer">
+-																			認知症リスクが低下する糖尿病治療薬は？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618588" rel="noopener noreferrer">
++																			α1-アンチトリプシン欠乏症、COPD・喘息患者の検査率6％弱
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-20
++																			2026-10-21
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1775,20 +1775,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="インフル5万例目前、29都道府県で警報・注意報レベル" src="https://asset.mtweb.jp/media/2026/07/14185544/com_weeklyreport_thum_w440h275.jpg">
++																<img alt="尋常性痤瘡、罹患率・有病率が30年で6割超上昇" src="https://asset.mtweb.jp/media/2026/10/20144333/ChatGPT-Image-20261020_Global-Acne-Burden.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618629" rel="noopener noreferrer">
+-																			インフル5万例目前、29都道府県で警報・注意報レベル
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618679" rel="noopener noreferrer">
++																			尋常性痤瘡、罹患率・有病率が30年で6割超上昇
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-20
++																			2026-10-21
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1821,7 +1821,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															10月21日の新着連載
++															10月22日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1841,19 +1841,18 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
+-																					<img alt="糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選" src="/assets/images/thumbnails/com_kaigaiwatch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-21
++																							2026-10-22
+ 																						</time>
+ 																						<h2>
+-																							糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選
++																							〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）
+ 																						</h2>
+ 																						<p>
+-																							発症前から進展、「隠れた重荷」に：EASD 2026
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1862,20 +1861,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									0
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									16
++																									10
+ 																								</span>
+ 																								<span>
+-																									16件「いいね！」されています
++																									10件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1892,19 +1891,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618629" rel="noopener noreferrer">
+-																					<img alt="インフル5万例目前、29都道府県で警報・注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
++																					<img alt="糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選" src="/assets/images/thumbnails/com_kaigaiwatch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618629" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-20
++																							2026-10-21
+ 																						</time>
+ 																						<h2>
+-																							インフル5万例目前、29都道府県で警報・注意報レベル
++																							糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選
+ 																						</h2>
+ 																						<p>
+-																							【感染症動向調査第41週： 10月5～11日】
++																							発症前から進展、「隠れた重荷」に：EASD 2026
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1913,20 +1912,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									24
++																									23
+ 																								</span>
+ 																								<span>
+-																									24件「いいね！」されています
++																									23件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1943,18 +1942,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617644" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕菅野義彦氏が、高齢透析患者に腎移植を検討する際に重視すべきと考える要素は？【MT医療検定 No.141】（10/26まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618629" rel="noopener noreferrer">
++																					<img alt="インフル5万例目前、29都道府県で警報・注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617644" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618629" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-20
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕菅野義彦氏が、高齢透析患者に腎移植を検討する際に重視すべきと考える要素は？【MT医療検定 No.141】（10/26まで）
++																							インフル5万例目前、29都道府県で警報・注意報レベル
+ 																						</h2>
+ 																						<p>
++																							【感染症動向調査第41週： 10月5～11日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1963,20 +1963,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									2
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									13
++																									26
+ 																								</span>
+ 																								<span>
+-																									13件「いいね！」されています
++																									26件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1993,19 +1993,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
+-																					<img alt="【緊急寄稿】ステミラック本承認で残された疑問" src="/assets/images/rensai/thumbnails/com_outsider_thum_w440h275_new.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617644" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕菅野義彦氏が、高齢透析患者に腎移植を検討する際に重視すべきと考える要素は？【MT医療検定 No.141】（10/26まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617644" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-20
+ 																						</time>
+ 																						<h2>
+-																							【緊急寄稿】ステミラック本承認で残された疑問
++																							〔10pt進呈〕菅野義彦氏が、高齢透析患者に腎移植を検討する際に重視すべきと考える要素は？【MT医療検定 No.141】（10/26まで）
+ 																						</h2>
+ 																						<p>
+-																							プラセボとの「改善差」はどこまで「治療効果」に帰属するのか
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2014,20 +2013,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									0
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									40
++																									14
+ 																								</span>
+ 																								<span>
+-																									40件「いいね！」されています
++																									14件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2044,19 +2043,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617774" rel="noopener noreferrer">
+-																					<img alt="患者の「AIに聞いてきた」にどう対応すべき？" src="/assets/images/rensai/thumbnails/com_digitalhealth26_thum_w440h275.png">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
++																					<img alt="【緊急寄稿】ステミラック本承認で残された疑問" src="/assets/images/rensai/thumbnails/com_outsider_thum_w440h275_new.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=617774" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618587" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-19
++																							2026-10-20
+ 																						</time>
+ 																						<h2>
+-																							患者の「AIに聞いてきた」にどう対応すべき？
++																							【緊急寄稿】ステミラック本承認で残された疑問
+ 																						</h2>
+ 																						<p>
+-																							外来で押さえたい3つのポイント
++																							プラセボとの「改善差」はどこまで「治療効果」に帰属するのか
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2075,10 +2074,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									45
++																									44
+ 																								</span>
+ 																								<span>
+-																									45件「いいね！」されています
++																									44件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

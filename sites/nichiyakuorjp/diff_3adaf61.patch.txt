@@ -1,0 +1,132 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 7e43d872..db265e2a 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -532,7 +532,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.27
++														2026.10.29
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -541,8 +541,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1728&amp;is_top=yes" rel="noopener noreferrer">
+-														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1735&amp;is_top=yes" rel="noopener noreferrer">
++														第60回日本薬剤師会学術大会（福島大会）の大会ホームページが開設されました
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -551,7 +551,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.26
++														2026.10.27
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -560,8 +560,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1727&amp;is_top=yes" rel="noopener noreferrer">
+-														メディア掲載・出演情報を更新しました（毎日新聞朝刊、令和8年10月26日）
++													<a href="/news/detail?id=1728&amp;is_top=yes" rel="noopener noreferrer">
++														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -570,7 +570,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.23
++														2026.10.26
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -579,8 +579,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1724&amp;is_top=yes" rel="noopener noreferrer">
+-														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1727&amp;is_top=yes" rel="noopener noreferrer">
++														メディア掲載・出演情報を更新しました（毎日新聞朝刊、令和8年10月26日）
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -589,7 +589,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.22
++														2026.10.23
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -598,8 +598,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1722&amp;is_top=yes" rel="noopener noreferrer">
+-														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1724&amp;is_top=yes" rel="noopener noreferrer">
++														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -608,7 +608,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.21
++														2026.10.22
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -617,8 +617,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1719&amp;is_top=yes" rel="noopener noreferrer">
+-														【重要】生涯学習支援システム【JPALS】、 健康サポート薬局e-ラーニング研修システムの緊急メンテナンスのお知らせ
++													<a href="/news/detail?id=1722&amp;is_top=yes" rel="noopener noreferrer">
++														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -784,6 +784,13 @@
+ 									</figure>
+ 								</a>
+ 							</div>
++							<div>
++								<a href="https://www.congre.co.jp/jpa60/" rel="noopener noreferrer">
++									<figure>
++										<img alt="" src="/files/co/Banner/bnr-jpa2027.png">
++									</figure>
++								</a>
++							</div>
+ 							<div>
+ 								<a href="https://www.nichiyaku.or.jp/yakuzaishi/activities/week/about" rel="noopener noreferrer">
+ 									<figure>
+@@ -879,6 +886,13 @@
+ 									</figure>
+ 								</a>
+ 							</div>
++							<div>
++								<a href="https://www.congre.co.jp/jpa60/" rel="noopener noreferrer">
++									<figure>
++										<img alt="" src="/files/co/Banner/bnr-jpa2027.png">
++									</figure>
++								</a>
++							</div>
+ 							<div>
+ 								<a href="https://www.nichiyaku.or.jp/yakuzaishi/activities/week/about" rel="noopener noreferrer">
+ 									<figure>

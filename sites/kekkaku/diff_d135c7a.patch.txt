@@ -1,0 +1,32 @@
+diff --git a/sites/kekkaku/jp/gr/kekkaku/index.html b/sites/kekkaku/jp/gr/kekkaku/index.html
+index 16115858..f36e1e0e 100644
+--- a/sites/kekkaku/jp/gr/kekkaku/index.html
++++ b/sites/kekkaku/jp/gr/kekkaku/index.html
+@@ -60,6 +60,9 @@
+ 		<h2>
+ 			各支部の地方会
+ 		</h2>
++		<p>
++			掲載更新日：2026年11月10日
++		</p>
+ 		<dl>
+ 			<dt>
+ 				北海道
+@@ -130,6 +133,17 @@
+ 			</dt>
+ 			<dd>
+ 				<ul>
++					<li>
++						<span>
++							第77回日本結核・非結核性抗酸菌症学会中国四国支部会／第75回日本呼吸器学会中国・四国地方会／第35回日本呼吸器内視鏡学会中国四国支部会 合同学会
++						</span>
++						<span>
++							2026年12月12日（土）〜13日（日）
++						</span>
++						<a href="https://med-gakkai.jp/jrs-jsre-jst2026/gaiyo/" rel="noopener noreferrer">
++							ホームページを開く
++						</a>
++					</li>
+ 				</ul>
+ 			</dd>
+ 			<dt>

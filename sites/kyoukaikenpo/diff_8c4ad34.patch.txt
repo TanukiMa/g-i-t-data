@@ -1,0 +1,83 @@
+diff --git a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+index f1d1f9e3e..e607d8865 100644
+--- a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
++++ b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+@@ -551,11 +551,11 @@
+ 					<li>
+ 						<article>
+ 							<time>
+-								令和08年09月24日
++								令和08年10月28日
+ 							</time>
+ 							<h3>
+-								<a href="/news/r08_sep/6161.html" rel="noopener noreferrer">
+-									令和8年台風第25号に伴う災害
++								<a href="/about/business/dependent_status/001/" rel="noopener noreferrer">
++									被扶養者資格の再確認にご協力をお願いします
+ 								</a>
+ 							</h3>
+ 						</article>
+@@ -1233,26 +1233,31 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年10月22日
++										令和08年10月28日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_oct/6667.html" rel="noopener noreferrer">
+-										【復旧】「情報提供サービス」の一部メニューの一時停止
++									<a href="/about/business/dependent_status/001/" rel="noopener noreferrer">
++										被扶養者資格の再確認にご協力をお願いします
+ 									</a>
+ 								</h3>
++								<ul>
++									<li>
++										重要
++									</li>
++								</ul>
+ 							</article>
+ 						</li>
+ 						<li>
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年10月21日
++										令和08年10月28日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_oct/6659.html" rel="noopener noreferrer">
+-										やさしい日本語のメンテナンスについて【10/21（水）20:00～】
++									<a href="/news/r08_oct/6844.html" rel="noopener noreferrer">
++										健康保険の任意継続被保険者の11月分の保険料の納付期限は11月10日です
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -1261,12 +1266,12 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年10月16日
++										令和08年10月22日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_oct/6520.html" rel="noopener noreferrer">
+-										【復旧】コミュニケーションサイトの新規登録ができない事象について
++									<a href="/news/r08_oct/6667.html" rel="noopener noreferrer">
++										【復旧】「情報提供サービス」の一部メニューの一時停止
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -1374,9 +1379,6 @@
+ 									</a>
+ 								</h3>
+ 								<ul>
+-									<li>
+-										重要
+-									</li>
+ 									<li>
+ 										災害情報
+ 									</li>

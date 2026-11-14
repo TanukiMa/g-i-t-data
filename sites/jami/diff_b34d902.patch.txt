@@ -1,0 +1,48 @@
+diff --git a/sites/jami/jp/jami/index.html b/sites/jami/jp/jami/index.html
+index 9b85910c2..95bc42d8d 100644
+--- a/sites/jami/jp/jami/index.html
++++ b/sites/jami/jp/jami/index.html
+@@ -385,6 +385,21 @@
+ 		</header>
+ 		<div>
+ 			<ul>
++				<li>
++					<time>
++						2026年10月15日
++					</time>
++					<ul>
++						<li>
++							<a href="https://www.jami.jp/category/news/" rel="noopener noreferrer">
++								お知らせ
++							</a>
++						</li>
++					</ul>
++					<a href="https://www.jami.jp/wp-content/uploads/2026/10/日本医療情報学会・公開リスト20261015.pdf" rel="noopener noreferrer">
++						社会医学系専門医・指導医資格更新の単位を取得できる学術集会の一覧を更新しました。
++					</a>
++				</li>
+ 				<li>
+ 					<time>
+ 						2026年10月7日
+@@ -630,21 +645,6 @@
+ 						2026年学術奨励賞（第30回日本医療情報学会春季学術大会）・優秀学術口演賞が決定しました。
+ 					</a>
+ 				</li>
+-				<li>
+-					<time>
+-						2026年5月11日
+-					</time>
+-					<ul>
+-						<li>
+-							<a href="https://www.jami.jp/category/news/" rel="noopener noreferrer">
+-								お知らせ
+-							</a>
+-						</li>
+-					</ul>
+-					<a href="https://www.jami.jp/wp-content/uploads/2026/05/日本医療情報学会・公開リスト20260511.pdf" rel="noopener noreferrer">
+-						社会医学系専門医・指導医資格更新の単位を取得できる学術集会の一覧を更新しました。
+-					</a>
+-				</li>
+ 				<li>
+ 					<time>
+ 						2026年4月20日

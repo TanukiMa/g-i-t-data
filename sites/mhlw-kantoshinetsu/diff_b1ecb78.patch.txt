@@ -1,0 +1,115 @@
+diff --git a/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html b/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
+index e3cecaeaa..1d70fd2ec 100644
+--- a/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
++++ b/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
+@@ -1031,29 +1031,29 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kantoshinetsu/chousa/houmon.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/chotatsu/nyusatsu/nyusatsur3_00008.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月26日
++													2026年10月27日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														調達情報
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													管内の指定訪問看護ステーションの指定一覧及び訪問看護ステーションの基準の届出受理状況を更新しました。
++													関東信越厚生局東京事務所移転に伴う什器等運搬設置業務（一般競争入札）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/chousa/ahaki.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/chousa/houmon.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月20日
++													2026年10月26日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -1063,35 +1063,35 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													管内のはり師、きゅう師及びあん摩マッサージ指圧師の施術に係る療養費に関する受領委任を取り扱う施術所の一覧を更新しました。（令和8年10月1日現在）
++													管内の指定訪問看護ステーションの指定一覧及び訪問看護ステーションの基準の届出受理状況を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/saiyo/290530.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/gyomu/bu_ka/somu/baikyaku.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月20日
++													2026年10月23日
+ 												</time>
+ 												<em>
+ 													<span>
+-														採用情報
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													採用情報を更新しました。
++													【新潟県柏崎市】国有財産売払情報を更新しました
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/chousa/kijyun.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/chousa/ahaki.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月15日
++													2026年10月20日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -1101,26 +1101,26 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													管内の保険医療機関・保険薬局の施設基準の届出受理状況及び保険外併用療養費医療機関一覧を更新しました。（令和8年9月1日現在）
++													管内のはり師、きゅう師及びあん摩マッサージ指圧師の施術に係る療養費に関する受領委任を取り扱う施術所の一覧を更新しました。（令和8年10月1日現在）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/gyomu/bu_ka/somu/baikyaku.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/saiyo/290530.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月9日
++													2026年10月20日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														採用情報
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													【長野県飯田市・新潟県柏崎市】国有財産売払情報を更新しました
++													採用情報を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>

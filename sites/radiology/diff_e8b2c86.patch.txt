@@ -1,0 +1,13 @@
+diff --git a/sites/radiology/jp/radiology/index.html b/sites/radiology/jp/radiology/index.html
+index 0d4348547..d1dce75ca 100644
+--- a/sites/radiology/jp/radiology/index.html
++++ b/sites/radiology/jp/radiology/index.html
+@@ -565,7 +565,7 @@
+ 						</dt>
+ 						<dd>
+ 							<a href="guideline/consultation.html" rel="noopener noreferrer">
+-								「画像診断ガイドライン」パブリックコメント募集（胸部、消化器）
++								「画像診断ガイドライン」パブリックコメント募集
+ 							</a>
+ 						</dd>
+ 						<dt>

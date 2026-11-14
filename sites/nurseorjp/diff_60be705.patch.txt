@@ -1,0 +1,51 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index 2ad9f04f0..b6bcf64ea 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -477,6 +477,24 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/10/27
++					</span>
++					<span>
++						ニュースリリース
++					</span>
++					<div>
++						<a href="/home/about/newsrelease/" rel="noopener noreferrer">
++							「看護職員の賃上げに関する緊急調査」 結果
++						</a>
++						<div>
++							<p>
++								賃上げ実施率・賃上げ率ともに、他産業に遠く及ばない状況　看護職員の8割が自身の賃金に「不満」
++							</p>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/10/23
+@@ -614,21 +632,6 @@
+ 						</a>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/10/15
+-					</span>
+-					<span>
+-						掲載のお知らせ
+-					</span>
+-					<div>
+-						<a href="/nursing/international/icn/katsudo/index.html#gnli" rel="noopener noreferrer">
+-							「2027年世界看護指導者機関（Global Nursing Leadership Institute™, GNLI）への参加支援について」を掲載しました。
+-						</a>
+-						<div>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>

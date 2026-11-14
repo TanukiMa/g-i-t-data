@@ -1,0 +1,208 @@
+diff --git a/sites/mhlw/jp/go/mhlw/index.html b/sites/mhlw/jp/go/mhlw/index.html
+index 8bf3ca593..48ec37e1f 100644
+--- a/sites/mhlw/jp/go/mhlw/index.html
++++ b/sites/mhlw/jp/go/mhlw/index.html
+@@ -1445,83 +1445,83 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/htcp-topics-20261001_00001.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/toukei/saikin/hw/judan/taishousha/tn_00.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月17日
++																2026年10月20日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	トピックス
++																	統計情報
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																11月17日は世界さい帯血の日です。
++																第22回中高年者縦断調査にご協力ください
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76821.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/web_magazine/" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月19日
++																2026年10月20日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	報道発表
++																	その他
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																上野厚生労働大臣　閣議後記者会見のお知らせ
++																WEBマガジン「厚生労働」（コラム[iDeCoがパワーアップ!]ほか更新）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76807.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/toukei/saikin/hw/judan/taishousha/sn_11.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月19日
++																2026年10月20日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	報道発表
++																	統計情報
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																「事業場における労働者の健康保持増進のための指針」について（公示）
++																第25回21世紀出生児縦断調査【平成13年出生児】へのご協力をお願いします
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76708.html" rel="noopener noreferrer">
++													<a href="/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月19日
++																2026年10月20日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	審議会等
++																	政策分野
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																「第37回 労働政策審議会勤労者生活分科会」を開催します（開催案内）
++																公益事業に関する争議行為の予告公表ページについて更新されました
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_76690.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_76821.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月19日
+@@ -1534,7 +1534,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第33回キャリアコンサルタント登録制度等に関する検討会を10月26日に開催します
++																上野厚生労働大臣　閣議後記者会見のお知らせ
+ 															</span>
+ 														</div>
+ 													</a>
+@@ -1820,10 +1820,10 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/web_magazine/" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月16日
++																2026年10月20日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1833,13 +1833,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました
++																WEBマガジン「厚生労働」（コラム[iDeCoがパワーアップ!]ほか更新）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/shinsei_boshu/choutatsujouhou/chotatu/j-wto-siryo/newpage_10523.html" rel="noopener noreferrer">
++													<a href="/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月16日
+@@ -1852,16 +1852,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																資料招請（年金業務システム（統計・業務分析サブシステム）の更改に係る環境構築、アプリケーション開発及びデータ移行業務　一式）
++																インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.mhlw.go.jp/kango_kyouiku/" rel="noopener noreferrer">
++													<a href="/stf/shinsei_boshu/choutatsujouhou/chotatu/j-wto-siryo/newpage_10523.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月14日
++																2026年10月16日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1871,16 +1871,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																看護教育ポータル 発見・看護！｜厚生労働省
++																資料招請（年金業務システム（統計・業務分析サブシステム）の更改に係る環境構築、アプリケーション開発及びデータ移行業務　一式）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/shinsei_boshu/choutatsujouhou/chotatu/e-wto-rakusatu/newpage_10519.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/kango_kyouiku/" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年10月13日
++																2026年10月14日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1890,13 +1890,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																落札者等の公示（「令和8～12年度病原体等管理システムの設計開発・運用保守業務一式」他6件）
++																看護教育ポータル 発見・看護！｜厚生労働省
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.mhlw.go.jp/web_magazine/" rel="noopener noreferrer">
++													<a href="/stf/shinsei_boshu/choutatsujouhou/chotatu/e-wto-rakusatu/newpage_10519.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年10月13日
+@@ -1909,7 +1909,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																WEBマガジン「厚生労働」（特集[臓器移植を考える]ほか更新）
++																落札者等の公示（「令和8～12年度病原体等管理システムの設計開発・運用保守業務一式」他6件）
+ 															</span>
+ 														</div>
+ 													</a>

@@ -1,0 +1,17 @@
+diff --git a/sites/rounen/org/rounen/index.html b/sites/rounen/org/rounen/index.html
+index da15b68a2..02fc75a1a 100644
+--- a/sites/rounen/org/rounen/index.html
++++ b/sites/rounen/org/rounen/index.html
+@@ -117,7 +117,11 @@
+ 														<a href="./taikai/41th/other.html" rel="noopener noreferrer">
+ 															「簡易な神経所見のとり方実践講座」
+ 														</a>
+-														の参加申込を開始しました．
++														の
++														<s>
++															参加申込を開始しました．
++														</s>
++														申込みは終了しました．
+ 													</p>
+ 												</li>
+ 												<li>

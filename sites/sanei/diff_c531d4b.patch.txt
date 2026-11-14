@@ -1,0 +1,47 @@
+diff --git a/sites/sanei/jp/or/sanei/index.html b/sites/sanei/jp/or/sanei/index.html
+index aae8c109d..2d6f429cb 100644
+--- a/sites/sanei/jp/or/sanei/index.html
++++ b/sites/sanei/jp/or/sanei/index.html
+@@ -654,6 +654,22 @@
+ 							</div>
+ 						</div>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026.10.27
++									</time>
++									<span>
++										会員向け
++									</span>
++									<a href="https://www.sanei.or.jp/news/member/individual.html?entry_id=1645" rel="noopener noreferrer" title="学会メールマガジン増刊号（Oct.2026）を発行しました">
++										学会メールマガジン増刊号（Oct.2026）を発行しました
++									</a>
++								</h3>
++								<p>
++									第36回日本産業衛生学会全国協議会 特集号
++								</p>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -788,19 +804,6 @@
+ 									</a>
+ 								</h3>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2026.06.19
+-									</time>
+-									<span>
+-										会員向け
+-									</span>
+-									<a href="https://www.sanei.or.jp/news/member/individual.html?entry_id=1585" rel="noopener noreferrer" title="学会メールマガジン第47号（Jun.2026）を発行しました">
+-										学会メールマガジン第47号（Jun.2026）を発行しました
+-									</a>
+-								</h3>
+-							</article>
+ 						</div>
+ 					</div>
+ 					<div>

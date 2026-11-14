@@ -1,0 +1,40 @@
+diff --git a/sites/caicmdata/jp/go/caicm/action-data.html b/sites/caicmdata/jp/go/caicm/action-data.html
+index e7670ebc..795c8cdf 100644
+--- a/sites/caicmdata/jp/go/caicm/action-data.html
++++ b/sites/caicmdata/jp/go/caicm/action-data.html
+@@ -310,6 +310,17 @@
+ 									</tr>
+ 								</thead>
+ 								<tbody>
++									<tr>
++										<td>
++											2026年11月6日
++										</td>
++										<td>
++											<a href="https://www.forth.go.jp/topics/2026/20261106_00001.html" rel="noopener noreferrer">
++												原因不明の肺炎－ロシア連邦（2026年10月10日）
++												<img alt="別ウィンドウで開く" src="/common/images/caicm_icon_blank.svg">
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											2026年10月2日
+@@ -354,17 +365,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											2026年6月12日
+-										</td>
+-										<td>
+-											<a href="https://www.forth.go.jp/topics/2026/newpage_20260612.00001.html" rel="noopener noreferrer">
+-												FIFAワールドカップ2026観戦で海外へ渡航される皆さまへ
+-												<img alt="別ウィンドウで開く" src="/common/images/caicm_icon_blank.svg">
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 						</div>

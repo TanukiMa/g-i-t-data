@@ -1,0 +1,266 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index db265e2a..10ae4062 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -73,38 +73,6 @@
+ 											</ul>
+ 										</div>
+ 									</div>
+-									<div>
+-										<ul>
+-											<li>
+-												<a href="https://x.com/jpa_koho" rel="noopener noreferrer" title="X">
+-													<span>
+-														X
+-													</span>
+-												</a>
+-											</li>
+-											<li>
+-												<a href="https://www.instagram.com/jpa_koho" rel="noopener noreferrer" title="Instagram">
+-													<span>
+-														Instagram
+-													</span>
+-												</a>
+-											</li>
+-											<li>
+-												<a href="https://www.facebook.com/jpakoho" rel="noopener noreferrer" title="Facebook">
+-													<span>
+-														Facebook
+-													</span>
+-												</a>
+-											</li>
+-											<li>
+-												<a href="https://www.youtube.com/channel/UCFX1ZQXsnAWeTVAWjgC9TzA" rel="noopener noreferrer" title="YouTube">
+-													<span>
+-														YouTube
+-													</span>
+-												</a>
+-											</li>
+-										</ul>
+-									</div>
+ 								</div>
+ 								<div>
+ 									<div>
+@@ -253,6 +221,38 @@
+ 											</ul>
+ 										</div>
+ 									</div>
++									<div>
++										<ul>
++											<li>
++												<a href="https://x.com/jpa_koho" rel="noopener noreferrer" title="X">
++													<span>
++														X
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.instagram.com/jpa_koho" rel="noopener noreferrer" title="Instagram">
++													<span>
++														Instagram
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.facebook.com/jpakoho" rel="noopener noreferrer" title="Facebook">
++													<span>
++														Facebook
++													</span>
++												</a>
++											</li>
++											<li>
++												<a href="https://www.youtube.com/channel/UCFX1ZQXsnAWeTVAWjgC9TzA" rel="noopener noreferrer" title="YouTube">
++													<span>
++														YouTube
++													</span>
++												</a>
++											</li>
++										</ul>
++									</div>
+ 								</div>
+ 							</div>
+ 						</div>
+@@ -532,7 +532,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.29
++														2026.10.30
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -541,8 +541,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1735&amp;is_top=yes" rel="noopener noreferrer">
+-														第60回日本薬剤師会学術大会（福島大会）の大会ホームページが開設されました
++													<a href="/news/detail?id=1740&amp;is_top=yes" rel="noopener noreferrer">
++														【日薬ホームページ メンテナンスのお知らせ】
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -551,7 +551,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.27
++														2026.10.29
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -560,8 +560,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1728&amp;is_top=yes" rel="noopener noreferrer">
+-														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1735&amp;is_top=yes" rel="noopener noreferrer">
++														第60回日本薬剤師会学術大会（福島大会）の大会ホームページが開設されました
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -570,7 +570,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.26
++														2026.10.27
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -579,8 +579,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1727&amp;is_top=yes" rel="noopener noreferrer">
+-														メディア掲載・出演情報を更新しました（毎日新聞朝刊、令和8年10月26日）
++													<a href="/news/detail?id=1728&amp;is_top=yes" rel="noopener noreferrer">
++														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -589,7 +589,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.23
++														2026.10.26
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -598,8 +598,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1724&amp;is_top=yes" rel="noopener noreferrer">
+-														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1727&amp;is_top=yes" rel="noopener noreferrer">
++														メディア掲載・出演情報を更新しました（毎日新聞朝刊、令和8年10月26日）
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -608,7 +608,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.22
++														2026.10.23
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -617,8 +617,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1722&amp;is_top=yes" rel="noopener noreferrer">
+-														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1724&amp;is_top=yes" rel="noopener noreferrer">
++														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -635,7 +635,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.14
++														2026.10.30
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -644,8 +644,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1703" rel="noopener noreferrer">
+-														セルフメディケーション税制対象品目リスト（11月分）を掲載しました。
++													<a href="/member/news/detail?id=1741" rel="noopener noreferrer">
++														【日薬ホームページ メンテナンスのお知らせ】
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -663,8 +663,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1697" rel="noopener noreferrer">
+-														新医薬品の薬価収載について
++													<a href="/member/news/detail?id=1703" rel="noopener noreferrer">
++														セルフメディケーション税制対象品目リスト（11月分）を掲載しました。
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -673,7 +673,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.01
++														2026.10.14
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -682,8 +682,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1691" rel="noopener noreferrer">
+-														日薬ニュース第326号
++													<a href="/member/news/detail?id=1697" rel="noopener noreferrer">
++														新医薬品の薬価収載について
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -701,8 +701,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1668" rel="noopener noreferrer">
+-														日薬メールナビアーカイブサービスのIDとパスワードの変更
++													<a href="/member/news/detail?id=1691" rel="noopener noreferrer">
++														日薬ニュース第326号
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -711,17 +711,17 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.09.14
++														2026.10.01
+ 													</time>
+ 												</p>
+ 												<p>
+ 													<span>
+-														薬剤師向け
++														会員向け
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1678&amp;is_top=yes" rel="noopener noreferrer">
+-														医薬品販売制度に関する自己点検の実施について
++													<a href="/member/news/detail?id=1668" rel="noopener noreferrer">
++														日薬メールナビアーカイブサービスのIDとパスワードの変更
+ 													</a>
+ 												</div>
+ 											</div>

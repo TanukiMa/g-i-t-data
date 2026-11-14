@@ -1,0 +1,47 @@
+diff --git a/sites/jspho/org/jspho/index.html b/sites/jspho/org/jspho/index.html
+index 7b2acd5a..1031619c 100644
+--- a/sites/jspho/org/jspho/index.html
++++ b/sites/jspho/org/jspho/index.html
+@@ -445,6 +445,42 @@
+ 							<img alt="お知らせ" src="common/img/home/hl_txt_news.png">
+ 						</h1>
+ 						<div>
++							<div>
++								<div>
++									2026.10.28
++								</div>
++								<div>
++									日本医学会からのお知らせ
++									<br>
++									令和8年10月22日付メールにて
++									<br>
++									厚生労働省医政局医療経営改革課医療安全推進・医務指導室より
++									<br>
++									・
++									<a href="files/oshirase/20261028.pdf" rel="noopener noreferrer">
++										関係団体の長あて
++									</a>
++									<br>
++									＜厚生労働省ホームページ掲載先＞
++									<br>
++									<a href="https://www.medsafe.or.jp/survey/alarm" rel="noopener noreferrer">
++										医療事故の再発防止に向けた警鐘レポート | 日本医療安全調査機構
++									</a>
++									<br>
++									【お問合せ先】
++									<br>
++									厚生労働省 医政局 医療経営改革課
++									<br>
++									医療安全推進・医務指導室
++									<br>
++									TEL：03-5253-1111（内線：2579）
++									<br>
++									E-mail：
++									<a href="mailto:IRYOUANZEN@mhlw.go.jp" rel="noopener noreferrer">
++										IRYOUANZEN@mhlw.go.jp
++									</a>
++								</div>
++							</div>
+ 							<div>
+ 								<div>
+ 									2026.10.22

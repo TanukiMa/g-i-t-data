@@ -1,0 +1,181 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 0fb729dc5..98219356c 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -329,11 +329,6 @@
+ 												公募情報検索
+ 											</p>
+ 											<ul>
+-												<li>
+-													<a href="/search.php" rel="noopener noreferrer">
+-														公募情報検索
+-													</a>
+-												</li>
+ 												<li>
+ 													<a href="/contact/arec.html" rel="noopener noreferrer">
+ 														公募相談窓口
+@@ -349,21 +344,6 @@
+ 												公募情報一覧
+ 											</p>
+ 											<ul>
+-												<li>
+-													<a href="/search.php?search=search&amp;nav=2&amp;stage%5B%5D=公募予告" rel="noopener noreferrer">
+-														公募予告一覧
+-													</a>
+-												</li>
+-												<li>
+-													<a href="/search.php?search=search&amp;nav=3&amp;stage%5B%5D=公募情報（過去の公募情報も含む）" rel="noopener noreferrer">
+-														公募情報一覧
+-													</a>
+-												</li>
+-												<li>
+-													<a href="/search.php?search=search&amp;nav=4&amp;stage%5B%5D=採択結果" rel="noopener noreferrer">
+-														採択情報一覧
+-													</a>
+-												</li>
+ 												<li>
+ 													<a href="/koubo/bunya_index.html" rel="noopener noreferrer">
+ 														分野別一覧
+@@ -653,6 +633,31 @@
+ 						</div>
+ 					</div>
+ 				</div>
++				<div>
++					<div>
++						<div>
++							<p>
++								【お知らせ】
++								<br>
++								各メディアでの報道にあるとおり、プログラム言語「PHP」に関する深刻な脆弱性が確認されています。
++								<br>
++								このことを受け、AMED公式ウェブサイト等にて緊急点検と修正プログラムの適用作業を行っています。
++								<br>
++								一部のページに影響が生じる等、ご迷惑をおかけいたしますが、何卒ご理解賜りますようよろしくお願いいたします。
++							</p>
++							<p>
++								※公募に関する関連情報は、以下でご確認いただけます。
++							</p>
++							<ul>
++								<li>
++									<a href="https://www.amed.go.jp/koubo/keisaibi_index.html" rel="noopener noreferrer">
++										掲載日順一覧
++									</a>
++								</li>
++							</ul>
++						</div>
++					</div>
++				</div>
+ 				<div>
+ 					<nav>
+ 						<ol>
+@@ -700,22 +705,22 @@
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年10月19日
++												令和8年10月22日
+ 											</span>
+ 											<div>
+ 												<span>
+-													トピックス
++													イベント
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/20261019.html" rel="noopener noreferrer">
+-											広報ウェブマガジン「AMED Pickup」で「AMEDで働く人々―医療研究開発を応援！職員たちの仕事と熱い想い...
++										<a href="/news/event/20261106.html" rel="noopener noreferrer">
++											（令和8年11月6日開催）令和8年度「AMEDヘルスケアサービス社会実装プログラム in 大阪」開催のお知らせ
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年10月16日
++												令和8年10月19日
+ 											</span>
+ 											<div>
+ 												<span>
+@@ -723,8 +728,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/20261020.html" rel="noopener noreferrer">
+-											健康長寿に向けた課題解決（Healthy Longevity Global Competition）： ハイブリ...
++										<a href="/news/topics/20261019.html" rel="noopener noreferrer">
++											広報ウェブマガジン「AMED Pickup」で「AMEDで働く人々―医療研究開発を応援！職員たちの仕事と熱い想い...
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -734,12 +739,12 @@
+ 											</span>
+ 											<div>
+ 												<span>
+-													イベント
++													トピックス
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/261126_RSsympo.html" rel="noopener noreferrer">
+-											（情報更新）（令和8年11月26日開催）「第12回　レギュラトリーサイエンス公開シンポジウム」開催のお知らせ
++										<a href="/news/topics/20261020.html" rel="noopener noreferrer">
++											健康長寿に向けた課題解決（Healthy Longevity Global Competition）： ハイブリ...
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -753,8 +758,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/20261102-04-jsv73.html" rel="noopener noreferrer">
+-											（令和8年11月2日～11月4日開催）「第73回日本ウイルス学会学術集会」出展のお知らせ
++										<a href="/news/event/261126_RSsympo.html" rel="noopener noreferrer">
++											（情報更新）（令和8年11月26日開催）「第12回　レギュラトリーサイエンス公開シンポジウム」開催のお知らせ
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -768,8 +773,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/20261031_expo.html" rel="noopener noreferrer">
+-											（令和8年10月31日開催）「【Street Medical Labo×AMED社会共創EXPO共催】Stree...
++										<a href="/news/event/20261102-04-jsv73.html" rel="noopener noreferrer">
++											（令和8年11月2日～11月4日開催）「第73回日本ウイルス学会学術集会」出展のお知らせ
+ 										</a>
+ 									</li>
+ 								</ul>
+@@ -1203,11 +1208,6 @@
+ 						</a>
+ 					</h3>
+ 					<ul>
+-						<li>
+-							<a href="/search.php" rel="noopener noreferrer">
+-								公募情報検索
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="/contact/arec.html" rel="noopener noreferrer">
+ 								公募相談窓口
+@@ -1240,21 +1240,6 @@
+ 								公募情報一覧
+ 							</span>
+ 							<ul>
+-								<li>
+-									<a href="/search.php?search=search&amp;nav=2&amp;stage%5B%5D=公募予告" rel="noopener noreferrer">
+-										公募予告一覧
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/search.php?search=search&amp;nav=3&amp;stage%5B%5D=公募情報（過去の公募情報も含む）" rel="noopener noreferrer">
+-										公募情報一覧
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/search.php?search=search&amp;nav=4&amp;stage%5B%5D=採択結果" rel="noopener noreferrer">
+-										採択情報一覧
+-									</a>
+-								</li>
+ 								<li>
+ 									<a href="/koubo/bunya_index.html" rel="noopener noreferrer">
+ 										分野別一覧

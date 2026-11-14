@@ -1,0 +1,67 @@
+diff --git a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+index 3efd4a2e..55810a37 100644
+--- a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
++++ b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+@@ -863,7 +863,7 @@
+ 										<a href="/kinki/gyomu/gyomu/hoken_kikan/kijun_jurijoukyou.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月19日
++													2026年10月30日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -992,44 +992,44 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kinki/gyomu/bu_ka/kanri/documents/30hokenniryoukikanntounikannsurutuuti_00011.html" rel="noopener noreferrer">
++										<a href="/kinki/gyomu/gyomu/hoken_kikan/kijun_jurijoukyou.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月23日
++													2026年10月30日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															その他
++															<img alt="重要" src="/common/img/icn_important.svg">
++															医療機関等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関等に関する通知（令和8年度）を更新しました。
++													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」をご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/gyomu/gyomu/hoken_kikan/kijun_jurijoukyou.html" rel="noopener noreferrer">
++										<a href="/kinki/gyomu/bu_ka/kanri/documents/30hokenniryoukikanntounikannsurutuuti_00011.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月19日
++													2026年10月23日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」をご確認ください。
++													保険医療機関等に関する通知（令和8年度）を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>

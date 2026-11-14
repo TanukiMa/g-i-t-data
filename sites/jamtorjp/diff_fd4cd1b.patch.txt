@@ -1,0 +1,38 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index e9477129..9dbeccc9 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -757,6 +757,16 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="/news/2026/news_005630.html" rel="noopener noreferrer">
++								<span>
++									2026.11.11
++								</span>
++								<span>
++									第76回 日本医学検査学会「国際シンポジウム」発表者募集！
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="/studysession/relation/#kanren6550" rel="noopener noreferrer">
+ 								<span>
+@@ -797,16 +807,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="/news/2026/news_006538.html" rel="noopener noreferrer">
+-								<span>
+-									2026.10.20
+-								</span>
+-								<span>
+-									【オンデマンド開催】2026年度　日臨技臨床検査精度管理調査総合報告会のご案内を掲載いたしました。
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 				<div>

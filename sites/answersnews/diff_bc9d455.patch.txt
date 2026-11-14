@@ -1,0 +1,257 @@
+diff --git a/sites/answersnews/jp/and-pro/answers/pharmanews.html b/sites/answersnews/jp/and-pro/answers/pharmanews.html
+index 21eaef5ce..c02ceb16d 100644
+--- a/sites/answersnews/jp/and-pro/answers/pharmanews.html
++++ b/sites/answersnews/jp/and-pro/answers/pharmanews.html
+@@ -222,16 +222,16 @@
+ 				<div>
+ 					<div>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33346/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33364/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101212/chiseigaku_3_eyecatch-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261016183131/pixta_47020112_S-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										連載・コラム
++										きょうのニュース
+ 									</span>
+ 									<h2>
+-										米国の医薬品関税「安全保障への脅威」盾に【薬の地政学 #3】
++										三和化学の熊本工場、19日に生産再開…7月の地震で被災／「MR君」に不正アクセス、医師や製薬企業担当者の情報漏洩 など｜製薬業界きょうのニュースまとめ読み（2026年10月16日）
+ 									</h2>
+ 									<time>
+ 										2026/10/16
+@@ -240,19 +240,19 @@
+ 							</a>
+ 						</article>
+ 						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33355/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33346/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240116175722/takeda_1-196x195.jpg" width="157">
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101212/chiseigaku_3_eyecatch-196x195.jpg" width="157">
+ 								</div>
+ 								<div>
+ 									<span>
+-										きょうのニュース
++										連載・コラム
+ 									</span>
+ 									<h2>
+-										武田薬品、ナルコレプシー薬「オーゼイフル」日本と中国で発売 など｜製薬業界きょうのニュースまとめ読み（2026年10月15日）
++										米国の医薬品関税「安全保障への脅威」盾に【薬の地政学 #3】
+ 									</h2>
+ 									<time>
+-										2026/10/15
++										2026/10/16
+ 									</time>
+ 								</div>
+ 							</a>
+@@ -275,6 +275,24 @@
+ 								</div>
+ 							</a>
+ 						</article>
++						<article>
++							<a href="https://answers.and-pro.jp/pharmanews/33355/" rel="noopener noreferrer">
++								<div>
++									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240116175722/takeda_1-196x195.jpg" width="157">
++								</div>
++								<div>
++									<span>
++										きょうのニュース
++									</span>
++									<h2>
++										武田薬品、ナルコレプシー薬「オーゼイフル」日本と中国で発売 など｜製薬業界きょうのニュースまとめ読み（2026年10月15日）
++									</h2>
++									<time>
++										2026/10/15
++									</time>
++								</div>
++							</a>
++						</article>
+ 						<article>
+ 							<a href="https://answers.and-pro.jp/pharmanews/33348/" rel="noopener noreferrer">
+ 								<div>
+@@ -383,24 +401,6 @@
+ 								</div>
+ 							</a>
+ 						</article>
+-						<article>
+-							<a href="https://answers.and-pro.jp/pharmanews/33326/" rel="noopener noreferrer">
+-								<div>
+-									<img alt="" height="157" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240724184234/tohoHD-196x195.png" width="157">
+-								</div>
+-								<div>
+-									<span>
+-										きょうのニュース
+-									</span>
+-									<h2>
+-										東邦HD、PHC買収「検討を終了」／キッセイ薬品子会社会社に不正アクセス、個人情報流出の可能性 など｜製薬業界きょうのニュースまとめ読み（2026年10月9日）
+-									</h2>
+-									<time>
+-										2026/10/09
+-									</time>
+-								</div>
+-							</a>
+-						</article>
+ 					</div>
+ 					<div>
+ 						<span>
+@@ -428,15 +428,15 @@
+ 						</h2>
+ 						<ul>
+ 							<li>
+-								<a href="https://answers.and-pro.jp/pharmanews/33355/" rel="noopener noreferrer">
++								<a href="https://answers.and-pro.jp/pharmanews/33364/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240116175722/takeda_1.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261016183131/pixta_47020112_S.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										武田薬品、ナルコレプシー薬「オーゼイフル」日本と中国で発売 など｜製薬業界きょうのニュースまとめ読み（2026年10月15日）
++										三和化学の熊本工場、19日に生産再開…7月の地震で被災／「MR君」に不正アクセス、医師や製薬企業担当者の情報漏洩 など｜製薬業界きょうのニュースまとめ読み（2026年10月16日）
+ 									</h3>
+ 									<time>
+-										2026/10/15
++										2026/10/16
+ 									</time>
+ 								</a>
+ 							</li>
+@@ -511,41 +511,41 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/pharmanews/33315/" rel="noopener noreferrer">
++								<a href="/pharmanews/33327/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261008110135/2026-10-07T200542Z_3_LYNXMPEM960U8_RTROPTP_4_AI-HEALTH-CLINICAL-TRIALS.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195832/career_monthly_report_eye-1.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										AIが予測していたノバルティスの最終治験失敗…AI企業、シミュレーションで臨床試験の成功率向上目指す
++										MR、選択肢豊富な状況続く…製造やメディカルなども堅調｜製薬業界 今月の転職求人動向レポート（2026年10月）
+ 									</h3>
+ 									<time>
+-										2026/10/09
++										2026/10/14
+ 									</time>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/pharmanews/33327/" rel="noopener noreferrer">
++								<a href="/pharmanews/33348/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195832/career_monthly_report_eye-1.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101705/pixta_65164912_M.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										MR、選択肢豊富な状況続く…製造やメディカルなども堅調｜製薬業界 今月の転職求人動向レポート（2026年10月）
++										スタルガルト病、初の治療薬登場に期待…ビライトバイオが申請、啓発活動に力
+ 									</h3>
+ 									<time>
+-										2026/10/14
++										2026/10/15
+ 									</time>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/pharmanews/33348/" rel="noopener noreferrer">
++								<a href="/pharmanews/33315/" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101705/pixta_65164912_M.jpg" width="80">
++										<img alt="" height="80" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261008110135/2026-10-07T200542Z_3_LYNXMPEM960U8_RTROPTP_4_AI-HEALTH-CLINICAL-TRIALS.jpg" width="80">
+ 									</div>
+ 									<h3>
+-										スタルガルト病、初の治療薬登場に期待…ビライトバイオが申請、啓発活動に力
++										AIが予測していたノバルティスの最終治験失敗…AI企業、シミュレーションで臨床試験の成功率向上目指す
+ 									</h3>
+ 									<time>
+-										2026/10/15
++										2026/10/09
+ 									</time>
+ 								</a>
+ 							</li>
+@@ -581,15 +581,15 @@
+ 					</h3>
+ 					<ul>
+ 						<li>
+-							<a href="https://answers.and-pro.jp/pharmanews/33355/" rel="noopener noreferrer">
++							<a href="https://answers.and-pro.jp/pharmanews/33364/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20240116175722/takeda_1.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261016183131/pixta_47020112_S.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									武田薬品、ナルコレプシー薬「オーゼイフル」日本と中国で発売 など｜製薬業界きょうのニュースまとめ読み（2026年10月15日）
++									三和化学の熊本工場、19日に生産再開…7月の地震で被災／「MR君」に不正アクセス、医師や製薬企業担当者の情報漏洩 など｜製薬業界きょうのニュースまとめ読み（2026年10月16日）
+ 								</h4>
+ 								<time>
+-									2026/10/15
++									2026/10/16
+ 								</time>
+ 							</a>
+ 						</li>
+@@ -664,41 +664,41 @@
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/pharmanews/33315/" rel="noopener noreferrer">
++							<a href="/pharmanews/33327/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261008110135/2026-10-07T200542Z_3_LYNXMPEM960U8_RTROPTP_4_AI-HEALTH-CLINICAL-TRIALS.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195832/career_monthly_report_eye-1.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									AIが予測していたノバルティスの最終治験失敗…AI企業、シミュレーションで臨床試験の成功率向上目指す
++									MR、選択肢豊富な状況続く…製造やメディカルなども堅調｜製薬業界 今月の転職求人動向レポート（2026年10月）
+ 								</h4>
+ 								<time>
+-									2026/10/09
++									2026/10/14
+ 								</time>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/pharmanews/33327/" rel="noopener noreferrer">
++							<a href="/pharmanews/33348/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20260515195832/career_monthly_report_eye-1.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101705/pixta_65164912_M.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									MR、選択肢豊富な状況続く…製造やメディカルなども堅調｜製薬業界 今月の転職求人動向レポート（2026年10月）
++									スタルガルト病、初の治療薬登場に期待…ビライトバイオが申請、啓発活動に力
+ 								</h4>
+ 								<time>
+-									2026/10/14
++									2026/10/15
+ 								</time>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/pharmanews/33348/" rel="noopener noreferrer">
++							<a href="/pharmanews/33315/" rel="noopener noreferrer">
+ 								<div>
+-									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261015101705/pixta_65164912_M.jpg" width="50">
++									<img alt="" height="50" src="https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261008110135/2026-10-07T200542Z_3_LYNXMPEM960U8_RTROPTP_4_AI-HEALTH-CLINICAL-TRIALS.jpg" width="50">
+ 								</div>
+ 								<h4>
+-									スタルガルト病、初の治療薬登場に期待…ビライトバイオが申請、啓発活動に力
++									AIが予測していたノバルティスの最終治験失敗…AI企業、シミュレーションで臨床試験の成功率向上目指す
+ 								</h4>
+ 								<time>
+-									2026/10/15
++									2026/10/09
+ 								</time>
+ 							</a>
+ 						</li>
+@@ -858,7 +858,7 @@
+ 								</span>
+ 								の求人件数
+ 								<span>
+-									1675
++									1676
+ 								</span>
+ 								件
+ 							</p>

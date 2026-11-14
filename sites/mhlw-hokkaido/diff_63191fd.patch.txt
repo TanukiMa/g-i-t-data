@@ -1,0 +1,89 @@
+diff --git a/sites/mhlw-hokkaido/jp/go/mhlw/kouseikyoku/hokkaido.html b/sites/mhlw-hokkaido/jp/go/mhlw/kouseikyoku/hokkaido.html
+index fa0a83cf..0223205b 100644
+--- a/sites/mhlw-hokkaido/jp/go/mhlw/kouseikyoku/hokkaido.html
++++ b/sites/mhlw-hokkaido/jp/go/mhlw/kouseikyoku/hokkaido.html
+@@ -936,26 +936,26 @@
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/iryo_shido/shisetsukijyun_ns.html" rel="noopener noreferrer">
++										<a href="/hokkaido/newpage_00097.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月2日
++													2026年11月4日
+ 												</time>
+ 												<em>
+ 													<span>
+-														申請・届出
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													訪問看護ステーションの『基準の受理状況』はこちらからご確認ください。
++													第40回北海道地方社会保険医療協議会について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/iryo_shido/shisetsukijyun_iryoukikan.html" rel="noopener noreferrer">
++										<a href="/hokkaido/iryo_shido/shisetsukijyun_ns.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月2日
+@@ -968,45 +968,45 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局の『施設基準の受理状況』はこちらからご確認ください。
++													訪問看護ステーションの『基準の受理状況』はこちらからご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/info/tsuchi/index.html" rel="noopener noreferrer">
++										<a href="/hokkaido/iryo_shido/shisetsukijyun_iryoukikan.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月2日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														申請・届出
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													医療保険関係通知等を掲載しています。
++													保険医療機関・保険薬局の『施設基準の受理状況』はこちらからご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/hokkaido/gyomu/gyomu/hoken_kikan/shinki_shitei_ichiran.html" rel="noopener noreferrer">
++										<a href="/hokkaido/info/tsuchi/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月2日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														通知・通達
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													新規指定保険医療機関・保険薬局一覧表
++													医療保険関係通知等を掲載しています。
+ 												</span>
+ 											</div>
+ 										</a>

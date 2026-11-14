@@ -1,0 +1,130 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index 74ac435c..52f66da8 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -1513,6 +1513,21 @@
+ 														<div>
+ 															<div>
+ 																<ul>
++																	<li>
++																		<div>
++																			2026年11月10日
++																		</div>
++																		<div>
++																			<span>
++																				関連団体
++																			</span>
++																		</div>
++																		<div>
++																			<a href="/news/detail.html?itemid=1166&amp;dispmid=767" rel="noopener noreferrer">
++																				厚生労働省：医薬品・医療機器等安全性情報No.433
++																			</a>
++																		</div>
++																	</li>
+ 																	<li>
+ 																		<div>
+ 																			2026年11月09日
+@@ -1576,21 +1591,6 @@
+ 																			</a>
+ 																		</div>
+ 																	</li>
+-																	<li>
+-																		<div>
+-																			2026年10月29日
+-																		</div>
+-																		<div>
+-																			<span>
+-																				関連団体
+-																			</span>
+-																		</div>
+-																		<div>
+-																			<a href="/news/detail.html?itemid=1162&amp;dispmid=767" rel="noopener noreferrer">
+-																				公益財団法人医療機器センター：【研究助成公募開始】2027年度自然科学系研究者向け研究助成（医療技術研究開発）のご案内
+-																			</a>
+-																		</div>
+-																	</li>
+ 																</ul>
+ 																<div>
+ 																	<p>
+@@ -1832,7 +1832,7 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026年11月09日
++																			2026年11月10日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1840,8 +1840,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1165&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本医学会：医薬品の適応外使用に係る保険診療上の取扱いについて
++																			<a href="/news/detail.html?itemid=1166&amp;dispmid=767" rel="noopener noreferrer">
++																				厚生労働省：医薬品・医療機器等安全性情報No.433
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1849,7 +1849,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年11月04日
++																			2026年11月09日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1857,8 +1857,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1164&amp;dispmid=767" rel="noopener noreferrer">
+-																				小林がん学術振興会：公益目的事業1 第21回研究助成応募要項
++																			<a href="/news/detail.html?itemid=1165&amp;dispmid=767" rel="noopener noreferrer">
++																				日本医学会：医薬品の適応外使用に係る保険診療上の取扱いについて
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1866,7 +1866,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月29日
++																			2026年11月04日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1874,8 +1874,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1163&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本医療研究開発機構（AMED）：令和9年度 「革新的がん医療実用化研究事業」に係る公募について
++																			<a href="/news/detail.html?itemid=1164&amp;dispmid=767" rel="noopener noreferrer">
++																				小林がん学術振興会：公益目的事業1 第21回研究助成応募要項
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1891,8 +1891,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1162&amp;dispmid=767" rel="noopener noreferrer">
+-																				公益財団法人医療機器センター：【研究助成公募開始】2027年度自然科学系研究者向け研究助成（医療技術研究開発）のご案内
++																			<a href="/news/detail.html?itemid=1163&amp;dispmid=767" rel="noopener noreferrer">
++																				日本医療研究開発機構（AMED）：令和9年度 「革新的がん医療実用化研究事業」に係る公募について
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1908,8 +1908,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1161&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本緩和医療学会：第42回教育セミナー開催のご案内
++																			<a href="/news/detail.html?itemid=1162&amp;dispmid=767" rel="noopener noreferrer">
++																				公益財団法人医療機器センター：【研究助成公募開始】2027年度自然科学系研究者向け研究助成（医療技術研究開発）のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>

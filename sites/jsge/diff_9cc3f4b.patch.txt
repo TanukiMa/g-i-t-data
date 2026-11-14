@@ -1,0 +1,68 @@
+diff --git a/sites/jsge/jp/or/jsge/index.html b/sites/jsge/jp/or/jsge/index.html
+index a636608d2..0bc777670 100644
+--- a/sites/jsge/jp/or/jsge/index.html
++++ b/sites/jsge/jp/or/jsge/index.html
+@@ -1533,6 +1533,19 @@
+ 																			</ul>
+ 																		</div>
+ 																		<ul>
++																			<li>
++																				<a href="https://www.jsge.or.jp/news/20261022/" rel="noopener noreferrer">
++																					<time>
++																						2026年10月22日
++																					</time>
++																					<span>
++																						学会より
++																					</span>
++																					<h3>
++																						MEDPORTALの一時停止のお知らせ
++																					</h3>
++																				</a>
++																			</li>
+ 																			<li>
+ 																				<a href="https://www.jsge.or.jp/news/20261016/" rel="noopener noreferrer">
+ 																					<time>
+@@ -1585,21 +1598,18 @@
+ 																					</h3>
+ 																				</a>
+ 																			</li>
++																		</ul>
++																		<ul>
+ 																			<li>
+-																				<a href="https://www.jsge.or.jp/news/20261001-6/" rel="noopener noreferrer">
++																				<a href="https://www.jsge.or.jp/news/20261022/" rel="noopener noreferrer">
+ 																					<time>
+-																						2026年10月01日
++																						2026年10月22日
+ 																					</time>
+-																					<span>
+-																						学会より
+-																					</span>
+ 																					<h3>
+-																						カスタマーハラスメントに対する基本方針
++																						MEDPORTALの一時停止のお知らせ
+ 																					</h3>
+ 																				</a>
+ 																			</li>
+-																		</ul>
+-																		<ul>
+ 																			<li>
+ 																				<a href="https://www.jsge.or.jp/news/20261001-6/" rel="noopener noreferrer">
+ 																					<time>
+@@ -1640,16 +1650,6 @@
+ 																					</h3>
+ 																				</a>
+ 																			</li>
+-																			<li>
+-																				<a href="https://www.jsge.or.jp/news/20260930-2/" rel="noopener noreferrer">
+-																					<time>
+-																						2026年09月30日
+-																					</time>
+-																					<h3>
+-																						診療ガイドライン パブリックコメント募集のお知らせ
+-																					</h3>
+-																				</a>
+-																			</li>
+ 																		</ul>
+ 																		<ul>
+ 																			<li>

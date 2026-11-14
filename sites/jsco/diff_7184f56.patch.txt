@@ -1,0 +1,175 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index 80f6b3017..2834241e2 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -1387,7 +1387,7 @@
+ 												<ul>
+ 													<li>
+ 														<div>
+-															2026年09月29日
++															2026年10月20日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1398,14 +1398,16 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=1140&amp;dispmid=767" rel="noopener noreferrer">
+-																「がんチューブ(一般社団法人日本癌治療学会公式YouTubeチャンネル)」のご紹介
++															<a href="/news/detail.html?itemid=642&amp;dispmid=767" rel="noopener noreferrer">
++																<span>
++																	10月20日(火)～26日(月)　本学会へのお問い合わせについて
++																</span>
+ 															</a>
+ 														</div>
+ 													</li>
+ 													<li>
+ 														<div>
+-															2026年09月07日
++															2026年09月29日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1416,18 +1418,14 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=1109&amp;dispmid=767" rel="noopener noreferrer">
+-																年会費(再請求)についてのお知らせのご送付について【9/4発送】
+-																<br>
+-																<span>
+-																	※「ご退職された方宛てに届いた場合」や「既にお支払い済みの場合」もこちらをご確認ください
+-																</span>
++															<a href="/news/detail.html?itemid=1140&amp;dispmid=767" rel="noopener noreferrer">
++																「がんチューブ(一般社団法人日本癌治療学会公式YouTubeチャンネル)」のご紹介
+ 															</a>
+ 														</div>
+ 													</li>
+ 													<li>
+ 														<div>
+-															2026年09月04日
++															2026年09月07日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1438,8 +1436,12 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
+-																参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
++															<a href="/news/detail.html?itemid=1109&amp;dispmid=767" rel="noopener noreferrer">
++																年会費(再請求)についてのお知らせのご送付について【9/4発送】
++																<br>
++																<span>
++																	※「ご退職された方宛てに届いた場合」や「既にお支払い済みの場合」もこちらをご確認ください
++																</span>
+ 															</a>
+ 														</div>
+ 													</li>
+@@ -1517,6 +1519,26 @@
+ 														<div>
+ 															<div>
+ 																<ul>
++																	<li>
++																		<div>
++																			2026年10月20日
++																		</div>
++																		<div>
++																			<span>
++																				重要
++																			</span>
++																			<span>
++																				学会
++																			</span>
++																		</div>
++																		<div>
++																			<a href="/news/detail.html?itemid=642&amp;dispmid=767" rel="noopener noreferrer">
++																				<span>
++																					10月20日(火)～26日(月)　本学会へのお問い合わせについて
++																				</span>
++																			</a>
++																		</div>
++																	</li>
+ 																	<li>
+ 																		<div>
+ 																			2026年10月15日
+@@ -1577,21 +1599,6 @@
+ 																			</a>
+ 																		</div>
+ 																	</li>
+-																	<li>
+-																		<div>
+-																			2026年10月05日
+-																		</div>
+-																		<div>
+-																			<span>
+-																				その他
+-																			</span>
+-																		</div>
+-																		<div>
+-																			<a href="/news/detail.html?itemid=1148&amp;dispmid=767" rel="noopener noreferrer">
+-																				協和キリン株式会社：フェントステープ_協和キリンの販売終了のお知らせ
+-																			</a>
+-																		</div>
+-																	</li>
+ 																</ul>
+ 																<div>
+ 																	<p>
+@@ -1611,6 +1618,28 @@
+ 														<div>
+ 															<div>
+ 																<ul>
++																	<li>
++																		<div>
++																			2026年10月20日
++																		</div>
++																		<div>
++																			<span>
++																				重要
++																			</span>
++																			<span>
++																				学会
++																			</span>
++																		</div>
++																		<div>
++																			<a href="/news/detail.html?itemid=642&amp;dispmid=767" rel="noopener noreferrer">
++																				<span>
++																					10月20日(火)～26日(月)　本学会へのお問い合わせについて
++																				</span>
++																			</a>
++																		</div>
++																		<div>
++																		</div>
++																	</li>
+ 																	<li>
+ 																		<div>
+ 																			2026年10月02日
+@@ -1689,26 +1718,6 @@
+ 																		<div>
+ 																		</div>
+ 																	</li>
+-																	<li>
+-																		<div>
+-																			2026年09月04日
+-																		</div>
+-																		<div>
+-																			<span>
+-																				重要
+-																			</span>
+-																			<span>
+-																				学会
+-																			</span>
+-																		</div>
+-																		<div>
+-																			<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
+-																				参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
+-																			</a>
+-																		</div>
+-																		<div>
+-																		</div>
+-																	</li>
+ 																</ul>
+ 																<div>
+ 																	<p>

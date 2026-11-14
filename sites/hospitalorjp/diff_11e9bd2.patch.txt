@@ -1,0 +1,32 @@
+diff --git a/sites/hospitalorjp/jp/or/hospital/index.html b/sites/hospitalorjp/jp/or/hospital/index.html
+index 474619dd7..4a46e9206 100644
+--- a/sites/hospitalorjp/jp/or/hospital/index.html
++++ b/sites/hospitalorjp/jp/or/hospital/index.html
+@@ -507,6 +507,13 @@
+ 					</div>
+ 				</div>
+ 				<div>
++					<div>
++						<div>
++							<a href="/site/activities_of_the_JHA/" rel="noopener noreferrer">
++								<img alt="国会議事堂を望むオフィスデスクに、「日本病院会の動き（提言・要望）」「現場の声を提言・要望につなげます。」のテキストと、「提言書」と書かれた書類、そして「医療政策」「地域医療」「医療提供体制」の背表紙のファイルが置かれている。" height="426" src="/site/img/Activities_of_the_Japan_Hospital_Association_02.webp" width="767">
++							</a>
++						</div>
++					</div>
+ 					<div>
+ 						<div>
+ 							<a href="/site/seminar/" rel="noopener noreferrer">
+@@ -521,6 +528,13 @@
+ 							</a>
+ 						</div>
+ 					</div>
++					<div>
++						<div>
++							<a href="https://jha-data.jp/" rel="noopener noreferrer">
++								<img alt="PCモニターに表示された棒グラフや折れ線グラフの画面と、キーボードが置かれたデスク風景。「日病データ」のテキストとデータベース・グラフのアイコン。" height="426" src="/site/img/JHA Data.webp" width="767">
++							</a>
++						</div>
++					</div>
+ 				</div>
+ 			</div>
+ 			<div>

@@ -1,0 +1,17 @@
+diff --git a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+index ece0ebc6f..f7b368c38 100644
+--- a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
++++ b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+@@ -189,6 +189,12 @@
+ 							新着情報
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="https://www.jst.go.jp/diversity/researcher/mscaward/" rel="noopener noreferrer">
++									「第6回 羽ばたく女性研究者賞（マリア・スクウォドフスカ＝キュリー賞）」募集のご案内
++								</a>
++								（2026/10/14）
++							</li>
+ 							<li>
+ 								<a href="topic/20261009.htm" rel="noopener noreferrer">
+ 									ECSS Manchester 2027における日本体力医学会・ECSS交流シンポジウムの企画公募について

@@ -1,0 +1,15 @@
+diff --git a/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html b/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
+index 6586fef6d..b3dcd4b1d 100644
+--- a/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
++++ b/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
+@@ -732,8 +732,8 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/r02kaiteijoho.html" rel="noopener noreferrer">
+-									令和2年　基本マスターに関する変更情報
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_03.html" rel="noopener noreferrer">
++									調剤行為マスター
+ 								</a>
+ 							</li>
+ 						</ul>

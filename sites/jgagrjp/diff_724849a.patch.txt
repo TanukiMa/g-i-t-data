@@ -1,0 +1,115 @@
+diff --git a/sites/jgagrjp/jp/gr/jga/index.html b/sites/jgagrjp/jp/gr/jga/index.html
+index be92ac63f..9414438ea 100644
+--- a/sites/jgagrjp/jp/gr/jga/index.html
++++ b/sites/jgagrjp/jp/gr/jga/index.html
+@@ -1140,6 +1140,19 @@
+ 							<div>
+ 								<nav>
+ 									<ul>
++										<li>
++											<a href="https://www.jga.gr.jp/news/261026_006019.html" rel="noopener noreferrer">
++												<time>
++													2026.10.26
++												</time>
++												<span>
++													トピックス
++												</span>
++												<span>
++													人気コンテンツ動画第44弾公開！『GE薬協コラム Factに迫る！「ニューロマーケティング」について』
++												</span>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261021_006018.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1179,25 +1192,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261026_006019.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.15
++													2026.10.26
+ 												</time>
+ 												<span>
+-													発表資料
++													トピックス
+ 												</span>
+ 												<span>
+-													「企業活動と医療機関等の関係の透明性ガイドラインについて」の改定について
++													人気コンテンツ動画第44弾公開！『GE薬協コラム Factに迫る！「ニューロマーケティング」について』
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261021_006018.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1237,25 +1250,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/information/jga-news/2026/221.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261026_006019.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.08
++													2026.10.26
+ 												</time>
+ 												<span>
+ 													トピックス
+ 												</span>
+ 												<span>
+-													JGAニュース9月号全体版PDFを発刊しました
++													人気コンテンツ動画第44弾公開！『GE薬協コラム Factに迫る！「ニューロマーケティング」について』
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261021_006018.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1295,19 +1308,6 @@
+ 												</span>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="https://www.jga.gr.jp/information/jga-news/2026/221.html" rel="noopener noreferrer">
+-												<time>
+-													2026.10.08
+-												</time>
+-												<span>
+-													トピックス
+-												</span>
+-												<span>
+-													JGAニュース9月号全体版PDFを発刊しました
+-												</span>
+-											</a>
+-										</li>
+ 									</ul>
+ 								</nav>
+ 							</div>

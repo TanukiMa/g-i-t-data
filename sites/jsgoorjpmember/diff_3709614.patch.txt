@@ -1,0 +1,16 @@
+diff --git a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+index b29811b19..bbcc00eee 100644
+--- a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
++++ b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+@@ -434,11 +434,6 @@
+ 									関連リンク
+ 								</h2>
+ 								<ul>
+-									<li>
+-										<a href="https://www.medicaltown.net/gynecology/" rel="noopener noreferrer">
+-											<img alt="OLYMPUS" src="/common/images/top_lv2/icn_olympus.png">
+-										</a>
+-									</li>
+ 									<li>
+ 										<a href="https://www.medtronic.com/jp-ja/index.html" rel="noopener noreferrer">
+ 											<img alt="Medtronic" src="/common/images/top_lv2/icn_medtronic.jpg">

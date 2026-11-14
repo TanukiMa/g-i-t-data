@@ -1,0 +1,113 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index ade044c7a..6ee179058 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2337,6 +2337,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/procurements/public-bidding/announcement-of-the-winning-bid/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年10月26日
++												</p>
++												<p>
++													調達
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													落札公示
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/int-activities/int-harmony/icmra/0033.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2578,9 +2594,6 @@
+ 												<p>
+ 													薬局方
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													第二十改正日本薬局方作成基本方針を掲載しました
+ 												</p>
+@@ -2594,9 +2607,6 @@
+ 												<p>
+ 													基準
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました
+ 												</p>
+@@ -2641,22 +2651,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/about-pmda/symposia/0036.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月15日
+-												</p>
+-												<p>
+-													その他
+-												</p>
+-												<p>
+-													イベント
+-												</p>
+-												<p>
+-													第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2988,9 +2982,6 @@
+ 												<p>
+ 													薬局方
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													第二十改正日本薬局方作成基本方針を掲載しました
+ 												</p>
+@@ -3004,9 +2995,6 @@
+ 												<p>
+ 													基準
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました
+ 												</p>
+@@ -3096,6 +3084,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/procurements/public-bidding/announcement-of-the-winning-bid/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年10月26日
++												</p>
++												<p>
++													調達
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													落札公示
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/recruit/0785.html" rel="noopener noreferrer">
+ 												<p>

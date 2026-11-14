@@ -1,0 +1,42 @@
+diff --git a/sites/medorjpnew/jp/or/med/new-html.html b/sites/medorjpnew/jp/or/med/new-html.html
+index 42c45683..3277874a 100644
+--- a/sites/medorjpnew/jp/or/med/new-html.html
++++ b/sites/medorjpnew/jp/or/med/new-html.html
+@@ -423,6 +423,18 @@
+ 						</div>
+ 					</div>
+ 					<ul>
++						<li>
++							<dl>
++								<dt>
++									2026年11月09日
++								</dt>
++								<dd>
++									<a href="https://www.med.or.jp/doctor/sien/s_sien/010599.html" rel="noopener noreferrer">
++										オンライン診療について
++									</a>
++								</dd>
++							</dl>
++						</li>
+ 						<li>
+ 							<dl>
+ 								<dt>
+@@ -1028,18 +1040,6 @@
+ 								</dd>
+ 							</dl>
+ 						</li>
+-						<li>
+-							<dl>
+-								<dt>
+-									2026年07月02日
+-								</dt>
+-								<dd>
+-									<a href="https://www.med.or.jp/dl-med/female/men202605.pdf" rel="noopener noreferrer">
+-										調査報告書【R.8.5：男女共同参画についての男性医師の意識調査】
+-									</a>
+-								</dd>
+-							</dl>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						年別表記

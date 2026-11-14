@@ -1,0 +1,49 @@
+diff --git a/sites/jsbac/org/jsbac/index.html b/sites/jsbac/org/jsbac/index.html
+index 9da9f3f05..090723da2 100644
+--- a/sites/jsbac/org/jsbac/index.html
++++ b/sites/jsbac/org/jsbac/index.html
+@@ -284,6 +284,23 @@
+ 							<div>
+ 							</div>
+ 						</div>
++						<div>
++							<div>
++								<span>
++								</span>
++								<time>
++									2026.10.22
++								</time>
++								<span>
++									研究助成
++								</span>
++							</div>
++							<div>
++								<a href="publications_03.html#anker-7" rel="noopener noreferrer">
++									公益財団法人アサヒグループ財団　2027年度 学術研究助成 公募のお知らせ
++								</a>
++							</div>
++						</div>
+ 						<div>
+ 							<div>
+ 								<span>
+@@ -323,7 +340,7 @@
+ 								<span>
+ 								</span>
+ 								<time>
+-									2026.10.09
++									2026.10.19
+ 								</time>
+ 								<span>
+ 									公募・求人情報
+@@ -580,9 +597,9 @@
+ 							</div>
+ 							<div>
+ 								<a href="publications_03.html#anker-6" rel="noopener noreferrer">
+-									【若手・中堅研究者歓迎】広島大学大学院統合生命科学研究科・准教授（食品衛生学分野）の公募について(9/30 17:00(日本標準時)締切)
++									(公募期間延長)【若手・中堅研究者歓迎】広島大学大学院統合生命科学研究科・准教授（食品衛生学分野）の公募について(11/4 17:00(日本標準時)締切)
+ 									<br>
+-									【Welcome Early-Career and Mid-Career Researchers】Food Microbiology and Hygiene, Hiroshima University/Associate Professor,one(1)（5:00 pm on Wednesday, September 30, 2026(Japan time)）
++									(Extension of the Application Period)【Welcome Early-Career and Mid-Career Researchers】Food Microbiology and Hygiene, Hiroshima University/Associate Professor,one(1)（5:00 pm on Wednesday, November 4, 2026(Japan time)）
+ 								</a>
+ 							</div>
+ 						</div>

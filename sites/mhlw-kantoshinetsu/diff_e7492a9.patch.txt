@@ -1,0 +1,134 @@
+diff --git a/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html b/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
+index 0a72b42cd..92ad99ddb 100644
+--- a/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
++++ b/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
+@@ -899,94 +899,94 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kantoshinetsu/gyomu/bu_ka/tokyo/index.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/iryo_shido/daketuritu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月2日
++													2026年9月30日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「お知らせ：届出等の「控」への受付押印の終了について」を掲載しました。
++													妥結率等に係る報告について更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/iryo_shido/daketuritu.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/gyomu/gyomu/hoken_kikan/fuseiseikyu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月30日
++													2026年9月17日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															その他
++															<img alt="重要" src="/common/img/icn_important.svg">
++															行政処分等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													妥結率等に係る報告について更新しました。
++													保険診療等において不正請求等が行われた場合の取扱いについて更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/gyomu/gyomu/hoken_kikan/fuseiseikyu.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/iryo_shido/r8kaitei-keikasochi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月17日
++													2026年9月14日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															行政処分等
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険診療等において不正請求等が行われた場合の取扱いについて更新しました。
++													令和8年度診療報酬改定において経過措置を設けた施設基準の取扱いについて更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/iryo_shido/r8kaitei-keikasochi.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/iji/saiseiiryou_0003_00001.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月14日
++													2026年7月31日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															行政処分等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年度診療報酬改定において経過措置を設けた施設基準の取扱いについて更新しました。
++													再生医療等の安全性の確保等に関する法律に基づく改善命令について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/iji/saiseiiryou_0003_00001.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/iryo_shido/sisetukjyunnnotodokedejyoukyoutonohoukokunituite.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年7月31日
+@@ -995,14 +995,14 @@
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															行政処分等
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													再生医療等の安全性の確保等に関する法律に基づく改善命令について
++													令和8年度定例報告について
+ 												</span>
+ 											</div>
+ 										</a>

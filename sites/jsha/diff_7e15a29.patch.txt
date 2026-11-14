@@ -1,0 +1,124 @@
+diff --git a/sites/jsha/jp/gr/jsha/index.html b/sites/jsha/jp/gr/jsha/index.html
+index 83d8aa0c..8c36087a 100644
+--- a/sites/jsha/jp/gr/jsha/index.html
++++ b/sites/jsha/jp/gr/jsha/index.html
+@@ -438,6 +438,19 @@
+ 									<div>
+ 										<div>
+ 											<dl>
++												<dt>
++													<span>
++														2026年11月2日
++													</span>
++													<a href="https://www.jsha.gr.jp/category/news/journal/" rel="noopener noreferrer" title="View all posts in 学会誌">
++														学会誌
++													</a>
++												</dt>
++												<dd>
++													<a href="https://www.jstage.jst.go.jp/browse/jsha/-char/ja/" rel="noopener noreferrer">
++														学会誌第63巻第4号をJ-Stageへ掲載しました。
++													</a>
++												</dd>
+ 												<dt>
+ 													<span>
+ 														2026年10月19日
+@@ -490,19 +503,6 @@
+ 														例会第448回は、2026年9月8日（火）17：30～19：00Zoomによるオンラインにて開催されます。テーマは「新たな地域医療構想を見据えた地域連携と経営企画の役割」です。
+ 													</a>
+ 												</dd>
+-												<dt>
+-													<span>
+-														2026年7月1日
+-													</span>
+-													<a href="https://www.jsha.gr.jp/category/news/meeting/" rel="noopener noreferrer" title="View all posts in 例会">
+-														例会
+-													</a>
+-												</dt>
+-												<dd>
+-													<a href="/meeting/details/" rel="noopener noreferrer">
+-														例会第447回は、2026年7月11日（土）14：00～16：30スペースマーケット 名駅セミナーオフィスDおよびGoogle Meet配信にて開催されます。テーマは「AIとトランプ時代の医療機関の生き方」です。
+-													</a>
+-												</dd>
+ 											</dl>
+ 										</div>
+ 									</div>
+@@ -724,7 +724,7 @@
+ 											<dl>
+ 												<dt>
+ 													<span>
+-														2026年7月31日
++														2026年11月2日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/journal/" rel="noopener noreferrer" title="View all posts in 学会誌">
+ 														学会誌
+@@ -732,12 +732,12 @@
+ 												</dt>
+ 												<dd>
+ 													<a href="https://www.jstage.jst.go.jp/browse/jsha/-char/ja/" rel="noopener noreferrer">
+-														学会誌第63巻第3号をJ-Stageへ掲載しました。
++														学会誌第63巻第4号をJ-Stageへ掲載しました。
+ 													</a>
+ 												</dd>
+ 												<dt>
+ 													<span>
+-														2026年4月30日
++														2026年7月31日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/journal/" rel="noopener noreferrer" title="View all posts in 学会誌">
+ 														学会誌
+@@ -745,12 +745,12 @@
+ 												</dt>
+ 												<dd>
+ 													<a href="https://www.jstage.jst.go.jp/browse/jsha/-char/ja/" rel="noopener noreferrer">
+-														学会誌第63巻第2号をJ-Stageへ掲載しました。
++														学会誌第63巻第3号をJ-Stageへ掲載しました。
+ 													</a>
+ 												</dd>
+ 												<dt>
+ 													<span>
+-														2026年1月30日
++														2026年4月30日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/journal/" rel="noopener noreferrer" title="View all posts in 学会誌">
+ 														学会誌
+@@ -758,33 +758,33 @@
+ 												</dt>
+ 												<dd>
+ 													<a href="https://www.jstage.jst.go.jp/browse/jsha/-char/ja/" rel="noopener noreferrer">
+-														学会誌第63巻第1号をJ-Stageへ掲載しました。
++														学会誌第63巻第2号をJ-Stageへ掲載しました。
+ 													</a>
+ 												</dd>
+ 												<dt>
+ 													<span>
+-														2026年1月14日
++														2026年1月30日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/journal/" rel="noopener noreferrer" title="View all posts in 学会誌">
+ 														学会誌
+ 													</a>
+ 												</dt>
+ 												<dd>
+-													<a href="/wp-content/uploads/n260114.pdf" rel="noopener noreferrer">
+-														『日本医療・病院管理学会誌』投稿システムのエラーによる編集委員名の遺漏について
++													<a href="https://www.jstage.jst.go.jp/browse/jsha/-char/ja/" rel="noopener noreferrer">
++														学会誌第63巻第1号をJ-Stageへ掲載しました。
+ 													</a>
+ 												</dd>
+ 												<dt>
+ 													<span>
+-														2025年10月31日
++														2026年1月14日
+ 													</span>
+ 													<a href="https://www.jsha.gr.jp/category/news/journal/" rel="noopener noreferrer" title="View all posts in 学会誌">
+ 														学会誌
+ 													</a>
+ 												</dt>
+ 												<dd>
+-													<a href="https://www.jstage.jst.go.jp/browse/jsha/-char/ja/" rel="noopener noreferrer">
+-														学会誌第62巻第4号をJ-Stageへ掲載しました。
++													<a href="/wp-content/uploads/n260114.pdf" rel="noopener noreferrer">
++														『日本医療・病院管理学会誌』投稿システムのエラーによる編集委員名の遺漏について
+ 													</a>
+ 												</dd>
+ 											</dl>

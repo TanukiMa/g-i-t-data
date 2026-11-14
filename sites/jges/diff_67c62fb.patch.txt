@@ -1,0 +1,54 @@
+diff --git a/sites/jges/net/jges/index.html b/sites/jges/net/jges/index.html
+index 625514f03..df0a7e464 100644
+--- a/sites/jges/net/jges/index.html
++++ b/sites/jges/net/jges/index.html
+@@ -2019,6 +2019,25 @@
+ 				</div>
+ 			</div>
+ 			<ul>
++				<li>
++					<div>
++						<div>
++							<span>
++								2026年10月15日
++							</span>
++							<a href="https://www.jges.net/news/news-official" rel="noopener noreferrer">
++								学会
++							</a>
++						</div>
++						<div>
++							<a href="https://www.jstage.jst.go.jp/browse/gee/68/Supplement2/_contents/-char/ja" rel="noopener noreferrer">
++								学会誌Vol.68 Supplement2がJ-STAGEで公開されました
++							</a>
++							<div>
++							</div>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<div>
+ 						<div>
+@@ -2180,23 +2199,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<div>
+-						<div>
+-							<span>
+-								2026年10月02日
+-							</span>
+-							<a href="https://www.jges.net/news/news-government" rel="noopener noreferrer">
+-								官公庁など
+-							</a>
+-						</div>
+-						<div>
+-							<a href="/wp-content/uploads/2026/10/2294f271d2c9bac174a2b82a78665310.pdf" rel="noopener noreferrer">
+-								医療事故情報収集等事業第86回報告書の公表について厚生労働省より周知依頼がございました。
+-							</a>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 		</div>
+ 		<div>

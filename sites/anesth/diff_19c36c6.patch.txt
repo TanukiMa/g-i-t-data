@@ -1,0 +1,38 @@
+diff --git a/sites/anesth/jp/or/anesth/index.html b/sites/anesth/jp/or/anesth/index.html
+index f9ced93f0..c4ced1f15 100644
+--- a/sites/anesth/jp/or/anesth/index.html
++++ b/sites/anesth/jp/or/anesth/index.html
+@@ -289,6 +289,16 @@
+         海外団体からのお知らせ
+ 					<div>
+ 						<div>
++							<div>
++								<p>
++									2026.10.09
++								</p>
++								<p>
++									<a href="/users/news/detail/aba7c014-60b2-4c4d-b2d7-514e343709d5#layout-top" rel="noopener noreferrer">
++										第2回AARS Webinar アーカイブ動画配信
++									</a>
++								</p>
++							</div>
+ 							<div>
+ 								<p>
+ 									2026.10.07
+@@ -1277,16 +1287,6 @@
+ 									</a>
+ 								</p>
+ 							</div>
+-							<div>
+-								<p>
+-									2025.04.07
+-								</p>
+-								<p>
+-									<a href="https://anesth-branch2026.org" rel="noopener noreferrer">
+-										2026年度支部学術集会の共通ホームページを公開いたしました
+-									</a>
+-								</p>
+-							</div>
+ 						</div>
+ 						<div>
+ 							<a href="/users/news/all/ippan#layout-top" rel="noopener noreferrer">

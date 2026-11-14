@@ -1,0 +1,136 @@
+diff --git a/sites/japanptorjp/jp/or/japanpt/index.html b/sites/japanptorjp/jp/or/japanpt/index.html
+index 3cada0608..a87a9c914 100644
+--- a/sites/japanptorjp/jp/or/japanpt/index.html
++++ b/sites/japanptorjp/jp/or/japanpt/index.html
+@@ -573,9 +573,9 @@
+ 			<div>
+ 				<div>
+ 					<div>
+-						<a href="https://rigakulab.jp/2026/10/21/id000357/" rel="noopener noreferrer">
+-							<img alt="リガクラボ" src="/asset/image/PC_id357.png">
+-							<img alt="リガクラボ" src="/asset/image/SP_id357.png">
++						<a href="https://rigakulab.jp/2026/10/28/id000358/" rel="noopener noreferrer">
++							<img alt="リガクラボ" src="/asset/image/PC_id358.png">
++							<img alt="リガクラボ" src="/asset/image/SP_id358.png">
+ 						</a>
+ 					</div>
+ 				</div>
+@@ -612,7 +612,7 @@
+ 			<div>
+ 				<ul>
+ 					<li>
+-						<a href="/info/20261028_301.html" rel="noopener noreferrer">
++						<a href="/info/20261028_300.html" rel="noopener noreferrer">
+ 							<div>
+ 								2026年10月28日
+ 							</div>
+@@ -621,20 +621,17 @@
+ 									<li>
+ 										お知らせ
+ 									</li>
+-									<li>
+-										重要なお知らせ
+-									</li>
+ 								</ul>
+ 							</div>
+ 							<div>
+-								【復旧】本会WEBサイトの一部利用停止について
++								［リガクラボ］「猪狩ともかさんインタビュー【後編】歌とリハビリで応援の声を力に変えるアイドル～比べるのは過去の自分！リハビリ後の小さな変化も原動力に～」を掲載しました
+ 							</div>
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="/info/20261023_297.html" rel="noopener noreferrer">
++						<a href="/info/20261028_301.html" rel="noopener noreferrer">
+ 							<div>
+-								2026年10月23日
++								2026年10月28日
+ 							</div>
+ 							<div>
+ 								<ul>
+@@ -647,12 +644,12 @@
+ 								</ul>
+ 							</div>
+ 							<div>
+-								【緊急】WEBサイト一部利用停止に伴う研修会、学術大会等での対応について
++								【復旧】本会WEBサイトの一部利用停止について
+ 							</div>
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="/info/20261023_294.html" rel="noopener noreferrer">
++						<a href="/info/20261023_297.html" rel="noopener noreferrer">
+ 							<div>
+ 								2026年10月23日
+ 							</div>
+@@ -661,40 +658,34 @@
+ 									<li>
+ 										お知らせ
+ 									</li>
+-									<li>
+-										重要なお知らせ
+-									</li>
+ 								</ul>
+ 							</div>
+ 							<div>
+-								【緊急】本会WEBサイトの一部利用停止について（続報）
++								【緊急】WEBサイト一部利用停止に伴う研修会、学術大会等での対応について
+ 							</div>
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="/info/20261022_292.html" rel="noopener noreferrer">
++						<a href="/info/20261023_294.html" rel="noopener noreferrer">
+ 							<div>
+-								2026年10月22日
++								2026年10月23日
+ 							</div>
+ 							<div>
+ 								<ul>
+ 									<li>
+ 										お知らせ
+ 									</li>
+-									<li>
+-										重要なお知らせ
+-									</li>
+ 								</ul>
+ 							</div>
+ 							<div>
+-								【緊急】本会WEBサイトの一部利用停止について
++								【緊急】本会WEBサイトの一部利用停止について（続報）
+ 							</div>
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="/info/20261021_291.html" rel="noopener noreferrer">
++						<a href="/info/20261022_292.html" rel="noopener noreferrer">
+ 							<div>
+-								2026年10月21日
++								2026年10月22日
+ 							</div>
+ 							<div>
+ 								<ul>
+@@ -704,12 +695,12 @@
+ 								</ul>
+ 							</div>
+ 							<div>
+-								【緊急】お問い合わせフォーム利用停止について
++								【緊急】本会WEBサイトの一部利用停止について
+ 							</div>
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="/info/20261021_288.html" rel="noopener noreferrer">
++						<a href="/info/20261021_291.html" rel="noopener noreferrer">
+ 							<div>
+ 								2026年10月21日
+ 							</div>
+@@ -721,7 +712,7 @@
+ 								</ul>
+ 							</div>
+ 							<div>
+-								［リガクラボ］「猪狩ともかさんインタビュー【前編】歌とリハビリで応援の声を力に変えるアイドル～なんとかなる！ファンへのエールを歌詞に込めて～」を掲載しました
++								【緊急】お問い合わせフォーム利用停止について
+ 							</div>
+ 						</a>
+ 					</li>

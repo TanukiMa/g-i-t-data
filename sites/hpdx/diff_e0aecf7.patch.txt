@@ -1,0 +1,195 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 7f8ca02df..e23ba7eb7 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -318,13 +318,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<a href="/about/chotatsu/20260414_1_syousei.html" rel="noopener noreferrer">
+-									審査システムに係るファイル・帳票出力領域の設計・開発及び運用保守一式（意見招請）について
+-								</a>
+-							</span>
+-						</li>
+ 						<li>
+ 							<span>
+ 								<a href="/seikyushiharai/titansys/index.html" rel="noopener noreferrer">
+@@ -390,10 +383,13 @@
+ 								<span>
+ 									令和8年10月13日
+ 								</span>
++								<span>
++									ベンダー
++								</span>
+ 							</span>
+ 							<span>
+-								<a href="/seikyushiharai/h_idojoho/idou_2026_04.html" rel="noopener noreferrer">
+-									保険者の異動について（2026年9月分）を掲載しました
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/index.html" rel="noopener noreferrer">
++									基本マスター（医科診療行為・医薬品）、コメント関連テーブル及びレセプト電算処理システムマスターファイル仕様説明書を更新しました
+ 								</a>
+ 							</span>
+ 						</li>
+@@ -403,87 +399,84 @@
+ 									令和8年10月13日
+ 								</span>
+ 								<span>
+-									医療機関・保険者
++									ベンダー
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="/about/kohoshi/gekkankikin/r08/r08_10.html" rel="noopener noreferrer">
+-									月刊DX審査支払機構「医療をつなぐ」（旧月刊基金）を掲載しました。
++								<a href="/seikyushiharai/tensuhyo/ikashika/index.html" rel="noopener noreferrer">
++									電子点数表（医科）を更新しました
+ 								</a>
+ 							</span>
+ 						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+-									令和8年10月9日
+-								</span>
+-								<span>
+-									ベンダー
++									令和8年10月13日
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="/seikyushiharai/rezept/hokenja/download/index.html" rel="noopener noreferrer">
+-									オンラインによる電子レセプトの再審査請求に係る手引きを更新しました。
++								<a href="/seikyushiharai/h_idojoho/idou_2026_04.html" rel="noopener noreferrer">
++									保険者の異動について（2026年9月分）を掲載しました
+ 								</a>
+ 							</span>
+ 						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+-									令和8年10月9日
++									令和8年10月13日
+ 								</span>
+ 								<span>
+-									ベンダー
++									医療機関・保険者
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="/seikyushiharai/iryokikan/iryokikan_02.html" rel="noopener noreferrer">
+-									電子レセプトの作成手引きを更新しました。
++								<a href="/about/kohoshi/gekkankikin/r08/r08_10.html" rel="noopener noreferrer">
++									月刊DX審査支払機構「医療をつなぐ」（旧月刊基金）を掲載しました。
+ 								</a>
+ 							</span>
+ 						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+-									令和8年10月5日
++									令和8年10月9日
+ 								</span>
+ 								<span>
+-									医療機関等
++									ベンダー
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="https://www.hpdx.or.jp/seikyushiharai/iryokikan/download/index.files/checkichiran_chozai.pdf" rel="noopener noreferrer">
+-									「受付・事務点検ＡＳＰに係るチェック一覧」を更新しました
++								<a href="/seikyushiharai/rezept/hokenja/download/index.html" rel="noopener noreferrer">
++									オンラインによる電子レセプトの再審査請求に係る手引きを更新しました。
+ 								</a>
+ 							</span>
+ 						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+-									令和8年10月1日
++									令和8年10月9日
+ 								</span>
+ 								<span>
+ 									ベンダー
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/index.html" rel="noopener noreferrer">
+-									基本マスター（医科診療行為・医薬品・特定器材・コメント）及びコメント関連テーブルを更新しました
++								<a href="/seikyushiharai/iryokikan/iryokikan_02.html" rel="noopener noreferrer">
++									電子レセプトの作成手引きを更新しました。
+ 								</a>
+ 							</span>
+ 						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+-									令和8年10月1日
++									令和8年10月5日
+ 								</span>
+ 								<span>
+-									ベンダー
++									医療機関等
+ 								</span>
+ 							</span>
+ 							<span>
+-								<a href="/seikyushiharai/tensuhyo/ikashika/index.html" rel="noopener noreferrer">
+-									電子点数表（医科・歯科）を更新しました
++								<a href="https://www.hpdx.or.jp/seikyushiharai/iryokikan/download/index.files/checkichiran_chozai.pdf" rel="noopener noreferrer">
++									「受付・事務点検ＡＳＰに係るチェック一覧」を更新しました
+ 								</a>
+ 							</span>
+ 						</li>
+@@ -517,51 +510,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月1日
+-								</span>
+-								<span>
+-									プレスリリース
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_081001_1.html" rel="noopener noreferrer">
+-									令和8年7月診療分は対前年同月伸び率で 確定件数 1.9%増加、確定金額 6.9%増加
+-								</a>
+-							</span>
+-						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年9月30日
+-								</span>
+-								<span>
+-									プレスリリース
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_080930_1.html" rel="noopener noreferrer">
+-									支払基金における審査の一般的な取扱い（医科）を追加
+-								</a>
+-							</span>
+-						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年9月30日
+-								</span>
+-								<span>
+-									プレスリリース
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_080930_2.html" rel="noopener noreferrer">
+-									支払基金における審査の一般的な取扱い（調剤）を公表
+-								</a>
+-							</span>
+-						</li>
+ 					</ul>
+ 				</div>
+ 			</div>

@@ -1,0 +1,24 @@
+diff --git a/sites/jsmez/org/jsmez/index.html b/sites/jsmez/org/jsmez/index.html
+index e76f94ae7..30a79f58a 100644
+--- a/sites/jsmez/org/jsmez/index.html
++++ b/sites/jsmez/org/jsmez/index.html
+@@ -831,10 +831,18 @@
+ 					<div>
+ 						<p>
+ 							<a href="https://www.jsmez.org/26th-board-election/" rel="noopener noreferrer">
+-								<img alt="" height="48" width="48">
+ 								第26期幹事選挙を実施致します。ご協力をお願い致します。
+ 							</a>
+ 							<br>
++							<br>
++							<a href="https://iap-jp.org/jsmez/vote/member/login" rel="noopener noreferrer">
++								<img alt="" height="48" width="48">
++								<strong>
++									投票は、こちらのページ
++								</strong>
++								から、お願い致します。
++							</a>
++							<br>
+ 						</p>
+ 						<p>
+ 							会費の納入にご協力をお願い致します。納付状況はマイページで確認できます。

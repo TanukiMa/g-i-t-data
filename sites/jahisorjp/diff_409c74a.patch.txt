@@ -1,0 +1,45 @@
+diff --git a/sites/jahisorjp/jp/jahis/index.html b/sites/jahisorjp/jp/jahis/index.html
+index 9ddc4936b..8efbffcf9 100644
+--- a/sites/jahisorjp/jp/jahis/index.html
++++ b/sites/jahisorjp/jp/jahis/index.html
+@@ -316,12 +316,22 @@
+ 									<tbody>
+ 										<tr>
+ 											<th>
+-												2026/10/26
++												2026/10/23
+ 											</th>
+ 											<td>
+ 												【本日午前10時運用再開】ホームページの緊急点検及び修正プログラムの適用作業が完了し安全性を確認できましたので運用を再開いたしました。ご利用の皆様にはご不便とご迷惑をおかけしましたことをお詫びいたします。
+ 											</td>
+ 										</tr>
++										<tr>
++											<th>
++												2026/10/23
++											</th>
++											<td>
++												<a href="topics_detail14/id=1174" rel="noopener noreferrer">
++													【お知らせ】１１月２日（月）事務所の閉鎖お知らせ
++												</a>
++											</td>
++										</tr>
+ 										<tr>
+ 											<th>
+ 												2026/10/21
+@@ -500,16 +510,6 @@
+ 												</a>
+ 											</td>
+ 										</tr>
+-										<tr>
+-											<th>
+-												2025/08/28
+-											</th>
+-											<td>
+-												<a href="https://www.jahis.jp/sections/id=574?contents_type=29" rel="noopener noreferrer">
+-													「JAHIS医療情報システムにおける無線通信技術利用ガイド」(セキュリティ委員会 セキュアトークンWG)を掲載しました
+-												</a>
+-											</td>
+-										</tr>
+ 									</tbody>
+ 								</table>
+ 							</div>

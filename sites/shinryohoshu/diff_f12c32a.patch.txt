@@ -1,0 +1,30 @@
+diff --git a/sites/shinryohoshu/jp/go/mhlw/shinryohoshu/shinryohoshu.html b/sites/shinryohoshu/jp/go/mhlw/shinryohoshu/shinryohoshu.html
+index 4423a9507..3ca836f3b 100644
+--- a/sites/shinryohoshu/jp/go/mhlw/shinryohoshu/shinryohoshu.html
++++ b/sites/shinryohoshu/jp/go/mhlw/shinryohoshu/shinryohoshu.html
+@@ -461,6 +461,25 @@
+ 																<td>
+ 																	<table>
+ 																		<tbody>
++																			<tr>
++																				<td colspan="2">
++																					<img height="1" src="img/dummy.gif" width="1">
++																				</td>
++																			</tr>
++																			<tr>
++																				<td colspan="2">
++																					・令和 8年11月13日
++																				</td>
++																			</tr>
++																			<tr>
++																				<td>
++																					<img height="1" src="img/dummy.gif" width="15r">
++																				</td>
++																				<td>
++																					一部メールの接続障害に伴い、《 上記以外のお問合せについて 》に追記いたしました。
++																					<br>
++																				</td>
++																			</tr>
+ 																			<tr>
+ 																				<td colspan="2">
+ 																					<img height="1" src="img/dummy.gif" width="1">

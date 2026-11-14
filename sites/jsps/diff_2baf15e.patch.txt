@@ -1,0 +1,71 @@
+diff --git a/sites/jsps/jp/or/jsps/index.html b/sites/jsps/jp/or/jsps/index.html
+index 649d1899..e40f28c3 100644
+--- a/sites/jsps/jp/or/jsps/index.html
++++ b/sites/jsps/jp/or/jsps/index.html
+@@ -278,6 +278,22 @@
+ 						</div>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								2026.11.4
++							</span>
++							<a href="http://www.jsps.or.jp/seminar/endoscope-seminar" rel="noopener noreferrer">
++								【第22回小児内視鏡外科手術セミナー 開催のお知らせ  】
++							</a>
++						</li>
++						<li>
++							<span>
++								2026.11.4
++							</span>
++							<a href="http://www.jsps.or.jp/seminar/after-graduation-seminar" rel="noopener noreferrer">
++								【第42回卒後教育セミナー開催のお知らせ】
++							</a>
++						</li>
+ 						<li>
+ 							<span>
+ 								2026.10.26
+@@ -342,22 +358,6 @@
+ 								【第169回日本医学会シンポジウム「AIの実臨床応用」開催のお知らせについて】
+ 							</a>
+ 						</li>
+-						<li>
+-							<span>
+-								2026.10.5
+-							</span>
+-							<a href="http://www.jsps.or.jp/business/aboutus/about" rel="noopener noreferrer">
+-								「日本小児外科学会HP　学会概要（沿革）更新のお知らせ」
+-							</a>
+-						</li>
+-						<li>
+-							<span>
+-								2026.10.1
+-							</span>
+-							<a href="http://www.jsps.or.jp/wp-content/uploads/2026/10/SBSガイドライン_パブリックコメント依頼文_日本小児外科学会会員向け.pdf" rel="noopener noreferrer">
+-								【短腸症候群（短腸症）診療ガイドライン（草案）へのパブリックコメントのお願い】
+-							</a>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						<div>
+@@ -433,18 +433,12 @@
+ 							<a href="http://www.jsps.or.jp/u45wg-t" rel="noopener noreferrer">
+ 								<img alt="#" src="http://www.jsps.or.jp/wp-content/uploads/2025/07/U45WG.png">
+ 							</a>
+-							<a href="http://www.jsps.or.jp/senmon-mokuji/senmonshidoushinsei" rel="noopener noreferrer">
+-								<img src="http://www.jsps.or.jp/wp-content/uploads/2021/03/専門医・指導医等・更新・新規手続.png">
+-							</a>
+-							<a href="https://opesuru.com/" rel="noopener noreferrer">
+-								<img alt="#" src="http://www.jsps.or.jp/wp-content/uploads/2026/07/2026オペスル_外科学会用バナー0710.png">
++							<a href="https://site2.convention.co.jp/jsps64/" rel="noopener noreferrer">
++								<img alt="#" src="http://www.jsps.or.jp/wp-content/uploads/2026/07/64poster.jpg">
+ 							</a>
+ 							<a href="https://psjm2026.umin.jp/" rel="noopener noreferrer">
+ 								<img alt="#" src="http://www.jsps.or.jp/wp-content/uploads/2026/06/poster.jpg">
+ 							</a>
+-							<a href="https://site2.convention.co.jp/jsps64/" rel="noopener noreferrer">
+-								<img alt="#" src="http://www.jsps.or.jp/wp-content/uploads/2026/07/64poster.jpg">
+-							</a>
+ 							<a href="https://www.jstage.jst.go.jp/browse/jjsps/-char/ja/" rel="noopener noreferrer">
+ 								<img alt="#" src="http://www.jsps.or.jp/wp-content/uploads/2019/01/banner-1.png">
+ 							</a>

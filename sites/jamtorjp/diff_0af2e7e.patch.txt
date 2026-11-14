@@ -1,0 +1,38 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index bc046c139..b3ebb90b7 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -757,6 +757,16 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="/studysession/relation/#kanren6544" rel="noopener noreferrer">
++								<span>
++									2026.10.28
++								</span>
++								<span>
++									経済産業省より「化学物質管理セミナー2026（第1回）」のご案内
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="/news/2026/news_006538.html" rel="noopener noreferrer">
+ 								<span>
+@@ -797,16 +807,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="/information/kaiho/prompt_report/" rel="noopener noreferrer">
+-								<span>
+-									2026.10.15
+-								</span>
+-								<span>
+-									会報JAMT　Vol.32  No.20を掲載しました
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 				<div>

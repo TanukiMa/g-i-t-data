@@ -1,0 +1,24 @@
+diff --git a/sites/kokuho/jp/or/kokuho/index.html b/sites/kokuho/jp/or/kokuho/index.html
+index 12c601588..134036a1b 100644
+--- a/sites/kokuho/jp/or/kokuho/index.html
++++ b/sites/kokuho/jp/or/kokuho/index.html
+@@ -200,6 +200,19 @@
+ 			</h2>
+ 			<div>
+ 				<ul>
++					<li>
++						<p>
++							2026年10月8日
++						</p>
++						<p>
++							お知らせ
++						</p>
++						<p>
++							<a href="medical/hist_concern_medical.html" rel="noopener noreferrer">
++								令和８年10月請求におけるオンライン請求システム接続障害について
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<p>
+ 							2026年10月６日

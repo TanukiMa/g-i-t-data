@@ -1,0 +1,24 @@
+diff --git a/sites/jastro/jp/or/jastro/index.html b/sites/jastro/jp/or/jastro/index.html
+index e7713ddf6..a817a59b2 100644
+--- a/sites/jastro/jp/or/jastro/index.html
++++ b/sites/jastro/jp/or/jastro/index.html
+@@ -544,6 +544,19 @@
+ 			</li>
+ 		</ul>
+ 		<ul>
++			<li>
++				<span>
++					会員向け
++				</span>
++				<time>
++					2026.10.13
++				</time>
++				<span>
++					<a href="/member/news/2026/20261013.pdf" rel="noopener noreferrer">
++						2025年度（2026年）社員総会開催のお知らせ
++					</a>
++				</span>
++			</li>
+ 			<li>
+ 				<span>
+ 					医療関係者

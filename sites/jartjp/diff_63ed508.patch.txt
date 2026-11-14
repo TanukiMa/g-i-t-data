@@ -1,0 +1,112 @@
+diff --git a/sites/jartjp/jp/jart/index.html b/sites/jartjp/jp/jart/index.html
+index 782002ee..8adb9e1a 100644
+--- a/sites/jartjp/jp/jart/index.html
++++ b/sites/jartjp/jp/jart/index.html
+@@ -535,10 +535,10 @@
+ 															<div>
+ 																<div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261105-02" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261106-1" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/11/05
++																					2026/11/06
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -547,12 +547,12 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【重要】JARTIS復旧に伴うワクチン注射行為実技講習の受講に関する特例措置について
++																				告示研修（実技研修）東京都　申込受付開始のお知らせ
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261105-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261105-02" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+ 																					2026/11/05
+@@ -564,15 +564,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【重要】「JARTIS」の運用再開について(一部講習会を除く) (PHP脆弱性対応・一部調整中)
++																				【重要】JARTIS復旧に伴うワクチン注射行為実技講習の受講に関する特例措置について
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261101" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261105-01" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/11/01
++																					2026/11/05
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -581,15 +581,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				電子版JART会誌（電子ブックシステム）のご案内
++																				【重要】「JARTIS」の運用再開について(一部講習会を除く) (PHP脆弱性対応・一部調整中)
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261030-02" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261101" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/30
++																					2026/11/01
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -598,12 +598,12 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				告示研修（実技研修）東京都　申込開始延期のお知らせ
++																				電子版JART会誌（電子ブックシステム）のご案内
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261030-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261030-02" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+ 																					2026/10/30
+@@ -615,7 +615,7 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【重要】ワクチン注射行為実技講習の受講に関する特例措置について (JARTIS停止に伴う対応)
++																				告示研修（実技研修）東京都　申込開始延期のお知らせ
+ 																			</p>
+ 																		</a>
+ 																	</div>
+@@ -725,7 +725,7 @@
+ 																	<div>
+ 																		<a href="https://www.jart.jp/seminar/告示研修実技研修東京都2027/1/9" rel="noopener noreferrer">
+ 																			<div>
+-																				<img alt="" height="941" src="https://www.jart.jp/hs-fs/hubfs/%E7%94%B3%E8%BE%BC%E9%96%8B%E5%A7%8B%E5%BB%B6%E6%9C%9F_%E8%B5%A4.png?width=1670&amp;height=941&amp;name=%E7%94%B3%E8%BE%BC%E9%96%8B%E5%A7%8B%E5%BB%B6%E6%9C%9F_%E8%B5%A4.png" width="1670">
++																				<img alt="" height="941" src="https://www.jart.jp/hs-fs/hubfs/%E7%94%B3%E8%BE%BC%E9%96%8B%E5%A7%8B%E6%97%A5%E6%99%82%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%AB%E3%83%BC%E3%83%89.png?width=1670&amp;height=941&amp;name=%E7%94%B3%E8%BE%BC%E9%96%8B%E5%A7%8B%E6%97%A5%E6%99%82%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%AB%E3%83%BC%E3%83%89.png" width="1670">
+ 																			</div>
+ 																			<div>
+ 																				<ul>
+@@ -761,7 +761,7 @@
+ 																	<div>
+ 																		<a href="https://www.jart.jp/seminar/告示研修実技研修東京都2027/1/10" rel="noopener noreferrer">
+ 																			<div>
+-																				<img alt="" height="941" src="https://www.jart.jp/hs-fs/hubfs/%E7%94%B3%E8%BE%BC%E9%96%8B%E5%A7%8B%E5%BB%B6%E6%9C%9F_%E8%B5%A4-1.png?width=1670&amp;height=941&amp;name=%E7%94%B3%E8%BE%BC%E9%96%8B%E5%A7%8B%E5%BB%B6%E6%9C%9F_%E8%B5%A4-1.png" width="1670">
++																				<img alt="" height="941" src="https://www.jart.jp/hs-fs/hubfs/%E7%94%B3%E8%BE%BC%E9%96%8B%E5%A7%8B%E6%97%A5%E6%99%82%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%AB%E3%83%BC%E3%83%89-1.png?width=1670&amp;height=941&amp;name=%E7%94%B3%E8%BE%BC%E9%96%8B%E5%A7%8B%E6%97%A5%E6%99%82%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%AB%E3%83%BC%E3%83%89-1.png" width="1670">
+ 																			</div>
+ 																			<div>
+ 																				<ul>

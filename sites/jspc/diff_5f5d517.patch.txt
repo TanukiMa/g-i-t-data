@@ -1,0 +1,50 @@
+diff --git a/sites/jspc/jp/gr/jspc/index.html b/sites/jspc/jp/gr/jspc/index.html
+index 3da6deef..5de63671 100644
+--- a/sites/jspc/jp/gr/jspc/index.html
++++ b/sites/jspc/jp/gr/jspc/index.html
+@@ -549,6 +549,17 @@
+ 								専門医関連のお知らせ
+ 							</b>
+ 							<ul>
++								<li>
++									＜2026年度専門医新規・更新申請者 各位＞
++									<br>
++									専門医認定委員会における審査が完了いたしました。
++									<br>
++									審査結果は、会員マイページ「専門医関連」の
++									<a href="/private/specialist/result" rel="noopener noreferrer">
++										「認定資格申請状況・結果照会」
++									</a>
++									よりご確認ください。
++								</li>
+ 								<li>
+ 									<a href="/pdf/20260327_01.pdf" rel="noopener noreferrer">
+ 										新制度に関するお知らせ（第1報）
+@@ -740,6 +751,27 @@
+ 							もっと見る
+ 						</span>
+ 					</h2>
++					<div>
++						<p>
++						</p>
++						<p>
++							<span>
++								2026/11/09
++							</span>
++						</p>
++						<br>
++						<div>
++							<b>
++								2027年度年会費のクレジットカード決済受付を開始いたしました
++							</b>
++							<br>
++							年会費のお支払い方法を「クレジットカード払い」でご登録いただいている方は、会員マイページの
++							<a href="/private/payment/" rel="noopener noreferrer">
++								「年会費支払」
++							</a>
++							よりお手続きください。
++						</div>
++					</div>
+ 					<div>
+ 						<p>
+ 						</p>

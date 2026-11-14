@@ -1,0 +1,51 @@
+diff --git a/sites/sanei/jp/or/sanei/index.html b/sites/sanei/jp/or/sanei/index.html
+index 788dd00f6..bcd4392e8 100644
+--- a/sites/sanei/jp/or/sanei/index.html
++++ b/sites/sanei/jp/or/sanei/index.html
+@@ -654,6 +654,26 @@
+ 							</div>
+ 						</div>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026.10.15
++									</time>
++									<span>
++										他の行事
++									</span>
++									<a href="https://www.bosei-navi.mhlw.go.jp/kenshu2026/" rel="noopener noreferrer" title="働く女性の健康課題等に関する研修会（オンデマンド）">
++										働く女性の健康課題等に関する研修会（オンデマンド）
++									</a>
++								</h3>
++								<p>
++									厚生労働省
++									<br>
++									開催形式：オンデマンド形式による動画配信
++									<br>
++									配信期間：令和8年10月下旬 ～ 令和9年3月15日
++								</p>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -779,19 +799,6 @@
+ 									第99回日本産業衛生学会 直前号
+ 								</p>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2026.05.01
+-									</time>
+-									<span>
+-										会員向け
+-									</span>
+-									<a href="https://www.sanei.or.jp/news/member/individual.html?entry_id=1569" rel="noopener noreferrer" title="中央選挙管理委員会発足のお知らせ（告示）">
+-										中央選挙管理委員会発足のお知らせ（告示）
+-									</a>
+-								</h3>
+-							</article>
+ 						</div>
+ 					</div>
+ 					<div>

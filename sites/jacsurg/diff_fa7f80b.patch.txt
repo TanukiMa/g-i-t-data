@@ -1,0 +1,41 @@
+diff --git a/sites/jacsurg/jp/gr/jacsurg/index.html b/sites/jacsurg/jp/gr/jacsurg/index.html
+index fc8f59ec0..a62da7bc3 100644
+--- a/sites/jacsurg/jp/gr/jacsurg/index.html
++++ b/sites/jacsurg/jp/gr/jacsurg/index.html
+@@ -1315,6 +1315,16 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<span>
++											2026/10/09
++										</span>
++										<span>
++											<a href="https://www.mhlw.go.jp/content/11125000/001751104.pdf" rel="noopener noreferrer">
++												厚生労働省より「医薬品・医療機器等安全情報」No.432（周知依頼）
++											</a>
++										</span>
++									</li>
+ 									<li>
+ 										<span>
+ 											2026/10/02
+@@ -1373,19 +1383,6 @@
+ 											</a>
+ 										</span>
+ 									</li>
+-									<li>
+-										<span>
+-											2026/09/11
+-										</span>
+-										<span>
+-											<a href="./info/archives/news202609_01.pdf" rel="noopener noreferrer">
+-												厚生労働省より「特定機能病院に関する事項について」の一部改定について
+-											</a>
+-											<a href="./info/archives/news202609_02.pdf" rel="noopener noreferrer">
+-												（新旧対照表）
+-											</a>
+-										</span>
+-									</li>
+ 								</ul>
+ 							</div>
+ 							<p>

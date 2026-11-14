@@ -1,0 +1,24 @@
+diff --git a/sites/jastro/jp/or/jastro/index.html b/sites/jastro/jp/or/jastro/index.html
+index bf52bb37..21882597 100644
+--- a/sites/jastro/jp/or/jastro/index.html
++++ b/sites/jastro/jp/or/jastro/index.html
+@@ -479,6 +479,19 @@
+ 			</li>
+ 		</ul>
+ 		<ul>
++			<li>
++				<span>
++					会員向け
++				</span>
++				<time>
++					2026.11.10
++				</time>
++				<span>
++					<a href="/member/study_materials/education_slide.php" rel="noopener noreferrer">
++						第39回学術大会教育講演シラバスを【会員専用ページ】に掲載いたしました。
++					</a>
++				</span>
++			</li>
+ 			<li>
+ 				<span>
+ 					医療関係者

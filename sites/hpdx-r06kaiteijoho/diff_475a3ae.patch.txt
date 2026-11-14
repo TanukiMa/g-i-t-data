@@ -1,0 +1,28 @@
+diff --git a/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html b/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
+index bf4561b2..aa172bbc 100644
+--- a/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
++++ b/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
+@@ -721,11 +721,6 @@
+ 							こちらもお探しですか
+ 						</h2>
+ 						<ul>
+-							<li>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/r04kaiteijoho.html" rel="noopener noreferrer">
+-									令和4年　基本マスターに関する変更情報
+-								</a>
+-							</li>
+ 							<li>
+ 								<a href="/seikyushiharai/tensuhyo/kihonmasta/h28kaiteijoho.html" rel="noopener noreferrer">
+ 									平成28年　基本マスターに関する変更情報
+@@ -736,6 +731,11 @@
+ 									平成30年　基本マスターに関する変更情報
+ 								</a>
+ 							</li>
++							<li>
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/r02kaiteijoho.html" rel="noopener noreferrer">
++									令和2年　基本マスターに関する変更情報
++								</a>
++							</li>
+ 						</ul>
+ 					</div>
+ 					<div>
