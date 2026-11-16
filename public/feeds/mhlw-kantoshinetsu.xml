@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省 - 関東信越厚生局</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlw-kantoshinetsu.xml</id>
-  <updated>2026-11-13T07:33:11Z</updated>
+  <updated>2026-11-16T03:33:47Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlw-kantoshinetsu.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-kantoshinetsu/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 関東信越厚生局: 変更：「2026年10月29日」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-kantoshinetsu/a323c5442b5a2fa1ab1650deb4ac013dac2f25c5</id>
+    <updated>2026-11-16T03:33:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-kantoshinetsu/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「2026年10月29日」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加：2026年11月13日&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/kantoshinetsu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-kantoshinetsu/diff_a323c54.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 関東信越厚生局: 追加：「Microsoft 365で発生しているシステム障害の影響について」の掲載（リンク先：/kantoshinetsu/20261113ms_oshirase.html）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-kantoshinetsu/0648c4a5e3c2d2ba819a3166e9294c5a5ae3b64b</id>
