@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医療政策機構</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/hpgiorg.xml</id>
-  <updated>2026-11-16T07:35:40Z</updated>
+  <updated>2026-11-16T22:33:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/hpgiorg.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpgiorg/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医療政策機構: 変更: 「https://hgpi.org/jhp/jhpn.html」へのリンクから「https://japanhpn.org/」へのリンクに変更されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpgiorg/1c166b2a6177c47e4a30fc8b48136a06013fa08e</id>
+    <updated>2026-11-16T22:33:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpgiorg/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「https://hgpi.org/jhp/jhpn.html」へのリンクから「https://japanhpn.org/」へのリンクに変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hgpi.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpgiorg/diff_1c166b2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医療政策機構: 追加: 【HGPI政策コラム】（No.79）「保健医療政策における栄養分野の歴史と今後の展望（前編）―栄養所要量から食事摂取基準へ、病院給食・栄養食事指導の変遷―」（2026-1…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpgiorg/6acb31c44daeb679181c8381a150b962a89259fc</id>

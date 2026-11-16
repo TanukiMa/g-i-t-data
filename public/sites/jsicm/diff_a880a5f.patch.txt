@@ -1,0 +1,95 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index f2041f3fd..3538c7737 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1425,6 +1425,25 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<a href="https://www.jsicm.org/news/news261116-2.html" rel="noopener noreferrer">
++										</a>
++										<div>
++											<div>
++												2026年11月16日
++											</div>
++											<div>
++												学会より
++											</div>
++										</div>
++										<div>
++											<div>
++												<b>
++													【サーバーメンテナンスのお知らせ】会員システム/学会HP/セミナー管理システム/学術集会HP（支部本部）
++												</b>
++											</div>
++										</div>
++									</li>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261116.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1582,12 +1601,18 @@
+ 											</div>
+ 										</div>
+ 									</li>
++								</ul>
++								<span>
++								</span>
++							</div>
++							<div>
++								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/research/jcj.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261116-2.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月16日
++												2026年11月16日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1595,16 +1620,12 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												第11回JINC著者インタビュー（2025年度「Highly cited article賞」受賞論文）を公開しました
++												<b>
++													【サーバーメンテナンスのお知らせ】会員システム/学会HP/セミナー管理システム/学術集会HP（支部本部）
++												</b>
+ 											</div>
+ 										</div>
+ 									</li>
+-								</ul>
+-								<span>
+-								</span>
+-							</div>
+-							<div>
+-								<ul>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261116.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1762,23 +1783,6 @@
+ 											</div>
+ 										</div>
+ 									</li>
+-									<li>
+-										<a href="https://www.jsicm.org/research/jcj.html" rel="noopener noreferrer">
+-										</a>
+-										<div>
+-											<div>
+-												2026年10月16日
+-											</div>
+-											<div>
+-												学会より
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												第11回JINC著者インタビュー（2025年度「Highly cited article賞」受賞論文）を公開しました
+-											</div>
+-										</div>
+-									</li>
+ 								</ul>
+ 								<span>
+ 								</span>

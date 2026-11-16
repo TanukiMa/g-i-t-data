@@ -1,0 +1,90 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 5d4ac566f..5649260c9 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2383,6 +2383,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/reports/hcp/prev-vacc-act/0003.html" rel="noopener noreferrer">
++												<p>
++													2026年11月16日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「定期の予防接種等による副反応疑いの報告等の取扱いについて」の一部改正について」を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2551,9 +2567,6 @@
+ 												<p>
+ 													安全
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
+ 												</p>
+@@ -2666,19 +2679,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/rs-std-jp/standards-development/jp/0008.html" rel="noopener noreferrer">
+-												<p>
+-													2026年11月5日
+-												</p>
+-												<p>
+-													薬局方
+-												</p>
+-												<p>
+-													日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2850,6 +2850,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/reports/hcp/prev-vacc-act/0003.html" rel="noopener noreferrer">
++												<p>
++													2026年11月16日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「定期の予防接種等による副反応疑いの報告等の取扱いについて」の一部改正について」を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2935,9 +2951,6 @@
+ 												<p>
+ 													医薬品
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
+ 												</p>
