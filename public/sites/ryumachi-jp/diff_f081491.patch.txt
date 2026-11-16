@@ -1,0 +1,76 @@
+diff --git a/sites/ryumachi-jp/com/ryumachi-jp/index.html b/sites/ryumachi-jp/com/ryumachi-jp/index.html
+index b74ef2154..99c017588 100644
+--- a/sites/ryumachi-jp/com/ryumachi-jp/index.html
++++ b/sites/ryumachi-jp/com/ryumachi-jp/index.html
+@@ -1456,6 +1456,11 @@
+ 									› ワクチン接種について
+ 								</a>
+ 							</li>
++							<li>
++								<a href="https://www.ryumachi-jp.com/general/pregnancy-childbirth/" rel="noopener noreferrer">
++									› 妊娠出産を考えているリウマチ・膠原病の患者さんへ
++								</a>
++							</li>
+ 						</ul>
+ 					</div>
+ 				</div>
+@@ -1471,6 +1476,23 @@
+ 					</span>
+ 				</h3>
+ 				<div>
++					<div>
++						<div>
++							<span>
++								2026.11.16
++							</span>
++						</div>
++						<div>
++							<span>
++								その他
++							</span>
++						</div>
++						<div>
++							<a href="https://www.ryumachi-jp.com/general/pregnancy-childbirth/" rel="noopener noreferrer">
++								妊娠出産を考えているリウマチ・膠原病の患者さんへページ 公開いたしました。
++							</a>
++						</div>
++					</div>
+ 					<div>
+ 						<div>
+ 							<span>
+@@ -1556,23 +1578,6 @@
+ 							</a>
+ 						</div>
+ 					</div>
+-					<div>
+-						<div>
+-							<span>
+-								2026.10.08
+-							</span>
+-						</div>
+-						<div>
+-							<span>
+-								学術集会・研修会
+-							</span>
+-						</div>
+-						<div>
+-							<a href="https://www.ryumachi-jp.com/member/echo/" rel="noopener noreferrer">
+-								2026年度 JCR関節超音波検査 第2回初級講習会 申し込み開始のお知らせ
+-							</a>
+-						</div>
+-					</div>
+ 					<div>
+ 						<div>
+ 							<a href="https://www.ryumachi-jp.com/information/" rel="noopener noreferrer">
+@@ -2765,6 +2770,11 @@
+ 								ワクチン接種について
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.ryumachi-jp.com/general/pregnancy-childbirth/" rel="noopener noreferrer">
++								妊娠出産を考えているリウマチ・膠原病の患者さんへ
++							</a>
++						</li>
+ 					</ul>
+ 				</div>
+ 			</div>

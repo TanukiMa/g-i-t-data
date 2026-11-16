@@ -1,0 +1,19 @@
+diff --git a/sites/jamsmedorjp/jp/or/med/jams/index.html b/sites/jamsmedorjp/jp/or/med/jams/index.html
+index 5c9b6a39a..b0448154f 100644
+--- a/sites/jamsmedorjp/jp/or/med/jams/index.html
++++ b/sites/jamsmedorjp/jp/or/med/jams/index.html
+@@ -145,6 +145,14 @@
+ 				お知らせ
+ 			</h2>
+ 			<dl>
++				<dt>
++					2026年11月16日
++				</dt>
++				<dd>
++					<a href="event/online_library_forum.html" rel="noopener noreferrer">
++						第40回日本医学会公開フォーラム「あなたに合った医療のために―性差とライフステージを考える医療（性差医療）―」（ハイブリッド開催）をOnlineライブラリーに掲載しました。
++					</a>
++				</dd>
+ 				<dt>
+ 					2026年9月28日
+ 				</dt>

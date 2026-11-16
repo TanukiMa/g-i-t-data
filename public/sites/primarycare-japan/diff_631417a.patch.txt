@@ -1,0 +1,103 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index f1a422627..96153bec6 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -61,7 +61,7 @@
+ 					</a>
+ 				</li>
+ 				<li>
+-					<a href="https://www.primary-care.or.jp/member2/index.html" rel="noopener noreferrer">
++					<a href="https://jpca.a-youme.jp/member2/login_do.php" rel="noopener noreferrer">
+ 						<span>
+ 							JPCAマイページ
+ 						</span>
+@@ -430,7 +430,7 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="https://www.primary-care.or.jp/member2/index.html" rel="noopener noreferrer">
++								<a href="https://jpca.a-youme.jp/member2/login_do.php" rel="noopener noreferrer">
+ 									<span>
+ 										会員マイページ
+ 									</span>
+@@ -779,6 +779,27 @@
+ 				</ul>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1953" rel="noopener noreferrer">
++								<p>
++									<img alt="マイページの利用再開および各機能の再開予定について" src="/pics/news/news-thumb-1953.png">
++								</p>
++								<h2>
++									マイページの利用再開および各機能の再開予定について
++								</h2>
++								<p>
++									マイページの利用再開および各機能の再開予定についてPHPの脆弱性への対応に伴い、マイページの利用を…
++								</p>
++								<p>
++									<time>
++										2026.11.16
++									</time>
++									<span>
++										オススメ
++									</span>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1948" rel="noopener noreferrer">
+ 								<p>
+@@ -2492,24 +2513,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1838" rel="noopener noreferrer">
+-								<p>
+-									<img alt="＜JPCA2026＞ 祝！参加登録数7300人突破、オンデマンド配信は8月31日までです" src="/pics/news/news-thumb-1838.png">
+-								</p>
+-								<h2>
+-									＜JPCA2026＞ 祝！参加登録数7300人突破、オンデマンド配信は8月31日までです
+-								</h2>
+-								<p>
+-									JPCA2026学術大会in京都から2か月、おかげさまで現地開催終了後もじわじわ参加登録数が増え、…
+-								</p>
+-								<p>
+-									<time>
+-										2026.08.08
+-									</time>
+-								</p>
+-							</a>
+-						</li>
+ 					</ul>
+ 					<p>
+ 						<a rel="noopener noreferrer">
+@@ -6987,6 +6990,27 @@
+ 				</div>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1953" rel="noopener noreferrer">
++								<p>
++									<img alt="マイページの利用再開および各機能の再開予定について" src="/pics/news/news-thumb-1953.png">
++								</p>
++								<h2>
++									マイページの利用再開および各機能の再開予定について
++								</h2>
++								<p>
++									マイページの利用再開および各機能の再開予定についてPHPの脆弱性への対応に伴い、マイページの利用を…
++								</p>
++								<p>
++									<time>
++										2026.11.16
++									</time>
++									<span>
++										オススメ
++									</span>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1941" rel="noopener noreferrer">
+ 								<p>

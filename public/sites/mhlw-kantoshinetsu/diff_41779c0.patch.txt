@@ -1,0 +1,254 @@
+diff --git a/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html b/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
+index 74a6e78fc..cab183b5f 100644
+--- a/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
++++ b/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
+@@ -828,10 +828,6 @@
+ 									厚生労働省や地方厚生局職員を装った不審な電話やメール等にご注意ください
+ 								</a>
+ 								<br>
+-								<a href="/kantoshinetsu/20261113ms_oshirase.html" rel="noopener noreferrer">
+-									Microsoft 365で発生しているシステム障害の影響について
+-								</a>
+-								<br>
+ 							</ul>
+ 						</div>
+ 					</div>
+@@ -903,32 +899,32 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kantoshinetsu/gyomu/gyomu/hoken_kikan/fuseiseikyu.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/20270112toukyou_jimusyoiten_oshirase.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月30日
++													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															行政処分等
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険診療等において不正請求等が行われた場合の取扱いについて更新しました。
++													東京事務所移転のお知らせ
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/iji/saiseiiryou_0003.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/gyomu/gyomu/hoken_kikan/fuseiseikyu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月28日
++													2026年10月30日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -941,72 +937,72 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													再生医療等の安全性の確保等に関する法律に基づく改善命令の解除について
++													保険診療等において不正請求等が行われた場合の取扱いについて更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/iryo_shido/daketuritu.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/iji/saiseiiryou_0003.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月30日
++													2026年10月28日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															その他
++															<img alt="重要" src="/common/img/icn_important.svg">
++															行政処分等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													妥結率等に係る報告について更新しました。
++													再生医療等の安全性の確保等に関する法律に基づく改善命令の解除について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/iryo_shido/r8kaitei-keikasochi.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/iryo_shido/daketuritu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月14日
++													2026年9月30日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年度診療報酬改定において経過措置を設けた施設基準の取扱いについて更新しました。
++													妥結率等に係る報告について更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/iji/saiseiiryou_0003_00001.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/iryo_shido/r8kaitei-keikasochi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年7月31日
++													2026年9月14日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															行政処分等
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													再生医療等の安全性の確保等に関する法律に基づく改善命令について
++													令和8年度診療報酬改定において経過措置を設けた施設基準の取扱いについて更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -1035,48 +1031,48 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kantoshinetsu/chotatsu/nyusatsu/nyusatsur3_00008.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/20270112toukyou_jimusyoiten_oshirase.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月13日
++													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+-														調達情報
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													関東信越厚生局東京事務所移転に伴う受付カウンター等の調達一式（一般競争入札）
++													東京事務所移転のお知らせ
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/chousa/kijyun.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/chotatsu/nyusatsu/nyusatsur3_00008.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月13日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														調達情報
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													管内の保険医療機関・保険薬局の施設基準の届出受理状況及び保険外併用療養費医療機関一覧を更新しました。（令和8年10月1日現在）
++													関東信越厚生局東京事務所移転に伴う受付カウンター等の調達一式（一般競争入札）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/chousa/shitei.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/chousa/kijyun.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月5日
++													2026年11月13日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -1086,45 +1082,45 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													管内の保険医療機関・保険薬局の指定等一覧を更新しました。（令和8年11月1日現在）
++													管内の保険医療機関・保険薬局の施設基準の届出受理状況及び保険外併用療養費医療機関一覧を更新しました。（令和8年10月1日現在）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/gyomu/gyomu/hoken_kikan/fuseiseikyu.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/chousa/shitei.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月30日
++													2026年11月5日
+ 												</time>
+ 												<em>
+ 													<span>
+-														行政処分等
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険診療等において不正請求等が行われた場合の取扱いについて更新しました。
++													管内の保険医療機関・保険薬局の指定等一覧を更新しました。（令和8年11月1日現在）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/gyomu/bu_ka/nenkin_chosei/gakuseinofu.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/gyomu/gyomu/hoken_kikan/fuseiseikyu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月29日
++													2026年10月30日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														行政処分等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													学生納付特例事務法人一覧表を更新しました。
++													保険診療等において不正請求等が行われた場合の取扱いについて更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
