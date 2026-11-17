@@ -1,0 +1,48 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index 80feed9d7..fdde38efc 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -477,6 +477,21 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/11/17
++					</span>
++					<span>
++						協会ニュース
++					</span>
++					<div>
++						<a href="/home/about/kyokainews/index.html#a11" rel="noopener noreferrer">
++							「協会ニュース」2026年11月号を掲載しました。
++						</a>
++						<div>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/11/16
+@@ -624,21 +639,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/10/23
+-					</span>
+-					<span>
+-						掲載のお知らせ
+-					</span>
+-					<div>
+-						<a href="/nursing/international/icn/update/info/index.html" rel="noopener noreferrer">
+-							モーイム・キム政策革新・影響賞 候補者募集のご案内について掲載しました。
+-						</a>
+-						<div>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>
