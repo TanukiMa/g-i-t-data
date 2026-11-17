@@ -1,0 +1,40 @@
+diff --git a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+index 47613896c..7785168fd 100644
+--- a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
++++ b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+@@ -396,7 +396,7 @@
+ 								</div>
+ 								<div>
+ 									<a href="shukai_tihou/tihoukai/kyushu/index.html" rel="noopener noreferrer">
+-										<img alt="第37回九州地方会" src="common/images/kyushu37.png">
++										<img alt="第37回九州地方会" src="common/images/kyushu37_01.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+@@ -799,6 +799,26 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<div>
++									<dt>
++										2026年11月16日
++									</dt>
++									<dd>
++										<a href="info/topics/pdf/20261116_02_01.pdf" rel="noopener noreferrer">
++											厚生労働省 レカネマブ（遺伝子組換え）製剤の最適使用推進ガイドラインの一部改正
++										</a>
++									</dd>
++								</div>
++								<div>
++									<dt>
++										2026年11月16日
++									</dt>
++									<dd>
++										<a href="info/topics/pdf/20261116_01_01.pdf" rel="noopener noreferrer">
++											厚生労働省 ドナネマブ（遺伝子組換え）製剤の最適使用推進ガイドラインの一部改正
++										</a>
++									</dd>
++								</div>
+ 								<div>
+ 									<dt>
+ 										2026年11月13日

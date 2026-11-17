@@ -1,0 +1,37 @@
+diff --git a/sites/aimj/org/aimj/index.html b/sites/aimj/org/aimj/index.html
+index 8b038adb1..fedc40405 100644
+--- a/sites/aimj/org/aimj/index.html
++++ b/sites/aimj/org/aimj/index.html
+@@ -414,6 +414,32 @@
+ 										News
+ 									</h1>
+ 									<ul>
++										<li>
++											<div>
++												<div>
++													<div>
++														<div>
++															2026.11.16
++														</div>
++													</div>
++													<h1>
++														以下を更新しました。
++														<br>
++														<a href="/greetings.html" rel="noopener noreferrer">
++															・会長挨拶
++														</a>
++														<br>
++														<a href="/prize.html" rel="noopener noreferrer">
++															・表彰論文
++														</a>
++														<br>
++														<a href="/officer.html" rel="noopener noreferrer">
++															・役員一覧
++														</a>
++													</h1>
++												</div>
++											</div>
++										</li>
+ 										<li>
+ 											<div>
+ 												<div>

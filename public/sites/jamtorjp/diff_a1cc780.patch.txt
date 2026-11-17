@@ -1,0 +1,38 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index 238da92af..02e37e9e1 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -742,6 +742,16 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="/news/asset/pdf/5f2033851ac82ef37c1be62b0acc40108315bc05.pdf" rel="noopener noreferrer">
++								<span>
++									2026.11.17
++								</span>
++								<span>
++									令和8年熊本地震における日臨技活動報告書をメディアリリースしました
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="/information/kaiho/prompt_report/" rel="noopener noreferrer">
+ 								<span>
+@@ -782,16 +792,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="/information/kaiho/prompt_report/" rel="noopener noreferrer">
+-								<span>
+-									2026.11.02
+-								</span>
+-								<span>
+-									会報JAMT　Vol.32  No.21を掲載しました
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 				<div>

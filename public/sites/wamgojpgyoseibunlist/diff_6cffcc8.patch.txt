@@ -1,0 +1,34 @@
+diff --git a/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html b/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
+index a2348343e..dca241159 100644
+--- a/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
++++ b/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
+@@ -2015,22 +2015,23 @@
+ 											<tr>
+ 												<td>
+ 													<img alt="" src="/content/css/img/icon_szl_new.gif" title="新着アイコン">
+-													<a href="detail-list?bun=010010265" rel="noopener noreferrer" title="医療保険部会│匿名医療情報等の提供に関する専門委員会">
+-														医療保険部会│匿名医療情報等の提供に関する専門委員会
++													<a href="detail-list?bun=010010030" rel="noopener noreferrer" title="介護保険部会">
++														介護保険部会
+ 													</a>
+ 												</td>
+ 												<td>
+-													2026/11/06
++													2026/11/09
+ 												</td>
+ 											</tr>
+ 											<tr>
+ 												<td>
+-													<a href="detail-list?bun=010010030" rel="noopener noreferrer" title="介護保険部会">
+-														介護保険部会
++													<img alt="" src="/content/css/img/icon_szl_new.gif" title="新着アイコン">
++													<a href="detail-list?bun=010010265" rel="noopener noreferrer" title="医療保険部会│匿名医療情報等の提供に関する専門委員会">
++														医療保険部会│匿名医療情報等の提供に関する専門委員会
+ 													</a>
+ 												</td>
+ 												<td>
+-													2026/10/26
++													2026/11/06
+ 												</td>
+ 											</tr>
+ 											<tr>
