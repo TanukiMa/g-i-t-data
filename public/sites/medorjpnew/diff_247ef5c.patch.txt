@@ -1,0 +1,73 @@
+diff --git a/sites/medorjpnew/jp/or/med/new-html.html b/sites/medorjpnew/jp/or/med/new-html.html
+index 06d584915..fbe6170c3 100644
+--- a/sites/medorjpnew/jp/or/med/new-html.html
++++ b/sites/medorjpnew/jp/or/med/new-html.html
+@@ -423,6 +423,30 @@
+ 						</div>
+ 					</div>
+ 					<ul>
++						<li>
++							<dl>
++								<dt>
++									2026年11月20日
++								</dt>
++								<dd>
++									<a href="https://www.med.or.jp/doctor/hospital_based/nichiinews/000307.html" rel="noopener noreferrer">
++										勤務医のひろば(勤務医関連の記事)
++									</a>
++								</dd>
++							</dl>
++						</li>
++						<li>
++							<dl>
++								<dt>
++									2026年11月20日
++								</dt>
++								<dd>
++									<a href="https://www.med.or.jp/doctor/hospital_based/nichiinews/000306.html" rel="noopener noreferrer">
++										勤務医のページ(勤務医関連の記事)
++									</a>
++								</dd>
++							</dl>
++						</li>
+ 						<li>
+ 							<dl>
+ 								<dt>
+@@ -561,18 +585,6 @@
+ 								</dd>
+ 							</dl>
+ 						</li>
+-						<li>
+-							<dl>
+-								<dt>
+-									2026年10月20日
+-								</dt>
+-								<dd>
+-									<a href="https://www.med.or.jp/doctor/hospital_based/nichiinews/000306.html" rel="noopener noreferrer">
+-										勤務医のページ(勤務医関連の記事)
+-									</a>
+-								</dd>
+-							</dl>
+-						</li>
+ 						<li>
+ 							<dl>
+ 								<dt>
+@@ -1028,18 +1040,6 @@
+ 								</dd>
+ 							</dl>
+ 						</li>
+-						<li>
+-							<dl>
+-								<dt>
+-									2026年07月20日
+-								</dt>
+-								<dd>
+-									<a href="https://www.med.or.jp/dl-med/people/plaza/604.pdf" rel="noopener noreferrer">
+-										オーバードーズは助けを求めるメッセージ【健康ぷらざNo.604】
+-									</a>
+-								</dd>
+-							</dl>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						年別表記
