@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 厚生労働省</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/mhlw.xml</id>
-  <updated>2026-11-18T03:33:18Z</updated>
+  <updated>2026-11-18T07:33:58Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/mhlw.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省: 追加: 医薬品安定供給・流通確認システムへの不正アクセスに係る 個人情報の漏えいについて</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/85ab4e37d5b056c1940061c83e7ef5f5d24db5fd</id>
+    <updated>2026-11-18T07:33:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 医薬品安定供給・流通確認システムへの不正アクセスに係る 個人情報の漏えいについて&lt;/li&gt;&lt;li&gt;追加: 高齢者に対する肺炎球菌ワクチン及び小児におけるRSウイルス感染症の予防についての議論のまとめ&lt;/li&gt;&lt;li&gt;追加: 2026年10月26日　第９回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」　議事録&lt;/li&gt;&lt;li&gt;追加: 「令和８年度第１回薬事審議会審議参加規程評価委員会」を開催します&lt;/li&gt;&lt;li&gt;追加: 薬事審議会　医薬品第一部会を開催します&lt;/li&gt;&lt;li&gt;追加: 第５８回特定石綿被害建設業務労働者等認定審査会　開催案内&lt;/li&gt;&lt;li&gt;追加: 国民年金第３号被保険者制度等に関する検討会ほか 5 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_85ab4e3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省: 変更: 「令和８年１１月１７日付大臣会見概要」「第64回社会保障審議会生活保護基準部会　 資料」「第２８回新型インフルエンザ対策に関する小委員会　第１３回危機対応医薬品等に関する…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/4739d0e499d3be7ea8bbce33da0b448b5d3263d5</id>
@@ -350,12 +357,5 @@
     <updated>2026-10-23T22:34:35Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;追加：「第33回キャリアコンサルタント登録制度等に関する検討会（会議資料）」&lt;/li&gt;&lt;li&gt;追加：「令和８年１０月２３日付大臣会見概要」&lt;/li&gt;&lt;li&gt;変更：「薬事審議会　指定薬物部会を開催します」「第38回アルコール健康障害対策関係者会議の開催について」「第214回労働政策審議会労働条件分科会　開催案内」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_4d6bd15.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261024015420/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省: 追加: 「人口動態統計速報」令和８（2026）年08月分</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/7c664968b4ef0391bf9d94d17d70dfafd0c74e8b</id>
-    <updated>2026-10-23T07:35:58Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「人口動態統計速報」令和８（2026）年08月分&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 労災レセプト電算処理システム　受付前点検チェック条件表&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第３回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 薬事審議会　指定薬物部会を開催します&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第38回アルコール健康障害対策関係者会議の開催について&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 新規学卒就職者の離職状況(令和５年３月卒業者)を公表します&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第213回労働政策審議会労働条件分科会（資料）」「毎月勤労統計調査ー2026（令和８）年８月分結果確報」「上野厚生労働大臣　閣議後記者会見のお知らせ」「委託事業に係る個人情報の漏えいについて」「令和８年度の医師臨床研修マッチング結果をお知らせします」「地域医療構想の実現に向けた重点支援区域の選定を行いました」「令和８年度『介護老人保健施設事業功労者厚生労働大臣表彰』の受賞者について」「薬事審議会　医薬品等安全対策部会を開催します」「第８回医療扶助・健康管理支援等に関する検討会の開催について（報道発表）」「第24回成年後見制度利用促進専門家会議　開催案内」「第５７回特定石綿被害建設業務労働者等認定審査会　開催案内」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_7c66496.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261023024600/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

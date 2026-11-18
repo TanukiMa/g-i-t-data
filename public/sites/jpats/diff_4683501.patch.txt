@@ -1,0 +1,26 @@
+diff --git a/sites/jpats/org/jpats/index.html b/sites/jpats/org/jpats/index.html
+index 23ca06f8b..4e96f9e2a 100644
+--- a/sites/jpats/org/jpats/index.html
++++ b/sites/jpats/org/jpats/index.html
+@@ -604,7 +604,7 @@
+ 		<div>
+ 			<div>
+ 				緊急／重要
+-					お知らせ
++				お知らせ
+ 			</div>
+ 			<div>
+ 				<div>
+@@ -650,9 +650,10 @@
+ 					</a>
+ 				</li>
+ 				<li>
+-					<a href="/journal/gtcc/" rel="noopener noreferrer">
++					<a href="https://gtcsc-journal.com/" rel="noopener noreferrer">
+ 						<span>
+-							General Thoracic and Cardiovascular Surgery Cases
++							General Thoracic and Cardiovascular Surgery
++							Cases
+ 						</span>
+ 					</a>
+ 				</li>

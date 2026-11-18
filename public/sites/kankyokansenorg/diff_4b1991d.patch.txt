@@ -1,0 +1,44 @@
+diff --git a/sites/kankyokansenorg/org/kankyokansen/index.html b/sites/kankyokansenorg/org/kankyokansen/index.html
+index e1ec8fbbb..db6b6bf17 100644
+--- a/sites/kankyokansenorg/org/kankyokansen/index.html
++++ b/sites/kankyokansenorg/org/kankyokansen/index.html
+@@ -490,6 +490,19 @@
+ 									各種委員会からのお知らせ・ご報告等
+ 								</h2>
+ 								<div>
++									<div>
++										<span>
++											国際
++										</span>
++									</div>
++									<div>
++										<a href="https://www.kankyokansen.org/news/20261118/" rel="noopener noreferrer">
++											APIC 2027年次大会・米国医療施設見学ツアー開催予定のお知らせ
++										</a>
++										<span>
++											（2026年11月18日			）
++										</span>
++									</div>
+ 									<div>
+ 										<span>
+ 											教育
+@@ -607,19 +620,6 @@
+ 											（2026年6月1日							）
+ 										</span>
+ 									</div>
+-									<div>
+-										<span>
+-											地域セミナー
+-										</span>
+-									</div>
+-									<div>
+-										<a href="https://www.kankyokansen.org/news/20260410/" rel="noopener noreferrer">
+-											地域セミナー委員会＜東北ブロック研修会＞動画公開のお知らせ
+-										</a>
+-										<span>
+-											（2026年4月10日							）
+-										</span>
+-									</div>
+ 								</div>
+ 							</div>
+ 							<div>
