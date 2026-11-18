@@ -1,0 +1,39 @@
+diff --git a/sites/ganjohojp/jp/ganjoho/index.html b/sites/ganjohojp/jp/ganjoho/index.html
+index a4e8dd6be..32d4cf244 100644
+--- a/sites/ganjohojp/jp/ganjoho/index.html
++++ b/sites/ganjohojp/jp/ganjoho/index.html
+@@ -1377,6 +1377,13 @@
+ 					</div>
+ 				</div>
+ 			</div>
++			<div>
++				<a href="/public/news/2026/panel_2027.html" rel="noopener noreferrer">
++					「患者・市民パネル」を募集します。
++					<br>
++					応募締切は2027年1月7日（木）です。
++				</a>
++			</div>
+ 			<h2>
+ 				<span>
+ 					ピックアップ
+@@ -2151,6 +2158,20 @@
+ 						お知らせ
+ 					</span>
+ 				</h2>
++				<div>
++					<ul>
++						<li>
++							<div>
++								2026年11月18日
++							</div>
++							<div>
++								<a href="/public/news/2026/panel_2027.html" rel="noopener noreferrer">
++									「患者・市民パネル」を募集します。応募締切は2027年1月7日（水）です。
++								</a>
++							</div>
++						</li>
++					</ul>
++				</div>
+ 				<ul>
+ 					<li>
+ 						<div>

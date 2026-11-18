@@ -1,0 +1,337 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index f2583c696..76991d152 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -407,20 +407,26 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry141868.html" rel="noopener noreferrer">
+-								防災考慮し医療体制検討‐日薬 岩月会長、防災庁設置に言及
++							<a href="https://www.yakuji.co.jp/entry141866.html" rel="noopener noreferrer">
++								【八戸薬剤師会】遠隔診療と地域薬局連携へ‐平時の組織力を災害時も
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年11月18日 (水) 06:31
++						2026年11月18日 (水) 08:31
+ 					</div>
+ 					<div>
++						<div>
++							<img alt="モバイルファーマシー（左）とオンライン診療車の前に集まった関係者（前列左から2人目が阿達氏、3人目が熊谷市長）" height="315" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13243_01-01.jpg" width="540">
++							<p>
++								モバイルファーマシー（左）とオンライン診療車の前に集まった関係者（前列左から2人目が阿達氏、3人目が熊谷市長）
++							</p>
++						</div>
+ 						<p>
+-							日本薬剤師会の岩月進会長は11日の定例会見で、新たに設置された防災庁に言及。「人口減に合わせて医薬品提供体制や医療構想の議論が進められているが、防災という観点をどこまで配慮して医療提供や医療体制を考えていくことが重要。われわれもその計画や構想に基づいて薬局をどのように配置していくかを考えないといけない。防災の観点が入るのは有意義」と歓迎した。
++							青森県の八戸薬剤師会は、オンライン診療と地域薬局の連携を平時から構築し、災害時には災害対応医薬品供給車両「モバイルファーマシー」を組み合わせ、診察・処方から調剤・医薬品供給まで切れ目なく提供できる体制づくりを目指す。八戸市内では組織率が99％と、ほぼ全ての薬局が薬剤師会に加盟している。このネットワークを生かし、医療資源が限られるへき地でもオンライン診療車や電子処方箋を活用して医薬品を届ける考えだ。阿達昌亮会長は、本紙の取材に対し、診察・処方を担う医師を「上流」、調剤・医薬品供給を担う薬剤師を「下流」と位置づけ、平時から両者が連携する必要性を強調した。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry141868.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry141866.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -442,10 +448,11 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141868.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141866.html" rel="noopener noreferrer">
++									<img alt="モバイルファーマシー（左）とオンライン診療車の前に集まった関係者（前列左から2人目が阿達氏、3人目が熊谷市長）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13243_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141868.html" rel="noopener noreferrer">
+-									防災考慮し医療体制検討‐日薬 岩月会長、防災庁設置に言及
++								<a href="https://www.yakuji.co.jp/entry141866.html" rel="noopener noreferrer">
++									【八戸薬剤師会】遠隔診療と地域薬局連携へ‐平時の組織力を災害時も
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -458,10 +465,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141871.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141874.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141871.html" rel="noopener noreferrer">
+-									【NPhA】薬剤師需給推計で意見書‐将来の業務量反映求める
++								<a href="https://www.yakuji.co.jp/entry141874.html" rel="noopener noreferrer">
++									【厚労省】「ステミラック」が本承認‐新医薬品など21品目承認
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -474,15 +481,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141772.html" rel="noopener noreferrer">
+-									<img alt="エラヒア点滴静注用100mg" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13242_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141868.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141772.html" rel="noopener noreferrer">
+-									【武田薬品】卵巣癌薬「エラヒア」発売‐新規経口抗てんかん薬も
++								<a href="https://www.yakuji.co.jp/entry141868.html" rel="noopener noreferrer">
++									防災考慮し医療体制検討‐日薬 岩月会長、防災庁設置に言及
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月17日 (火)
++									2026年11月18日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -491,15 +497,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141769.html" rel="noopener noreferrer">
+-									<img alt="藤井会長" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13242_02-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141871.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141769.html" rel="noopener noreferrer">
+-									【NPhA】中間年改定廃止 再び要望‐安定的な調達さらに困難
++								<a href="https://www.yakuji.co.jp/entry141871.html" rel="noopener noreferrer">
++									【NPhA】薬剤師需給推計で意見書‐将来の業務量反映求める
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月17日 (火)
++									2026年11月18日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -508,10 +513,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141768.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141772.html" rel="noopener noreferrer">
++									<img alt="エラヒア点滴静注用100mg" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13242_07-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141768.html" rel="noopener noreferrer">
+-									【GE・BS学会】低リスクは厳密管理不要に‐ニトロソアミン対応で提言
++								<a href="https://www.yakuji.co.jp/entry141772.html" rel="noopener noreferrer">
++									【武田薬品】卵巣癌薬「エラヒア」発売‐新規経口抗てんかん薬も
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -524,11 +530,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141779.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13242_03-03-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141769.html" rel="noopener noreferrer">
++									<img alt="藤井会長" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13242_02-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141779.html" rel="noopener noreferrer">
+-									【日薬 岩月会長】薬局集約化推進に反論‐予算確保は国の責務
++								<a href="https://www.yakuji.co.jp/entry141769.html" rel="noopener noreferrer">
++									【NPhA】中間年改定廃止 再び要望‐安定的な調達さらに困難
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -642,14 +648,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141751.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141900.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/bcbc204c3edfa866ed8f617f36305f44-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141751.html" rel="noopener noreferrer">
+-									【テルモ 27年3月期第2四半期決算】好調キープ
++								<a href="https://www.yakuji.co.jp/entry141900.html" rel="noopener noreferrer">
++									【新製品】「CLAYGE」から、“まるでマシュマロ”新感覚の濃密炭酸泡洗顔が新登場　多田
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月16日 (月)
++									2026年11月18日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -658,14 +665,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141748.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141899.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141748.html" rel="noopener noreferrer">
+-									【三井化学】南アフリカ共和国に現地法人を設立‐アフリカ市場での事業開発を加速
++								<a href="https://www.yakuji.co.jp/entry141899.html" rel="noopener noreferrer">
++									医療機関の倒産情報　2026年11月5日
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月16日 (月)
++									2026年11月18日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -736,10 +743,11 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141864.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141886.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261118_1116ka4-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141864.html" rel="noopener noreferrer">
+-									【新製品】ステラーラBS発売　ニプロ
++								<a href="https://www.yakuji.co.jp/entry141886.html" rel="noopener noreferrer">
++									【新製品】電子ビーム金属3Dプリンター「JAM-5200EBMPlus」を発表　日本電子
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -752,11 +760,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141855.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13243_06-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141880.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20262018_1116ka1-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141855.html" rel="noopener noreferrer">
+-									【新製品】吸収率確立されたクレアチン‐「DNS」から発売　第一三共ヘルスケア
++								<a href="https://www.yakuji.co.jp/entry141880.html" rel="noopener noreferrer">
++									【新製品】「聴覚スクリーナー audioscreener 2」DPOAE専用モデルが登場　リオン
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1701,10 +1709,11 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141868.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141866.html" rel="noopener noreferrer">
++									<img alt="モバイルファーマシー（左）とオンライン診療車の前に集まった関係者（前列左から2人目が阿達氏、3人目が熊谷市長）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13243_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141868.html" rel="noopener noreferrer">
+-									防災考慮し医療体制検討‐日薬 岩月会長、防災庁設置に言及
++								<a href="https://www.yakuji.co.jp/entry141866.html" rel="noopener noreferrer">
++									【八戸薬剤師会】遠隔診療と地域薬局連携へ‐平時の組織力を災害時も
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1717,10 +1726,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141871.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141874.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141871.html" rel="noopener noreferrer">
+-									【NPhA】薬剤師需給推計で意見書‐将来の業務量反映求める
++								<a href="https://www.yakuji.co.jp/entry141874.html" rel="noopener noreferrer">
++									【厚労省】「ステミラック」が本承認‐新医薬品など21品目承認
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1733,10 +1742,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141864.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141900.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/bcbc204c3edfa866ed8f617f36305f44-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141864.html" rel="noopener noreferrer">
+-									【新製品】ステラーラBS発売　ニプロ
++								<a href="https://www.yakuji.co.jp/entry141900.html" rel="noopener noreferrer">
++									【新製品】「CLAYGE」から、“まるでマシュマロ”新感覚の濃密炭酸泡洗顔が新登場　多田
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1749,10 +1759,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141860.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141899.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141860.html" rel="noopener noreferrer">
+-									21日に島根でラグビーイベント‐競技環境充実に貢献　大正製薬
++								<a href="https://www.yakuji.co.jp/entry141899.html" rel="noopener noreferrer">
++									医療機関の倒産情報　2026年11月5日
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1765,11 +1775,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141855.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13243_06-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141895.html" rel="noopener noreferrer">
++									<img alt="アルケア千葉工場" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261118_1117ka3-1-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141855.html" rel="noopener noreferrer">
+-									【新製品】吸収率確立されたクレアチン‐「DNS」から発売　第一三共ヘルスケア
++								<a href="https://www.yakuji.co.jp/entry141895.html" rel="noopener noreferrer">
++									【アルケア】武蔵野大看護学部学生が千葉工場見学‐オストメイトの生活支えるものづくり体感
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1782,10 +1792,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141841.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141894.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141841.html" rel="noopener noreferrer">
+-									専門薬剤師制度の議論再燃
++								<a href="https://www.yakuji.co.jp/entry141894.html" rel="noopener noreferrer">
++									【日立製作所】AIエージェントへの「本人の委任」を証明する委任証明技術を開発
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1798,10 +1808,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141865.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141892.html" rel="noopener noreferrer">
++									<img alt="温室効果ガスアナライザー（農研機構との共同開発品）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20262018_1117ka1-100x100.avif" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141865.html" rel="noopener noreferrer">
+-									薬事日報　2026/11/18
++								<a href="https://www.yakuji.co.jp/entry141892.html" rel="noopener noreferrer">
++									【島津製作所】GHGに出資、GX分野で資本業務提携‐農業の脱炭素化に取り組む
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1814,14 +1825,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141853.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141891.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141853.html" rel="noopener noreferrer">
+-									行政情報リスト　2026/11/17
++								<a href="https://www.yakuji.co.jp/entry141891.html" rel="noopener noreferrer">
++									【第一三共ヘルスケア】キメを支える“基底膜”のコラーゲン産生量低下を抑制する成分を確認
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月17日 (火)
++									2026年11月18日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1841,7 +1852,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年11月  (210)
++		 2026年11月  (223)
+ 	 2026年10月  (381)
+ 	 2026年9月  (341)
+ 	 2026年8月  (319)

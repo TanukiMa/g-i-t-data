@@ -1,0 +1,33 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 703c7f7b8..007edb08c 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -106,9 +106,6 @@
+ 					<div>
+ 						<div>
+ 							<ul>
+-								<li>
+-									<img alt="令和8年11月16日支払機構の代表番号へのお電話がつながらない状況は復旧しました" height="346" src="index.images/mvimg_tell_shogai_3.png" width="500">
+-								</li>
+ 								<li>
+ 									<a href="/saigai/index.html" rel="noopener noreferrer">
+ 										<img alt="災害に関するお知らせ" height="346" src="index.images/mvimg_saigai_all.png" width="500">
+@@ -374,6 +371,18 @@
+ 						</h2>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								<span>
++									令和8年11月18日
++								</span>
++							</span>
++							<span>
++								<a href="/shinryohoshu/kankeitsuuchi/kankeitsuuchi_r08.html" rel="noopener noreferrer">
++									令和8年度診療報酬改定関係を更新しました
++								</a>
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								<span>

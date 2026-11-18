@@ -1,0 +1,176 @@
+diff --git a/sites/jshg/jp/jshg/index.html b/sites/jshg/jp/jshg/index.html
+index ae0045690..90e1e6db5 100644
+--- a/sites/jshg/jp/jshg/index.html
++++ b/sites/jshg/jp/jshg/index.html
+@@ -163,6 +163,16 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						<time>
++							2026.11.18
++						</time>
++						<span>
++							令和9年度「革新的がん医療実用化研究事業」に係る公募について
++						</span>
++						<a href="https://jshg.jp/news/11733/" rel="noopener noreferrer">
++						</a>
++					</li>
+ 					<li>
+ 						<time>
+ 							2026.11.12
+@@ -203,16 +213,6 @@
+ 						<a href="https://jshg.jp/news/11645/" rel="noopener noreferrer">
+ 						</a>
+ 					</li>
+-					<li>
+-						<time>
+-							2026.10.26
+-						</time>
+-						<span>
+-							【ご報告】PHPの脆弱性に関する状況について
+-						</span>
+-						<a href="https://jshg.jp/news/11653/" rel="noopener noreferrer">
+-						</a>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://jshg.jp/news/" rel="noopener noreferrer">
+@@ -293,29 +293,29 @@
+ 						<div>
+ 							<time>
+ 								<span>
+-									2026年
++									2027年
+ 								</span>
+ 								<span>
+-									11/01
++									02/15
+ 								</span>
+ 								<span>
+-									(日)
++									(月)
+ 								</span>
+ 								~
+ 								<span>
+-									01/31
++									02/17
+ 								</span>
+ 								<span>
+-									(日)
++									(水)
+ 								</span>
+ 							</time>
+ 							<span>
+-								第33回臨床細胞遺伝学セミナーのお知らせ
++								【参加者募集】第11回 ゲノムコホート研究における遺伝統計学（2027年2月15日〜17日・仙台）
+ 							</span>
+ 							<span>
+-								WEB開催
++								東北大学 星陵キャンパス 医学部6号館1階 講堂（仙台市）
+ 							</span>
+-							<a href="https://jshg.jp/seminar_event/11507/" rel="noopener noreferrer">
++							<a href="https://jshg.jp/seminar_event/11732/" rel="noopener noreferrer">
+ 							</a>
+ 						</div>
+ 					</li>
+@@ -323,29 +323,29 @@
+ 						<div>
+ 							<time>
+ 								<span>
+-									2026年
++									2027年
+ 								</span>
+ 								<span>
+-									08/23
++									01/31
+ 								</span>
+ 								<span>
+ 									(日)
+ 								</span>
+ 								~
+ 								<span>
+-									08/30
++									02/07
+ 								</span>
+ 								<span>
+ 									(日)
+ 								</span>
+ 							</time>
+ 							<span>
+-								遺伝カウンセリングロールプレイ研修会（2026年度 夏のGCRP研修会）のご案内
++								遺伝カウンセリングロールプレイ研修会（2026年度 冬のGCRP研修会）のご案内
+ 							</span>
+ 							<span>
+ 								オンライン
+ 							</span>
+-							<a href="https://jshg.jp/seminar_event/11423/" rel="noopener noreferrer">
++							<a href="https://jshg.jp/seminar_event/11660/" rel="noopener noreferrer">
+ 							</a>
+ 						</div>
+ 					</li>
+@@ -356,26 +356,26 @@
+ 									2026年
+ 								</span>
+ 								<span>
+-									08/14
++									11/01
+ 								</span>
+ 								<span>
+-									(金)
++									(日)
+ 								</span>
+ 								~
+ 								<span>
+-									09/28
++									01/31
+ 								</span>
+ 								<span>
+-									(月)
++									(日)
+ 								</span>
+ 							</time>
+ 							<span>
+-								第36回遺伝医学セミナー開催のご案内
++								第33回臨床細胞遺伝学セミナーのお知らせ
+ 							</span>
+ 							<span>
+-								オンデマンド配信
++								WEB開催
+ 							</span>
+-							<a href="https://jshg.jp/seminar_event/11364/" rel="noopener noreferrer">
++							<a href="https://jshg.jp/seminar_event/11507/" rel="noopener noreferrer">
+ 							</a>
+ 						</div>
+ 					</li>
+@@ -386,19 +386,26 @@
+ 									2026年
+ 								</span>
+ 								<span>
+-									07/05
++									08/23
++								</span>
++								<span>
++									(日)
++								</span>
++								~
++								<span>
++									08/30
+ 								</span>
+ 								<span>
+ 									(日)
+ 								</span>
+ 							</time>
+ 							<span>
+-								第16回遺伝カウンセリング研修会のご案内
++								遺伝カウンセリングロールプレイ研修会（2026年度 夏のGCRP研修会）のご案内
+ 							</span>
+ 							<span>
+-								東京都立産業貿易センター浜松町館（対面形式、オンライン開催なし）
++								オンライン
+ 							</span>
+-							<a href="https://jshg.jp/seminar_event/11339/" rel="noopener noreferrer">
++							<a href="https://jshg.jp/seminar_event/11423/" rel="noopener noreferrer">
+ 							</a>
+ 						</div>
+ 					</li>

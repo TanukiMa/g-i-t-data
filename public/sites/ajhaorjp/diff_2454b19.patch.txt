@@ -1,0 +1,51 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index 469864901..bf66cb47e 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1653,7 +1653,7 @@
+ 							</a>
+ 							<a href="/news/backnumber/pdf/2026/261115.pdf" rel="noopener noreferrer">
+ 								<h3>
+-									全日病ニュース11月1日号
++									全日病ニュース11月15日号
+ 								</h3>
+ 								<span>
+ 									２０４０年を見据えた地域医療　　２面
+@@ -1877,15 +1877,15 @@
+ 				<div>
+ 					<dl>
+ 						<dt>
+-							2026/11/16
++							2026/11/18
+ 						</dt>
+ 						<dd>
+-							<a href="/member_info/" rel="noopener noreferrer">
+-								よもやま情報館
++							<a href="/topics/admininfo/" rel="noopener noreferrer">
++								医療行政情報
+ 							</a>
+ 							<p>
+-								<a href="https://www.youtube.com/@iryou_torisetsu" rel="noopener noreferrer">
+-									全日本病院協会 会長・神野正博 公式YouTubeチャンネル「医療のトリセツ第16回・第17回」を公開しました
++								<a href="/topics/admininfo/" rel="noopener noreferrer">
++									医療行政情報を2件更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+@@ -1893,12 +1893,12 @@
+ 							2026/11/16
+ 						</dt>
+ 						<dd>
+-							<a href="/news/" rel="noopener noreferrer">
+-								全日病NEWS
++							<a href="/member_info/" rel="noopener noreferrer">
++								よもやま情報館
+ 							</a>
+ 							<p>
+-								<a href="/news/backnumber/pdf/2026/261115.pdf" rel="noopener noreferrer">
+-									全日病ニュース　第1113回／2026年11月15日号 更新しました
++								<a href="https://www.youtube.com/@iryou_torisetsu" rel="noopener noreferrer">
++									全日本病院協会 会長・神野正博 公式YouTubeチャンネル「医療のトリセツ第16回・第17回」を公開しました
+ 								</a>
+ 							</p>
+ 						</dd>
