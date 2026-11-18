@@ -1,0 +1,64 @@
+diff --git a/sites/jsh/jp/or/jsh/medical.html b/sites/jsh/jp/or/jsh/medical.html
+index 83b42fc70..d51f552df 100644
+--- a/sites/jsh/jp/or/jsh/medical.html
++++ b/sites/jsh/jp/or/jsh/medical.html
+@@ -681,6 +681,14 @@
+ 					<div>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026/11/18
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1707&amp;type=news-request" rel="noopener noreferrer">
++										エプチネズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（片頭痛発作の発症抑制）について、他
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/11/13
+ 								</dt>
+@@ -833,14 +841,6 @@
+ 										変異型クロイツフェルト・ヤコブ病（vCJD）感染状況を踏まえた献血制限に係る関係通知の廃止の実施について
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/09/18
+-								</dt>
+-								<dd>
+-									<a href="https://sumitomo-pharma.jp/product/package_notification/2026/miripla_miripla_sv_chushi_20260915.html" rel="noopener noreferrer">
+-										医療関係の皆様へ　 ミリプラ動注用70mg、ミリプラ用懸濁用液4mL販売中止のお知らせ
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/" rel="noopener noreferrer">
+@@ -1019,6 +1019,14 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026/11/18
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1707&amp;type=news-request" rel="noopener noreferrer">
++										エプチネズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（片頭痛発作の発症抑制）について、他
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/11/04
+ 								</dt>
+@@ -1171,14 +1179,6 @@
+ 										再生医療等の適切な提供に係る自己点検について（依頼）
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/08/05
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1563&amp;type=news-request" rel="noopener noreferrer">
+-										【MID-NETのお知らせ】利活用ガイドライン等の発出について
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/request.php" rel="noopener noreferrer">
