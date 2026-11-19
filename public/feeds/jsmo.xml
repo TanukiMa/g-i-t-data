@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本臨床腫瘍学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jsmo.xml</id>
-  <updated>2026-11-13T03:33:59Z</updated>
+  <updated>2026-11-19T03:33:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jsmo.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsmo/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本臨床腫瘍学会: 変更 「https://registnet.jp/jsmo/iom_2026_2w/」へのリンクが消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsmo/e79849dcfaa7c42a91ba0410da51a18381c0da20</id>
+    <updated>2026-11-19T03:33:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsmo/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; 「https://registnet.jp/jsmo/iom_2026_2w/」へのリンクが消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt; 「https://medicalprime.jp/simple_app/manage_advanced1206/」へのリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsmo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsmo/diff_e79849d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本臨床腫瘍学会: 追加: 2026.11.13付けで「ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌、非小細胞肺癌、悪性黒色腫、子宮体癌、高い腫瘍遺伝子変異量（TMB-Hi…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsmo/41934ac76a9377a63d664ef6b1882970879a8f0b</id>

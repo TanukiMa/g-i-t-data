@@ -1,0 +1,43 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index bf66cb47e..eef694435 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1877,28 +1877,28 @@
+ 				<div>
+ 					<dl>
+ 						<dt>
+-							2026/11/18
++							2026/11/19
+ 						</dt>
+ 						<dd>
+-							<a href="/topics/admininfo/" rel="noopener noreferrer">
+-								医療行政情報
++							<a href="/seminar/" rel="noopener noreferrer">
++								教育研修
+ 							</a>
+ 							<p>
+-								<a href="/topics/admininfo/" rel="noopener noreferrer">
+-									医療行政情報を2件更新しました
++								<a href="/seminar/pdf/seminar_info.pdf" rel="noopener noreferrer">
++									研修参加申込状況を更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/11/16
++							2026/11/19
+ 						</dt>
+ 						<dd>
+-							<a href="/member_info/" rel="noopener noreferrer">
+-								よもやま情報館
++							<a href="/topics/admininfo/" rel="noopener noreferrer">
++								医療行政情報
+ 							</a>
+ 							<p>
+-								<a href="https://www.youtube.com/@iryou_torisetsu" rel="noopener noreferrer">
+-									全日本病院協会 会長・神野正博 公式YouTubeチャンネル「医療のトリセツ第16回・第17回」を公開しました
++								<a href="/topics/admininfo/" rel="noopener noreferrer">
++									医療行政情報を1件更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
