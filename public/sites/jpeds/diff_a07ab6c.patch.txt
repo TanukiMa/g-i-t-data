@@ -1,0 +1,52 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index ce3bf566b..cf07919c8 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1203,6 +1203,23 @@
+ 											</a>
+ 										</td>
+ 									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/11/19
++											</time>
++										</td>
++										<td>
++											<a href="/members-only/members-news" rel="noopener noreferrer">
++												会員限定のお知らせ
++											</a>
++										</td>
++										<td>
++											<a href="/members-only/" rel="noopener noreferrer">
++												会員専用ホームページに新しいお知らせを掲載しました
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/16
+-											</time>
+-										</td>
+-										<td>
+-											<a href="/members-only/members-news" rel="noopener noreferrer">
+-												会員限定のお知らせ
+-											</a>
+-										</td>
+-										<td>
+-											<a href="/members-only/" rel="noopener noreferrer">
+-												会員専用ホームページに新しいお知らせを掲載しました
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
