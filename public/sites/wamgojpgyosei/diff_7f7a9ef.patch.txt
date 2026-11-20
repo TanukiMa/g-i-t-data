@@ -1,0 +1,163 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index 88f062566..a26e2200d 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2048,6 +2048,18 @@
+ 															<div>
+ 																<table>
+ 																	<tbody>
++																		<tr>
++																			<td>
++																				<div>
++																					子ども・家庭
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=23071&amp;ct=090080145" rel="noopener noreferrer" title="第72回 青少年インターネット環境の整備等に関する検討会・第12回 青少年インターネット環境整備法の在り方等に関する検討ワーキンググループ（令和8年11月16日開催）">
++																					第72回 青少年インターネット環境の整備等に関する検討会・第12回 青少年インターネット環境整備法の在り方等に関する検討ワーキンググループ（令和8年11月16日開催）
++																				</a>
++																			</td>
++																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+@@ -2110,6 +2122,8 @@
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
++																				<div>
++																				</div>
+ 																				<div>
+ 																					医療
+ 																				</div>
+@@ -2120,20 +2134,6 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+-																		<tr>
+-																			<td>
+-																				<div>
+-																				</div>
+-																				<div>
+-																					福祉全般
+-																				</div>
+-																			</td>
+-																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23058&amp;ct=100100170" rel="noopener noreferrer" title="第26回 成年後見制度利用促進専門家会議（令和8年11月16日開催）">
+-																					第26回 成年後見制度利用促進専門家会議（令和8年11月16日開催）
+-																				</a>
+-																			</td>
+-																		</tr>
+ 																	</tbody>
+ 																</table>
+ 															</div>
+@@ -2164,8 +2164,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23069&amp;ct=010020270" rel="noopener noreferrer" title="第79回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年11月19日開催）">
+-																					第79回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年11月19日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23072&amp;ct=010020210" rel="noopener noreferrer" title="第28回 新型インフルエンザ対策に関する小委員会 ・第12回 危機対応医薬品等に関する小委員会（令和8年11月18日開催）">
++																					第28回 新型インフルエンザ対策に関する小委員会 ・第12回 危機対応医薬品等に関する小委員会（令和8年11月18日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2176,8 +2176,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23063&amp;ct=010010050" rel="noopener noreferrer" title="第221回 社会保障審議会 医療保険部会（令和8年11月17日開催）">
+-																					第221回 社会保障審議会 医療保険部会（令和8年11月17日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23069&amp;ct=010020270" rel="noopener noreferrer" title="第79回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年11月19日開催）">
++																					第79回 厚生科学審議会 予防接種・ワクチン分科会 予防接種基本方針部会（令和8年11月19日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2188,8 +2188,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23064&amp;ct=010010220" rel="noopener noreferrer" title="第64回 社会保障審議会 生活保護基準部会（令和8年11月17日開催）">
+-																					第64回 社会保障審議会 生活保護基準部会（令和8年11月17日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23063&amp;ct=010010050" rel="noopener noreferrer" title="第221回 社会保障審議会 医療保険部会（令和8年11月17日開催）">
++																					第221回 社会保障審議会 医療保険部会（令和8年11月17日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2200,8 +2200,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23049&amp;ct=010010020" rel="noopener noreferrer" title="第275回 社会保障審議会 介護給付費分科会（令和8年11月16日開催）">
+-																					第275回 社会保障審議会 介護給付費分科会（令和8年11月16日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23064&amp;ct=010010220" rel="noopener noreferrer" title="第64回 社会保障審議会 生活保護基準部会（令和8年11月17日開催）">
++																					第64回 社会保障審議会 生活保護基準部会（令和8年11月17日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2212,8 +2212,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23047&amp;ct=010010040" rel="noopener noreferrer" title="第131回 社会保障審議会 医療部会（令和8年11月11日開催）">
+-																					第131回 社会保障審議会 医療部会（令和8年11月11日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23049&amp;ct=010010020" rel="noopener noreferrer" title="第275回 社会保障審議会 介護給付費分科会（令和8年11月16日開催）">
++																					第275回 社会保障審議会 介護給付費分科会（令和8年11月16日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2496,8 +2496,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23032&amp;ct=090080345" rel="noopener noreferrer" title="第3回 こどもの預かりサービスの在り方に関する専門委員会（令和8年11月9日開催）">
+-																					第3回 こどもの預かりサービスの在り方に関する専門委員会（令和8年11月9日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23071&amp;ct=090080145" rel="noopener noreferrer" title="第72回 青少年インターネット環境の整備等に関する検討会・第12回 青少年インターネット環境整備法の在り方等に関する検討ワーキンググループ（令和8年11月16日開催）">
++																					第72回 青少年インターネット環境の整備等に関する検討会・第12回 青少年インターネット環境整備法の在り方等に関する検討ワーキンググループ（令和8年11月16日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2508,8 +2508,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23029&amp;ct=090080320" rel="noopener noreferrer" title="第26回 健やか親子21推進本部総会（令和8年11月9日開催）">
+-																					第26回 健やか親子21推進本部総会（令和8年11月9日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23032&amp;ct=090080345" rel="noopener noreferrer" title="第3回 こどもの預かりサービスの在り方に関する専門委員会（令和8年11月9日開催）">
++																					第3回 こどもの預かりサービスの在り方に関する専門委員会（令和8年11月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2520,8 +2520,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22989&amp;ct=090080185" rel="noopener noreferrer" title="第16回 こども家庭審議会 子ども・子育て支援等分科会（令和8年10月26日開催）">
+-																					第16回 こども家庭審議会 子ども・子育て支援等分科会（令和8年10月26日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23029&amp;ct=090080320" rel="noopener noreferrer" title="第26回 健やか親子21推進本部総会（令和8年11月9日開催）">
++																					第26回 健やか親子21推進本部総会（令和8年11月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2532,8 +2532,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22934&amp;ct=090080225" rel="noopener noreferrer" title="第16回 こども家庭審議会 科学技術部会 ヒト受精胚を用いる生殖補助医療研究等に関する専門委員会（令和8年10月7日開催）">
+-																					第16回 こども家庭審議会 科学技術部会 ヒト受精胚を用いる生殖補助医療研究等に関する専門委員会（令和8年10月7日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22989&amp;ct=090080185" rel="noopener noreferrer" title="第16回 こども家庭審議会 子ども・子育て支援等分科会（令和8年10月26日開催）">
++																					第16回 こども家庭審議会 子ども・子育て支援等分科会（令和8年10月26日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2544,8 +2544,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22890&amp;ct=090080220" rel="noopener noreferrer" title="第23回 こども家庭審議会 こどもの居場所部会（令和8年9月17日開催）">
+-																					第23回 こども家庭審議会 こどもの居場所部会（令和8年9月17日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22934&amp;ct=090080225" rel="noopener noreferrer" title="第16回 こども家庭審議会 科学技術部会 ヒト受精胚を用いる生殖補助医療研究等に関する専門委員会（令和8年10月7日開催）">
++																					第16回 こども家庭審議会 科学技術部会 ヒト受精胚を用いる生殖補助医療研究等に関する専門委員会（令和8年10月7日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>

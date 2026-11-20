@@ -1,0 +1,16 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index 71cacbfd0..13a067377 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -54,11 +54,6 @@
+ 					<img alt="第７６回日本医学検査学会" src="/assets/images/topCarousel/banner_76jamt.png">
+ 				</a>
+ 			</div>
+-			<div>
+-				<a href="https://www.jamt.or.jp/kumamoto-eq/" rel="noopener noreferrer">
+-					<img alt="令和8年熊本地震" src="assets/images/topCarousel/main_kumamoto_eq.jpg">
+-				</a>
+-			</div>
+ 			<div>
+ 				<div>
+ 					<a href="/members/" rel="noopener noreferrer">
