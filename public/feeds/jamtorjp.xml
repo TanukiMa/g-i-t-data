@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本臨床衛生検査技師会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jamtorjp.xml</id>
-  <updated>2026-11-20T03:33:17Z</updated>
+  <updated>2026-11-20T07:35:40Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jamtorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jamtorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>日本臨床衛生検査技師会: 変更: トップページのカルーセルから「https://www.75jamt.jp/」へのバナー画像リンクの記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jamtorjp/b146cc7e68bbbf10b38a94663dc749d6bdcdcd66</id>
+    <updated>2026-11-20T07:35:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jamtorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: トップページのカルーセルから「https://www.75jamt.jp/」へのバナー画像リンクの記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jamt.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jamtorjp/diff_b146cc7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>日本臨床衛生検査技師会: 変更: 「令和8年熊本地震」の画像およびリンクの記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jamtorjp/9644f011d6adb984067b409008adb41913acc019</id>
     <updated>2026-11-20T03:33:17Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jamtorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「令和8年熊本地震」の画像およびリンクの記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jamt.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jamtorjp/diff_9644f01.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「令和8年熊本地震」の画像およびリンクの記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jamt.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jamtorjp/diff_9644f01.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261120043959/https://www.jamt.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本臨床衛生検査技師会: 変更: 「精度管理システムの緊急メンテナンスのご案内」が「【メンテナンス終了】精度管理システムの緊急メンテナンスのご案内」に変更されました。</title>

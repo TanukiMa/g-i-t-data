@@ -1,0 +1,24 @@
+diff --git a/sites/jastro/jp/or/jastro/index.html b/sites/jastro/jp/or/jastro/index.html
+index fbbe35fcf..efbe2eb31 100644
+--- a/sites/jastro/jp/or/jastro/index.html
++++ b/sites/jastro/jp/or/jastro/index.html
+@@ -390,6 +390,19 @@
+ 					</p>
+ 				</a>
+ 			</div>
++			<div>
++				<a href="https://www.congre.co.jp/jastro2027/" rel="noopener noreferrer">
++					<img alt="" src="/medicalpersonnel/banner/main20271028.png">
++					<h3>
++						日本放射線腫瘍学会第40回学術大会
++					</h3>
++					<p>
++						2027年10月28日（木）〜10月30日（土）
++						<br>
++						会場：国立京都国際会館
++					</p>
++				</a>
++			</div>
+ 			<div>
+ 				<a href="https://jastrobio17.secand.net/" rel="noopener noreferrer">
+ 					<img alt="" src="/medicalpersonnel/banner/main20270227.jpg">

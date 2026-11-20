@@ -1,0 +1,493 @@
+diff --git a/sites/gemmed/com/ghc-j/gemmed/index.html b/sites/gemmed/com/ghc-j/gemmed/index.html
+index 4ea0a96fe..692aa7259 100644
+--- a/sites/gemmed/com/ghc-j/gemmed/index.html
++++ b/sites/gemmed/com/ghc-j/gemmed/index.html
+@@ -299,13 +299,13 @@
+ 			</header>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
+-						<img alt="" height="427" src="https://gemmed.ghc-j.com/wp-content/uploads/2022/05/23678037_s.jpg" width="640">
++					<a href="https://gemmed.ghc-j.com/?p=77904" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-52-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
+-						京大病院で「小児・AYA世代のがん患者へ最適な抗がん剤治療を可能とする患者申出療養」スタート—国がん・京大病院
++					<a href="https://gemmed.ghc-j.com/?p=77904" rel="noopener noreferrer">
++						「3要件満たす協力医療機関の定めない介護保険施設」、特段の事情がある場合を除き「基本報酬を減算」へ—社保審・介護給付費分科会（1）
+ 					</a>
+ 				</h2>
+ 				<p>
+@@ -314,13 +314,8 @@
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
+-								がん対策
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+-								医療現場から
++							<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
++								2027介護報酬改定
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -333,13 +328,13 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-33-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77898" rel="noopener noreferrer">
++						<img alt="" height="480" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/02/22280908_s.jpg" width="640">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
+-						老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所
++					<a href="https://gemmed.ghc-j.com/?p=77898" rel="noopener noreferrer">
++						子宮体がんで「予後良好」の可能性が高いPOLE遺伝子の稀な変異特定、遺伝子パネル検査結果から評価する新指標も考案—国がん他
+ 					</a>
+ 				</h2>
+ 				<p>
+@@ -347,6 +342,11 @@
+ 				</p>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
++								がん対策
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+ 								医療現場から
+@@ -362,20 +362,25 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/zenjibyo-P1-261118-960x600.jpg" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
++						<img alt="" height="427" src="https://gemmed.ghc-j.com/wp-content/uploads/2022/05/23678037_s.jpg" width="640">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
+-						地方病院で「医師働き方改革」を進めながら「医療提供体制を維持」するには、医師偏在対策が奏功することが必要—全自病
++					<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
++						京大病院で「小児・AYA世代のがん患者へ最適な抗がん剤治療を可能とする患者申出療養」スタート—国がん・京大病院
+ 					</a>
+ 				</h2>
+ 				<p>
+-					2026.11.19.（木）
++					2026.11.20.（金）
+ 				</p>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
++								がん対策
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+ 								医療現場から
+@@ -386,35 +391,25 @@
+ 								ピックアップ
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=23" rel="noopener noreferrer">
+-								医療計画・地域医療構想
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77861" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-27-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-33-960x600.png" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77861" rel="noopener noreferrer">
+-						胃・食道接合部・食道腺がんに対し、「レゴラフェニブ＋ニボルマブ＋化学療法」併用で優れた効果を得られる可能性—国がん
++					<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++						老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所
+ 					</a>
+ 				</h2>
+ 				<p>
+-					2026.11.19.（木）
++					2026.11.20.（金）
+ 				</p>
+ 				<div>
+ 					<ul>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
+-								がん対策
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+ 								医療現場から
+@@ -430,13 +425,13 @@
+ 			</div>
+ 			<div>
+ 				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77853" rel="noopener noreferrer">
+-						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-31-960x600.png" width="800">
++					<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/zenjibyo-P1-261118-960x600.jpg" width="800">
+ 					</a>
+ 				</figure>
+ 				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77853" rel="noopener noreferrer">
+-						2026年8月の健保組合医療費、コロナ感染症の影響がない2019年8月と比べて24.2％の増加—健保連
++					<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
++						地方病院で「医師働き方改革」を進めながら「医療提供体制を維持」するには、医師偏在対策が奏功することが必要—全自病
+ 					</a>
+ 				</h2>
+ 				<p>
+@@ -445,8 +440,8 @@
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-								医療保険制度
++							<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++								医療現場から
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -454,6 +449,11 @@
+ 								ピックアップ
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=23" rel="noopener noreferrer">
++								医療計画・地域医療構想
++							</a>
++						</li>
+ 					</ul>
+ 				</div>
+ 			</div>
+@@ -517,6 +517,69 @@
+ 			</h2>
+ 			<div>
+ 				<div>
++					<div>
++						<figure>
++							<a href="https://gemmed.ghc-j.com/?p=77904" rel="noopener noreferrer">
++								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-52-300x300.png" width="300">
++							</a>
++						</figure>
++						<h3>
++							<a href="https://gemmed.ghc-j.com/?p=77904" rel="noopener noreferrer">
++								「3要件満たす協力医療機関の定めない介護保険施設」、特段の事情がある場合を除き「基本報酬を減算」へ—社保審・介護給付費分科会（1）
++							</a>
++						</h3>
++						<p>
++							2026.11.20.（金）
++						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
++										2027介護報酬改定
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++										ピックアップ
++									</a>
++								</li>
++							</ul>
++						</div>
++					</div>
++					<div>
++						<figure>
++							<a href="https://gemmed.ghc-j.com/?p=77898" rel="noopener noreferrer">
++								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/02/22280908_s-300x300.jpg" width="300">
++							</a>
++						</figure>
++						<h3>
++							<a href="https://gemmed.ghc-j.com/?p=77898" rel="noopener noreferrer">
++								子宮体がんで「予後良好」の可能性が高いPOLE遺伝子の稀な変異特定、遺伝子パネル検査結果から評価する新指標も考案—国がん他
++							</a>
++						</h3>
++						<p>
++							2026.11.20.（金）
++						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
++										がん対策
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++										医療現場から
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++										ピックアップ
++									</a>
++								</li>
++							</ul>
++						</div>
++					</div>
+ 					<div>
+ 						<figure>
+ 							<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
+@@ -847,64 +910,6 @@
+ 							</ul>
+ 						</div>
+ 					</div>
+-					<div>
+-						<figure>
+-							<a href="https://gemmed.ghc-j.com/?p=77786" rel="noopener noreferrer">
+-								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/9d831d187199270f191b3999ca596311-3-300x300.png" width="300">
+-							</a>
+-						</figure>
+-						<h3>
+-							<a href="https://gemmed.ghc-j.com/?p=77786" rel="noopener noreferrer">
+-								「処遇改善による介護人材の確保・定着」と「テクノロジー活用による生産性向上」とで介護提供体制の維持を—社保審・介護給付費分科会
+-							</a>
+-						</h3>
+-						<p>
+-							2026.11.17.（火）
+-						</p>
+-						<div>
+-							<ul>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-										2027介護報酬改定
+-									</a>
+-								</li>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-										ピックアップ
+-									</a>
+-								</li>
+-							</ul>
+-						</div>
+-					</div>
+-					<div>
+-						<figure>
+-							<a href="https://gemmed.ghc-j.com/?p=77771" rel="noopener noreferrer">
+-								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-20-300x300.png" width="300">
+-							</a>
+-						</figure>
+-						<h3>
+-							<a href="https://gemmed.ghc-j.com/?p=77771" rel="noopener noreferrer">
+-								2026年度の臨時（期中）介護報酬改定で、介護職員はもちろん介護従事者全体の賃金が改善したが・・・―介護事業経営調査委員会（1）
+-							</a>
+-						</h3>
+-						<p>
+-							2026.11.16.（月）
+-						</p>
+-						<div>
+-							<ul>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-										2027介護報酬改定
+-									</a>
+-								</li>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-										ピックアップ
+-									</a>
+-								</li>
+-							</ul>
+-						</div>
+-					</div>
+ 				</div>
+ 			</div>
+ 			<div>
+@@ -941,13 +946,13 @@
+ 				</h2>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
+-							<img alt="" height="427" src="https://gemmed.ghc-j.com/wp-content/uploads/2022/05/23678037_s.jpg" width="640">
++						<a href="https://gemmed.ghc-j.com/?p=77904" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/10/5621deba8a18b839c7a4321764bb05e8-52-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
+-							京大病院で「小児・AYA世代のがん患者へ最適な抗がん剤治療を可能とする患者申出療養」スタート—国がん・京大病院
++						<a href="https://gemmed.ghc-j.com/?p=77904" rel="noopener noreferrer">
++							「3要件満たす協力医療機関の定めない介護保険施設」、特段の事情がある場合を除き「基本報酬を減算」へ—社保審・介護給付費分科会（1）
+ 						</a>
+ 					</h3>
+ 					<p>
+@@ -956,13 +961,8 @@
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
+-									がん対策
+-								</a>
+-							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+-									医療現場から
++								<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
++									2027介護報酬改定
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -975,13 +975,13 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-33-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77898" rel="noopener noreferrer">
++							<img alt="" height="480" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/02/22280908_s.jpg" width="640">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
+-							老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所
++						<a href="https://gemmed.ghc-j.com/?p=77898" rel="noopener noreferrer">
++							子宮体がんで「予後良好」の可能性が高いPOLE遺伝子の稀な変異特定、遺伝子パネル検査結果から評価する新指標も考案—国がん他
+ 						</a>
+ 					</h3>
+ 					<p>
+@@ -989,6 +989,11 @@
+ 					</p>
+ 					<div>
+ 						<ul>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
++									がん対策
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+ 									医療現場から
+@@ -1004,20 +1009,25 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/zenjibyo-P1-261118-960x600.jpg" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
++							<img alt="" height="427" src="https://gemmed.ghc-j.com/wp-content/uploads/2022/05/23678037_s.jpg" width="640">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
+-							地方病院で「医師働き方改革」を進めながら「医療提供体制を維持」するには、医師偏在対策が奏功することが必要—全自病
++						<a href="https://gemmed.ghc-j.com/?p=77875" rel="noopener noreferrer">
++							京大病院で「小児・AYA世代のがん患者へ最適な抗がん剤治療を可能とする患者申出療養」スタート—国がん・京大病院
+ 						</a>
+ 					</h3>
+ 					<p>
+-						2026.11.19.（木）
++						2026.11.20.（金）
+ 					</p>
+ 					<div>
+ 						<ul>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
++									がん対策
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+ 									医療現場から
+@@ -1028,35 +1038,25 @@
+ 									ピックアップ
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=23" rel="noopener noreferrer">
+-									医療計画・地域医療構想
+-								</a>
+-							</li>
+ 						</ul>
+ 					</div>
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77861" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/2a831ec055ed4fee4e1d0936ea40500d-27-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-33-960x600.png" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77861" rel="noopener noreferrer">
+-							胃・食道接合部・食道腺がんに対し、「レゴラフェニブ＋ニボルマブ＋化学療法」併用で優れた効果を得られる可能性—国がん
++						<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++							老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所
+ 						</a>
+ 					</h3>
+ 					<p>
+-						2026.11.19.（木）
++						2026.11.20.（金）
+ 					</p>
+ 					<div>
+ 						<ul>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=26" rel="noopener noreferrer">
+-									がん対策
+-								</a>
+-							</li>
+ 							<li>
+ 								<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+ 									医療現場から
+@@ -1072,13 +1072,13 @@
+ 				</div>
+ 				<div>
+ 					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77853" rel="noopener noreferrer">
+-							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-31-960x600.png" width="800">
++						<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/zenjibyo-P1-261118-960x600.jpg" width="800">
+ 						</a>
+ 					</figure>
+ 					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77853" rel="noopener noreferrer">
+-							2026年8月の健保組合医療費、コロナ感染症の影響がない2019年8月と比べて24.2％の増加—健保連
++						<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
++							地方病院で「医師働き方改革」を進めながら「医療提供体制を維持」するには、医師偏在対策が奏功することが必要—全自病
+ 						</a>
+ 					</h3>
+ 					<p>
+@@ -1087,8 +1087,8 @@
+ 					<div>
+ 						<ul>
+ 							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-									医療保険制度
++								<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++									医療現場から
+ 								</a>
+ 							</li>
+ 							<li>
+@@ -1096,6 +1096,11 @@
+ 									ピックアップ
+ 								</a>
+ 							</li>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=23" rel="noopener noreferrer">
++									医療計画・地域医療構想
++								</a>
++							</li>
+ 						</ul>
+ 					</div>
+ 				</div>
