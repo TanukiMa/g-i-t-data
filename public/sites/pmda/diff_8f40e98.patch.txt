@@ -1,0 +1,15 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 6bf6c500a..70fe76416 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2269,8 +2269,8 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/safety/reports/hcp/0002.html" rel="noopener noreferrer">
+-									<img alt="医薬関係者からの報告受付サイト" src="/files/000252495.png">
++								<a href="/safety/info-services/drugs/items-information/guide-for-patients/0001.html" rel="noopener noreferrer">
++									<img alt="患者向医薬品ガイド等 Webアンケート" src="/files/000283736.jpg">
+ 								</a>
+ 							</li>
+ 						</ul>

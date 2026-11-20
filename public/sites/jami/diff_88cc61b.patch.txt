@@ -1,0 +1,22 @@
+diff --git a/sites/jami/jp/jami/index.html b/sites/jami/jp/jami/index.html
+index d431795a6..6bb685fbb 100644
+--- a/sites/jami/jp/jami/index.html
++++ b/sites/jami/jp/jami/index.html
+@@ -317,7 +317,7 @@
+ 				</a>
+ 			</div>
+ 			<div>
+-				<div>
++				<a href="https://convention.jtbcom.co.jp/jami2027symp/" rel="noopener noreferrer">
+ 					<img alt="" height="960" src="https://www.jami.jp/wp-content/uploads/2023/11/noimage.jpg" width="960">
+ 					<div>
+ 						<h3>
+@@ -330,7 +330,7 @@
+ 							奈良市（奈良コンベンションセンター）
+ 						</p>
+ 					</div>
+-				</div>
++				</a>
+ 			</div>
+ 			<div>
+ 				<a href="https://medinfo2027.org/" rel="noopener noreferrer">
