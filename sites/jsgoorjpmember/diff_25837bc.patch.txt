@@ -1,0 +1,58 @@
+diff --git a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+index 4c28fb0f..4c38cc12 100644
+--- a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
++++ b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+@@ -65,7 +65,7 @@
+ 									</li>
+ 									<li>
+ 										<a href="/opinion/" rel="noopener noreferrer">
+-											見解・指針
++											見解・指針・注意点・留意点
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -274,7 +274,9 @@
+ 								</li>
+ 								<li>
+ 									<a href="/opinion/" rel="noopener noreferrer">
+-										見解・指針
++										見解・指針・
++										<br>
++										注意点・留意点
+ 									</a>
+ 								</li>
+ 								<li>
+@@ -385,6 +387,16 @@
+ 									<div>
+ 										<table>
+ 											<tbody>
++												<tr>
++													<th>
++														2026/11/02
++													</th>
++													<td>
++														<a href="/entry_member/news/20261102/4637/" rel="noopener noreferrer">
++															（日本医学会）【通知】医療事故の再発防止に向けた警鐘レポートNo.７の公表について
++														</a>
++													</td>
++												</tr>
+ 												<tr>
+ 													<th>
+ 														2026/11/02
+@@ -425,16 +437,6 @@
+ 														</a>
+ 													</td>
+ 												</tr>
+-												<tr>
+-													<th>
+-														2026/10/14
+-													</th>
+-													<td>
+-														<a href="/entry_member/news/20261014/4563/" rel="noopener noreferrer">
+-															教育委員会企画　Tumor Boardのご案内
+-														</a>
+-													</td>
+-												</tr>
+ 											</tbody>
+ 										</table>
+ 									</div>

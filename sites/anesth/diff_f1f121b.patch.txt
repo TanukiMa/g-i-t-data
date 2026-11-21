@@ -1,0 +1,38 @@
+diff --git a/sites/anesth/jp/or/anesth/index.html b/sites/anesth/jp/or/anesth/index.html
+index a10298b39..90c64af61 100644
+--- a/sites/anesth/jp/or/anesth/index.html
++++ b/sites/anesth/jp/or/anesth/index.html
+@@ -285,6 +285,16 @@
+         海外団体からのお知らせ
+ 					<div>
+ 						<div>
++							<div>
++								<p>
++									2026.10.28
++								</p>
++								<p>
++									<a href="/users/news/detail/0588c026-3e06-4911-a135-a4304afca94e#layout-top" rel="noopener noreferrer">
++										臨床研修医に対する教育ガイドライン（手順書）
++									</a>
++								</p>
++							</div>
+ 							<div>
+ 								<p>
+ 									2026.10.23
+@@ -1273,16 +1283,6 @@
+ 									</a>
+ 								</p>
+ 							</div>
+-							<div>
+-								<p>
+-									2025.04.08
+-								</p>
+-								<p>
+-									<a href="/users/news/detail/67f4830e-66b4-45f2-9396-0af59dcdd4c6#layout-top" rel="noopener noreferrer">
+-										新会員専用ページの稼働開始・ログイン方法について
+-									</a>
+-								</p>
+-							</div>
+ 						</div>
+ 						<div>
+ 							<a href="/users/news/all/ippan#layout-top" rel="noopener noreferrer">

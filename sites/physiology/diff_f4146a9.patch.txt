@@ -1,0 +1,450 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index 2ab35e618..f8a0995c3 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -435,12 +435,12 @@
+ 						<div>
+ 							<ul>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-10-06
++														2026-10-13
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -451,42 +451,42 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													第31回　久野寧記念賞・候補論文の募集について
++													第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/hold/34829/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-10-05
++														2026-10-06
+ 													</time>
+ 												</p>
+ 												<div>
+ 													<p>
+-														セミナー情報
++														お知らせ
+ 													</p>
+ 												</div>
+ 											</div>
+ 											<p>
+ 												<em>
+-													第7回 PSJオンラインセミナーのご案内
++													第31回　久野寧記念賞・候補論文の募集について
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/hold/34829/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-09-16
++														2026-10-05
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -497,42 +497,42 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
++													第7回 PSJオンラインセミナーのご案内
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-09-09
++														2026-09-16
+ 													</time>
+ 												</p>
+ 												<div>
+ 													<p>
+-														お知らせ
++														セミナー情報
+ 													</p>
+ 												</div>
+ 											</div>
+ 											<p>
+ 												<em>
+-													【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
++													【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34687/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-08-24
++														2026-09-09
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -543,19 +543,19 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													【日本生理学会】学会賞候補者の募集（〆切：10/19(月)）※延長しました
++													【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34393/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34687/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-08-01
++														2026-08-24
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -566,7 +566,7 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													令和8年熊本地震で被災された皆様へ
++													【日本生理学会】学会賞候補者の募集（〆切：10/19(月)）※延長しました
+ 												</em>
+ 											</p>
+ 										</div>
+@@ -647,56 +647,56 @@
+ 								</h2>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/offer/34862/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-09
++															2026-10-13
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															募集情報
+-														</p>
+-														<p>
+-															研究助成
++															お知らせ
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														第68回藤原賞受賞候補者推薦について
++														第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34858/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/offer/34862/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-08
++															2026-10-09
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															研究助成
++														</p>
++														<p>
++															募集情報
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														慶應義塾大学医学部生理学教室教授候補者の公募
++														第68回藤原賞受賞候補者推薦について
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34856/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34858/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -706,20 +706,20 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															研究助成
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														金原一郎記念医学医療振興財団
++														慶應義塾大学医学部生理学教室教授候補者の公募
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34848/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34856/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -735,14 +735,14 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														山田科学振興財団 研究助成
++														金原一郎記念医学医療振興財団
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34843/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34848/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -758,30 +758,30 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														【三島海雲記念財団】第３回(2027年度)特定研究助成金
++														山田科学振興財団 研究助成
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/hold/34837/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34843/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-06
++															2026-10-08
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															セミナー情報
++															研究助成
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														第53回 自律神経生理研究会の参加募集のお知らせ
++														【三島海雲記念財団】第３回(2027年度)特定研究助成金
+ 													</em>
+ 												</p>
+ 											</div>
+@@ -805,12 +805,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34835/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-06
++																2026-10-13
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -821,14 +821,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告
++															第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34835/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -844,19 +844,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第31回　久野寧記念賞・候補論文の募集について
++															TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-09
++																2026-10-06
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -867,19 +867,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
++															第31回　久野寧記念賞・候補論文の募集について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34714/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-08-24
++																2026-09-09
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -890,14 +890,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															日本医学会連合 加盟学会連携フォーラム共催事業についてのご案内
++															【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34687/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34714/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -913,19 +913,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【日本生理学会】学会賞候補者の募集（〆切：10/19(月)）※延長しました
++															日本医学会連合 加盟学会連携フォーラム共催事業についてのご案内
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34621/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34687/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-08-16
++																2026-08-24
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -936,7 +936,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															生理学研究所(総合研究大学院大学・生理科学コース)第2回オープンキャンパス2026(9月5日・オンライン)のご案内
++															【日本生理学会】学会賞候補者の募集（〆切：10/19(月)）※延長しました
+ 														</em>
+ 													</p>
+ 												</div>
+@@ -1439,10 +1439,10 @@
+ 														</p>
+ 														<div>
+ 															<p>
+-																募集情報
++																研究助成
+ 															</p>
+ 															<p>
+-																研究助成
++																募集情報
+ 															</p>
+ 														</div>
+ 													</div>
+@@ -1604,10 +1604,10 @@
+ 														</p>
+ 														<div>
+ 															<p>
+-																募集情報
++																研究助成
+ 															</p>
+ 															<p>
+-																研究助成
++																募集情報
+ 															</p>
+ 														</div>
+ 													</div>

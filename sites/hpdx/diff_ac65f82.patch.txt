@@ -1,0 +1,26 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 04c20dee5..aff3584a9 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -374,6 +374,21 @@
+ 						</h2>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								<span>
++									令和8年11月17日
++								</span>
++								<span>
++									医療機関・保険者
++								</span>
++							</span>
++							<span>
++								<a href="/shinryohoshu/saikaisyou_torikumi/kashikarepo/index.html" rel="noopener noreferrer">
++									審査の差異の可視化レポート「審査の一般的な取扱い・審査情報提供事例」（2事例）検証前レポートを掲載しました。
++								</a>
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								<span>

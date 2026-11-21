@@ -1,0 +1,90 @@
+diff --git a/sites/neurology-jp/org/neurology-jp/index-html.html b/sites/neurology-jp/org/neurology-jp/index-html.html
+index 3da4e324..0fa3fff0 100644
+--- a/sites/neurology-jp/org/neurology-jp/index-html.html
++++ b/sites/neurology-jp/org/neurology-jp/index-html.html
+@@ -261,7 +261,13 @@
+ 										<span>
+ 											参加登録受付中
+ 											<br>
+-											オンデマンド配信中（～11/6まで）
++											オンデマンド配信中
++											<br>
++											（～11/
++											<del>
++												6
++											</del>
++											11まで）
+ 										</span>
+ 										<br>
+ 										<small>
+@@ -358,6 +364,22 @@
+ 									<dt>
+ 										2026年11月04日
+ 									</dt>
++									<dd>
++										<a href="news/news_20261104_02.html" rel="noopener noreferrer">
++											勤務医への感謝状贈呈について
++										</a>
++									</dd>
++									<dt>
++										2026年11月04日
++									</dt>
++									<dd>
++										<a href="news/news_20260817_02.html" rel="noopener noreferrer">
++											＜オンデマンド配信開始＞2026年度　日本神経学会災害対策委員会ウェブセミナーのご案内
++										</a>
++									</dd>
++									<dt>
++										2026年11月04日
++									</dt>
+ 									<dd>
+ 										<a href="news/pdf/news_20261104_01_01.pdf" rel="noopener noreferrer">
+ 											【※締切間近※】第28回専門医育成教育セミナー(26.12.13開催）受講者募集《受付期間10/1 10:00～11/11 17:00》
+@@ -1204,6 +1226,14 @@
+ 							</h3>
+ 							<div>
+ 								<dl>
++									<dt>
++										2026年11月04日
++									</dt>
++									<dd>
++										<a href="kanren/annai-hoka/index.html" rel="noopener noreferrer">
++											他学会セミナー等のお知らせ
++										</a>
++									</dd>
+ 									<dt>
+ 										2026年10月16日
+ 									</dt>
+@@ -1236,6 +1266,8 @@
+ 											助成金・研究テーマ募集
+ 										</a>
+ 									</dd>
++								</dl>
++								<dl>
+ 									<dt>
+ 										2026年10月01日
+ 									</dt>
+@@ -1244,8 +1276,6 @@
+ 											他学会セミナー等のお知らせ
+ 										</a>
+ 									</dd>
+-								</dl>
+-								<dl>
+ 									<dt>
+ 										2026年09月18日
+ 									</dt>
+@@ -1278,14 +1308,6 @@
+ 											他学会セミナー等のお知らせ
+ 										</a>
+ 									</dd>
+-									<dt>
+-										2026年08月19日
+-									</dt>
+-									<dd>
+-										<a href="kanren/annai-boshu/index.html" rel="noopener noreferrer">
+-											助成金・研究テーマ募集
+-										</a>
+-									</dd>
+ 								</dl>
+ 							</div>
+ 						</div>

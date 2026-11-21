@@ -1,0 +1,130 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index 7acbc21f2..a796e7fda 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -1517,6 +1517,21 @@
+ 														<div>
+ 															<div>
+ 																<ul>
++																	<li>
++																		<div>
++																			2026年10月08日
++																		</div>
++																		<div>
++																			<span>
++																				関連団体
++																			</span>
++																		</div>
++																		<div>
++																			<a href="/news/detail.html?itemid=1150&amp;dispmid=767" rel="noopener noreferrer">
++																				ファイザー株式会社:ベバシズマブ及びトラスツズマブBS「ファイザー」の販売中止のご案内
++																			</a>
++																		</div>
++																	</li>
+ 																	<li>
+ 																		<div>
+ 																			2026年10月05日
+@@ -1577,21 +1592,6 @@
+ 																			</a>
+ 																		</div>
+ 																	</li>
+-																	<li>
+-																		<div>
+-																			2026年10月01日
+-																		</div>
+-																		<div>
+-																			<span>
+-																				認定がんnavi
+-																			</span>
+-																		</div>
+-																		<div>
+-																			<a href="/news/detail.html?itemid=1144&amp;dispmid=767" rel="noopener noreferrer">
+-																				認定がん医療ネットワークナビゲーター：癌の臨床（第70巻 第1号）の掲載のお知らせ
+-																			</a>
+-																		</div>
+-																	</li>
+ 																</ul>
+ 																<div>
+ 																	<p>
+@@ -1834,7 +1834,7 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026年09月24日
++																			2026年10月08日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1842,8 +1842,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1131&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本遺伝カウンセリング学会： ウェビナー「ゲノム医療の推進と現状　―令和10年度診療報酬改定に向けて」開催のお知らせ
++																			<a href="/news/detail.html?itemid=1150&amp;dispmid=767" rel="noopener noreferrer">
++																				ファイザー株式会社:ベバシズマブ及びトラスツズマブBS「ファイザー」の販売中止のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1851,7 +1851,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年09月11日
++																			2026年09月24日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1859,8 +1859,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="https://apbcs.org/" rel="noopener noreferrer">
+-																				15th Asia-Pacific Breast Cancer Summit (APBCS)開催のご案内
++																			<a href="/news/detail.html?itemid=1131&amp;dispmid=767" rel="noopener noreferrer">
++																				日本遺伝カウンセリング学会： ウェビナー「ゲノム医療の推進と現状　―令和10年度診療報酬改定に向けて」開催のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1876,8 +1876,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1125&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本医療研究開発機構（AMED）：【AMED革新がん】支持療法・緩和ケア領域 シンポジウムおよびワークショップ
++																			<a href="https://apbcs.org/" rel="noopener noreferrer">
++																				15th Asia-Pacific Breast Cancer Summit (APBCS)開催のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1885,7 +1885,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年09月04日
++																			2026年09月11日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1893,8 +1893,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1120&amp;dispmid=767" rel="noopener noreferrer">
+-																				ESMO Genitourinary Cancers Asia 2027のご案内
++																			<a href="/news/detail.html?itemid=1125&amp;dispmid=767" rel="noopener noreferrer">
++																				日本医療研究開発機構（AMED）：【AMED革新がん】支持療法・緩和ケア領域 シンポジウムおよびワークショップ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1910,8 +1910,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1123&amp;dispmid=767" rel="noopener noreferrer">
+-																				日本臨床腫瘍学会：『がん薬物療法専門医制度説明会』収録動画公開のお知らせ
++																			<a href="/news/detail.html?itemid=1120&amp;dispmid=767" rel="noopener noreferrer">
++																				ESMO Genitourinary Cancers Asia 2027のご案内
+ 																			</a>
+ 																		</div>
+ 																		<div>

@@ -1,0 +1,42 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index 67a267c1..900c687c 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1916,15 +1916,15 @@
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/10/30
++							2026/11/02
+ 						</dt>
+ 						<dd>
+-							<a href="/seminar/" rel="noopener noreferrer">
+-								教育研修
++							<a href="/topics/admininfo/" rel="noopener noreferrer">
++								医療行政情報
+ 							</a>
+ 							<p>
+-								<a href="/seminar/clinicalpractice/pdf/261030_1.pdf" rel="noopener noreferrer">
+-									2026年度 臨床研修指導医講習会 オンライン開催のご案内
++								<a href="/topics/admininfo/" rel="noopener noreferrer">
++									医療行政情報を4件更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+@@ -1932,12 +1932,12 @@
+ 							2026/10/30
+ 						</dt>
+ 						<dd>
+-							<a href="/news/" rel="noopener noreferrer">
+-								全日病NEWS
++							<a href="/seminar/" rel="noopener noreferrer">
++								教育研修
+ 							</a>
+ 							<p>
+-								<a href="/news/backnumber/pdf/2026/261101.pdf" rel="noopener noreferrer">
+-									全日病ニュース　第1112回／2026年11月1日号 更新しました
++								<a href="/seminar/clinicalpractice/pdf/261030_1.pdf" rel="noopener noreferrer">
++									2026年度 臨床研修指導医講習会 オンライン開催のご案内
+ 								</a>
+ 							</p>
+ 						</dd>

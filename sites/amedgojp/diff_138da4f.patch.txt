@@ -1,0 +1,24 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 34dbe082a..8730db1ab 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -55,7 +55,7 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/aboutus/access.html" rel="noopener noreferrer">
++								<a href="/aboutus/gaiyo.html#anc-3" rel="noopener noreferrer">
+ 									アクセス
+ 								</a>
+ 							</li>
+@@ -618,8 +618,8 @@
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/event/20261119_ws.html" rel="noopener noreferrer">
+-												<img alt="令和8年11月19日（木）16時00分～19時00分 「AMED責任ある研究・イノベーション（RRI）ワークショップ with 富山大学」" src="/content/000167056.png">
++											<a href="/news/event/20261211.html" rel="noopener noreferrer">
++												<img alt="「AMED責任ある研究・イノベーション（RRI）ワークショップ with 山口大学」開催のお知らせ令和8年12月11日（金）16時00分～19時00分" src="/content/000168807.png">
+ 											</a>
+ 										</li>
+ 										<li>

@@ -1,0 +1,16 @@
+diff --git a/sites/kansensho/jp/or/kansensho/index.html b/sites/kansensho/jp/or/kansensho/index.html
+index 4abc56374..8f3fddf97 100644
+--- a/sites/kansensho/jp/or/kansensho/index.html
++++ b/sites/kansensho/jp/or/kansensho/index.html
+@@ -1017,6 +1017,11 @@
+ 					<img alt="症状からアプローチするインバウンド感染症への対応～東京2020大会にむけて～ - 感染症クイック・リファレンス" src="/themes/img/MV_quickref.jpg">
+ 				</a>
+ 			</li>
++			<li>
++				<a href="/100th/" rel="noopener noreferrer">
++					<img alt="日本感染症学会100周年記念サイト" src="/themes/img/MV_100th.jpg">
++				</a>
++			</li>
+ 			<li>
+ 				<a href="https://godo2026.umin.jp/index.html" rel="noopener noreferrer">
+ 					<img alt="第75回日本感染症学会東日本地方会学術集会・第73回日本化学療法学会東日本支部総会　合同学会" src="/themes/img/MV_01_75.jpg">

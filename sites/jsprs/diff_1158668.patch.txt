@@ -1,0 +1,27 @@
+diff --git a/sites/jsprs/jp/or/jsprs/index.html b/sites/jsprs/jp/or/jsprs/index.html
+index c4aba3edc..0298a105e 100644
+--- a/sites/jsprs/jp/or/jsprs/index.html
++++ b/sites/jsprs/jp/or/jsprs/index.html
+@@ -712,11 +712,6 @@
+ 							<img alt="第70回日本形成外科学会総会・学術集会" height="51" src="banner/meeting/jsprs70.jpg" width="306">
+ 						</a>
+ 					</li>
+-					<li>
+-						<a href="https://jscmfs44.umin.jp/index.html" rel="noopener noreferrer">
+-							<img alt="第44回日本頭蓋顎顔面外科学会学術集会" height="51" src="banner/meeting/jscmfs44.png" width="306">
+-						</a>
+-					</li>
+ 					<li>
+ 						<a href="https://jsaps49.jp/" rel="noopener noreferrer">
+ 							<img alt="第49回日本美容外科学会総会・第157回学術集会" height="51" src="banner/meeting/jsaps49.png" width="306">
+@@ -733,8 +728,8 @@
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="https://www.prskorea.org/" rel="noopener noreferrer">
+-							<img alt="prskorea2026" height="51" src="banner/meeting/prskorea2026.jpg" width="306">
++						<a href="https://faces2027.jp/" rel="noopener noreferrer">
++							<img alt="第45回 日本頭蓋顎顔面外科学会学術集会" height="51" src="banner/meeting/faces2027.gif" width="306">
+ 						</a>
+ 					</li>
+ 					<li>

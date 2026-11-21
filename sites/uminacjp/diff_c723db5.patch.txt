@@ -1,0 +1,253 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 9bb6b9798..936bb5934 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -796,6 +796,12 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015658" rel="noopener noreferrer">
++							鹿児島大学 大学院医歯学総合研究科顎顔面機能再建学講座咬合機能補綴学分野 教授公募
++						</a>
++					</li>
+ 					<li>
+ 						[教職員公募]
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015657" rel="noopener noreferrer">
+@@ -850,12 +856,6 @@
+ 							国立大学法人筑波大学 医学医療系　古河・坂東地域医療教育センター その他公募
+ 						</a>
+ 					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015648" rel="noopener noreferrer">
+-							国立大学法人筑波大学 医学医療系　合同茨城県西部地域臨床教育センター その他公募
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">
+@@ -1009,141 +1009,153 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						株式会社アイメックＲＤ：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000067843" rel="noopener noreferrer">
+-							試験飲料の心拍に及ぼす影響に関するヒト試験
++						東京大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072267" rel="noopener noreferrer">
++							食堂スコア提示研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社ヒューマR&D：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000067742" rel="noopener noreferrer">
+-							試験飲料の心理に及ぼす影響に関する試験
++						株式会社NTTデータ経営研究所ニューロ・コグニティブ・イノベーションユニット：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072214" rel="noopener noreferrer">
++							ノンアルコールビールによる気分転換効果オンライン検証
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社マクロミル：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000067929" rel="noopener noreferrer">
+-							不調に関する観察研究
++						株式会社ロッテ：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072403" rel="noopener noreferrer">
++							中学生の口腔機能に関する調査研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						森ノ宮医療大学医療技術学部鍼灸学科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071665" rel="noopener noreferrer">
+-							META研究
++						地方独立行政法人東京都健康長寿医療センター：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072383" rel="noopener noreferrer">
++							施設囲碁研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						慶應義塾大学医学部循環器内科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071987" rel="noopener noreferrer">
+-							非拡張型左室心筋症の多様性解明とDeep Phenotypingによるリスク層別化・個別化治療基盤の構築
++						味の素株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072437" rel="noopener noreferrer">
++							自治体既存事業における、自治体保健師、教室ボランティアスタッフ及び参加高齢者を対象とした保健師介在型デジタル食事改善プログラムの PoC（Proof of Concept）実証
+ 						</a>
+ 					</li>
+ 					<li>
+-						京都大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072276" rel="noopener noreferrer">
+-							脳卒中後の関連反応の神経生理学的特徴に関する研究
++						株式会社MIS：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072441" rel="noopener noreferrer">
++							WillSleepの実使用環境における使用性、受容性および睡眠関連指標の前後比較研究-前向き単群6週間実使用研究-
+ 						</a>
+ 					</li>
+ 					<li>
+-						中部学院大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072318" rel="noopener noreferrer">
+-							地域在住中高齢者における健康増進教室参加前後の身体機能および健康関連指標の変化
++						山形大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072458" rel="noopener noreferrer">
++							C6-EIT抜管研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						ヴィアトリス製薬合同会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072360" rel="noopener noreferrer">
+-							医師を対象とする全般不安症（GAD）の診療実態に関する調査研究
++						西日本がん研究機構：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000070703" rel="noopener noreferrer">
++							VISION study(WJOG21625B)
+ 						</a>
+ 					</li>
+ 					<li>
+-						一宮西病院脳神経外科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072305" rel="noopener noreferrer">
+-							脳動脈瘤FD治療後のTCD血流評価
++						埼玉医科大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072461" rel="noopener noreferrer">
++							声と骨密度の研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						UCB Biopharma SRL：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072414" rel="noopener noreferrer">
+-							BRIVA-Switch
++						株式会社マクロミルケアネット：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072464" rel="noopener noreferrer">
++							日常生活における飲料選択と生体データの関係性に関する検討（観察研究）
+ 						</a>
+ 					</li>
+ 					<li>
+-						小倉記念病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072020" rel="noopener noreferrer">
+-							UNVEIL-PFA study
++						新潟医療福祉大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072465" rel="noopener noreferrer">
++							擬似的回旋斜視体験用レンズの検証
+ 						</a>
+ 					</li>
+ 					<li>
+-						京都大学医学研究科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072427" rel="noopener noreferrer">
+-							過去の感覚情報が現在の知覚判断に及ぼす影響と関連する神経応答の検討
++						社会医療法人春回会 井上病院：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072466" rel="noopener noreferrer">
++							ナイトグラフとPSGの比較研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						小林製薬株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072422" rel="noopener noreferrer">
+-							ドライアイ患者への洗眼が及ぼす影響の確認
++						常葉大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072447" rel="noopener noreferrer">
++							認知課題・運動学習研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						群馬大学大学院保健学研究科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072435" rel="noopener noreferrer">
+-							大腿骨近位部骨折患者の体幹筋量と歩行能力に関する研究
++						EAファーマ株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072402" rel="noopener noreferrer">
++							COMMIT study
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京農業大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072438" rel="noopener noreferrer">
+-							香水利用による心理的効果
++						EAファーマ株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072407" rel="noopener noreferrer">
++							CIRCULAR survey
+ 						</a>
+ 					</li>
+ 					<li>
+-						川崎医療福祉大学大学院 医療技術学研究科 リハビリテーション学専攻：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072415" rel="noopener noreferrer">
+-							PPC-MI-tDCS研究
++						柴田学園大学生活創生学部 こども発達学科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072379" rel="noopener noreferrer">
++							解決志向アプローチに基づく介入によるレジリエンス向上のメカニズムの検証
+ 						</a>
+ 					</li>
+ 					<li>
+-						大腸癌研究会：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072413" rel="noopener noreferrer">
+-							PLANET study
++						EAファーマ株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072468" rel="noopener noreferrer">
++							日本のIBD治療の変遷に関するレセプトデータ研究: SHIFT-IBD
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072443" rel="noopener noreferrer">
+-							ヨガニドラ睡眠研究
++						虎の門病院：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072469" rel="noopener noreferrer">
++							SIP-ICI 研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京科学大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072444" rel="noopener noreferrer">
+-							慢性めまいの眼球運動探索
++						島根大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072467" rel="noopener noreferrer">
++							AIを用いた培養軟骨移植術（MACI）の成績予測
+ 						</a>
+ 					</li>
+ 					<li>
+-						北里大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072448" rel="noopener noreferrer">
+-							手持ち式器具による目の動きのトレーニング研究
++						秋田大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072474" rel="noopener noreferrer">
++							経頭蓋直流電気刺激前後における下肢運動パフォーマンスおよび姿勢制御の評価
+ 						</a>
+ 					</li>
+ 					<li>
+-						新潟医療福祉大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072455" rel="noopener noreferrer">
+-							息止めが脊髄機能に及ぼす影響
++						名古屋経済大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072462" rel="noopener noreferrer">
++							「人生のためのマインドフルネス」の効果に関する研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						新潟医療福祉大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072454" rel="noopener noreferrer">
+-							咬合が集中力に及ぼす影響
++						日本体育大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072473" rel="noopener noreferrer">
++							カフェイン摂取が持久性パフォーマンスに与える影響の性差
++						</a>
++					</li>
++					<li>
++						東京都済生会中央病院：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072470" rel="noopener noreferrer">
++							SmO2ステップ試験
++						</a>
++					</li>
++					<li>
++						Universiti Malaya：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000072475" rel="noopener noreferrer">
++							GEP-PS
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京農業大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072459" rel="noopener noreferrer">
+-							ハーブティーの継続的な飲用が頭痛に及ぼす影響
++						山形大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072481" rel="noopener noreferrer">
++							山形救急EIT研究
+ 						</a>
+ 					</li>
+ 				</ul>

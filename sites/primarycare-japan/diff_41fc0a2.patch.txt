@@ -1,0 +1,108 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index bf4482f96..f1a422627 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -800,27 +800,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1940" rel="noopener noreferrer">
+-								<p>
+-									<img alt="【学会サイト・会員マイページ等　一部サービス停止のお知らせ】" src="/pics/news/news-thumb-1940.jpg">
+-								</p>
+-								<h2>
+-									【学会サイト・会員マイページ等　一部サービス停止のお知らせ】
+-								</h2>
+-								<p>
+-									日本プライマリ・ケア連合学会会員　各位平素より本学会の活動にご理解とご協力を賜り、誠にありがとうご…
+-								</p>
+-								<p>
+-									<time>
+-										2026.10.26
+-									</time>
+-									<span>
+-										オススメ
+-									</span>
+-								</p>
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1952" rel="noopener noreferrer">
+ 								<p>
+@@ -983,6 +962,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1940" rel="noopener noreferrer">
++								<p>
++									<img alt="【学会サイト・会員マイページ等　一部サービス停止のお知らせ】" src="/pics/news/news-thumb-1940.jpg">
++								</p>
++								<h2>
++									【学会サイト・会員マイページ等　一部サービス停止のお知らせ】
++								</h2>
++								<p>
++									日本プライマリ・ケア連合学会会員　各位平素より本学会の活動にご理解とご協力を賜り、誠にありがとうご…
++								</p>
++								<p>
++									<time>
++										2026.10.26
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1937" rel="noopener noreferrer">
+ 								<p>
+@@ -6991,40 +6988,37 @@
+ 				<div>
+ 					<ul>
+ 						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1940" rel="noopener noreferrer">
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1941" rel="noopener noreferrer">
+ 								<p>
+-									<img alt="【学会サイト・会員マイページ等　一部サービス停止のお知らせ】" src="/pics/news/news-thumb-1940.jpg">
++									<img alt="※ご注意ください※　理事長名をかたった不審メール（なりすましメール）" src="/pics/news/news-thumb-1941.jpg">
+ 								</p>
+ 								<h2>
+-									【学会サイト・会員マイページ等　一部サービス停止のお知らせ】
++									※ご注意ください※　理事長名をかたった不審メール（なりすましメール）
+ 								</h2>
+ 								<p>
+-									日本プライマリ・ケア連合学会会員　各位平素より本学会の活動にご理解とご協力を賜り、誠にありがとうご…
++									このたび、理事長名をかたった不審メール（なりすましメール）が送信されていることが確認されました。 …
+ 								</p>
+ 								<p>
+ 									<time>
+-										2026.10.26
++										2026.11.06
+ 									</time>
+-									<span>
+-										オススメ
+-									</span>
+ 								</p>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1941" rel="noopener noreferrer">
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1940" rel="noopener noreferrer">
+ 								<p>
+-									<img alt="※ご注意ください※　理事長名をかたった不審メール（なりすましメール）" src="/pics/news/news-thumb-1941.jpg">
++									<img alt="【学会サイト・会員マイページ等　一部サービス停止のお知らせ】" src="/pics/news/news-thumb-1940.jpg">
+ 								</p>
+ 								<h2>
+-									※ご注意ください※　理事長名をかたった不審メール（なりすましメール）
++									【学会サイト・会員マイページ等　一部サービス停止のお知らせ】
+ 								</h2>
+ 								<p>
+-									このたび、理事長名をかたった不審メール（なりすましメール）が送信されていることが確認されました。 …
++									日本プライマリ・ケア連合学会会員　各位平素より本学会の活動にご理解とご協力を賜り、誠にありがとうご…
+ 								</p>
+ 								<p>
+ 									<time>
+-										2026.11.06
++										2026.10.26
+ 									</time>
+ 								</p>
+ 							</a>

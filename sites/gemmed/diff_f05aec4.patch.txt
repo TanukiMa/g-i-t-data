@@ -1,0 +1,259 @@
+diff --git a/sites/gemmed/com/ghc-j/gemmed/index.html b/sites/gemmed/com/ghc-j/gemmed/index.html
+index 79a9db6dd..f9db1e9fe 100644
+--- a/sites/gemmed/com/ghc-j/gemmed/index.html
++++ b/sites/gemmed/com/ghc-j/gemmed/index.html
+@@ -297,6 +297,35 @@
+ 				</div>
+ 				<img alt="" src="">
+ 			</header>
++			<div>
++				<figure>
++					<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++						<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-33-960x600.png" width="800">
++					</a>
++				</figure>
++				<h2>
++					<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++						老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所
++					</a>
++				</h2>
++				<p>
++					2026.11.20.（金）
++				</p>
++				<div>
++					<ul>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++								医療現場から
++							</a>
++						</li>
++						<li>
++							<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++								ピックアップ
++							</a>
++						</li>
++					</ul>
++				</div>
++			</div>
+ 			<div>
+ 				<figure>
+ 					<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
+@@ -428,50 +457,6 @@
+ 					</ul>
+ 				</div>
+ 			</div>
+-			<div>
+-				<figure>
+-					<a href="https://gemmed.ghc-j.com/?p=77767" rel="noopener noreferrer">
+-						<img alt="" height="427" src="https://gemmed.ghc-j.com/wp-content/uploads/2018/04/fdbd8e665b2125a504ab150f85de6305_s.jpg" width="640">
+-					</a>
+-				</figure>
+-				<h2>
+-					<a href="https://gemmed.ghc-j.com/?p=77767" rel="noopener noreferrer">
+-						看護職員の8割が現在の給与水準に「不満」、2027年度の介護報酬改定・臨時の診療報酬改定で十分な水準への賃上げを—日看協
+-					</a>
+-				</h2>
+-				<p>
+-					2026.11.18.（水）
+-				</p>
+-				<div>
+-					<ul>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-								2027介護報酬改定
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-								医療保険制度
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=37" rel="noopener noreferrer">
+-								看護
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+-								医療現場から
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-								ピックアップ
+-							</a>
+-						</li>
+-					</ul>
+-				</div>
+-			</div>
+ 			<aside>
+ 				<div>
+ 					<figure>
+@@ -532,6 +517,35 @@
+ 			</h2>
+ 			<div>
+ 				<div>
++					<div>
++						<figure>
++							<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-33-300x300.png" width="300">
++							</a>
++						</figure>
++						<h3>
++							<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++								老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所
++							</a>
++						</h3>
++						<p>
++							2026.11.20.（金）
++						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++										医療現場から
++									</a>
++								</li>
++								<li>
++									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++										ピックアップ
++									</a>
++								</li>
++							</ul>
++						</div>
++					</div>
+ 					<div>
+ 						<figure>
+ 							<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
+@@ -886,35 +900,6 @@
+ 							</ul>
+ 						</div>
+ 					</div>
+-					<div>
+-						<figure>
+-							<a href="https://gemmed.ghc-j.com/?p=77759" rel="noopener noreferrer">
+-								<img alt="" height="300" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-23-300x300.png" width="300">
+-							</a>
+-						</figure>
+-						<h3>
+-							<a href="https://gemmed.ghc-j.com/?p=77759" rel="noopener noreferrer">
+-								サイバーセキュリティ対策の強化は、特定の組織・業界に限らず「我が国社会全体で対応する」必要がある！
+-							</a>
+-						</h3>
+-						<p>
+-							2026.11.16.（月）
+-						</p>
+-						<div>
+-							<ul>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=36" rel="noopener noreferrer">
+-										医療提供体制改革
+-									</a>
+-								</li>
+-								<li>
+-									<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-										ピックアップ
+-									</a>
+-								</li>
+-							</ul>
+-						</div>
+-					</div>
+ 				</div>
+ 			</div>
+ 			<div>
+@@ -949,6 +934,35 @@
+ 					</span>
+ 					SSUES
+ 				</h2>
++				<div>
++					<figure>
++						<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++							<img alt="" height="500" src="https://gemmed.ghc-j.com/wp-content/uploads/2026/11/5621deba8a18b839c7a4321764bb05e8-33-960x600.png" width="800">
++						</a>
++					</figure>
++					<h3>
++						<a href="https://gemmed.ghc-j.com/?p=77877" rel="noopener noreferrer">
++							老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所
++						</a>
++					</h3>
++					<p>
++						2026.11.20.（金）
++					</p>
++					<div>
++						<ul>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
++									医療現場から
++								</a>
++							</li>
++							<li>
++								<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
++									ピックアップ
++								</a>
++							</li>
++						</ul>
++					</div>
++				</div>
+ 				<div>
+ 					<figure>
+ 						<a href="https://gemmed.ghc-j.com/?p=77868" rel="noopener noreferrer">
+@@ -1080,50 +1094,6 @@
+ 						</ul>
+ 					</div>
+ 				</div>
+-				<div>
+-					<figure>
+-						<a href="https://gemmed.ghc-j.com/?p=77767" rel="noopener noreferrer">
+-							<img alt="" height="427" src="https://gemmed.ghc-j.com/wp-content/uploads/2018/04/fdbd8e665b2125a504ab150f85de6305_s.jpg" width="640">
+-						</a>
+-					</figure>
+-					<h3>
+-						<a href="https://gemmed.ghc-j.com/?p=77767" rel="noopener noreferrer">
+-							看護職員の8割が現在の給与水準に「不満」、2027年度の介護報酬改定・臨時の診療報酬改定で十分な水準への賃上げを—日看協
+-						</a>
+-					</h3>
+-					<p>
+-						2026.11.18.（水）
+-					</p>
+-					<div>
+-						<ul>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=84" rel="noopener noreferrer">
+-									2027介護報酬改定
+-								</a>
+-							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=24" rel="noopener noreferrer">
+-									医療保険制度
+-								</a>
+-							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=37" rel="noopener noreferrer">
+-									看護
+-								</a>
+-							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=9" rel="noopener noreferrer">
+-									医療現場から
+-								</a>
+-							</li>
+-							<li>
+-								<a href="https://gemmed.ghc-j.com/?cat=40" rel="noopener noreferrer">
+-									ピックアップ
+-								</a>
+-							</li>
+-						</ul>
+-					</div>
+-				</div>
+ 				<div>
+ 					<a href="https://gemmed.ghc-j.com?cat=40" rel="noopener noreferrer">
+ 						もっと見る
+@@ -1183,7 +1153,7 @@
+ 							<p>
+ 								2019.9.5.（木）
+ 								<span>
+-									17,800
++									17,500
+ 								</span>
+ 								ビュー
+ 							</p>

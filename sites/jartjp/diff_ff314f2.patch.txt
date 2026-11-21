@@ -1,0 +1,52 @@
+diff --git a/sites/jartjp/jp/jart/index.html b/sites/jartjp/jp/jart/index.html
+index a5878f1f3..916097bd0 100644
+--- a/sites/jartjp/jp/jart/index.html
++++ b/sites/jartjp/jp/jart/index.html
+@@ -534,6 +534,23 @@
+ 														<div>
+ 															<div>
+ 																<div>
++																	<div>
++																		<a href="https://www.jart.jp/news/info/20261021-01" rel="noopener noreferrer">
++																			<div>
++																				<div>
++																					2026/10/21
++																				</div>
++																				<ul>
++																					<li>
++																						お知らせ
++																					</li>
++																				</ul>
++																			</div>
++																			<p>
++																				【お詫び】メールマガジン本文中のリンク(URL)からページが開かない現象について
++																			</p>
++																		</a>
++																	</div>
+ 																	<div>
+ 																		<a href="https://www.jart.jp/news/info/20261019-3" rel="noopener noreferrer">
+ 																			<div>
+@@ -605,23 +622,6 @@
+ 																			</p>
+ 																		</a>
+ 																	</div>
+-																	<div>
+-																		<a href="https://www.jart.jp/news/info/20260728-01" rel="noopener noreferrer">
+-																			<div>
+-																				<div>
+-																					2026/10/14
+-																				</div>
+-																				<ul>
+-																					<li>
+-																						お知らせ
+-																					</li>
+-																				</ul>
+-																			</div>
+-																			<p>
+-																				JARTISリニューアルに伴う利用登録（再登録）のお願い
+-																			</p>
+-																		</a>
+-																	</div>
+ 																</div>
+ 															</div>
+ 														</div>

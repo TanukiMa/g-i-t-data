@@ -1,0 +1,90 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 2f2cbaeb5..e9bab2b71 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -647,17 +647,17 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.11.09
++														2026.11.12
+ 													</time>
+ 												</p>
+ 												<p>
+ 													<span>
+-														会員向け
++														薬剤師向け
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1756" rel="noopener noreferrer">
+-														セルフメディケーション税制対象品目リスト（12月分）を掲載しました。
++													<a href="/news/detail?id=1764&amp;is_top=yes" rel="noopener noreferrer">
++														日薬ニュース号外271号（会員向けHPにリンク）
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -666,17 +666,17 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.11.05
++														2026.11.09
+ 													</time>
+ 												</p>
+ 												<p>
+ 													<span>
+-														薬剤師向け
++														会員向け
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1751&amp;is_top=yes" rel="noopener noreferrer">
+-														薬局製剤に係るアンケートを実施しています
++													<a href="/member/news/detail?id=1756" rel="noopener noreferrer">
++														セルフメディケーション税制対象品目リスト（12月分）を掲載しました。
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -685,17 +685,17 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.11.04
++														2026.11.05
+ 													</time>
+ 												</p>
+ 												<p>
+ 													<span>
+-														会員向け
++														薬剤師向け
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1750" rel="noopener noreferrer">
+-														日薬斡旋図書（PDF）/日薬斡旋図書一覧
++													<a href="/news/detail?id=1751&amp;is_top=yes" rel="noopener noreferrer">
++														薬局製剤に係るアンケートを実施しています
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -704,7 +704,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.11.02
++														2026.11.04
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -713,8 +713,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1747" rel="noopener noreferrer">
+-														日薬ニュース第327号
++													<a href="/member/news/detail?id=1750" rel="noopener noreferrer">
++														日薬斡旋図書（PDF）/日薬斡旋図書一覧
+ 													</a>
+ 												</div>
+ 											</div>

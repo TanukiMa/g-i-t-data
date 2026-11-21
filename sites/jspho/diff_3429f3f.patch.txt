@@ -1,0 +1,23 @@
+diff --git a/sites/jspho/org/jspho/index.html b/sites/jspho/org/jspho/index.html
+index ef957ca8a..3578672b5 100644
+--- a/sites/jspho/org/jspho/index.html
++++ b/sites/jspho/org/jspho/index.html
+@@ -440,6 +440,18 @@
+ 							<img alt="お知らせ" src="common/img/home/hl_txt_news.png">
+ 						</h1>
+ 						<div>
++							<div>
++								<div>
++									2026.11.20
++								</div>
++								<div>
++									AYAがんの医療と支援のあり方研究会より、新版AYA世代がんサポートガイド」が刊行されました。
++									<br>
++									<a href="https://aya-ken.jp/archives/15730" rel="noopener noreferrer">
++										https://aya-ken.jp/archives/15730
++									</a>
++								</div>
++							</div>
+ 							<div>
+ 								<div>
+ 									2026.11.20

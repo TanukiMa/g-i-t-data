@@ -1,0 +1,12 @@
+diff --git a/sites/jrs-guideline/jp/radiology/jrs-gl/index.html b/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
+index 88177cc87..e57d6d007 100644
+--- a/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
++++ b/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
+@@ -1211,5 +1211,7 @@
+ 				</div>
+ 			</footer>
+ 		</div>
++		<div>
++		</div>
+ 	</body>
+ </html>

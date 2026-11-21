@@ -1,0 +1,240 @@
+diff --git a/sites/cancer/jp/or/cancer/index.html b/sites/cancer/jp/or/cancer/index.html
+index fe55d8d16..a83f94eeb 100644
+--- a/sites/cancer/jp/or/cancer/index.html
++++ b/sites/cancer/jp/or/cancer/index.html
+@@ -692,6 +692,57 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年11月19日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=2" rel="noopener noreferrer">
++														<div>
++															学会から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=682" rel="noopener noreferrer">
++														会員管理システムの 会員情報の管理体制および情報セキュリティ対策について
++													</a>
++												</li>
++											</ul>
++											<ul>
++												<li>
++													2026年11月19日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=4" rel="noopener noreferrer">
++														<div>
++															人材募集
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=681" rel="noopener noreferrer">
++														群馬大学大学院医学系研究科：講師および助教の公募について
++													</a>
++												</li>
++											</ul>
++											<ul>
++												<li>
++													2026年11月19日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
++														<div>
++															関連機関から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=680" rel="noopener noreferrer">
++														第5回遺伝性腫瘍アドバンストセミナーのお知らせ
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年11月18日
+@@ -1474,57 +1525,6 @@
+ 													</a>
+ 												</li>
+ 											</ul>
+-											<ul>
+-												<li>
+-													2026年7月15日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=3" rel="noopener noreferrer">
+-														<div>
+-															公募案内
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=466" rel="noopener noreferrer">
+-														日本対がん協会：「マイ・オンコロジー・ドリーム奨励賞」の公募について
+-													</a>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													2026年7月13日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+-														<div>
+-															関連機関から
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=629" rel="noopener noreferrer">
+-														千里ライフサイエンス振興財団：「千里ライフサイエンスセミナーY3」開催のお知らせ
+-													</a>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													2026年7月8日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=3" rel="noopener noreferrer">
+-														<div>
+-															公募案内
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=628" rel="noopener noreferrer">
+-														令和8年度革新的医療技術研究開発推進事業（産学官共同型）：六次公募のお知らせ
+-													</a>
+-												</li>
+-											</ul>
+ 										</div>
+ 									</div>
+ 								</div>
+@@ -1538,6 +1538,23 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年11月19日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=2" rel="noopener noreferrer">
++														<div>
++															学会から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=682" rel="noopener noreferrer">
++														会員管理システムの 会員情報の管理体制および情報セキュリティ対策について
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年11月11日
+@@ -1674,23 +1691,6 @@
+ 													</a>
+ 												</li>
+ 											</ul>
+-											<ul>
+-												<li>
+-													2026年6月2日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=2" rel="noopener noreferrer">
+-														<div>
+-															学会から
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=539" rel="noopener noreferrer">
+-														日本臨床腫瘍学会・日本癌治療学会・日本癌学会『次世代シークエンサー等を⽤いた遺伝⼦パネル検査に基づく固形がん診療に関するブリーフィングレポート』アップデートのお知らせ
+-													</a>
+-												</li>
+-											</ul>
+ 										</div>
+ 									</div>
+ 								</div>
+@@ -3400,6 +3400,23 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年11月19日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=4" rel="noopener noreferrer">
++														<div>
++															人材募集
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=681" rel="noopener noreferrer">
++														群馬大学大学院医学系研究科：講師および助教の公募について
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年10月29日
+@@ -4769,6 +4786,23 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年11月19日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
++														<div>
++															関連機関から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=680" rel="noopener noreferrer">
++														第5回遺伝性腫瘍アドバンストセミナーのお知らせ
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年11月18日
+@@ -4905,23 +4939,6 @@
+ 													</a>
+ 												</li>
+ 											</ul>
+-											<ul>
+-												<li>
+-													2026年10月15日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+-														<div>
+-															関連機関から
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=657" rel="noopener noreferrer">
+-														第16回日本遺伝子診療学会：遺伝子診断・検査技術推進フォーラム開催のお知らせ
+-													</a>
+-												</li>
+-											</ul>
+ 										</div>
+ 									</div>
+ 								</div>

@@ -1,0 +1,32 @@
+diff --git a/sites/pathology/jp/or/pathology/index.html b/sites/pathology/jp/or/pathology/index.html
+index 8267556b..21fd4f25 100644
+--- a/sites/pathology/jp/or/pathology/index.html
++++ b/sites/pathology/jp/or/pathology/index.html
+@@ -402,13 +402,6 @@
+ 											</a>
+ 										</li>
+ 										<hr>
+-										<li>
+-											2026.10.22
+-											<a href="https://www.pathology.or.jp/news/members/notices/php.html" rel="noopener noreferrer">
+-												【重要】PHPの重大な脆弱性に伴う会員専用サイトの緊急停止について
+-											</a>
+-										</li>
+-										<hr>
+ 									</ul>
+ 								</div>
+ 							</div>
+@@ -420,6 +413,13 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											2026.11.05
++											<a href="https://www.pathology.or.jp/news/members/info/2027115.html" rel="noopener noreferrer">
++												【周知依頼】医療従事者による２年に一度の届出（三師調査）への協力（期限：2027年1月15日）
++											</a>
++										</li>
++										<hr>
+ 										<li>
+ 											2026.11.05
+ 											<a href="https://www.pathology.or.jp/news/9.html" rel="noopener noreferrer">

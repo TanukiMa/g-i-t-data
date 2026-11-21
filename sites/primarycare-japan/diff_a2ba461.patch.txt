@@ -1,0 +1,100 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index 8305cce08..49181fbc6 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -779,6 +779,27 @@
+ 				</ul>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1939" rel="noopener noreferrer">
++								<p>
++									<img alt="＜JPCA学会公式サイト　セキュリティ課題に対する緊急措置のお知らせ＞" src="/pics/news/news-thumb-1939.jpg">
++								</p>
++								<h2>
++									＜JPCA学会公式サイト　セキュリティ課題に対する緊急措置のお知らせ＞
++								</h2>
++								<p>
++									日本プライマリ・ケア連合学会学会公式サイト　記事投稿ツールご利用の皆様へ平素より学会公式サイトの運…
++								</p>
++								<p>
++									<time>
++										2026.10.22
++									</time>
++									<span>
++										オススメ
++									</span>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1933" rel="noopener noreferrer">
+ 								<p>
+@@ -884,6 +905,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1937" rel="noopener noreferrer">
++								<p>
++									<img alt="腎臓内科医がプライマリ・ケアへ転身した理由。開業を見据えたキャリアチェンジ" src="/pics/youtube/news-youtube-1937.jpg">
++								</p>
++								<h2>
++									腎臓内科医がプライマリ・ケアへ転身した理由。開業を見据えたキャリアチェンジ
++								</h2>
++								<p>
++									それぞれの専門領域でキャリアを積んできた医師たちは、なぜプライマリ・ケアの道を選んだのか。 キャリ…
++								</p>
++								<p>
++									<time>
++										2026.10.21
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1935" rel="noopener noreferrer">
+ 								<p>
+@@ -2486,42 +2525,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1826" rel="noopener noreferrer">
+-								<p>
+-									<img alt="【開催報告】 スポーツ・運動医学セミナー2026を開催しました" src="/pics/news/news-thumb-1826.jpg">
+-								</p>
+-								<h2>
+-									【開催報告】 スポーツ・運動医学セミナー2026を開催しました
+-								</h2>
+-								<p>
+-									日本プライマリ・ケア連合学会スポーツ・運動医学委員会です。早速ですが、2026年7月20日（月）順…
+-								</p>
+-								<p>
+-									<time>
+-										2026.07.30
+-									</time>
+-								</p>
+-							</a>
+-						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1825" rel="noopener noreferrer">
+-								<p>
+-									<img alt="令和8年熊本地震に関するお知らせ" src="/pics/news/news-thumb-1825.png">
+-								</p>
+-								<h2>
+-									令和8年熊本地震に関するお知らせ
+-								</h2>
+-								<p>
+-									このたびの熊本地震により、大切な方を亡くされた方々に謹んでお悔やみを申し上げますとともに、暮らしや…
+-								</p>
+-								<p>
+-									<time>
+-										2026.07.30
+-									</time>
+-								</p>
+-							</a>
+-						</li>
+ 					</ul>
+ 					<p>
+ 						<a rel="noopener noreferrer">

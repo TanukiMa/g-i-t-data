@@ -1,0 +1,81 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 9c11ec53a..2a5b3743b 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -623,8 +623,8 @@
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/topics/20261106.html" rel="noopener noreferrer">
+-												<img alt="広報ウェブマガジン「AMED Pickup」で「中釜理事長も登壇：第85回日本癌学会学術総会AMED合同シンポジウム『生涯を通じた攻めのがん予防の実現～多様な研究アプローチ～』」を公開しました！" src="/content/000168282.png">
++											<a href="/news/event/20261207_shinko-kiki.html" rel="noopener noreferrer">
++												<img alt="「開発途上国・新興国向け 医療機器事業化戦略セミナー」開催のお知らせ　令和8年12月7日（月）16時00分～18時00分（開場：15時30分）株式会社野村総合研究所本社" src="/content/000168649.png">
+ 											</a>
+ 										</li>
+ 										<li>
+@@ -633,8 +633,8 @@
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/topics/20261030.html" rel="noopener noreferrer">
+-												<img alt="広報ウェブマガジン「AMED Pickup」で「研究者と創薬を支える“縁の下の力持ち”！BINDSが生み出す研究成果とはーBINDSシンポジウム2026レポート」を公開しました！" src="/content/000167997.png">
++											<a href="/news/event/20261216_cannds.html" rel="noopener noreferrer">
++												<img alt="「健康・医療研究開発データ統合利活用プラットフォーム事業 令和8年度 成果報告会　～AMED認知症研究から得られた脳画像を含む臨床研究データの利活用に向けた取組～」開催のご案内令和8年12月16日（水）13時00分～14時30分" src="/content/000168650.png">
+ 											</a>
+ 										</li>
+ 										<li>
+@@ -643,8 +643,8 @@
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/event/sympo_20261130.html" rel="noopener noreferrer">
+-												<img alt="研究公正シンポジウム「研究の未来と公正性～生成AI時代の研究公正の課題とは～」開催のお知らせ令和8年11月30日（月）13時30分～17時00分（開場・オンライン入室 13時00分）JPタワーホール＆カンファレンス ホール1＋2" src="/content/000166773.png">
++											<a href="/news/topics/20261106.html" rel="noopener noreferrer">
++												<img alt="広報ウェブマガジン「AMED Pickup」で「中釜理事長も登壇：第85回日本癌学会学術総会AMED合同シンポジウム『生涯を通じた攻めのがん予防の実現～多様な研究アプローチ～』」を公開しました！" src="/content/000168651.png">
+ 											</a>
+ 										</li>
+ 									</ul>
+@@ -697,6 +697,21 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<div>
++											<span>
++												令和8年11月16日
++											</span>
++											<div>
++												<span>
++													トピックス
++												</span>
++											</div>
++										</div>
++										<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
++											（情報更新）「公募カレンダー」最新情報を掲載しました
++										</a>
++									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+@@ -757,21 +772,6 @@
+ 											（令和8年12月1日～4日開催）「BMB2026合同大会（第49回日本分子生物学会年会、第99回日本生化学会大会...
+ 										</a>
+ 									</li>
+-									<li>
+-										<div>
+-											<span>
+-												令和8年11月9日
+-											</span>
+-											<div>
+-												<span>
+-													トピックス
+-												</span>
+-											</div>
+-										</div>
+-										<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
+-											（情報更新）「公募カレンダー」最新情報を掲載しました
+-										</a>
+-									</li>
+ 								</ul>
+ 								<ul>
+ 									<li>

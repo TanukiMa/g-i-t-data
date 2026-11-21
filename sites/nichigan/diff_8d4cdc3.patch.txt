@@ -1,0 +1,134 @@
+diff --git a/sites/nichigan/jp/or/nichigan/index.html b/sites/nichigan/jp/or/nichigan/index.html
+index bd18b47f..0a119b99 100644
+--- a/sites/nichigan/jp/or/nichigan/index.html
++++ b/sites/nichigan/jp/or/nichigan/index.html
+@@ -1594,31 +1594,40 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026/11/08
++																			2026/11/10
+ 																		</div>
+ 																		<div>
++																			<span>
++																				お知らせ
++																			</span>
+ 																			<span>
+ 																				会員の皆さまへ
+ 																			</span>
++																			<span>
++																				専門医制度
++																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=988&amp;dispmid=1050" rel="noopener noreferrer">
+-																				令和８年医師の届出について
++																			<a href="/news/detail.html?itemid=883&amp;dispmid=1050" rel="noopener noreferrer">
++																				診療実績の提出のご案内
+ 																			</a>
+ 																		</div>
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026/10/28
++																			2026/11/10
+ 																		</div>
+ 																		<div>
+ 																			<span>
+-																				会員の皆さまへ
++																				医学生・研修医の皆さまへ
++																			</span>
++																			<span>
++																				専門医制度
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=986&amp;dispmid=1050" rel="noopener noreferrer">
+-																				本学会理事長をかたる不審なメールにご注意ください
++																			<a href="/news/detail.html?itemid=977&amp;dispmid=1050" rel="noopener noreferrer">
++																				眼科専門医認定試験の実施日についてのご案内
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1790,22 +1799,28 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026/11/08
++																			2026/11/10
+ 																		</div>
+ 																		<div>
++																			<span>
++																				お知らせ
++																			</span>
+ 																			<span>
+ 																				会員の皆さまへ
+ 																			</span>
++																			<span>
++																				専門医制度
++																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/member/news/detail.html?itemid=988&amp;dispmid=917" rel="noopener noreferrer">
+-																				令和８年医師の届出について
++																			<a href="/member/news/detail.html?itemid=883&amp;dispmid=917" rel="noopener noreferrer">
++																				診療実績の提出のご案内
+ 																			</a>
+ 																		</div>
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026/10/28
++																			2026/11/08
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1813,8 +1828,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/member/news/detail.html?itemid=986&amp;dispmid=917" rel="noopener noreferrer">
+-																				本学会理事長をかたる不審なメールにご注意ください
++																			<a href="/member/news/detail.html?itemid=988&amp;dispmid=917" rel="noopener noreferrer">
++																				令和８年医師の届出について
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1837,7 +1852,7 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026/10/26
++																			2026/11/10
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1848,14 +1863,14 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/intern/news/detail.html?itemid=985&amp;dispmid=919" rel="noopener noreferrer">
+-																				令和9年度（2027年度）眼科専攻医の第一次登録開始について
++																			<a href="/intern/news/detail.html?itemid=977&amp;dispmid=919" rel="noopener noreferrer">
++																				眼科専門医認定試験の実施日についてのご案内
+ 																			</a>
+ 																		</div>
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026/10/09
++																			2026/10/26
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1866,8 +1881,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/intern/news/detail.html?itemid=977&amp;dispmid=919" rel="noopener noreferrer">
+-																				眼科専門医認定試験の実施日についてのご案内
++																			<a href="/intern/news/detail.html?itemid=985&amp;dispmid=919" rel="noopener noreferrer">
++																				令和9年度（2027年度）眼科専攻医の第一次登録開始について
+ 																			</a>
+ 																		</div>
+ 																	</li>

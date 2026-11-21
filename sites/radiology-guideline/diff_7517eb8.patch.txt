@@ -1,0 +1,38 @@
+diff --git a/sites/radiology-guideline/jp/radiology/guideline.html b/sites/radiology-guideline/jp/radiology/guideline.html
+index a08c3073..1a75b619 100644
+--- a/sites/radiology-guideline/jp/radiology/guideline.html
++++ b/sites/radiology-guideline/jp/radiology/guideline.html
+@@ -347,6 +347,16 @@
+ 					</h3>
+ 					<div>
+ 						<dl>
++							<dt>
++								<time>
++									2026年11月06日
++								</time>
++							</dt>
++							<dd>
++								<a href="guideline/20261106_01.html" rel="noopener noreferrer">
++									デジタル画像の取り扱いに関するガイドライン4.0版および診断用ディスプレイに関する指針
++								</a>
++							</dd>
+ 							<dt>
+ 								<time>
+ 									2026年10月30日
+@@ -737,16 +747,6 @@
+ 									「診療用放射線に係る安全管理体制に関するガイドライン」等の改訂のお知らせ
+ 								</a>
+ 							</dd>
+-							<dt>
+-								<time>
+-									2019年10月04日
+-								</time>
+-							</dt>
+-							<dd>
+-								<a href="guideline/20191004_01.html" rel="noopener noreferrer">
+-									「診療用放射線に係る安全管理体制に関するガイドライン」等の発行のお知らせ
+-								</a>
+-							</dd>
+ 						</dl>
+ 					</div>
+ 					<p>

@@ -1,0 +1,22 @@
+diff --git a/sites/kokuho/jp/or/kokuho/index.html b/sites/kokuho/jp/or/kokuho/index.html
+index 71d345b5..38ba5933 100644
+--- a/sites/kokuho/jp/or/kokuho/index.html
++++ b/sites/kokuho/jp/or/kokuho/index.html
+@@ -176,13 +176,13 @@
+ 			</ul>
+ 			<ul>
+ 				<li>
+-					<a href="/relation/" rel="noopener noreferrer">
+-						国保制度関連情報
++					<a href="/hoken/" rel="noopener noreferrer">
++						保健事業情報
+ 					</a>
+ 				</li>
+ 				<li>
+-					<a href="/hoken/" rel="noopener noreferrer">
+-						保健事業情報
++					<a href="/recruit/" rel="noopener noreferrer">
++						採用情報
+ 					</a>
+ 				</li>
+ 				<li>

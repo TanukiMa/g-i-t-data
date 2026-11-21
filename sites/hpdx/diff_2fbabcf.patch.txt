@@ -1,0 +1,14 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 007edb08c..c0c1fb87a 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -106,6 +106,9 @@
+ 					<div>
+ 						<div>
+ 							<ul>
++								<li>
++									<img alt="" height="346" src="index.images/mvimg_20261119_1.png" width="500">
++								</li>
+ 								<li>
+ 									<a href="/saigai/index.html" rel="noopener noreferrer">
+ 										<img alt="災害に関するお知らせ" height="346" src="index.images/mvimg_saigai_all.png" width="500">

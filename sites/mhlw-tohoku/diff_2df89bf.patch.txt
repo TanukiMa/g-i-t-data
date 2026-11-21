@@ -1,0 +1,52 @@
+diff --git a/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html b/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
+index fb8fbd4b8..7e9c8436e 100644
+--- a/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
++++ b/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
+@@ -952,39 +952,39 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/tohoku/gyomu/gyomu/shakaihoken_kyogi/index.html" rel="noopener noreferrer">
++										<a href="/tohoku/shido_kansa/tuuti-r4_00012.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月18日
++													2026年11月20日
+ 												</time>
+ 												<em>
+ 													<span>
+-														開催案内
++														通知・通達
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													東北地方社会保険医療協議会各県部会（令和8年11月）の開催案内を掲載しました
++													医療保険関係通知一覧（令和8年度）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tohoku/shido_kansa/tuuti-r4_00012.html" rel="noopener noreferrer">
++										<a href="/tohoku/gyomu/gyomu/shakaihoken_kyogi/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月17日
++													2026年11月18日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														開催案内
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													医療保険関係通知一覧（令和8年度）
++													東北地方社会保険医療協議会各県部会（令和8年11月）の開催案内を掲載しました
+ 												</span>
+ 											</div>
+ 										</a>

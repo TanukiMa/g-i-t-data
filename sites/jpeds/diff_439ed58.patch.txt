@@ -1,0 +1,257 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index b362dea10..1c2335e65 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,40 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/10/26
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
++												イベント
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
++												小児診療初期対応（JPLS）コース募集情報更新について
++											</a>
++										</td>
++									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/10/26
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
++												学会の活動
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-159894.html" rel="noopener noreferrer">
++												電子書籍サービスKaLib緊急メンテナンスについて
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -1227,8 +1261,8 @@
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-pediatrician" rel="noopener noreferrer">
+-												専門医・認定資格等
++											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
++												学会の活動
+ 											</a>
+ 										</td>
+ 										<td>
+@@ -1271,23 +1305,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/10/21
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
+-												イベント
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
+-												小児診療初期対応（JPLS）コース募集情報更新について
+-											</a>
+-										</td>
+-									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/08/27
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
+-												学会の活動
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159097.html" rel="noopener noreferrer">
+-												子どもの医療安全リンク集について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2052,84 +2052,84 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/13
++												2026/10/26
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159763.html" rel="noopener noreferrer">
+-												委員会報告「小児期の慢性疾患患者および要保護児童、要支援児童に関する病診連携の実態調査」について
++											<a href="https://www.jpeds.or.jp/news/post-159894.html" rel="noopener noreferrer">
++												電子書籍サービスKaLib緊急メンテナンスについて
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/09/28
++												2026/10/22
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/post-159634.html" rel="noopener noreferrer">
+-												「乳幼児のマスク着用の考え方」改訂について
++											<a href="https://www.jpeds.or.jp/news/post-159881.html" rel="noopener noreferrer">
++												こどもの救急サイトおよびJPSオンラインセミナーサイト緊急メンテナンスについて
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/09/25
++												2026/10/13
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159620.html" rel="noopener noreferrer">
+-												Injury Alert（傷害速報）の掲載について
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159763.html" rel="noopener noreferrer">
++												委員会報告「小児期の慢性疾患患者および要保護児童、要支援児童に関する病診連携の実態調査」について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/09/25
++												2026/09/28
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159600.html" rel="noopener noreferrer">
+-												経鼻弱毒生インフルエンザワクチンの使用に関する考え：第2版～医療機関の皆様へ～について
++											<a href="https://www.jpeds.or.jp/news/post-159634.html" rel="noopener noreferrer">
++												「乳幼児のマスク着用の考え方」改訂について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/09/24
++												2026/09/25
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159564.html" rel="noopener noreferrer">
+-												委員会報告「在胎36週0日以降に出生した新生児・乳児におけるビタミンK 欠乏性出血症の予防法ならびに症例に関する全国調査」について
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159620.html" rel="noopener noreferrer">
++												Injury Alert（傷害速報）の掲載について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/09/24
++												2026/09/25
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159543.html" rel="noopener noreferrer">
+-												委員会報告「2022 年出生児を対象としたハイリスク新生児医療全国調査」について
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159600.html" rel="noopener noreferrer">
++												経鼻弱毒生インフルエンザワクチンの使用に関する考え：第2版～医療機関の皆様へ～について
+ 											</a>
+ 										</td>
+ 									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/09/15
++												2026/09/24
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/post-159469.html" rel="noopener noreferrer">
+-												リレーコラム　キャリアの積み方―私の場合 コラム59掲載について
++											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159564.html" rel="noopener noreferrer">
++												委員会報告「在胎36週0日以降に出生した新生児・乳児におけるビタミンK 欠乏性出血症の予防法ならびに症例に関する全国調査」について
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -2154,7 +2154,7 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/21
++												2026/10/26
+ 											</time>
+ 										</td>
+ 										<td>
+@@ -2277,18 +2277,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/10/22
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/post-159881.html" rel="noopener noreferrer">
+-												こどもの救急サイトおよびJPSオンラインセミナーサイト緊急メンテナンスについて
+-											</a>
+-										</td>
+-									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2337,6 +2325,18 @@
+ 											</a>
+ 										</td>
+ 									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/09/08
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-pediatrician/post-159405.html" rel="noopener noreferrer">
++												単位取得講演一覧（現地・WEB：2026年9月承認分）の追加掲載について
++											</a>
++										</td>
++									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

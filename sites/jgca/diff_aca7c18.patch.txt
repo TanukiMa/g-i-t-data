@@ -1,0 +1,61 @@
+diff --git a/sites/jgca/jp/jgca/index.html b/sites/jgca/jp/jgca/index.html
+index 265bd2656..0c133b52b 100644
+--- a/sites/jgca/jp/jgca/index.html
++++ b/sites/jgca/jp/jgca/index.html
+@@ -469,6 +469,19 @@
+ 																			</ul>
+ 																		</div>
+ 																		<ul>
++																			<li>
++																				<a href="https://www.jgca.jp/news/202610161831/" rel="noopener noreferrer">
++																					<time>
++																						2026.10.16
++																					</time>
++																					<span>
++																						市民向け
++																					</span>
++																					<h3>
++																						胃がん患者さんのための国際教育シンポジウム開催のお知らせ
++																					</h3>
++																				</a>
++																			</li>
+ 																			<li>
+ 																				<a href="https://www.jgca.jp/news/202609041823/" rel="noopener noreferrer">
+ 																					<time>
+@@ -521,19 +534,6 @@
+ 																					</h3>
+ 																				</a>
+ 																			</li>
+-																			<li>
+-																				<a href="https://www.jgca.jp/news/202606191774/" rel="noopener noreferrer">
+-																					<time>
+-																						2026.06.19
+-																					</time>
+-																					<span>
+-																						学会から
+-																					</span>
+-																					<h3>
+-																						胃癌治療ガイドライン速報
+-																					</h3>
+-																				</a>
+-																			</li>
+ 																		</ul>
+ 																		<ul>
+ 																			<li>
+@@ -776,6 +776,16 @@
+ 																			</li>
+ 																		</ul>
+ 																		<ul>
++																			<li>
++																				<a href="https://www.jgca.jp/news/202610161831/" rel="noopener noreferrer">
++																					<time>
++																						2026年10月16日
++																					</time>
++																					<h3>
++																						胃がん患者さんのための国際教育シンポジウム開催のお知らせ
++																					</h3>
++																				</a>
++																			</li>
+ 																			<li>
+ 																				<a href="https://www.jgca.jp/news/202607151811/" rel="noopener noreferrer">
+ 																					<time>

@@ -1,0 +1,40 @@
+diff --git a/sites/childneuro/jp/childneuro/index.html b/sites/childneuro/jp/childneuro/index.html
+index ee4ecd5a0..d93bdfb7a 100644
+--- a/sites/childneuro/jp/childneuro/index.html
++++ b/sites/childneuro/jp/childneuro/index.html
+@@ -361,6 +361,17 @@
+ 							お知らせ
+ 						</span>
+ 					</h3>
++					<div>
++						学会より
++					</div>
++					<div>
++						2026年11月17日
++					</div>
++					<div>
++						<a href="https://www.childneuro.jp/information/10923/" rel="noopener noreferrer">
++							「けいれん、意識混濁時のフローチャート」などが日本学校保健協会のHPに掲載されました
++						</a>
++					</div>
+ 					<div>
+ 						会員専用
+ 					</div>
+@@ -460,17 +471,6 @@
+ 							【重要】小児神経専門医資格・小児神経認定医資格の認定期間延長措置および認定期間の開始日・終了日の変更について
+ 						</a>
+ 					</div>
+-					<div>
+-						会員専用
+-					</div>
+-					<div>
+-						2026年03月05日
+-					</div>
+-					<div>
+-						<a href="https://www.childneuro.jp/information/8832/" rel="noopener noreferrer">
+-							小児科学会より周知依頼がありました：吸入ステロイド薬ドライパウダー製剤（DPI）使用のお願い
+-						</a>
+-					</div>
+ 					<div>
+ 						<a href="https://www.childneuro.jp/information/" rel="noopener noreferrer">
+ 							<img alt="" height="18" src="/themes/childneuro/img/ico_more.png" width="18">

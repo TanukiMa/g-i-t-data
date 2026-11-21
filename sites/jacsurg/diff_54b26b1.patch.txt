@@ -1,0 +1,115 @@
+diff --git a/sites/jacsurg/jp/gr/jacsurg/index.html b/sites/jacsurg/jp/gr/jacsurg/index.html
+index c9f8379f9..4e2264799 100644
+--- a/sites/jacsurg/jp/gr/jacsurg/index.html
++++ b/sites/jacsurg/jp/gr/jacsurg/index.html
+@@ -1339,70 +1339,52 @@
+ 								<ul>
+ 									<li>
+ 										<span>
+-											2026/11/02
++											2026/11/13
+ 										</span>
+ 										<span>
+-											<a href="https://www.medsafe.or.jp/report/07_keisho_report.pdf" rel="noopener noreferrer">
+-												日本医療安全調査機構および厚生労働省より
+-医療事故の再発防止に向けた警鐘レポートNo.７の公表（周知依頼）
++											<a href="https://www.medsafe.or.jp/med-cms/wp-content/uploads/2026/11/houdoushiryo20261109.pdf" rel="noopener noreferrer">
++												日本医療安全調査機構より医療事故調査制度の現況報告（10月）
+ 											</a>
+ 										</span>
+ 									</li>
+ 									<li>
+ 										<span>
+-											2026/10/16
++											2026/11/13
+ 										</span>
+ 										<span>
+-											<a href="https://www.medsafe.or.jp/med-cms/wp-content/uploads/2026/10/houdoushiryo20261009.pdf" rel="noopener noreferrer">
+-												日本医療安全調査機構より医療事故調査制度の現況報告（9月）
++											<a href="https://www.msd.co.jp/about/responsibility/ime/jigyo/" rel="noopener noreferrer">
++												MSD株式会社より「2027年（公募型）医学教育事業助成のご案内」
+ 											</a>
+ 										</span>
+ 									</li>
+ 									<li>
+ 										<span>
+-											2026/10/16
++											2026/11/02
+ 										</span>
+ 										<span>
+-											<a href="https://www.scj.go.jp/ja/event/2026/407-1102.html" rel="noopener noreferrer">
+-												日本学術会議より公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」（11/2開催）のお知らせ
++											<a href="https://www.medsafe.or.jp/report/07_keisho_report.pdf" rel="noopener noreferrer">
++												日本医療安全調査機構および厚生労働省より
++医療事故の再発防止に向けた警鐘レポートNo.７の公表（周知依頼）
+ 											</a>
+ 										</span>
+ 									</li>
+ 									<li>
+ 										<span>
+-											2026/10/09
++											2026/10/16
+ 										</span>
+ 										<span>
+-											<a href="https://www.mhlw.go.jp/content/11125000/001751104.pdf" rel="noopener noreferrer">
+-												厚生労働省より「医薬品・医療機器等安全情報」No.432（周知依頼）
++											<a href="https://www.medsafe.or.jp/med-cms/wp-content/uploads/2026/10/houdoushiryo20261009.pdf" rel="noopener noreferrer">
++												日本医療安全調査機構より医療事故調査制度の現況報告（9月）
+ 											</a>
+ 										</span>
+ 									</li>
+ 									<li>
+ 										<span>
+-											2026/10/02
++											2026/10/16
+ 										</span>
+ 										<span>
+-											厚生労働省より臓器のあっせんに伴う「「クロイツフェルト・ヤコブ病及びその疑い」の取扱い」の一部改正について
+-											<br>
+-											<a href="./archives/news202610_01.pdf" rel="noopener noreferrer">
+-												（関係団体宛て）
+-											</a>
+-											<br>
+-											<a href="./archives/news202610_02.pdf" rel="noopener noreferrer">
+-												（あっせん機関宛）
+-											</a>
+-											<br>
+-											<a href="./archives/news202610_03.pdf" rel="noopener noreferrer">
+-												（別紙）【新旧対照表】臓器「クロイツフェルト・ヤコブ病及びその疑い」の取扱い」の改正
+-											</a>
+-											<br>
+-											<a href="./archives/news202610_04.pdf" rel="noopener noreferrer">
+-												（別添）【改正後全文】臓器「クロイツフェルト・ヤコブ病及びその疑い」の取扱い
+-											</a>
+-											<br>
+-											<a href="./archives/news202610_05.pdf" rel="noopener noreferrer">
+-												【参考】（医薬局長通知）変異型クロイツフェルト・ヤコブ病（vCJD）の感染状況を踏まえた献血制限に係る関係通知の廃止について
++											<a href="https://www.scj.go.jp/ja/event/2026/407-1102.html" rel="noopener noreferrer">
++												日本学術会議より公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」（11/2開催）のお知らせ
+ 											</a>
+ 										</span>
+ 									</li>
+@@ -1469,11 +1451,6 @@
+ 				</div>
+ 				<div>
+ 					<div>
+-						<div>
+-							<a href="https://www.kenzmedico.co.jp/" rel="noopener noreferrer">
+-								<img alt="ケンツメディコ成毛式手術器具" src="./imagesN/banner_kenzmedico.jpg">
+-							</a>
+-						</div>
+ 						<div>
+ 							<a href="https://www.ess.jjkkpro.jp/?utm_source=congress&amp;utm_medium=1" rel="noopener noreferrer">
+ 								<img alt="エチコンホームページ" src="./imagesN/banner_ethicon4.jpg">
+@@ -1484,6 +1461,11 @@
+ 								<img alt="ザイオソフト株式会社" src="./imagesN/banner_zio2.gif">
+ 							</a>
+ 						</div>
++						<div>
++							<a href="https://www.kenzmedico.co.jp/" rel="noopener noreferrer">
++								<img alt="ケンツメディコ成毛式手術器具" src="./imagesN/banner_kenzmedico.jpg">
++							</a>
++						</div>
+ 					</div>
+ 				</div>
+ 			</div>

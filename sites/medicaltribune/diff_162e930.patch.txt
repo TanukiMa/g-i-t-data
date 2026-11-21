@@ -1,0 +1,408 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 318a6b637..266996e9d 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1461,7 +1461,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月15日の新着ニュース
++															11月16日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1478,20 +1478,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="フィネレノン、併存症の重複数を問わず一貫した効果" src="https://asset.mtweb.jp/media/2026/11/09112441/com_jhfs2026_thum_w440h275.png">
++																<img alt="子供の皮疹、なぜ治療が届かないのか" src="https://asset.mtweb.jp/media/2026/06/18130059/com_dr_hashiro_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621113" rel="noopener noreferrer">
+-																			フィネレノン、併存症の重複数を問わず一貫した効果
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
++																			子供の皮疹、なぜ治療が届かないのか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-14
++																			2026-11-16
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1527,20 +1527,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="GLP-1関連薬による「性急な」減量は危ない？" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
++																<img alt="フィネレノン、併存症の重複数を問わず一貫した効果" src="https://asset.mtweb.jp/media/2026/11/09112441/com_jhfs2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
+-																			GLP-1関連薬による「性急な」減量は危ない？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621113" rel="noopener noreferrer">
++																			フィネレノン、併存症の重複数を問わず一貫した効果
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-13
++																			2026-11-14
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1576,13 +1576,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="後天性視床下部性肥満、見逃し注意！" src="https://asset.mtweb.jp/media/2026/11/13153003/70637_photo01.jpg">
++																<img alt="GLP-1関連薬による「性急な」減量は危ない？" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621683" rel="noopener noreferrer">
+-																			後天性視床下部性肥満、見逃し注意！
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
++																			GLP-1関連薬による「性急な」減量は危ない？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1625,13 +1625,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="AIによる薬剤推奨、広告に忖度するか？" src="https://asset.mtweb.jp/media/2026/11/13133337/ChatGPT-Image-20261113_LLM.jpg">
++																<img alt="後天性視床下部性肥満、見逃し注意！" src="https://asset.mtweb.jp/media/2026/11/13153003/70637_photo01.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621742" rel="noopener noreferrer">
+-																			AIによる薬剤推奨、広告に忖度するか？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621683" rel="noopener noreferrer">
++																			後天性視床下部性肥満、見逃し注意！
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1674,13 +1674,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																<img alt="AIによる薬剤推奨、広告に忖度するか？" src="https://asset.mtweb.jp/media/2026/11/13133337/ChatGPT-Image-20261113_LLM.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
+-																			〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621742" rel="noopener noreferrer">
++																			AIによる薬剤推奨、広告に忖度するか？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1723,13 +1723,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="スティッフパーソン症候群にCAR-T単回投与が奏効" src="https://asset.mtweb.jp/media/2026/11/11184008/ChatGPT-Image-20261111_SPSxCAR-T.jpg">
++																<img alt="〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621548" rel="noopener noreferrer">
+-																			スティッフパーソン症候群にCAR-T単回投与が奏効
++																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
++																			〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1772,13 +1772,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ダロルタミド併用で前立腺がんの転移・死亡リスク58％減" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
++																<img alt="スティッフパーソン症候群にCAR-T単回投与が奏効" src="https://asset.mtweb.jp/media/2026/11/11184008/ChatGPT-Image-20261111_SPSxCAR-T.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621488" rel="noopener noreferrer">
+-																			ダロルタミド併用で前立腺がんの転移・死亡リスク58％減
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621548" rel="noopener noreferrer">
++																			スティッフパーソン症候群にCAR-T単回投与が奏効
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1818,7 +1818,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月15日の新着連載
++															11月16日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1838,19 +1838,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
+-																					<img alt="GLP-1関連薬による「性急な」減量は危ない？" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
++																					<img alt="子供の皮疹、なぜ治療が届かないのか" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-13
++																							2026-11-16
+ 																						</time>
+ 																						<h2>
+-																							GLP-1関連薬による「性急な」減量は危ない？
++																							子供の皮疹、なぜ治療が届かないのか
+ 																						</h2>
+ 																						<p>
+-																							なぜ「減量の大きさ」が「心血管転帰の改善」と相関しないのか
++																							米国の小児皮膚疾患レビューが映す格差
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									2
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									20
++																									9
+ 																								</span>
+ 																								<span>
+-																									20件「いいね！」されています
++																									9件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1889,18 +1889,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
++																					<img alt="GLP-1関連薬による「性急な」減量は危ない？" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-13
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）
++																							GLP-1関連薬による「性急な」減量は危ない？
+ 																						</h2>
+ 																						<p>
++																							なぜ「減量の大きさ」が「心血管転帰の改善」と相関しないのか
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1909,20 +1910,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									4
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									22
++																									24
+ 																								</span>
+ 																								<span>
+-																									22件「いいね！」されています
++																									24件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1939,19 +1940,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
+-																					<img alt="日本人大腸がんに「過去の腸内細菌」の痕跡" src="/assets/images/rensai/doceye/thumbnails/須田竜一郎（消化器外科）.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-12
++																							2026-11-13
+ 																						</time>
+ 																						<h2>
+-																							日本人大腸がんに「過去の腸内細菌」の痕跡
++																							〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）
+ 																						</h2>
+ 																						<p>
+-																							非高変異型の44.8％で検出、若年発症大腸がんとの関連は？
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1960,20 +1960,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									0
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									27
++																									22
+ 																								</span>
+ 																								<span>
+-																									27件「いいね！」されています
++																									22件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1990,19 +1990,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
+-																					<img alt="胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例" src="/assets/images/rensai/thumbnails/com_case_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
++																					<img alt="日本人大腸がんに「過去の腸内細菌」の痕跡" src="/assets/images/rensai/doceye/thumbnails/須田竜一郎（消化器外科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-12
+ 																						</time>
+ 																						<h2>
+-																							胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例
++																							日本人大腸がんに「過去の腸内細菌」の痕跡
+ 																						</h2>
+ 																						<p>
+-																							難治性びまん性大細胞型B細胞リンパ腫の80歳代女性
++																							非高変異型の44.8％で検出、若年発症大腸がんとの関連は？
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2011,20 +2011,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									25
++																									27
+ 																								</span>
+ 																								<span>
+-																									25件「いいね！」されています
++																									27件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2041,19 +2041,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619489" rel="noopener noreferrer">
+-																					<img alt="肥満治療薬が男性ホルモンにも追い風？" src="/assets/images/rensai/doceye/thumbnails/小堀善友（泌尿器）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
++																					<img alt="胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例" src="/assets/images/rensai/thumbnails/com_case_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619489" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-10
++																							2026-11-12
+ 																						</time>
+ 																						<h2>
+-																							肥満治療薬が男性ホルモンにも追い風？
++																							胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例
+ 																						</h2>
+ 																						<p>
+-																							勃起障害に対するMC4R作動薬
++																							難治性びまん性大細胞型B細胞リンパ腫の80歳代女性
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2062,20 +2062,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									2
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									48
++																									25
+ 																								</span>
+ 																								<span>
+-																									48件「いいね！」されています
++																									25件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

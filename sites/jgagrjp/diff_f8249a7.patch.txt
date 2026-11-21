@@ -1,0 +1,116 @@
+diff --git a/sites/jgagrjp/jp/gr/jga/index.html b/sites/jgagrjp/jp/gr/jga/index.html
+index 31d158fc3..2a36d56c6 100644
+--- a/sites/jgagrjp/jp/gr/jga/index.html
++++ b/sites/jgagrjp/jp/gr/jga/index.html
+@@ -1140,6 +1140,19 @@
+ 							<div>
+ 								<nav>
+ 									<ul>
++										<li>
++											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
++												<time>
++													2026.10.15
++												</time>
++												<span>
++													発表資料
++												</span>
++												<span>
++													「企業活動と医療機関等の関係の透明性ガイドラインについて」の改定について
++												</span>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/information/jga-news/2026/221.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1179,25 +1192,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261001_006007.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.01
++													2026.10.15
+ 												</time>
+ 												<span>
+-													更新
++													発表資料
+ 												</span>
+ 												<span>
+-													賛助会員および安定供給ネットワーク会員更新のお知らせ
++													「企業活動と医療機関等の関係の透明性ガイドラインについて」の改定について
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/information/jga-news/2026/221.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1237,25 +1250,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261001_006004.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.01
++													2026.10.15
+ 												</time>
+ 												<span>
+-													トピックス
++													発表資料
+ 												</span>
+ 												<span>
+-													JGApedia GE薬協コラム新着記事「【Factに迫る！】『ニューロマーケティング』について」掲載のお知らせ
++													「企業活動と医療機関等の関係の透明性ガイドラインについて」の改定について
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/information/jga-news/2026/221.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1295,19 +1308,6 @@
+ 												</span>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="https://www.jga.gr.jp/news/261001_006004.html" rel="noopener noreferrer">
+-												<time>
+-													2026.10.01
+-												</time>
+-												<span>
+-													トピックス
+-												</span>
+-												<span>
+-													JGApedia GE薬協コラム新着記事「【Factに迫る！】『ニューロマーケティング』について」掲載のお知らせ
+-												</span>
+-											</a>
+-										</li>
+ 									</ul>
+ 								</nav>
+ 							</div>

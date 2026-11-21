@@ -1,0 +1,30 @@
+diff --git a/sites/jslm-2/org/jslm/index.html b/sites/jslm-2/org/jslm/index.html
+index 619f9f97..3301e994 100644
+--- a/sites/jslm-2/org/jslm/index.html
++++ b/sites/jslm-2/org/jslm/index.html
+@@ -929,13 +929,6 @@
+ 								</a>
+ 							</h2>
+ 						</li>
+-						<li>
+-							<h2>
+-								<a href="/recognition/purpose/index.html" rel="noopener noreferrer">
+-									第3回医学生・研修医のための臨床検査セミナー
+-								</a>
+-							</h2>
+-						</li>
+ 						<li>
+ 							<h2>
+ 								<a href="https://square.umin.ac.jp/jslm73/" rel="noopener noreferrer">
+@@ -968,11 +961,6 @@
+ 			<div>
+ 				<div>
+ 					<ul>
+-						<li>
+-							<a href="/recognition/purpose/index.html" rel="noopener noreferrer">
+-								<img alt="第3回医学生・研修医のための臨床検査セミナーのお知らせ" src="common/images/sp/mv19.jpg" width="100%">
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="https://square.umin.ac.jp/jslm73/" rel="noopener noreferrer">
+ 								<img alt="学術集会" src="common/images/sp/mv2_73.gif" width="100%">

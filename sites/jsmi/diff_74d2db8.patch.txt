@@ -1,0 +1,15 @@
+diff --git a/sites/jsmi/jp/gr/jsmi/index.html b/sites/jsmi/jp/gr/jsmi/index.html
+index c7f5562b2..cb551ce9a 100644
+--- a/sites/jsmi/jp/gr/jsmi/index.html
++++ b/sites/jsmi/jp/gr/jsmi/index.html
+@@ -2327,5 +2327,10 @@
+ 				</li>
+ 			</ul>
+ 		</nav>
++		<a href="#top" rel="noopener noreferrer">
++			<span>
++				トップへ戻る
++			</span>
++		</a>
+ 	</body>
+ </html>

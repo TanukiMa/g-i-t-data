@@ -1,0 +1,178 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index c2bfb2f0b..1d9c87422 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -608,13 +608,8 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/news/event/20261107_nambyo.html" rel="noopener noreferrer">
+-												<img alt="「難治性疾患実用化研究事業 2026年度 活動・成果報告会『研究結果を明日の医療へ～難病克服の実装挑戦～』」開催のお知らせ（会場開催）令和8年11月7日（土）13時00分～15時35分 ／（オンデマンド配信）令和8年11月7日（土）13時00分～令和9年3月17日（水）23時59分" src="/content/000166549.jpg">
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/news/event/20261027_seminar.html" rel="noopener noreferrer">
+-												<img alt="「医療機器開発ガイダンス活用セミナー2026」開催のお知らせ令和8年10月27日（火）14時30分～17時00分オンライン開催（Zoom Webinar使用）" src="/content/000166903.png">
++											<a href="/news/event/20261119_ws.html" rel="noopener noreferrer">
++												<img alt="　「AMED責任ある研究・イノベーション（RRI）ワークショップ with 富山大学」令和8年11月19日（木）16時00分～19時00分" src="/content/000167056.png">
+ 											</a>
+ 										</li>
+ 										<li>
+@@ -623,18 +618,18 @@
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/event/20261112_aspiresympo.html" rel="noopener noreferrer">
+-												<img alt="「第3回 ASPIRE合同シンポジウム（健康・医療分野）～世界のトップ研究コミュニティとの連携による国際頭脳循環の推進に向けて～」開催のお知らせ令和8年11月12日（木）8時30分～19時30分" src="/content/000166774.png">
++											<a href="/news/event/20261029_wakariyasuku.html" rel="noopener noreferrer">
++												<img alt="「【日本公衆衛生学会・AMED共催】AMED医学系研究をわかりやすく伝えるワークショップ in 日本公衆衛生学会」開催のお知らせ　令和8年10月29日（木）19時00分～20時30分（開場：18時30分予定）" src="/content/000166282.png">
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/event/20261029_wakariyasuku.html" rel="noopener noreferrer">
+-												<img alt="「【日本公衆衛生学会・AMED共催】AMED医学系研究をわかりやすく伝えるワークショップ in 日本公衆衛生学会」開催のお知らせ　令和8年10月29日（木）19時00分～20時30分（開場：18時30分予定）" src="/content/000166282.png">
++											<a href="/news/event/20261027_seminar.html" rel="noopener noreferrer">
++												<img alt="「医療機器開発ガイダンス活用セミナー2026」開催のお知らせ令和8年10月27日（火）14時30分～17時00分オンライン開催（Zoom Webinar使用）" src="/content/000166903.png">
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/news/event/20270306_katarukai.html" rel="noopener noreferrer">
+-												<img alt="「第12回 研究倫理を語る会」開催のお知らせ 市民公開講座 令和9年3月5日（金）17時30分～19時00分（予定）   研究倫理を語る会 令和9年3月6日（土）10時00分～18時00分（予定）" src="/content/000166171.png">
++											<a href="/news/topics/20261019.html" rel="noopener noreferrer">
++												<img alt="広報ウェブマガジン「AMED Pickup」で「AMEDで働く人々―医療研究開発を応援！職員たちの仕事と熱い想い」を公開しました！" src="/content/000167057.png">
+ 											</a>
+ 										</li>
+ 										<li>
+@@ -700,7 +695,7 @@
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年10月16日
++												令和8年10月19日
+ 											</span>
+ 											<div>
+ 												<span>
+@@ -708,8 +703,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/20261020.html" rel="noopener noreferrer">
+-											健康長寿に向けた課題解決（Healthy Longevity Global Competition）： ハイブリ...
++										<a href="/news/topics/20261019.html" rel="noopener noreferrer">
++											広報ウェブマガジン「AMED Pickup」で「AMEDで働く人々―医療研究開発を応援！職員たちの仕事と熱い想い...
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -719,12 +714,12 @@
+ 											</span>
+ 											<div>
+ 												<span>
+-													イベント
++													トピックス
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/261126_RSsympo.html" rel="noopener noreferrer">
+-											（情報更新）（令和8年11月26日開催）「第12回　レギュラトリーサイエンス公開シンポジウム」開催のお知らせ
++										<a href="/news/topics/20261020.html" rel="noopener noreferrer">
++											健康長寿に向けた課題解決（Healthy Longevity Global Competition）： ハイブリ...
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -738,8 +733,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/20261102-04-jsv73.html" rel="noopener noreferrer">
+-											（令和8年11月2日～11月4日開催）「第73回日本ウイルス学会学術集会」出展のお知らせ
++										<a href="/news/event/261126_RSsympo.html" rel="noopener noreferrer">
++											（情報更新）（令和8年11月26日開催）「第12回　レギュラトリーサイエンス公開シンポジウム」開催のお知らせ
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -753,8 +748,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/20261031_expo.html" rel="noopener noreferrer">
+-											（令和8年10月31日開催）「【Street Medical Labo×AMED社会共創EXPO共催】Stree...
++										<a href="/news/event/20261102-04-jsv73.html" rel="noopener noreferrer">
++											（令和8年11月2日～11月4日開催）「第73回日本ウイルス学会学術集会」出展のお知らせ
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -768,8 +763,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/20261030.html" rel="noopener noreferrer">
+-											（令和8年10月30日開催）第14回TR 推進合同フォーラム・ライフサイエンス技術交流会
++										<a href="/news/event/20261031_expo.html" rel="noopener noreferrer">
++											（令和8年10月31日開催）「【Street Medical Labo×AMED社会共創EXPO共催】Stree...
+ 										</a>
+ 									</li>
+ 								</ul>
+@@ -903,51 +898,51 @@
+ 						</h2>
+ 						<ul>
+ 							<li>
+-								<a href="https://amed-gov.note.jp/n/na573ff3ce324" rel="noopener noreferrer">
++								<a href="https://amed-gov.note.jp/n/n48aa23071829" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="よりよい医療のために、なぜ「性差」を考えるのか？ AMEDの研究費解析から見えたこと" src="/content/000164809.png">
++										<img alt="AMEDで働く人々―医療研究開発を応援！職員たちの仕事と熱い想い" src="/content/000167062.png">
+ 									</div>
+ 									<div>
+ 										<div>
+ 											<strong>
+-												令和8年8月28日
++												令和8年10月19日
+ 											</strong>
+ 											<p>
+-												よりよい医療のために、なぜ「性差」を考えるのか？ AMEDの研究費解析から見えたこと
++												AMEDで働く人々―医療研究開発を応援！職員たちの仕事と熱い想い
+ 											</p>
+ 										</div>
+ 									</div>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="https://amed-gov.note.jp/n/na092c63e0e22" rel="noopener noreferrer">
++								<a href="https://amed-gov.note.jp/n/na573ff3ce324" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="社会と共に創り、育てていく「ガイダンス」を ―AMED福田班の挑戦―" src="/content/000164506.png">
++										<img alt="よりよい医療のために、なぜ「性差」を考えるのか？ AMEDの研究費解析から見えたこと" src="/content/000164809.png">
+ 									</div>
+ 									<div>
+ 										<div>
+ 											<strong>
+-												令和8年8月21日
++												令和8年8月28日
+ 											</strong>
+ 											<p>
+-												社会と共に創り、育てていく「ガイダンス」を ―AMED福田班の挑戦―
++												よりよい医療のために、なぜ「性差」を考えるのか？ AMEDの研究費解析から見えたこと
+ 											</p>
+ 										</div>
+ 									</div>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="https://amed-gov.note.jp/n/nea496de99040" rel="noopener noreferrer">
++								<a href="https://amed-gov.note.jp/n/na092c63e0e22" rel="noopener noreferrer">
+ 									<div>
+-										<img alt="AMEDの「BINDS（バインズ）事業」とは？――優れた研究成果を実用化研究につなげるために" src="/content/000164505.png">
++										<img alt="社会と共に創り、育てていく「ガイダンス」を ―AMED福田班の挑戦―" src="/content/000164506.png">
+ 									</div>
+ 									<div>
+ 										<div>
+ 											<strong>
+-												令和8年7月10日
++												令和8年8月21日
+ 											</strong>
+ 											<p>
+-												AMEDの「BINDS（バインズ）事業」とは？――優れた研究成果を実用化研究につなげるために
++												社会と共に創り、育てていく「ガイダンス」を ―AMED福田班の挑戦―
+ 											</p>
+ 										</div>
+ 									</div>

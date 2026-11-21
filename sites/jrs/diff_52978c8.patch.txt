@@ -1,0 +1,66 @@
+diff --git a/sites/jrs/jp/or/jrs/index.html b/sites/jrs/jp/or/jrs/index.html
+index 0c1f9575..24886f2c 100644
+--- a/sites/jrs/jp/or/jrs/index.html
++++ b/sites/jrs/jp/or/jrs/index.html
+@@ -568,7 +568,7 @@
+ 								</dt>
+ 								<dd>
+ 									<a href="https://www.jrs.or.jp/comore-by2032/information//20261105163748.html" rel="noopener noreferrer">
+-										日本呼吸器学会・日本呼吸理学療法学会　合同ステートメント
++										日本呼吸器学会・日本呼吸理学療法学会　合同ステートメントの公表について
+ 									</a>
+ 								</dd>
+ 							</dl>
+@@ -599,6 +599,24 @@
+ 							</a>
+ 						</div>
+ 						<div>
++							<div>
++								<a href="https://www.jrs.or.jp/information/jrs/20261106103300.html" rel="noopener noreferrer">
++									<dl>
++										<dt>
++											<time>
++												2026年11月06日
++											</time>
++											<br>
++											<span>
++												呼吸器学会
++											</span>
++										</dt>
++										<dd>
++											ニュースレター配信中止のお知らせ
++										</dd>
++									</dl>
++								</a>
++							</div>
+ 							<div>
+ 								<a href="https://www.jrs.or.jp/comore-by2032/information//20261105163748.html" rel="noopener noreferrer">
+ 									<dl>
+@@ -812,27 +830,6 @@
+ 									</dl>
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="https://www.jrs.or.jp/information/assemblies/old/20261016101300.html" rel="noopener noreferrer">
+-									<dl>
+-										<dt>
+-											<time>
+-												2026年10月16日
+-											</time>
+-											<br>
+-											<span>
+-												呼吸器学会
+-											</span>
+-											<span>
+-												閉塞性肺疾患学術部会
+-											</span>
+-										</dt>
+-										<dd>
+-											豊田市かかりつけ医向けCOPD対策セミナー～COPD早期発見・早期診断のための地域医療連携体制の構築～開催のお知らせ
+-										</dd>
+-									</dl>
+-								</a>
+-							</div>
+ 						</div>
+ 					</div>
+ 					<a rel="noopener noreferrer">

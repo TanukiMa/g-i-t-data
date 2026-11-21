@@ -1,0 +1,250 @@
+diff --git a/sites/cancer/jp/or/cancer/index.html b/sites/cancer/jp/or/cancer/index.html
+index 708e0361..da54b3e2 100644
+--- a/sites/cancer/jp/or/cancer/index.html
++++ b/sites/cancer/jp/or/cancer/index.html
+@@ -699,6 +699,40 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年11月9日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
++														<div>
++															関連機関から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=672" rel="noopener noreferrer">
++														日本サイコオンコロジー学会：「がん患者さん・ご家族と専門家が一緒に考えたこころのガイド」出版のお知らせ
++													</a>
++												</li>
++											</ul>
++											<ul>
++												<li>
++													2026年11月9日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
++														<div>
++															関連機関から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=671" rel="noopener noreferrer">
++														日本ヒト細胞学会：「第2回WEB特別講演会」開催のお知らせ
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年11月5日
+@@ -1498,40 +1532,6 @@
+ 													</a>
+ 												</li>
+ 											</ul>
+-											<ul>
+-												<li>
+-													2026年6月25日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+-														<div>
+-															関連機関から
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=599" rel="noopener noreferrer">
+-														医療科学研究所：産官学シンポジウム2026 動画公開のお知らせ
+-													</a>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													2026年6月20日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=3" rel="noopener noreferrer">
+-														<div>
+-															公募案内
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=623" rel="noopener noreferrer">
+-														第32回日本医学会総会奨励賞受賞候補者推薦要項
+-													</a>
+-												</li>
+-											</ul>
+ 										</div>
+ 									</div>
+ 								</div>
+@@ -4778,7 +4778,7 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													2026年11月5日
++													2026年11月9日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4788,14 +4788,14 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=669" rel="noopener noreferrer">
+-														第30回 がん研究会ー国際がん化学療法シンポジウム開催のお知らせ
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=672" rel="noopener noreferrer">
++														日本サイコオンコロジー学会：「がん患者さん・ご家族と専門家が一緒に考えたこころのガイド」出版のお知らせ
+ 													</a>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+-													2026年10月29日
++													2026年11月9日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4805,14 +4805,14 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=665" rel="noopener noreferrer">
+-														「大腸癌・婦人科癌治療におけるLynch症候群診断の意義に関する見解書」パブリックコメント募集のご案内
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=671" rel="noopener noreferrer">
++														日本ヒト細胞学会：「第2回WEB特別講演会」開催のお知らせ
+ 													</a>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+-													2026年10月26日
++													2026年11月5日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4822,14 +4822,14 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=660" rel="noopener noreferrer">
+-														日本がん予防学会：「大腸がん予防プロジェクト」のお知らせ
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=669" rel="noopener noreferrer">
++														第30回 がん研究会ー国際がん化学療法シンポジウム開催のお知らせ
+ 													</a>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+-													2026年10月23日
++													2026年10月29日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4839,14 +4839,14 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=658" rel="noopener noreferrer">
+-														第57回/第58回 内藤コンファレンス：ポスター発表者の募集について
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=665" rel="noopener noreferrer">
++														「大腸癌・婦人科癌治療におけるLynch症候群診断の意義に関する見解書」パブリックコメント募集のご案内
+ 													</a>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+-													2026年10月15日
++													2026年10月26日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4856,14 +4856,14 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=657" rel="noopener noreferrer">
+-														第16回日本遺伝子診療学会：遺伝子診断・検査技術推進フォーラム開催のお知らせ
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=660" rel="noopener noreferrer">
++														日本がん予防学会：「大腸がん予防プロジェクト」のお知らせ
+ 													</a>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+-													2026年10月1日
++													2026年10月23日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4873,14 +4873,14 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=654" rel="noopener noreferrer">
+-														「臨床におけるがん・難病ゲノム解析研修会」開催のお知らせ
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=658" rel="noopener noreferrer">
++														第57回/第58回 内藤コンファレンス：ポスター発表者の募集について
+ 													</a>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+-													2026年9月18日
++													2026年10月15日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4890,14 +4890,14 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=648" rel="noopener noreferrer">
+-														第169回日本医学会シンポジウム開催のお知らせ
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=657" rel="noopener noreferrer">
++														第16回日本遺伝子診療学会：遺伝子診断・検査技術推進フォーラム開催のお知らせ
+ 													</a>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+-													2026年9月10日
++													2026年10月1日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4907,14 +4907,14 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=645" rel="noopener noreferrer">
+-														日本遺伝カウンセリング学会、日本遺伝子診療学会、日本遺伝性腫瘍学会、日本人類遺伝学会合同ウェビナーのお知らせ
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=654" rel="noopener noreferrer">
++														「臨床におけるがん・難病ゲノム解析研修会」開催のお知らせ
+ 													</a>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+-													2026年8月25日
++													2026年9月18日
+ 												</li>
+ 												<li>
+ 													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+@@ -4924,8 +4924,8 @@
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=641" rel="noopener noreferrer">
+-														医研シンポジウム2026 開催のご案内
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=648" rel="noopener noreferrer">
++														第169回日本医学会シンポジウム開催のお知らせ
+ 													</a>
+ 												</li>
+ 											</ul>

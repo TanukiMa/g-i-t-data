@@ -1,0 +1,97 @@
+diff --git a/sites/jges/net/jges/index.html b/sites/jges/net/jges/index.html
+index 5296ba88..8854cd77 100644
+--- a/sites/jges/net/jges/index.html
++++ b/sites/jges/net/jges/index.html
+@@ -1957,6 +1957,14 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						<span>
++							2026年11月05日
++						</span>
++						<a href="https://www.jges.net/news/news-official/2026/11/05/114444" rel="noopener noreferrer">
++							「KaLibブラウザ版」（簡易版）の閲覧について（閲覧には会員ログインが必要です）
++						</a>
++					</li>
+ 					<li>
+ 						<span>
+ 							2026年11月05日
+@@ -1989,14 +1997,6 @@
+ 							JDDW 2026抄録閲覧用 ID・パスワードについて
+ 						</a>
+ 					</li>
+-					<li>
+-						<span>
+-							2026年09月18日
+-						</span>
+-						<a href="https://site2.convention.co.jp/113jges/endai/" rel="noopener noreferrer">
+-							第113回総会（2027年5月）の演題募集を開始いたしました
+-						</a>
+-					</li>
+ 				</ul>
+ 			</div>
+ 			<p>
+@@ -2023,15 +2023,15 @@
+ 					<div>
+ 						<div>
+ 							<span>
+-								2026年11月06日
++								2026年11月09日
+ 							</span>
+-							<a href="https://www.jges.net/news/news-government" rel="noopener noreferrer">
+-								官公庁など
++							<a href="https://www.jges.net/news/news-other" rel="noopener noreferrer">
++								その他
+ 							</a>
+ 						</div>
+ 						<div>
+-							<a href="/wp-content/uploads/2026/11/e61aad662b27e9417ea75179604eb8ac.pdf" rel="noopener noreferrer">
+-								医薬品の適応外使用に係る保険診療上の取扱いについて日本医学会より周知依頼がございました。
++							<a href="https://www.jges.net/procedure/medical-insurance" rel="noopener noreferrer">
++								会員専用　日本消化器内視鏡学会　団体保険制度のご案内(団体割引あり)
+ 							</a>
+ 							<div>
+ 							</div>
+@@ -2042,16 +2042,18 @@
+ 					<div>
+ 						<div>
+ 							<span>
+-								2026年11月05日
++								2026年11月06日
+ 							</span>
+-							<a href="https://www.jges.net/news/news-official" rel="noopener noreferrer">
+-								学会
++							<a href="https://www.jges.net/news/news-government" rel="noopener noreferrer">
++								官公庁など
+ 							</a>
+ 						</div>
+ 						<div>
+-							<a href="https://www.jges.net/news/news-official/2026/11/05/114444" rel="noopener noreferrer">
+-								学会誌Vol.68 Supplement2が「KaLibブラウザ版」（簡易版）で公開されました
++							<a href="/wp-content/uploads/2026/11/e61aad662b27e9417ea75179604eb8ac.pdf" rel="noopener noreferrer">
++								医薬品の適応外使用に係る保険診療上の取扱いについて日本医学会より周知依頼がございました。
+ 							</a>
++							<div>
++							</div>
+ 						</div>
+ 					</div>
+ 				</li>
+@@ -2067,7 +2069,7 @@
+ 						</div>
+ 						<div>
+ 							<a href="https://www.jges.net/news/news-official/2026/11/05/114444" rel="noopener noreferrer">
+-								学会誌Vol.68 No.10が「KaLibブラウザ版」（簡易版）で公開されました
++								学会誌Vol.68 Supplement2が「KaLibブラウザ版」（簡易版）で公開されました
+ 							</a>
+ 						</div>
+ 					</div>
+@@ -2084,7 +2086,7 @@
+ 						</div>
+ 						<div>
+ 							<a href="https://www.jges.net/news/news-official/2026/11/05/114444" rel="noopener noreferrer">
+-								「KaLibブラウザ版」（簡易版）の閲覧について（閲覧には会員ログインが必要です）
++								学会誌Vol.68 No.10が「KaLibブラウザ版」（簡易版）で公開されました
+ 							</a>
+ 						</div>
+ 					</div>

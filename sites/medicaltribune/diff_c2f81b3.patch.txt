@@ -1,0 +1,183 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 036b6371..438b817f 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1461,7 +1461,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月7日の新着ニュース
++															11月8日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1478,20 +1478,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="消化器疾患における再生医療の現状と未来" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
++																<img alt="糖尿病急性合併症による入院、最近5年で3割増加" src="https://asset.mtweb.jp/media/2026/11/05184131/DM-2026-11-05-183905.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=616818" rel="noopener noreferrer">
+-																			消化器疾患における再生医療の現状と未来
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620815" rel="noopener noreferrer">
++																			糖尿病急性合併症による入院、最近5年で3割増加
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-07
++																			2026-11-08
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1527,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="アルコールと消化器疾患" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
++																<img alt="消化器疾患における再生医療の現状と未来" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617115" rel="noopener noreferrer">
+-																			アルコールと消化器疾患
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=616818" rel="noopener noreferrer">
++																			消化器疾患における再生医療の現状と未来
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1576,13 +1576,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="https://asset.mtweb.jp/media/2026/10/02110059/com_normalinterv_thum_w440h275-1-300x188-1.jpg">
++																<img alt="アルコールと消化器疾患" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
+-																			片頭痛治療の新展開—CGRP関連薬剤
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617115" rel="noopener noreferrer">
++																			アルコールと消化器疾患
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1625,20 +1625,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="内科入院患者でも女性医師で30日死亡率低い" src="https://asset.mtweb.jp/media/2026/11/06111055/ChatGPT-Image-20261106_Physicians_SEX.jpg">
++																<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="https://asset.mtweb.jp/media/2026/10/02110059/com_normalinterv_thum_w440h275-1-300x188-1.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620878" rel="noopener noreferrer">
+-																			内科入院患者でも女性医師で30日死亡率低い
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
++																			片頭痛治療の新展開—CGRP関連薬剤
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-06
++																			2026-11-07
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1674,13 +1674,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="痛い！イタタタタ。痛いよー。…。" src="https://asset.mtweb.jp/media/2026/10/28184140/com_mylife_thum_w440h275-1.jpg">
++																<img alt="内科入院患者でも女性医師で30日死亡率低い" src="https://asset.mtweb.jp/media/2026/11/06111055/ChatGPT-Image-20261106_Physicians_SEX.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
+-																			痛い！イタタタタ。痛いよー。…。
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620878" rel="noopener noreferrer">
++																			内科入院患者でも女性医師で30日死亡率低い
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1723,13 +1723,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="レミブルチニブ、再発型多発性硬化症の再発を3割抑制" src="https://asset.mtweb.jp/media/2026/11/05171422/ChatGPT-Image-20261105_Remibrutinib_MS.jpg">
++																<img alt="痛い！イタタタタ。痛いよー。…。" src="https://asset.mtweb.jp/media/2026/10/28184140/com_mylife_thum_w440h275-1.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620793" rel="noopener noreferrer">
+-																			レミブルチニブ、再発型多発性硬化症の再発を3割抑制
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
++																			痛い！イタタタタ。痛いよー。…。
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1772,13 +1772,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="房室ブロックへの左脚領域ペーシング、右室に優越" src="https://asset.mtweb.jp/media/2026/11/02182804/Left-Ventricular-Function_TOP.jpg">
++																<img alt="レミブルチニブ、再発型多発性硬化症の再発を3割抑制" src="https://asset.mtweb.jp/media/2026/11/05171422/ChatGPT-Image-20261105_Remibrutinib_MS.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620391" rel="noopener noreferrer">
+-																			房室ブロックへの左脚領域ペーシング、右室に優越
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620793" rel="noopener noreferrer">
++																			レミブルチニブ、再発型多発性硬化症の再発を3割抑制
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1818,7 +1818,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月7日の新着連載
++															11月8日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1869,10 +1869,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									15
++																									17
+ 																								</span>
+ 																								<span>
+-																									15件「いいね！」されています
++																									17件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1920,10 +1920,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									16
++																									17
+ 																								</span>
+ 																								<span>
+-																									16件「いいね！」されています
++																									17件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

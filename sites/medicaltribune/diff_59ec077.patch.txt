@@ -1,0 +1,240 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 86d139213..57d4d3414 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1246,8 +1246,8 @@
+ 								</a>
+ 							</div>
+ 							<div>
+-								<a href="https://medical-tribune.co.jp/special/2026/mt/seminar/?blogid=20&amp;entryid=617286" rel="noopener noreferrer">
+-									<img alt="眼科診療：遺伝性網膜ジストロフィ" src="https://asset.mtweb.jp/media/2026/10/15103852/thum_071_MT-MEET_DRyamada_01-1.png">
++								<a href="https://www.mt-meet.org/" rel="noopener noreferrer">
++									<img alt="眼科診療：遺伝性網膜ジストロフィ" src="https://asset.mtweb.jp/media/2026/07/22163236/crsl_mtmeet_bn_w840h210_1.png">
+ 								</a>
+ 							</div>
+ 							<div>
+@@ -1415,7 +1415,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															10月22日の新着ニュース
++															10月23日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1432,20 +1432,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「仮面高血圧」の高齢者は転倒リスクが高い" src="https://asset.mtweb.jp/media/2026/10/22160750/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8822%E6%97%A5%E9%85%8D%E4%BF%A13.jpg">
++																<img alt="セトメラノチド、日本人でもBMI低下" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618937" rel="noopener noreferrer">
+-																			「仮面高血圧」の高齢者は転倒リスクが高い
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618767" rel="noopener noreferrer">
++																			セトメラノチド、日本人でもBMI低下
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-22
++																			2026-10-23
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1481,13 +1481,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="人工関節とPRP療法は二者択一ではない" src="https://asset.mtweb.jp/media/2026/06/26182732/com_dr_saita_thum_w440h275.jpg">
++																<img alt="自己犠牲や滅私奉公を受け入れがちな医師とは？" src="https://asset.mtweb.jp/media/2026/10/22101832/ChatGPT-Image-20261021_HDMC.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
+-																			人工関節とPRP療法は二者択一ではない
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618877" rel="noopener noreferrer">
++																			自己犠牲や滅私奉公を受け入れがちな医師とは？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1530,13 +1530,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「CPAP×減量」で挑む肥満合併睡眠時無呼吸" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
++																<img alt="補聴器使用で難聴者の全死亡リスク9％低下" src="https://asset.mtweb.jp/media/2026/10/21153247/ChatGPT-Image-20261020_hearing-aid.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618525" rel="noopener noreferrer">
+-																			「CPAP×減量」で挑む肥満合併睡眠時無呼吸
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618788" rel="noopener noreferrer">
++																			補聴器使用で難聴者の全死亡リスク9％低下
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1579,13 +1579,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="近視の低年齢化が顕著も、眼科受診は約半数にとどまる" src="https://asset.mtweb.jp/media/2026/10/21122448/618772_thum.jpg">
++																<img alt="「仮面高血圧」の高齢者は転倒リスクが高い" src="https://asset.mtweb.jp/media/2026/10/22160750/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8822%E6%97%A5%E9%85%8D%E4%BF%A13.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618772" rel="noopener noreferrer">
+-																			近視の低年齢化が顕著も、眼科受診は約半数にとどまる
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618937" rel="noopener noreferrer">
++																			「仮面高血圧」の高齢者は転倒リスクが高い
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1628,13 +1628,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																<img alt="人工関節とPRP療法は二者択一ではない" src="https://asset.mtweb.jp/media/2026/06/26182732/com_dr_saita_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
+-																			〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
++																			人工関節とPRP療法は二者択一ではない
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1677,20 +1677,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="イヌをモフモフするとストレス反応が軽減" src="https://asset.mtweb.jp/media/2026/10/19181914/ChatGPT-Image-20261019_Petsowner.jpg">
++																<img alt="「CPAP×減量」で挑む肥満合併睡眠時無呼吸" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618606" rel="noopener noreferrer">
+-																			イヌをモフモフするとストレス反応が軽減
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618525" rel="noopener noreferrer">
++																			「CPAP×減量」で挑む肥満合併睡眠時無呼吸
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-21
++																			2026-10-22
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1726,20 +1726,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「異常分娩」を使用しないで！" src="https://asset.mtweb.jp/media/2026/10/21092908/25_Teigen_seimei.jpg">
++																<img alt="近視の低年齢化が顕著も、眼科受診は約半数にとどまる" src="https://asset.mtweb.jp/media/2026/10/21122448/618772_thum.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618780" rel="noopener noreferrer">
+-																			「異常分娩」を使用しないで！
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618772" rel="noopener noreferrer">
++																			近視の低年齢化が顕著も、眼科受診は約半数にとどまる
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-21
++																			2026-10-22
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,7 +1772,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															10月22日の新着連載
++															10月23日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1813,20 +1813,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									2
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									16
+ 																								</span>
+ 																								<span>
+-																									3件「いいね！」されています
++																									16件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1873,10 +1873,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									19
++																									20
+ 																								</span>
+ 																								<span>
+-																									19件「いいね！」されています
++																									20件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1924,10 +1924,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									37
++																									41
+ 																								</span>
+ 																								<span>
+-																									37件「いいね！」されています
++																									41件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2025,10 +2025,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									14
++																									15
+ 																								</span>
+ 																								<span>
+-																									14件「いいね！」されています
++																									15件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

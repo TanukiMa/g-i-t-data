@@ -1,0 +1,13 @@
+diff --git a/sites/hpgiorg/org/hgpi/index.html b/sites/hpgiorg/org/hgpi/index.html
+index 1c30bfcaf..8d0dbf9a4 100644
+--- a/sites/hpgiorg/org/hgpi/index.html
++++ b/sites/hpgiorg/org/hgpi/index.html
+@@ -105,7 +105,7 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="https://hgpi.org/jhp/jhpn.html" rel="noopener noreferrer">
++								<a href="https://japanhpn.org/" rel="noopener noreferrer">
+ 									日本の医療政策
+ 								</a>
+ 							</li>

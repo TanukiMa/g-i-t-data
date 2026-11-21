@@ -1,0 +1,413 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index 89566de1..88ccee67 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -435,12 +435,12 @@
+ 						<div>
+ 							<ul>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/11/nisseishi_88_4.pdf" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-10-13
++														2026-11-10
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -451,19 +451,24 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
++													日本生理学雑誌 第88巻4号を発刊しました。
+ 												</em>
++												<span>
++													<span>
++														<img alt="外部リンク" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/main/icon__PDF.svg">
++													</span>
++												</span>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-10-06
++														2026-10-13
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -474,30 +479,30 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													第31回　久野寧記念賞・候補論文の募集について
++													第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/hold/34829/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-10-05
++														2026-10-06
+ 													</time>
+ 												</p>
+ 												<div>
+ 													<p>
+-														セミナー情報
++														お知らせ
+ 													</p>
+ 												</div>
+ 											</div>
+ 											<p>
+ 												<em>
+-													第7回 PSJオンラインセミナーのご案内
++													第31回　久野寧記念賞・候補論文の募集について
+ 												</em>
+ 											</p>
+ 										</div>
+@@ -550,12 +555,12 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34687/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34393/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-08-24
++														2026-08-01
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -566,7 +571,7 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													【日本生理学会】学会賞候補者の募集（〆切：10/19(月)）※延長しました
++													令和8年熊本地震で被災された皆様へ
+ 												</em>
+ 											</p>
+ 										</div>
+@@ -647,76 +652,81 @@
+ 								</h2>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/science-topic/34929/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/11/nisseishi_88_4.pdf" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-11-09
++															2026-11-10
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															サイエンストピックス
++															お知らせ
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														198. HCNチャネルにおける新たな細胞外VSD-PDカップリング機構の発見
++														日本生理学雑誌 第88巻4号を発刊しました。
+ 													</em>
++													<span>
++														<span>
++															<img alt="外部リンク" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/main/icon__PDF.svg">
++														</span>
++													</span>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/science-topic/34929/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-30
++															2026-11-09
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															サイエンストピックス
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														高知大学医学部生理学講座（統合生理学）教員の公募について
++														198. HCNチャネルにおける新たな細胞外VSD-PDカップリング機構の発見
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-29
++															2026-10-30
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															セミナー情報
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
++														高知大学医学部生理学講座（統合生理学）教員の公募について
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34912/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -726,20 +736,20 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															研究助成
++															セミナー情報
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														令和9年度 公益信託成茂神経科学研究助成基金
++														千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34909/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34912/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -755,14 +765,14 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														公益財団法人医療機器センター附属医療機器産業研究所　2027年度研究助成　医療技術研究開発助成公募開始のご案内
++														令和9年度 公益信託成茂神経科学研究助成基金
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34909/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -772,13 +782,13 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															研究助成
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
++														公益財団法人医療機器センター附属医療機器産業研究所　2027年度研究助成　医療技術研究開発助成公募開始のご案内
+ 													</em>
+ 												</p>
+ 											</div>
+@@ -802,12 +812,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/11/nisseishi_88_4.pdf" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-19
++																2026-11-10
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -818,19 +828,24 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															自然科学研究機構Open Mix Lab（OML）公募研究プログラム
++															日本生理学雑誌 第88巻4号を発刊しました。
+ 														</em>
++														<span>
++															<span>
++																<img alt="外部リンク" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/main/icon__PDF.svg">
++															</span>
++														</span>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-13
++																2026-10-19
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -841,19 +856,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
++															自然科学研究機構Open Mix Lab（OML）公募研究プログラム
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34835/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-06
++																2026-10-13
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -864,14 +879,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告
++															第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34835/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -887,19 +902,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第31回　久野寧記念賞・候補論文の募集について
++															TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34833/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-09
++																2026-10-06
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -910,19 +925,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
++															第31回　久野寧記念賞・候補論文の募集について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34714/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-08-24
++																2026-09-09
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -933,7 +948,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															日本医学会連合 加盟学会連携フォーラム共催事業についてのご案内
++															【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
+ 														</em>
+ 													</p>
+ 												</div>
+@@ -2447,12 +2462,12 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/07/nisseishi_88_3.pdf" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/11/nisseishi_88_4.pdf" rel="noopener noreferrer">
+ 											<figure>
+-												<img alt="" height="1295" src="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/07/Cover_20260801-pdf.jpg" width="917">
++												<img alt="" height="1295" src="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/11/Cover_20261101-pdf.jpg" width="917">
+ 											</figure>
+ 											<p>
+-												日本生理学雑誌 第88巻3号
++												日本生理学雑誌 第88巻4号
+ 											</p>
+ 										</a>
+ 									</li>

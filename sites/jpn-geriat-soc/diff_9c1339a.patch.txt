@@ -1,0 +1,38 @@
+diff --git a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+index 6ef13ccfe..392992ef2 100644
+--- a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
++++ b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+@@ -460,6 +460,16 @@
+ 					<div>
+ 						<div>
+ 							<dl>
++								<div>
++									<dt>
++										2026年10月28日
++									</dt>
++									<dd>
++										<a href="info/important_info/20261028_01.html" rel="noopener noreferrer">
++											PHPの脆弱性対応に伴う本会サイトの公開再開について
++										</a>
++									</dd>
++								</div>
+ 								<div>
+ 									<dt>
+ 										2026年10月19日
+@@ -595,6 +605,16 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<div>
++									<dt>
++										2026年10月28日
++									</dt>
++									<dd>
++										<a href="info/important_info/20261028_01.html" rel="noopener noreferrer">
++											PHPの脆弱性対応に伴う本会サイトの公開再開について
++										</a>
++									</dd>
++								</div>
+ 								<div>
+ 									<dt>
+ 										2025年06月27日

@@ -1,0 +1,30 @@
+diff --git a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+index ce63d54aa..c6fdabd17 100644
+--- a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
++++ b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+@@ -189,6 +189,12 @@
+ 							新着情報
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="recent-topics/index.htm" rel="noopener noreferrer">
++									体力医科学に関する最近のトピック
++								</a>
++								を掲載しました。（2026/11/19）
++							</li>
+ 							<li>
+ 								<a href="topic/20261117.htm" rel="noopener noreferrer">
+ 									日本医学会連合　領域横断的連携活動事業（TEAM事業）に採択されました！
+@@ -219,12 +225,6 @@
+ 								</a>
+ 								（2026/10/16）
+ 							</li>
+-							<li>
+-								<a href="recent-topics/index.htm" rel="noopener noreferrer">
+-									体力医科学に関する最近のトピック
+-								</a>
+-								を掲載しました。（2026/10/15）
+-							</li>
+ 							<li>
+ 								<a href="https://www.jst.go.jp/diversity/researcher/mscaward/" rel="noopener noreferrer">
+ 									「第6回 羽ばたく女性研究者賞（マリア・スクウォドフスカ＝キュリー賞）」募集のご案内

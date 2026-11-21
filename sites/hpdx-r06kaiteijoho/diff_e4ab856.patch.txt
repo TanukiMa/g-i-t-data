@@ -1,0 +1,29 @@
+diff --git a/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html b/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
+index c04f4bc6..2372b6a6 100644
+--- a/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
++++ b/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
+@@ -722,18 +722,18 @@
+ 						</h2>
+ 						<ul>
+ 							<li>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/r04kaiteijoho.html" rel="noopener noreferrer">
+-									令和4年　基本マスターに関する変更情報
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/index.html" rel="noopener noreferrer">
++									基本マスター
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/index.html" rel="noopener noreferrer">
+-									基本マスター
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/r04kaiteijoho.html" rel="noopener noreferrer">
++									令和4年　基本マスターに関する変更情報
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_03.html" rel="noopener noreferrer">
+-									調剤行為マスター
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/r02kaiteijoho.html" rel="noopener noreferrer">
++									令和2年　基本マスターに関する変更情報
+ 								</a>
+ 							</li>
+ 						</ul>

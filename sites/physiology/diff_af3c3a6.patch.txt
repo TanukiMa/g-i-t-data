@@ -1,0 +1,120 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index 2e2b16039..f63f80578 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -981,12 +981,12 @@
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/yokoku/32448/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/yokoku/31685/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2025-12-23
++																2025-04-11
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -997,19 +997,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第104回日本生理学会大会
++															第103回日本生理学会大会
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/yokoku/31685/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/yokoku/29533/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2025-04-11
++																2022-12-20
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1020,19 +1020,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第103回日本生理学会大会
++															第102回日本生理学会大会
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/yokoku/29533/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/yokoku/25734/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2022-12-20
++																2021-09-01
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1043,19 +1043,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第102回日本生理学会大会
++															第 101 回日本生理学会大会
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/yokoku/25734/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/yokoku/23792/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2021-09-01
++																2020-12-08
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1066,14 +1066,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第 101 回日本生理学会大会
++															第100回日本生理学会大会
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/yokoku/23792/" rel="noopener noreferrer">
++											<a href="https://www.psj2022.org" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -1089,8 +1089,13 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第100回日本生理学会大会
++															第99回日本生理学会大会
+ 														</em>
++														<span>
++															<span>
++																<img alt="外部リンク" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/main/icon__LINK.svg">
++															</span>
++														</span>
+ 													</p>
+ 												</div>
+ 											</a>

@@ -1,0 +1,179 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 5c6becf5..e395506b 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2370,6 +2370,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/rs-std-jp/standards-development/guidance-guideline/0006.html" rel="noopener noreferrer">
++												<p>
++													2026年11月13日
++												</p>
++												<p>
++													基準
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													小児用医薬品開発に関する治験相談についてのQ&Aを掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/0371.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2557,9 +2573,6 @@
+ 												<p>
+ 													薬局方
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました
+ 												</p>
+@@ -2662,19 +2675,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/properly-use-alert/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月30日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													「PMDAからの医薬品適正使用のお願い」に「GLP-1受容体作動薬及びGIP/GLP-1受容体作動薬の適正使用のお願い」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2866,22 +2866,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/f2f-pre/consultations/0015.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月28日
+-												</p>
+-												<p>
+-													医療機器
+-												</p>
+-												<p>
+-													体外診
+-												</p>
+-												<p>
+-													12月の簡易相談実施予定を掲載しました（医療機器等）
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3006,19 +2990,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/medical-safety-info/0005.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月28日
+-												</p>
+-												<p>
+-													全製品
+-												</p>
+-												<p>
+-													「医療事故の再発防止に向けた警鐘レポートNo.7の公表について」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3069,16 +3040,29 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/rs-std-jp/standards-development/jp/0008.html" rel="noopener noreferrer">
++											<a href="/rs-std-jp/standards-development/guidance-guideline/0006.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年11月5日
++													2026年11月13日
+ 												</p>
+ 												<p>
+-													薬局方
++													基準
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
++												<p>
++													小児用医薬品開発に関する治験相談についてのQ&Aを掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/rs-std-jp/standards-development/jp/0008.html" rel="noopener noreferrer">
++												<p>
++													2026年11月5日
++												</p>
++												<p>
++													薬局方
++												</p>
+ 												<p>
+ 													日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました
+ 												</p>
+@@ -3113,19 +3097,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/rs-std-jp/research/0009.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月28日
+-												</p>
+-												<p>
+-													その他
+-												</p>
+-												<p>
+-													令和8年度第2回倫理審査委員会の議事要旨を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3262,25 +3233,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/about-pmda/symposia/0030.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月28日
+-												</p>
+-												<p>
+-													その他
+-												</p>
+-												<p>
+-													全製品
+-												</p>
+-												<p>
+-													イベント
+-												</p>
+-												<p>
+-													2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>

@@ -1,0 +1,16 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index 19d0057f0..dc41e263a 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -23,6 +23,11 @@
+ 														ENGLISH
+ 													</a>
+ 												</li>
++												<li>
++													<a href="/contact/" rel="noopener noreferrer">
++														お問い合わせ
++													</a>
++												</li>
+ 												<li>
+ 													<a href="/307-Redirect-platform.html" rel="noopener noreferrer">
+ 														<span>

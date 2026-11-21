@@ -1,0 +1,38 @@
+diff --git a/sites/medsafeorjp/jp/or/medsafe/index.html b/sites/medsafeorjp/jp/or/medsafe/index.html
+index 50dbec514..dfe7ed66e 100644
+--- a/sites/medsafeorjp/jp/or/medsafe/index.html
++++ b/sites/medsafeorjp/jp/or/medsafe/index.html
+@@ -307,6 +307,16 @@
+ 			</div>
+ 			<div>
+ 				<ul>
++					<li>
++						<time>
++							2026/10/26
++						</time>
++						<p>
++							<a href="https://www.medsafe.or.jp/survey/alarm" rel="noopener noreferrer">
++								警鐘レポートNo.7 「小児の急性腹症に関連した死亡」を公表しました。
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<time>
+ 							2026/10/21
+@@ -397,16 +407,6 @@
+ 							</a>
+ 						</p>
+ 					</li>
+-					<li>
+-						<time>
+-							2026/03/03
+-						</time>
+-						<p>
+-							<a href="https://www.yomiuri.co.jp/sponsored/20260214-GYT8T00031" rel="noopener noreferrer">
+-								市民公開講座の様子を紹介しています。（※外部サイトに移動します）
+-							</a>
+-						</p>
+-					</li>
+ 				</ul>
+ 			</div>
+ 		</article>

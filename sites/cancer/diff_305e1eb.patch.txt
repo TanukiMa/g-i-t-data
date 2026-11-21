@@ -1,0 +1,100 @@
+diff --git a/sites/cancer/jp/or/cancer/index.html b/sites/cancer/jp/or/cancer/index.html
+index ef9ebebf8..e3c1510c7 100644
+--- a/sites/cancer/jp/or/cancer/index.html
++++ b/sites/cancer/jp/or/cancer/index.html
+@@ -704,6 +704,23 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年11月16日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
++														<div>
++															関連機関から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=676" rel="noopener noreferrer">
++														第32回日本医学会総会開催のお知らせ
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年11月11日
+@@ -1520,23 +1537,6 @@
+ 													</a>
+ 												</li>
+ 											</ul>
+-											<ul>
+-												<li>
+-													2026年6月30日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=3" rel="noopener noreferrer">
+-														<div>
+-															公募案内
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=624" rel="noopener noreferrer">
+-														加藤記念バイオサイエンス振興財団：助成事業（2件）について
+-													</a>
+-												</li>
+-											</ul>
+ 										</div>
+ 									</div>
+ 								</div>
+@@ -4781,6 +4781,23 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年11月16日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
++														<div>
++															関連機関から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=676" rel="noopener noreferrer">
++														第32回日本医学会総会開催のお知らせ
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年11月9日
+@@ -4917,23 +4934,6 @@
+ 													</a>
+ 												</li>
+ 											</ul>
+-											<ul>
+-												<li>
+-													2026年9月18日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+-														<div>
+-															関連機関から
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=648" rel="noopener noreferrer">
+-														第169回日本医学会シンポジウム開催のお知らせ
+-													</a>
+-												</li>
+-											</ul>
+ 										</div>
+ 									</div>
+ 								</div>

@@ -1,0 +1,22 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index 3538c7737..698095f82 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1439,7 +1439,7 @@
+ 										<div>
+ 											<div>
+ 												<b>
+-													【サーバーメンテナンスのお知らせ】会員システム/学会HP/セミナー管理システム/学術集会HP（支部本部）
++													サーバーメンテナンスのお知らせ
+ 												</b>
+ 											</div>
+ 										</div>
+@@ -1621,7 +1621,7 @@
+ 										<div>
+ 											<div>
+ 												<b>
+-													【サーバーメンテナンスのお知らせ】会員システム/学会HP/セミナー管理システム/学術集会HP（支部本部）
++													サーバーメンテナンスのお知らせ
+ 												</b>
+ 											</div>
+ 										</div>

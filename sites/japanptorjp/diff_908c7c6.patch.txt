@@ -1,0 +1,32 @@
+diff --git a/sites/japanptorjp/jp/or/japanpt/index.html b/sites/japanptorjp/jp/or/japanpt/index.html
+index fc7b13d26..9e967852c 100644
+--- a/sites/japanptorjp/jp/or/japanpt/index.html
++++ b/sites/japanptorjp/jp/or/japanpt/index.html
+@@ -573,9 +573,9 @@
+ 			<div>
+ 				<div>
+ 					<div>
+-						<a href="https://www.japanpt.or.jp/rigakuryohonohi/photocon/14/" rel="noopener noreferrer">
+-							<img alt="第14回写真コンテスト結果発表" src="/asset/image/photo_contest_14_PC_2026_results.png">
+-							<img alt="第14回写真コンテスト結果発表" src="/asset/image/photo_contest_14_sp_2026_results.png">
++						<a href="https://rigakulab.jp/2026/10/14/id000356/" rel="noopener noreferrer">
++							<img alt="リガクラボ" src="/asset/image/PC_id356.png">
++							<img alt="リガクラボ" src="/asset/image/SP_id356.png">
+ 						</a>
+ 					</div>
+ 				</div>
+@@ -587,14 +587,6 @@
+ 						</a>
+ 					</div>
+ 				</div>
+-				<div>
+-					<div>
+-						<a href="https://rigakulab.jp/2026/10/14/id000356/" rel="noopener noreferrer">
+-							<img alt="リガクラボ" src="/asset/image/PC_id356.png">
+-							<img alt="リガクラボ" src="/asset/image/SP_id356.png">
+-						</a>
+-					</div>
+-				</div>
+ 				<div>
+ 					<div>
+ 						<a href="https://www.japanpt.or.jp/rigakuryohonohi/" rel="noopener noreferrer">

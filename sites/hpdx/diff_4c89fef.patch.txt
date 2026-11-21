@@ -1,0 +1,118 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 972d124d..90e79369 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -106,9 +106,6 @@
+ 					<div>
+ 						<div>
+ 							<ul>
+-								<li>
+-									<img alt="ＤＸ審査支払機構システムメンテナンスのお知らせ" height="346" src="index.images/mvimg_20261109.png" width="500">
+-								</li>
+ 								<li>
+ 									<a href="/saigai/index.html" rel="noopener noreferrer">
+ 										<img alt="災害に関するお知らせ" height="346" src="index.images/mvimg_saigai_all.png" width="500">
+@@ -441,66 +438,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月30日
+-								</span>
+-								<span>
+-									プレスリリース
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_r081030_3.html" rel="noopener noreferrer">
+-									審査情報提供事例（歯科）を追加
+-								</a>
+-							</span>
+-						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月30日
+-								</span>
+-								<span>
+-									プレスリリース
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_r081030_2.html" rel="noopener noreferrer">
+-									ＤＸ審査支払機構における審査の一般的な取扱い（医科）を追加
+-								</a>
+-							</span>
+-						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月30日
+-								</span>
+-								<span>
+-									プレスリリース
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_r081030_1.html" rel="noopener noreferrer">
+-									コンピュータチェックに関する公開事例の更新
+-								</a>
+-							</span>
+-						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月30日
+-								</span>
+-								<span>
+-									医療機関・保険者
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/shinryohoshu/saikaisyou_torikumi/kashikarepo/index.html" rel="noopener noreferrer">
+-									「審査の差異の可視化レポート」の検証後レポート(医科8事例)を掲載しました
+-								</a>
+-							</span>
+-						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+@@ -516,36 +453,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月27日
+-								</span>
+-								<span>
+-									プレスリリース
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_081027_1.html" rel="noopener noreferrer">
+-									医療情報化推進担当理事（ＣＩＯ）に 浅沼 尚氏が就任
+-								</a>
+-							</span>
+-						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月27日
+-								</span>
+-								<span>
+-									プレスリリース
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/pressrelease/pressrelease_r08/press_r081027_2.html" rel="noopener noreferrer">
+-									10月定例記者会見を開催
+-								</a>
+-							</span>
+-						</li>
+ 					</ul>
+ 				</div>
+ 			</div>

@@ -1,0 +1,130 @@
+diff --git a/sites/jsph/jp/jsph/index.html b/sites/jsph/jp/jsph/index.html
+index 917b12faf..7135c061c 100644
+--- a/sites/jsph/jp/jsph/index.html
++++ b/sites/jsph/jp/jsph/index.html
+@@ -429,12 +429,12 @@
+ 									<img alt="" src="https://www.jsph.jp/files/banner/jbphsm202511.jpg">
+ 								</a>
+ 							</li>
++							<li>
++								<a href="http://japhsa.jp/index.html" rel="noopener noreferrer">
++									<img alt="" src="https://www.jsph.jp/files/banner/logo_ol.jpeg">
++								</a>
++							</li>
+ 						</ul>
+-						<li>
+-							<a href="http://japhsa.jp/index.html" rel="noopener noreferrer">
+-								<img alt="" src="https://www.jsph.jp/files/banner/logo_ol.jpeg">
+-							</a>
+-						</li>
+ 					</aside>
+ 				</div>
+ 				<div>
+@@ -508,6 +508,21 @@
+ 						Topics
+ 					</h2>
+ 					<div>
++						<article>
++							<h3>
++								<time>
++									2026.10.08
++								</time>
++								<a href="https://www.jsph.jp/youth_community.html" rel="noopener noreferrer" title="第85回日本公衆衛生学会総会へ初めて参加する方へのご案内 ">
++									第85回日本公衆衛生学会総会へ初めて参加する方へのご案内
++								</a>
++							</h3>
++							<p>
++								初めて日本公衆衛生学会総会に参加する方のための「ウェルカムシール」を制作・配布します！
++								<br>
++								総会に初めて参加する方や、違う分野からの参加の方向けに、学会総会の発表の心構えへや楽しみ方などを若手の委員会よりご紹介いたします。
++							</p>
++						</article>
+ 						<article>
+ 							<h3>
+ 								<time>
+@@ -538,19 +553,6 @@
+ 								普通会員の方へ2026/27年度会費（2026年9月～2027年8月）の会費請求書を発送いたしました。9月1日～11月30日まで会員専用ページ内でクレジット決済ができます。納入よろしくお願いいたします。
+ 							</p>
+ 						</article>
+-						<article>
+-							<h3>
+-								<time>
+-									2026.08.04
+-								</time>
+-								<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/gan/gan_toroku.html" rel="noopener noreferrer" title="厚生労働省全国がん登録のマニュアル改訂のお知らせ">
+-									厚生労働省全国がん登録のマニュアル改訂のお知らせ
+-								</a>
+-							</h3>
+-							<p>
+-								「がん登録等の推進に関する法律」に基づき行われている「全国がん登録」において、マニュアルの改訂を行い、2026年７月31日付けで発出いたしました。
+-							</p>
+-						</article>
+ 					</div>
+ 					<p>
+ 					</p>
+@@ -611,6 +613,24 @@
+ 							委員会活動報告
+ 						</h2>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026.10.08
++									</time>
++									<span>
++										若手の活動に関する委員会
++									</span>
++									<a href="https://www.jsph.jp/youth_community.html" rel="noopener noreferrer" title="第85回日本公衆衛生学会総会へ初めて参加する方へのご案内 ">
++										第85回日本公衆衛生学会総会へ初めて参加する方へのご案内
++									</a>
++								</h3>
++								<p>
++									初めて日本公衆衛生学会総会に参加する方のための「ウェルカムシール」を制作・配布します！
++									<br>
++									総会に初めて参加する方や、違う分野からの参加の方向けに、学会総会の発表の心構えへや楽しみ方などを若手の委員会よりご紹介いたします。
++								</p>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -676,22 +696,6 @@
+ 									</a>
+ 								</h3>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2025.10.01
+-									</time>
+-									<span>
+-										編集委員会
+-									</span>
+-									<a href="https://www.jsph.jp/journal/index.html" rel="noopener noreferrer" title="投稿規程の改正について">
+-										投稿規程の改正について
+-									</a>
+-								</h3>
+-								<p>
+-									2025年7月に開催した編集委員会におきまして投稿規程を変更いたしましたので報告いたします。
+-								</p>
+-							</article>
+ 						</div>
+ 						<div>
+ 							<a href="https://www.jsph.jp/activityReport/index.html" rel="noopener noreferrer">
+@@ -810,12 +814,12 @@
+ 								<img alt="" src="https://www.jsph.jp/files/banner/jbphsm202511.jpg">
+ 							</a>
+ 						</li>
++						<li>
++							<a href="http://japhsa.jp/index.html" rel="noopener noreferrer">
++								<img alt="" src="https://www.jsph.jp/files/banner/logo_ol.jpeg">
++							</a>
++						</li>
+ 					</ul>
+-					<li>
+-						<a href="http://japhsa.jp/index.html" rel="noopener noreferrer">
+-							<img alt="" src="https://www.jsph.jp/files/banner/logo_ol.jpeg">
+-						</a>
+-					</li>
+ 				</aside>
+ 				<div>
+ 					<div>

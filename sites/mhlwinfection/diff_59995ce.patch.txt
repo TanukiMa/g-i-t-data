@@ -1,0 +1,83 @@
+diff --git a/sites/mhlwinfection/jp/go/mhlw/stf-seisakunitsuite-bunya-kenkou-iryou-kenkou-kekkaku-kansenshou.html b/sites/mhlwinfection/jp/go/mhlw/stf-seisakunitsuite-bunya-kenkou-iryou-kenkou-kekkaku-kansenshou.html
+index 722b04e1f..25b5822de 100644
+--- a/sites/mhlwinfection/jp/go/mhlw/stf-seisakunitsuite-bunya-kenkou-iryou-kenkou-kekkaku-kansenshou.html
++++ b/sites/mhlwinfection/jp/go/mhlw/stf-seisakunitsuite-bunya-kenkou-iryou-kenkou-kekkaku-kansenshou.html
+@@ -1515,7 +1515,7 @@
+ 								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/kusuri_kyoukyuu.html" rel="noopener noreferrer">
+ 									<div>
+ 										<time>
+-											2026年11月6日更新
++											2026年11月13日更新
+ 										</time>
+ 									</div>
+ 									<div>
+@@ -1526,57 +1526,57 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/aids/index.html" rel="noopener noreferrer">
++								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html" rel="noopener noreferrer">
+ 									<div>
+ 										<time>
+-											2026年11月6日掲載
++											2026年11月13日掲載
+ 										</time>
+ 									</div>
+ 									<div>
+ 										<span>
+-											世界エイズデーに向けた普及啓発イベントを実施します
++											インフルエンザに関する報道発表資料を更新しました
+ 										</span>
+ 									</div>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/bunya/kenkou/eizu/index.html" rel="noopener noreferrer">
++								<a href="/stf/seisakunitsuite/bunya/0000121431_00485.html" rel="noopener noreferrer">
+ 									<div>
+ 										<time>
+-											2026年11月6日掲載
++											2026年11月13日更新
+ 										</time>
+ 									</div>
+ 									<div>
+ 										<span>
+-											12月1日は「世界エイズデー」です
++											新型コロナウイルス感染症に関する報道発表資料を更新しました
+ 										</span>
+ 									</div>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html" rel="noopener noreferrer">
++								<a href="/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html" rel="noopener noreferrer">
+ 									<div>
+ 										<time>
+-											2026年11月6日掲載
++											2026年11月13日更新
+ 										</time>
+ 									</div>
+ 									<div>
+ 										<span>
+-											インフルエンザに関する報道発表資料を更新しました
++											インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました
+ 										</span>
+ 									</div>
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/stf/seisakunitsuite/bunya/0000121431_00485.html" rel="noopener noreferrer">
++								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html" rel="noopener noreferrer">
+ 									<div>
+ 										<time>
+-											2026年11月6日更新
++											2026年11月13日掲載
+ 										</time>
+ 									</div>
+ 									<div>
+ 										<span>
+-											新型コロナウイルス感染症に関する報道発表資料を更新しました
++											インフルエンザの発生状況を更新しました
+ 										</span>
+ 									</div>
+ 								</a>

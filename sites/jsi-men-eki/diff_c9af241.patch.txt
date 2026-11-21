@@ -1,0 +1,50 @@
+diff --git a/sites/jsi-men-eki/org/jsi-men-eki/index.html b/sites/jsi-men-eki/org/jsi-men-eki/index.html
+index 7b04743d..71bf8bbb 100644
+--- a/sites/jsi-men-eki/org/jsi-men-eki/index.html
++++ b/sites/jsi-men-eki/org/jsi-men-eki/index.html
+@@ -375,6 +375,16 @@
+ 												</li>
+ 											</ul>
+ 											<ul>
++												<li>
++													<a href="/scientist/sympo/" rel="noopener noreferrer" title="関連学術集会・シンポジウム">
++														会員及び研究者向け＞関連学術集会・シンポジウム
++													</a>
++													「
++													<a href="https://files.jsi-men-eki.org/scientist/sympo/20261111.pdf" rel="noopener noreferrer" title="https://files.jsi-men-eki.org/scientist/sympo/20261111.pdf">
++														第5回 近未来ワクチンフォーラム
++													</a>
++													」を掲載しました。
++												</li>
+ 												<li>
+ 													<a href="/scientist/info/" rel="noopener noreferrer" title="お知らせ">
+ 														会員及び研究者向け＞お知らせ
+@@ -936,20 +946,25 @@
+ 														2026/11
+ 													</strong>
+ 													<strong>
+-														/4
++														/11
+ 													</strong>
+ 												</li>
+ 											</ul>
+ 											<ul>
+ 												<li>
+ 													[
+-													<a href="https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101059" rel="noopener noreferrer" title="https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101059">
+-														岩手医科大学生化学講座分子医化学分野 准教授の公募
++													<a href="https://files.jsi-men-eki.org/scientist/recruit/20261111.pdf" rel="noopener noreferrer" title="https://files.jsi-men-eki.org/scientist/recruit/20261111.pdf">
++														広島大学学術院（大学院医系科学研究科）医系薬理学
++    教授の公募
+ 													</a>
+ 													]
+ 												</li>
+ 											</ul>
+ 										</div>
++										<div>
++											<div>
++											</div>
++										</div>
+ 										<div>
+ 											<ul>
+ 												<li>

@@ -1,0 +1,79 @@
+diff --git a/sites/hpdx-kihonmasta-04/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-04-html.html b/sites/hpdx-kihonmasta-04/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-04-html.html
+index af3d4dc3..e86d6d12 100644
+--- a/sites/hpdx-kihonmasta-04/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-04-html.html
++++ b/sites/hpdx-kihonmasta-04/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-04-html.html
+@@ -155,7 +155,7 @@
+ 					</div>
+ 					<div>
+ 						<p>
+-							最終更新日：2026年10月13日
++							最終更新日：2026年11月12日
+ 						</p>
+ 					</div>
+ 					<ul>
+@@ -196,18 +196,18 @@
+ 								<tr>
+ 									<td colspan="1" rowspan="1">
+ 										<p>
+-											2026年10月13日
++											2026年11月12日
+ 										</p>
+ 									</td>
+ 									<td>
+ 										<img alt="ダウンロードのリンク　新規ウインドウで開きます。" height="1" src="/images/spacer.gif" width="1">
+-										<a href="kihonmasta_04.files/y_ALL20261013.zip" rel="noopener noreferrer">
+-											全件ファイル(ZIP:835KB)
++										<a href="kihonmasta_04.files/y_ALL20261112.zip" rel="noopener noreferrer">
++											全件ファイル(ZIP:839KB)
+ 										</a>
+ 									</td>
+ 									<td>
+ 										<p>
+-											19,286件
++											19,324件
+ 										</p>
+ 									</td>
+ 								</tr>
+@@ -240,6 +240,26 @@
+ 										お知らせ
+ 									</th>
+ 								</tr>
++								<tr>
++									<td colspan="1">
++										2026年11月12日
++									</td>
++									<td colspan="1">
++										<img alt="ダウンロードのリンク　新規ウインドウで開きます。" height="1" src="/images/spacer.gif" width="1">
++										<a href="kihonmasta_04.files/y_20261112.csv" rel="noopener noreferrer">
++											改定分ファイル(CSV:71KB)
++										</a>
++									</td>
++									<td colspan="1">
++										439件
++									</td>
++									<td colspan="1">
++										<img alt="ダウンロードのリンク　新規ウインドウで開きます。" height="1" src="/images/spacer.gif" width="1">
++										<a href="kihonmasta_04.files/r08kaitei_20261112y.pdf" rel="noopener noreferrer">
++											改定分内容(PDF:186KB)
++										</a>
++									</td>
++								</tr>
+ 								<tr>
+ 									<td colspan="1">
+ 										2026年10月13日
+@@ -659,12 +679,12 @@
+ 								</tr>
+ 								<tr>
+ 									<td>
+-										2026年7月14日
++										2026年11月12日
+ 									</td>
+ 									<td>
+ 										<img alt="ダウンロードのリンク　新規ウインドウで開きます。" height="1" src="/images/spacer.gif" width="1">
+-										<a href="kihonmasta_04.files/keikasoti_R08_20260714.xlsx" rel="noopener noreferrer">
+-											令和8年度分（令和8年9月30日廃止分及び令和9年3月31日廃止分）(Excel:71KB)
++										<a href="kihonmasta_04.files/keikasoti_R08_20261112.xlsx" rel="noopener noreferrer">
++											令和8年度分（令和8年9月30日廃止分及び令和9年3月31日廃止分）(Excel:102KB)
+ 										</a>
+ 									</td>
+ 								</tr>

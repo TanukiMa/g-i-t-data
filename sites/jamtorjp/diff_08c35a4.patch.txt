@@ -1,0 +1,60 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index fa7baba1..83fe40a1 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -202,21 +202,6 @@
+ 					</span>
+ 				</a>
+ 			</div>
+-			<div>
+-				<dl>
+-					<dt>
+-						会告
+-					</dt>
+-					<dd>
+-						<a href="/notification/2026/05/post-64.html" rel="noopener noreferrer">
+-							<span>
+-								2026.05.27
+-							</span>
+-							令和８年度 定時総会招集ご通知
+-						</a>
+-					</dd>
+-				</dl>
+-			</div>
+ 			<div>
+ 				<dl>
+ 					<dt>
+@@ -821,6 +806,16 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="/studysession/center/system04/#m6559" rel="noopener noreferrer">
++								<span>
++									2026.11.12
++								</span>
++								<span>
++									【承認番号26-027】第7回病理細胞診検査研究班研修会【B30,C30】
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="/studysession/center/system04/#m6558" rel="noopener noreferrer">
+ 								<span>
+@@ -861,16 +856,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="/studysession/center/system04/#m6554" rel="noopener noreferrer">
+-								<span>
+-									2026.11.11
+-								</span>
+-								<span>
+-									【承認番号26-019】令和8年度　日臨技関甲信・首都圏支部合同研修会「第35回 関甲信・首都圏支部合同病理細胞検査研修会」【A80,B20,D5】
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 				<div>

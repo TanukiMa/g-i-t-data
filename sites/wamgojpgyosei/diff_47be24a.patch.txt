@@ -1,0 +1,353 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index 7623d6881..824d5d093 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2051,72 +2051,72 @@
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					審議会
++																					高齢・介護
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22960&amp;ct=010010020" rel="noopener noreferrer" title="第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）">
+-																					第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）
++																				<a href="/gyoseiShiryou-files/documents/2026/1022090859211/ksvol.1548.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1548（PDF：700KB） ">
++																					介護保険最新情報Vol.1548（PDF：700KB）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					審議会
++																					高齢・介護
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22964&amp;ct=010010050" rel="noopener noreferrer" title="第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）">
+-																					第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）
++																				<a href="/gyoseiShiryou-files/documents/2026/1022090743857/ksvol.1547.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1547（PDF：521KB） ">
++																					介護保険最新情報Vol.1547（PDF：521KB）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					高齢・介護
++																					福祉全般
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou-files/documents/2026/1019100230408/ksvol.1546.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1546（PDF：1.6MB） ">
+-																					介護保険最新情報Vol.1546（PDF：1.6MB）
++																				<a href="/gyoseiShiryou/detail?gno=22975&amp;ct=070010010" rel="noopener noreferrer" title="第22回 こども家庭審議会 障害児支援部会（令和8年10月28日開催予定）">
++																					第22回 こども家庭審議会 障害児支援部会（令和8年10月28日開催予定）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					福祉全般
++																					医療
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22962&amp;ct=070010030" rel="noopener noreferrer" title=" 第114回厚生科学審議会予防接種・ワクチン分科会副反応検討部会、令和8年度第9回薬事審議会医薬品等安全対策部会安全対策調査会（合同開催）（ペーパーレス、Web会議）の開催について（令和8年10月23日開催予定）">
+-																					第114回厚生科学審議会予防接種・ワクチン分科会副反応検討部会、令和8年度第9回薬事審議会医薬品等安全対策部会安全対策調査会（合同開催）（ペーパーレス、Web会議）の開催について（令和8年10月23日開催予定）
++																				<a href="/gyoseiShiryou/detail?gno=22982&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月20日更新）">
++																					風しん最新情報（令和8年10月20日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					審議会
++																					医療
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22958&amp;ct=010010020" rel="noopener noreferrer" title="第270回 社会保障審議会 介護給付費分科会（令和8年10月14日開催）">
+-																					第270回 社会保障審議会 介護給付費分科会（令和8年10月14日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22980&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月20日更新）">
++																					麻しん最新情報（令和8年10月20日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+-																					医療
++																					審議会
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22948&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月13日更新）">
+-																					風しん最新情報（令和8年10月13日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22976&amp;ct=010010090" rel="noopener noreferrer" title="第160回 社会保障審議会 障害者部会（令和8年10月20日開催） ">
++																					第160回 社会保障審議会 障害者部会（令和8年10月20日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2125,12 +2125,12 @@
+ 																				<div>
+ 																				</div>
+ 																				<div>
+-																					医療
++																					審議会
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22950&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月13日更新）">
+-																					麻しん最新情報（令和8年10月13日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22960&amp;ct=010010020" rel="noopener noreferrer" title="第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）">
++																					第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2164,8 +2164,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22960&amp;ct=010010020" rel="noopener noreferrer" title="第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）">
+-																					第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22976&amp;ct=010010090" rel="noopener noreferrer" title="第160回 社会保障審議会 障害者部会（令和8年10月20日開催） ">
++																					第160回 社会保障審議会 障害者部会（令和8年10月20日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2176,8 +2176,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22964&amp;ct=010010050" rel="noopener noreferrer" title="第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）">
+-																					第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22960&amp;ct=010010020" rel="noopener noreferrer" title="第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）">
++																					第271回 社会保障審議会 介護給付費分科会（令和8年10月19日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2188,8 +2188,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22958&amp;ct=010010020" rel="noopener noreferrer" title="第270回 社会保障審議会 介護給付費分科会（令和8年10月14日開催）">
+-																					第270回 社会保障審議会 介護給付費分科会（令和8年10月14日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22964&amp;ct=010010050" rel="noopener noreferrer" title="第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）">
++																					第218回 社会保障審議会 医療保険部会（令和8年10月16日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2200,8 +2200,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22951&amp;ct=010020210" rel="noopener noreferrer" title="第27回 新型インフルエンザ対策に関する小委員会 ・第12回 危機対応医薬品等に関する小委員会（令和8年10月14日開催）">
+-																					第27回 新型インフルエンザ対策に関する小委員会 ・第12回 危機対応医薬品等に関する小委員会（令和8年10月14日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22958&amp;ct=010010020" rel="noopener noreferrer" title="第270回 社会保障審議会 介護給付費分科会（令和8年10月14日開催）">
++																					第270回 社会保障審議会 介護給付費分科会（令和8年10月14日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2212,8 +2212,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22942&amp;ct=010010020" rel="noopener noreferrer" title="第269回 社会保障審議会 介護給付費分科会（令和8年10月9日開催）">
+-																					第269回 社会保障審議会 介護給付費分科会（令和8年10月9日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22951&amp;ct=010020210" rel="noopener noreferrer" title="第27回 新型インフルエンザ対策に関する小委員会 ・第12回 危機対応医薬品等に関する小委員会（令和8年10月14日開催）">
++																					第27回 新型インフルエンザ対策に関する小委員会 ・第12回 危機対応医薬品等に関する小委員会（令和8年10月14日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2247,8 +2247,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou-files/documents/2026/1019100230408/ksvol.1546.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1546（PDF：1.6MB） ">
+-																					介護保険最新情報Vol.1546（PDF：1.6MB）
++																				<a href="/gyoseiShiryou-files/documents/2026/1022090859211/ksvol.1548.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1548（PDF：700KB） ">
++																					介護保険最新情報Vol.1548（PDF：700KB）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2259,8 +2259,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22911&amp;ct=020050010" rel="noopener noreferrer" title="介護保険事務処理システム変更に係る参考資料（その１）（令和8年10月6日事務連絡）">
+-																					介護保険事務処理システム変更に係る参考資料（その１）（令和8年10月6日事務連絡）
++																				<a href="/gyoseiShiryou-files/documents/2026/1022090743857/ksvol.1547.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1547（PDF：521KB） ">
++																					介護保険最新情報Vol.1547（PDF：521KB）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2271,8 +2271,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou-files/documents/2026/1019100416764/ksvol.1545.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1545（PDF：558KB） ">
+-																					介護保険最新情報Vol.1545（PDF：558KB）
++																				<a href="/gyoseiShiryou-files/documents/2026/1019100230408/ksvol.1546.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1546（PDF：1.6MB） ">
++																					介護保険最新情報Vol.1546（PDF：1.6MB）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2283,8 +2283,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou-files/documents/2026/0924090620691/ksvol.1544.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1544（PDF：670KB） ">
+-																					介護保険最新情報Vol.1544（PDF：670KB）
++																				<a href="/gyoseiShiryou/detail?gno=22911&amp;ct=020050010" rel="noopener noreferrer" title="介護保険事務処理システム変更に係る参考資料（その１）（令和8年10月6日事務連絡）">
++																					介護保険事務処理システム変更に係る参考資料（その１）（令和8年10月6日事務連絡）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2295,8 +2295,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou-files/documents/2026/0914092951846/ksvol.1543.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1543（PDF：699KB） ">
+-																					介護保険最新情報Vol.1543（PDF：699KB）
++																				<a href="/gyoseiShiryou-files/documents/2026/1019100416764/ksvol.1545.pdf" rel="noopener noreferrer" title=" 介護保険最新情報Vol.1545（PDF：558KB） ">
++																					介護保険最新情報Vol.1545（PDF：558KB）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2330,8 +2330,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22948&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月13日更新）">
+-																					風しん最新情報（令和8年10月13日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22980&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月20日更新）">
++																					麻しん最新情報（令和8年10月20日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2342,8 +2342,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22950&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月13日更新）">
+-																					麻しん最新情報（令和8年10月13日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22982&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月20日更新）">
++																					風しん最新情報（令和8年10月20日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2354,8 +2354,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22941&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月9日更新）">
+-																					インフルエンザ最新情報（令和8年10月9日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22979&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月16日更新）">
++																					インフルエンザ最新情報（令和8年10月16日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2366,8 +2366,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22944&amp;ct=030010140" rel="noopener noreferrer" title="第158回 先進医療会議（令和8年10月9日開催）">
+-																					第158回 先進医療会議（令和8年10月9日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22948&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年10月13日更新）">
++																					風しん最新情報（令和8年10月13日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2378,8 +2378,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22939&amp;ct=030100310" rel="noopener noreferrer" title="インフルエンザ最新情報（令和8年10月2日更新）">
+-																					インフルエンザ最新情報（令和8年10月2日更新）
++																				<a href="/gyoseiShiryou/detail?gno=22950&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年10月13日更新）">
++																					麻しん最新情報（令和8年10月13日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2891,60 +2891,60 @@
+ 																	<tr>
+ 																		<td>
+ 																			<div>
+-																				<a href="/gyoseiShiryou-files/documents/2026/1019100230408/ksvol.1546.pdf" rel="noopener noreferrer">
+-																					介護保険最新情報Vol.1546（PDF：1.6MB）
++																				<a href="/gyoseiShiryou-files/documents/2026/1022090859211/ksvol.1548.pdf" rel="noopener noreferrer">
++																					介護保険最新情報Vol.1548（PDF：700KB）
+ 																				</a>
+ 																				<span>
+-																					[2026/10/15]
++																					[2026/10/21]
+ 																				</span>
+ 																			</div>
+ 																			<p>
+-																				介護サービス事業者経営情報データベースシステムの運用の再開について 等
++																				介護現場において事故が発生した際の報告について
+ 																			</p>
+ 																		</td>
+ 																	</tr>
+ 																	<tr>
+ 																		<td>
+ 																			<div>
+-																				<a href="/gyoseiShiryou-files/documents/2026/1019100416764/ksvol.1545.pdf" rel="noopener noreferrer">
+-																					介護保険最新情報Vol.1545（PDF：558KB）
++																				<a href="/gyoseiShiryou-files/documents/2026/1022090743857/ksvol.1547.pdf" rel="noopener noreferrer">
++																					介護保険最新情報Vol.1547（PDF：521KB）
+ 																				</a>
+ 																				<span>
+-																					[2026/10/02]
++																					[2026/10/21]
+ 																				</span>
+ 																			</div>
+ 																			<p>
+-																				令和7年度介護保険事務調査の集計結果について
++																				特定福祉用具販売・住宅改修の給付分析に向けた介護保険システム標準仕様書の改定に関する検討について（ご連絡）
+ 																			</p>
+ 																		</td>
+ 																	</tr>
+ 																	<tr>
+ 																		<td>
+ 																			<div>
+-																				<a href="/gyoseiShiryou-files/documents/2026/0924090620691/ksvol.1544.pdf" rel="noopener noreferrer">
+-																					介護保険最新情報Vol.1544（PDF：670KB）
++																				<a href="/gyoseiShiryou-files/documents/2026/1019100230408/ksvol.1546.pdf" rel="noopener noreferrer">
++																					介護保険最新情報Vol.1546（PDF：1.6MB）
+ 																				</a>
+ 																				<span>
+-																					[2026/09/24]
++																					[2026/10/15]
+ 																				</span>
+ 																			</div>
+ 																			<p>
+-																				介護保険資格確認等 WEB サービス及び介護情報基盤に関する国際福祉機器展(H.C.R.)2026 出展のお知らせ
++																				介護サービス事業者経営情報データベースシステムの運用の再開について 等
+ 																			</p>
+ 																		</td>
+ 																	</tr>
+ 																	<tr>
+ 																		<td>
+ 																			<div>
+-																				<a href="/gyoseiShiryou-files/documents/2026/0914092951846/ksvol.1543.pdf" rel="noopener noreferrer">
+-																					介護保険最新情報Vol.1543（PDF：699KB）
++																				<a href="/gyoseiShiryou-files/documents/2026/1019100416764/ksvol.1545.pdf" rel="noopener noreferrer">
++																					介護保険最新情報Vol.1545（PDF：558KB）
+ 																				</a>
+ 																				<span>
+-																					[2026/09/11]
++																					[2026/10/02]
+ 																				</span>
+ 																			</div>
+ 																			<p>
+-																				ケアプランデータ連携システム活用セミナーの開催について
++																				令和7年度介護保険事務調査の集計結果について
+ 																			</p>
+ 																		</td>
+ 																	</tr>

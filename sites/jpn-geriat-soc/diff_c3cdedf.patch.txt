@@ -1,0 +1,73 @@
+diff --git a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+index 5058c1357..2d46b1f6f 100644
+--- a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
++++ b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+@@ -386,7 +386,12 @@
+ 							<div>
+ 								<div>
+ 									<a href="shukai_tihou/tihoukai/chugoku/index.html" rel="noopener noreferrer">
+-										<img alt="第38回中国地方会　演題登録受付中" src="common/images/banner_chugoku_38_01.jpg">
++										<img alt="第38回中国地方会" src="common/images/banner_chugoku_38_01.jpg">
++									</a>
++								</div>
++								<div>
++									<a href="kensyu/tnt-geri.html" rel="noopener noreferrer">
++										<img alt="高齢者栄養療法研修会" src="common/images/tnt-geri2026.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+@@ -401,17 +406,17 @@
+ 								</div>
+ 								<div>
+ 									<a href="shukai_tihou/tihoukai/tohoku/index.html" rel="noopener noreferrer">
+-										<img alt="第37回東北地方会　演題登録受付中" src="common/images/banner_tohoku_37v3.jpg">
++										<img alt="第37回東北地方会" src="common/images/banner_tohoku_37v3.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+ 									<a href="shukai_tihou/tihoukai/kinki/index.html" rel="noopener noreferrer">
+-										<img alt="第37回近畿地方会　演題登録受付中" src="common/images/banner_kinki_37.jpg">
++										<img alt="第37回近畿地方会" src="common/images/banner_kinki_37.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+ 									<a href="shukai_tihou/tihoukai/kantokoshinetsu/index.html" rel="noopener noreferrer">
+-										<img alt="第78回関東甲信越地方　演題登録受付中" src="common/images/banner_kantokoshinetsu_78_01.jpg">
++										<img alt="第78回関東甲信越地方" src="common/images/banner_kantokoshinetsu_78_01.jpg">
+ 									</a>
+ 								</div>
+ 							</div>
+@@ -460,6 +465,16 @@
+ 					<div>
+ 						<div>
+ 							<dl>
++								<div>
++									<dt>
++										2026年10月15日
++									</dt>
++									<dd>
++										<a href="kensyu/tnt-geri.html" rel="noopener noreferrer">
++											第15回高齢者栄養療法研修会 参加受付開始のお知らせ
++										</a>
++									</dd>
++								</div>
+ 								<div>
+ 									<dt>
+ 										2026年10月06日
+@@ -634,6 +649,16 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<div>
++									<dt>
++										2026年10月15日
++									</dt>
++									<dd>
++										<a href="kensyu/tnt-geri.html" rel="noopener noreferrer">
++											第15回高齢者栄養療法研修会 参加受付開始のお知らせ
++										</a>
++									</dd>
++								</div>
+ 								<div>
+ 									<dt>
+ 										2026年10月06日

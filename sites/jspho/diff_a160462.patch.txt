@@ -1,0 +1,27 @@
+diff --git a/sites/jspho/org/jspho/index.html b/sites/jspho/org/jspho/index.html
+index 1031619c..be891955 100644
+--- a/sites/jspho/org/jspho/index.html
++++ b/sites/jspho/org/jspho/index.html
+@@ -445,6 +445,22 @@
+ 							<img alt="お知らせ" src="common/img/home/hl_txt_news.png">
+ 						</h1>
+ 						<div>
++							<div>
++								<div>
++									2026.11.02
++								</div>
++								<div>
++									11月16日(月) 9時より、第2回小児・AYA世代のがんの長期フォローアップに関する研修会のお申し込みを開始します。
++									<br>
++									<a href="https://www.jspho.org/lifetime-care-and-support/about/index.html" rel="noopener noreferrer">
++										●研修会開催概要
++									</a>
++									<br>
++									<a href="https://www.jspho.org/lifetime-care-and-support/guideline/index.html" rel="noopener noreferrer">
++										●研修会募集要項
++									</a>
++								</div>
++							</div>
+ 							<div>
+ 								<div>
+ 									2026.10.28

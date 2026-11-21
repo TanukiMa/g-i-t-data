@@ -1,0 +1,34 @@
+diff --git a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+index 3f0ac975..82617d78 100644
+--- a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
++++ b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+@@ -781,21 +781,16 @@
+ 							<p>
+ 								<em>
+ 									<span>
+-										<a href="/kinki/newpage_01367.html" rel="noopener noreferrer">
+-											令和8年度麻薬・覚醒剤・大麻乱用防止運動大阪大会
+-										</a>
+-										<br>
+-										を開催します。
+-										<br>
+-									</span>
+-									<span>
+-										STOP薬物乱用！笑える未来へ
+-										<br>
+-										怪しい誘いに乗ったら
+-										<br>
++										いい日、いい日。
+ 									</span>
++									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/kaigo-day/index.html" rel="noopener noreferrer">
++										<span>
++											11月11日は「介護の日」です
++										</span>
++									</a>
++									<br>
+ 									<span>
+-										アカ～ン！
++										みんなで介護について考えてみませんか？
+ 									</span>
+ 								</em>
+ 							</p>

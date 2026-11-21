@@ -1,0 +1,54 @@
+diff --git a/sites/jrs/jp/or/jrs/index.html b/sites/jrs/jp/or/jrs/index.html
+index a10760b4..cef5814a 100644
+--- a/sites/jrs/jp/or/jrs/index.html
++++ b/sites/jrs/jp/or/jrs/index.html
+@@ -608,6 +608,24 @@
+ 							</a>
+ 						</div>
+ 						<div>
++							<div>
++								<a href="https://www.jrs.or.jp/information/jrs/specialist/20261113094008.html" rel="noopener noreferrer">
++									<dl>
++										<dt>
++											<time>
++												2026年11月13日
++											</time>
++											<br>
++											<span>
++												専門医制度
++											</span>
++										</dt>
++										<dd>
++											J-OSLER呼吸器ヘルプデスク　通信障害について
++										</dd>
++									</dl>
++								</a>
++							</div>
+ 							<div>
+ 								<a href="https://www.jrs.or.jp/information/jrs/20261109164111.html" rel="noopener noreferrer">
+ 									<dl>
+@@ -818,24 +836,6 @@
+ 									</dl>
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="https://www.jrs.or.jp/information/overseas/20261023134700.html" rel="noopener noreferrer">
+-									<dl>
+-										<dt>
+-											<time>
+-												2026年10月23日
+-											</time>
+-											<br>
+-											<span>
+-												海外
+-											</span>
+-										</dt>
+-										<dd>
+-											ATS 2027 への Moderators/Facilitators の紹介について
+-										</dd>
+-									</dl>
+-								</a>
+-							</div>
+ 						</div>
+ 					</div>
+ 					<a rel="noopener noreferrer">

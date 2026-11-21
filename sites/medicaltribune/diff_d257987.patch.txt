@@ -1,0 +1,396 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 10fc204aa..cdf44f609 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1415,7 +1415,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															10月23日の新着ニュース
++															10月24日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1432,13 +1432,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="CLL/SLL、ピルトブルチニブの前倒しに期待" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
++																<img alt="スタチンは高齢者の「何」を守るのか？" src="https://asset.mtweb.jp/media/2026/06/19141047/com_dr_kojima_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618927" rel="noopener noreferrer">
+-																			CLL/SLL、ピルトブルチニブの前倒しに期待
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
++																			スタチンは高齢者の「何」を守るのか？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1481,13 +1481,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="処方時に「有効性は不確実」と伝えられますか" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
++																<img alt="白内障と緑内障を同時に治療する新型人工水晶体、臨床試験で有望な結果" src="https://asset.mtweb.jp/media/2026/10/23163325/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8822%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
+-																			処方時に「有効性は不確実」と伝えられますか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619157" rel="noopener noreferrer">
++																			白内障と緑内障を同時に治療する新型人工水晶体、臨床試験で有望な結果
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1530,13 +1530,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="セトメラノチド、日本人でもBMI低下" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
++																<img alt="CLL/SLL、ピルトブルチニブの前倒しに期待" src="https://asset.mtweb.jp/media/2026/10/22154734/com_jshem87_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618767" rel="noopener noreferrer">
+-																			セトメラノチド、日本人でもBMI低下
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618927" rel="noopener noreferrer">
++																			CLL/SLL、ピルトブルチニブの前倒しに期待
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1579,20 +1579,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="自己犠牲や滅私奉公を受け入れがちな医師とは？" src="https://asset.mtweb.jp/media/2026/10/22101832/ChatGPT-Image-20261021_HDMC.jpg">
++																<img alt="処方時に「有効性は不確実」と伝えられますか" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618877" rel="noopener noreferrer">
+-																			自己犠牲や滅私奉公を受け入れがちな医師とは？
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
++																			処方時に「有効性は不確実」と伝えられますか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-22
++																			2026-10-23
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1628,20 +1628,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="補聴器使用で難聴者の全死亡リスク9％低下" src="https://asset.mtweb.jp/media/2026/10/21153247/ChatGPT-Image-20261020_hearing-aid.jpg">
++																<img alt="セトメラノチド、日本人でもBMI低下" src="https://asset.mtweb.jp/media/2026/10/14144739/com_jasso47jsto44_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618788" rel="noopener noreferrer">
+-																			補聴器使用で難聴者の全死亡リスク9％低下
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618767" rel="noopener noreferrer">
++																			セトメラノチド、日本人でもBMI低下
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-22
++																			2026-10-23
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1677,13 +1677,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「仮面高血圧」の高齢者は転倒リスクが高い" src="https://asset.mtweb.jp/media/2026/10/22160750/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8822%E6%97%A5%E9%85%8D%E4%BF%A13.jpg">
++																<img alt="自己犠牲や滅私奉公を受け入れがちな医師とは？" src="https://asset.mtweb.jp/media/2026/10/22101832/ChatGPT-Image-20261021_HDMC.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618937" rel="noopener noreferrer">
+-																			「仮面高血圧」の高齢者は転倒リスクが高い
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618877" rel="noopener noreferrer">
++																			自己犠牲や滅私奉公を受け入れがちな医師とは？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1726,13 +1726,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="人工関節とPRP療法は二者択一ではない" src="https://asset.mtweb.jp/media/2026/06/26182732/com_dr_saita_thum_w440h275.jpg">
++																<img alt="補聴器使用で難聴者の全死亡リスク9％低下" src="https://asset.mtweb.jp/media/2026/10/21153247/ChatGPT-Image-20261020_hearing-aid.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
+-																			人工関節とPRP療法は二者択一ではない
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618788" rel="noopener noreferrer">
++																			補聴器使用で難聴者の全死亡リスク9％低下
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1772,7 +1772,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															10月23日の新着連載
++															10月24日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1792,19 +1792,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
+-																					<img alt="処方時に「有効性は不確実」と伝えられますか" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
++																					<img alt="スタチンは高齢者の「何」を守るのか？" src="/assets/images/rensai/doceye/thumbnails/小島淳（循環器）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618508" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-23
+ 																						</time>
+ 																						<h2>
+-																							処方時に「有効性は不確実」と伝えられますか
++																							スタチンは高齢者の「何」を守るのか？
+ 																						</h2>
+ 																						<p>
+-																							伝達後の同意率を検討したRCTから
++																							自立して生活する70歳以上対象のSTAREE試験
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1813,20 +1813,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									5
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									5件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									7
++																									12
+ 																								</span>
+ 																								<span>
+-																									7件「いいね！」されています
++																									12件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1843,19 +1843,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
+-																					<img alt="人工関節とPRP療法は二者択一ではない" src="/assets/images/rensai/doceye/thumbnails/齋田良知（整形外科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
++																					<img alt="処方時に「有効性は不確実」と伝えられますか" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618826" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-22
++																							2026-10-23
+ 																						</time>
+ 																						<h2>
+-																							人工関節とPRP療法は二者択一ではない
++																							処方時に「有効性は不確実」と伝えられますか
+ 																						</h2>
+ 																						<p>
+-																							最新RCTと国際コンセンサスから見えた「膝OA治療の次の課題」
++																							伝達後の同意率を検討したRCTから
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1874,10 +1874,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									31
++																									13
+ 																								</span>
+ 																								<span>
+-																									31件「いいね！」されています
++																									13件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1894,18 +1894,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
++																					<img alt="人工関節とPRP療法は二者択一ではない" src="/assets/images/rensai/doceye/thumbnails/齋田良知（整形外科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618390" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-10-22
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）
++																							人工関節とPRP療法は二者択一ではない
+ 																						</h2>
+ 																						<p>
++																							最新RCTと国際コンセンサスから見えた「膝OA治療の次の課題」
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1914,20 +1915,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									2
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									20
++																									32
+ 																								</span>
+ 																								<span>
+-																									20件「いいね！」されています
++																									32件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1944,19 +1945,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
+-																					<img alt="糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選" src="/assets/images/thumbnails/com_kaigaiwatch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=617647" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-21
++																							2026-10-22
+ 																						</time>
+ 																						<h2>
+-																							糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選
++																							〔10pt進呈〕『乳癌診療ガイドライン2026年版』でオンコタイプDXのCQを細分化した理由として最も適切なものは？【MT医療検定 No.142】（11/4まで）
+ 																						</h2>
+ 																						<p>
+-																							発症前から進展、「隠れた重荷」に：EASD 2026
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1965,20 +1965,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									0
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									42
++																									22
+ 																								</span>
+ 																								<span>
+-																									42件「いいね！」されています
++																									22件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1995,19 +1995,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618629" rel="noopener noreferrer">
+-																					<img alt="インフル5万例目前、29都道府県で警報・注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
++																					<img alt="糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選" src="/assets/images/thumbnails/com_kaigaiwatch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618629" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618486" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-20
++																							2026-10-21
+ 																						</time>
+ 																						<h2>
+-																							インフル5万例目前、29都道府県で警報・注意報レベル
++																							糖尿病に「第4の細小血管症」？―「肺機能低下」関連3選
+ 																						</h2>
+ 																						<p>
+-																							【感染症動向調査第41週： 10月5～11日】
++																							発症前から進展、「隠れた重荷」に：EASD 2026
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2016,20 +2016,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									26
++																									42
+ 																								</span>
+ 																								<span>
+-																									26件「いいね！」されています
++																									42件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

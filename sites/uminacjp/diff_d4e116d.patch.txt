@@ -1,0 +1,28 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index f0b7d2ff..07909cae 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -723,6 +723,11 @@
+ 						Drug、Clinical Trial、Epidemiology、Statistics（医薬品、臨床試験、疫学、統計リンク集）
+ 					</h5>
+ 					<ul>
++						<li>
++							<a href="http://medstat.jp/seminar320261210.html" rel="noopener noreferrer">
++								12/10　医学統計学研究センターセミナー　欠測データを含む不完全データ解析の統計手法（入門）
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.hosp.kobe-u.ac.jp/ctrc/researcher/documents/seminar/seminar_20261202.pdf" rel="noopener noreferrer">
+ 								12/2 臨床研究推進セミナー（神戸大学）「人を対象とする生命科学・医学系研究に関する 倫理指針の一部改正について」
+@@ -753,11 +758,6 @@
+ 								第12回DIA医療機器開発シンポジウム - 医療データ利活用時代とSaMDの社会実装 -
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.hosp.kobe-u.ac.jp/ctrc/researcher/documents/seminar/seminar_20261129_information.pdf" rel="noopener noreferrer">
+-								11/29 令和8年度 厚生労働省 臨床研究総合促進事業 臨床研究・治験従事者研修（神戸大学）
+-							</a>
+-						</li>
+ 					</ul>
+ 				</ul>
+ 				<h2>

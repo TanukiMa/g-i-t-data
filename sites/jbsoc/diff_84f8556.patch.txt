@@ -1,0 +1,155 @@
+diff --git a/sites/jbsoc/jp/or/jbsoc/index.html b/sites/jbsoc/jp/or/jbsoc/index.html
+index 27b2f82a..a92702db 100644
+--- a/sites/jbsoc/jp/or/jbsoc/index.html
++++ b/sites/jbsoc/jp/or/jbsoc/index.html
+@@ -501,7 +501,6 @@
+ 											<a href="https://www.jbsoc.or.jp/notice/bmb2026-2026-10-09.html" rel="noopener noreferrer" title="[BMB2026] 「後期参加登録」のご案内/ ”Late Registration” has started!">
+ 												[BMB2026] 「後期参加登録」のご案内/ ”Late Registration” has started!
+ 											</a>
+-											<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 										</h3>
+ 										<p>
+ 										</p>
+@@ -523,7 +522,6 @@
+ 											<a href="https://www.jbsoc.or.jp/notice/2026-10-08.html" rel="noopener noreferrer" title="熊本地震 被災会員への支援措置について（対象者確定のご報告）">
+ 												熊本地震 被災会員への支援措置について（対象者確定のご報告）
+ 											</a>
+-											<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 										</h3>
+ 										<p>
+ 										</p>
+@@ -679,6 +677,33 @@
+ 							</a>
+ 							<div>
+ 								<div>
++									<ul>
++										<li>
++											<small>
++												<span>
++													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
++														学術集会
++													</a>
++												</span>
++												2026.11.09
++											</small>
++											<h3>
++												<a href="https://www.jbsoc.or.jp/calendar_list/21st-jscb#new_tab" rel="noopener noreferrer" title="【後援】日本ケミカルバイオロジー学会　第21回年会">
++													【後援】日本ケミカルバイオロジー学会　第21回年会
++												</a>
++												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
++											</h3>
++											<p>
++											</p>
++											<aside>
++												<a href="https://www.jbsoc.or.jp/calendar_list/21st-jscb#new_tab" rel="noopener noreferrer">
++													続きを読む
++												</a>
++											</aside>
++											<p>
++											</p>
++										</li>
++									</ul>
+ 									<ul>
+ 										<li>
+ 											<small>
+@@ -922,26 +947,28 @@
+ 											</p>
+ 										</li>
+ 									</ul>
++								</div>
++								<div>
+ 									<ul>
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
+-														求人情報
++													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
++														学術集会
+ 													</a>
+ 												</span>
+-												2026.11.05
++												2026.11.09
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/job_info/iwate-med-3#new_tab" rel="noopener noreferrer" title="岩手医科大学 医学部 生化学講座 分子医化学分野　助教">
+-													岩手医科大学 医学部 生化学講座 分子医化学分野　助教
++												<a href="https://www.jbsoc.or.jp/calendar_list/21st-jscb#new_tab" rel="noopener noreferrer" title="【後援】日本ケミカルバイオロジー学会　第21回年会">
++													【後援】日本ケミカルバイオロジー学会　第21回年会
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/job_info/iwate-med-3#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/21st-jscb#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -949,8 +976,6 @@
+ 											</p>
+ 										</li>
+ 									</ul>
+-								</div>
+-								<div>
+ 									<ul>
+ 										<li>
+ 											<small>
+@@ -1154,7 +1179,6 @@
+ 												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026.html" rel="noopener noreferrer" title="「オルトライブ」開催ご案内　株式会社オルトメディコ">
+ 													「オルトライブ」開催ご案内　株式会社オルトメディコ
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+@@ -1193,32 +1217,6 @@
+ 											</p>
+ 										</li>
+ 									</ul>
+-									<ul>
+-										<li>
+-											<small>
+-												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
+-														学術集会
+-													</a>
+-												</span>
+-												2026.09.28
+-											</small>
+-											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-2#new_tab" rel="noopener noreferrer" title="DMP（データマネジメントプラン）は研究現場でどう活かせるか―実践事例から考える研究データマネジメント―">
+-													DMP（データマネジメントプラン）は研究現場でどう活かせるか―実践事例から考える研究データマネジメント―
+-												</a>
+-											</h3>
+-											<p>
+-											</p>
+-											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-2#new_tab" rel="noopener noreferrer">
+-													続きを読む
+-												</a>
+-											</aside>
+-											<p>
+-											</p>
+-										</li>
+-									</ul>
+ 								</div>
+ 								<div>
+ 									<ul>
+@@ -1262,7 +1260,6 @@
+ 												<a href="https://www.jbsoc.or.jp/news/news2/takano2027.html" rel="noopener noreferrer" title="2027年度研究助成　（公財）タカノ農芸化学研究助成財団">
+ 													2027年度研究助成　（公財）タカノ農芸化学研究助成財団
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+@@ -1661,7 +1658,6 @@
+ 												<a href="https://www.jbsoc.or.jp/job_info/iwate-med#new_tab" rel="noopener noreferrer" title="岩手医科大学 教養教育センター 化学科　助教">
+ 													岩手医科大学 教養教育センター 化学科　助教
+ 												</a>
+-												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>

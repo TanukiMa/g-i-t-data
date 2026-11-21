@@ -1,0 +1,438 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 3c603e7f0..461fc0568 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1276,8 +1276,8 @@
+ 								</a>
+ 							</div>
+ 							<div>
+-								<a href="https://medical-tribune.co.jp/special/2026/mt/seminar/?blogid=20&amp;entryid=620497" rel="noopener noreferrer">
+-									<img alt="MT-MEET誘導バナー" src="https://asset.mtweb.jp/media/2026/11/11105730/crsl_bn_074_MT-MEET_takeshima_w840_h210-1.jpg">
++								<a href="https://www.mt-meet.org/" rel="noopener noreferrer">
++									<img alt="MT-MEET誘導バナー" src="https://asset.mtweb.jp/media/2026/07/22163236/crsl_mtmeet_bn_w840h210_1.png">
+ 								</a>
+ 							</div>
+ 							<div>
+@@ -1461,7 +1461,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月18日の新着ニュース
++															11月19日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1478,20 +1478,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="入院中のイブプロフェンでAKI発生率22％増" src="https://asset.mtweb.jp/media/2026/11/17190843/ChatGPT-Image-20261117_Ibuprofen-AKI.jpg">
++																<img alt="Orforglipronで閉塞性睡眠時無呼吸が改善" src="https://asset.mtweb.jp/media/2026/11/17120310/ChatGPT-Image-20261117_OrforglipronxOSA.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622131" rel="noopener noreferrer">
+-																			入院中のイブプロフェンでAKI発生率22％増
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621969" rel="noopener noreferrer">
++																			Orforglipronで閉塞性睡眠時無呼吸が改善
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-18
++																			2026-11-19
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1527,20 +1527,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="チルゼパチドで肥満青少年のBMIが18.5％低下" src="https://asset.mtweb.jp/media/2026/11/18113850/SURMOUNT-ADOLESCENTS_TOP.jpg">
++																<img alt="中等症以上の乾癬、小児はBio導入が約1年遅い" src="https://asset.mtweb.jp/media/2026/11/17114751/ChatGPT20261117_PsA_Bio.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621912" rel="noopener noreferrer">
+-																			チルゼパチドで肥満青少年のBMIが18.5％低下
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621994" rel="noopener noreferrer">
++																			中等症以上の乾癬、小児はBio導入が約1年遅い
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-18
++																			2026-11-19
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1576,20 +1576,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="JAK阻害薬の有害事象、感染症と穿孔性憩室炎で強い疑い" src="https://asset.mtweb.jp/media/2026/11/13191942/ChatGPT-Image-20261113_JAKi_GIAE.jpg">
++																<img alt="〔10pt進呈〕トリプタンやNSAIDの薬剤使用過多による頭痛（MOH）を防ぐため、滝沢翼氏が提示した1カ月当たりの服用日数の目安は？【MT医療検定 No.150】（12/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621810" rel="noopener noreferrer">
+-																			JAK阻害薬の有害事象、感染症と穿孔性憩室炎で強い疑い
++																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621172" rel="noopener noreferrer">
++																			〔10pt進呈〕トリプタンやNSAIDの薬剤使用過多による頭痛（MOH）を防ぐため、滝沢翼氏が提示した1カ月当たりの服用日数の目安は？【MT医療検定 No.150】（12/2まで）
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-18
++																			2026-11-19
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1625,13 +1625,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="米国成人の約5人に1人が「フードノイズ」を頻繁に経験" src="https://asset.mtweb.jp/media/2026/11/17182217/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E9%85%8D%E4%BF%A14.jpg">
++																<img alt="配偶者の外傷性脳損傷でパートナーの死亡リスク上昇" src="https://asset.mtweb.jp/media/2026/11/17141321/ChatGPT20261117_Spousal-TBI.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622110" rel="noopener noreferrer">
+-																			米国成人の約5人に1人が「フードノイズ」を頻繁に経験
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622017" rel="noopener noreferrer">
++																			配偶者の外傷性脳損傷でパートナーの死亡リスク上昇
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1674,20 +1674,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="経鼻生インフルワクチンで肺炎球菌が増える! ？" src="https://asset.mtweb.jp/media/2026/11/06154147/com_dr_shinjo_thum_w440h275-2.jpg">
++																<img alt="HFpEFへのSGLT2、GL改訂後の導入率は？" src="https://asset.mtweb.jp/media/2026/11/09112441/com_jhfs2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620945" rel="noopener noreferrer">
+-																			経鼻生インフルワクチンで肺炎球菌が増える! ？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621923" rel="noopener noreferrer">
++																			HFpEFへのSGLT2、GL改訂後の導入率は？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-17
++																			2026-11-18
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1723,20 +1723,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="注射薬の投与間隔間違いに注意" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
++																<img alt="入院中のイブプロフェンでAKI発生率22％増" src="https://asset.mtweb.jp/media/2026/11/17190843/ChatGPT-Image-20261117_Ibuprofen-AKI.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622025" rel="noopener noreferrer">
+-																			注射薬の投与間隔間違いに注意
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622131" rel="noopener noreferrer">
++																			入院中のイブプロフェンでAKI発生率22％増
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-17
++																			2026-11-18
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,20 +1772,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="E型ボツリヌス毒素製剤を初承認、抗がん薬の適応拡大も" src="https://asset.mtweb.jp/media/2026/11/17183249/202611171830_11.png">
++																<img alt="チルゼパチドで肥満青少年のBMIが18.5％低下" src="https://asset.mtweb.jp/media/2026/11/18113850/SURMOUNT-ADOLESCENTS_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622008" rel="noopener noreferrer">
+-																			E型ボツリヌス毒素製剤を初承認、抗がん薬の適応拡大も
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621912" rel="noopener noreferrer">
++																			チルゼパチドで肥満青少年のBMIが18.5％低下
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-17
++																			2026-11-18
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1818,7 +1818,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月18日の新着連載
++															11月19日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1838,19 +1838,18 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620945" rel="noopener noreferrer">
+-																					<img alt="経鼻生インフルワクチンで肺炎球菌が増える! ？" src="/assets/images/rensai/doceye/thumbnails/新庄正宜（小児科）.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621172" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕トリプタンやNSAIDの薬剤使用過多による頭痛（MOH）を防ぐため、滝沢翼氏が提示した1カ月当たりの服用日数の目安は？【MT医療検定 No.150】（12/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620945" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621172" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-17
++																							2026-11-19
+ 																						</time>
+ 																						<h2>
+-																							経鼻生インフルワクチンで肺炎球菌が増える! ？
++																							〔10pt進呈〕トリプタンやNSAIDの薬剤使用過多による頭痛（MOH）を防ぐため、滝沢翼氏が提示した1カ月当たりの服用日数の目安は？【MT医療検定 No.150】（12/2まで）
+ 																						</h2>
+ 																						<p>
+-																							保菌増加は一過性、その先には肺炎球菌感染症の減少も？
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1859,20 +1858,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									0
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									49
++																									9
+ 																								</span>
+ 																								<span>
+-																									49件「いいね！」されています
++																									9件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1889,18 +1888,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621866" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕試験結果を踏まえ、羽尾曉人氏が従来法よりもmRNAを用いたCAR-T療法が安全性に優れる特徴として挙げたものは？【MT医療検定 No.149】（11/23まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620945" rel="noopener noreferrer">
++																					<img alt="経鼻生インフルワクチンで肺炎球菌が増える! ？" src="/assets/images/rensai/doceye/thumbnails/新庄正宜（小児科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621866" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620945" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-17
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕試験結果を踏まえ、羽尾曉人氏が従来法よりもmRNAを用いたCAR-T療法が安全性に優れる特徴として挙げたものは？【MT医療検定 No.149】（11/23まで）
++																							経鼻生インフルワクチンで肺炎球菌が増える! ？
+ 																						</h2>
+ 																						<p>
++																							保菌増加は一過性、その先には肺炎球菌感染症の減少も？
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1909,20 +1909,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									4
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									18
++																									51
+ 																								</span>
+ 																								<span>
+-																									18件「いいね！」されています
++																									51件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1939,19 +1939,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621989" rel="noopener noreferrer">
+-																					<img alt="インフル4万例超え、23道県で注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621866" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕試験結果を踏まえ、羽尾曉人氏が従来法よりもmRNAを用いたCAR-T療法が安全性に優れる特徴として挙げたものは？【MT医療検定 No.149】（11/23まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621989" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621866" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-17
+ 																						</time>
+ 																						<h2>
+-																							インフル4万例超え、23道県で注意報レベル
++																							〔10pt進呈〕試験結果を踏まえ、羽尾曉人氏が従来法よりもmRNAを用いたCAR-T療法が安全性に優れる特徴として挙げたものは？【MT医療検定 No.149】（11/23まで）
+ 																						</h2>
+ 																						<p>
+-																							【感染症動向調査第45週：11月2～8日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1960,20 +1959,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									0
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									25
++																									18
+ 																								</span>
+ 																								<span>
+-																									25件「いいね！」されています
++																									18件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1990,19 +1989,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
+-																					<img alt="子供の皮疹、なぜ治療が届かないのか" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621989" rel="noopener noreferrer">
++																					<img alt="インフル4万例超え、23道県で注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621989" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-16
++																							2026-11-17
+ 																						</time>
+ 																						<h2>
+-																							子供の皮疹、なぜ治療が届かないのか
++																							インフル4万例超え、23道県で注意報レベル
+ 																						</h2>
+ 																						<p>
+-																							米国の小児皮膚疾患レビューが映す格差
++																							【感染症動向調査第45週：11月2～8日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2011,20 +2010,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									2
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									39
++																									28
+ 																								</span>
+ 																								<span>
+-																									39件「いいね！」されています
++																									28件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2041,19 +2040,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
+-																					<img alt="GLP-1関連薬による「性急な」減量は危ない？" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
++																					<img alt="子供の皮疹、なぜ治療が届かないのか" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-13
++																							2026-11-16
+ 																						</time>
+ 																						<h2>
+-																							GLP-1関連薬による「性急な」減量は危ない？
++																							子供の皮疹、なぜ治療が届かないのか
+ 																						</h2>
+ 																						<p>
+-																							なぜ「減量の大きさ」が「心血管転帰の改善」と相関しないのか
++																							米国の小児皮膚疾患レビューが映す格差
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2072,10 +2071,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									40
++																									39
+ 																								</span>
+ 																								<span>
+-																									40件「いいね！」されています
++																									39件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

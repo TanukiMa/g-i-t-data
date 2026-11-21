@@ -1,0 +1,83 @@
+diff --git a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+index 49e9b80d1..56ed53881 100644
+--- a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
++++ b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+@@ -780,7 +780,23 @@
+ 						<div>
+ 							<p>
+ 								<em>
+-									ひと、くらし、みらいのために
++									<span>
++										<a href="/kinki/newpage_01367.html" rel="noopener noreferrer">
++											令和8年度麻薬・覚醒剤・大麻乱用防止運動大阪大会
++										</a>
++										<br>
++										を開催します。
++										<br>
++									</span>
++									<span>
++										STOP薬物乱用！笑える未来へ
++										<br>
++										怪しい誘いに乗ったら
++										<br>
++									</span>
++									<span>
++										アカ～ン！
++									</span>
+ 								</em>
+ 							</p>
+ 							<ul>
+@@ -998,44 +1014,44 @@
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/newpage_01367.html" rel="noopener noreferrer">
++										<a href="/kinki/gyomu/bu_ka/kanri/documents/30hokenniryoukikanntounikannsurutuuti_00011.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月15日
++													2026年10月16日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															<img alt="重要" src="/common/img/icn_important.svg">
+-															開催案内
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年度　麻薬・覚醒剤・大麻乱用防止運動大阪大会を開催します。
++													保険医療機関等に関する通知（令和8年度）を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/gyomu/bu_ka/kanri/documents/30hokenniryoukikanntounikannsurutuuti_00011.html" rel="noopener noreferrer">
++										<a href="/kinki/newpage_01367.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月6日
++													2026年10月15日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															その他
++															<img alt="重要" src="/common/img/icn_important.svg">
++															開催案内
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関等に関する通知（令和8年度）を更新しました。
++													令和8年度　麻薬・覚醒剤・大麻乱用防止運動大阪大会を開催します。
+ 												</span>
+ 											</div>
+ 										</a>

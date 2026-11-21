@@ -1,0 +1,170 @@
+diff --git a/sites/jartjp/jp/jart/index.html b/sites/jartjp/jp/jart/index.html
+index a88713698..f2cf90b46 100644
+--- a/sites/jartjp/jp/jart/index.html
++++ b/sites/jartjp/jp/jart/index.html
+@@ -535,10 +535,10 @@
+ 															<div>
+ 																<div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/2026102201" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261023" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/22
++																					2026/10/23
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -547,15 +547,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【重要】「JARTIS」の一時閉鎖について (PHP脆弱性対応)
++																				【重要】メール配信システム「ブラストメール」への不審アクセスに伴う個人情報漏えいの可能性について (お詫び)
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261021-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/2026102201" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/21
++																					2026/10/22
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -564,15 +564,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【お詫び】メールマガジン本文中のリンク(URL)からページが開かない現象について
++																				【重要】「JARTIS」の一時閉鎖について (PHP脆弱性対応)
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261019-3" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261021-01" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/19
++																					2026/10/21
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -581,12 +581,12 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【お詫びとご案内】eラーニング視聴不具合の復旧と年会費の納入について
++																				【お詫び】メールマガジン本文中のリンク(URL)からページが開かない現象について
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261019-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261019-3" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+ 																					2026/10/19
+@@ -598,15 +598,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				(入札広告) 「日本診療放射線技師会誌ＪＡＲＴ」の編集・印刷・梱包発送、情報誌「Network Now」及 び英文誌「Journal of JART English edition」の制作業務
++																				【お詫びとご案内】eラーニング視聴不具合の復旧と年会費の納入について
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261015-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261019-01" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/15
++																					2026/10/19
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -615,7 +615,7 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				eラーニングが視聴できない事案について
++																				(入札広告) 「日本診療放射線技師会誌ＪＡＲＴ」の編集・印刷・梱包発送、情報誌「Network Now」及 び英文誌「Journal of JART English edition」の制作業務
+ 																			</p>
+ 																		</a>
+ 																	</div>
+@@ -1152,10 +1152,10 @@
+ 															<div>
+ 																<div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/external/20261019" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/external/20261023_02" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/19
++																					2026/10/23
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -1167,39 +1167,39 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				令和8年度 医療事故調査制度に係る「管理者・実務者セミナー」の開催について
++																				2026年度 画像医療システム産業研究会 開催のお知らせ
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/external/20261018" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/external/20261023" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/18
++																					2026/10/23
+ 																				</div>
+ 																				<ul>
++																					<li>
++																						お知らせ
++																					</li>
+ 																					<li>
+ 																						その他団体
+ 																					</li>
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				2026年度 オートプシー・イメージング認定診療放射線技師 更新講習会の開催遅延について
++																				超音波スクリーニング研修講演会2026東京のご案内
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/external/20261006-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/external/20261019" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/06
++																					2026/10/19
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+-																						アンケート
+-																					</li>
+-																					<li>
+-																						その他官公庁
++																						お知らせ
+ 																					</li>
+ 																					<li>
+ 																						その他団体
+@@ -1207,7 +1207,7 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				厚生労働省委託事業 「業種別カスタマーハラスメント対策の取組支援事業」 アンケート調査へのご協力のお願い
++																				令和8年度 医療事故調査制度に係る「管理者・実務者セミナー」の開催について
+ 																			</p>
+ 																		</a>
+ 																	</div>

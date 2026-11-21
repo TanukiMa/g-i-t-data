@@ -1,0 +1,24 @@
+diff --git a/sites/jastro/jp/or/jastro/index.html b/sites/jastro/jp/or/jastro/index.html
+index aab53e895..bf52bb37c 100644
+--- a/sites/jastro/jp/or/jastro/index.html
++++ b/sites/jastro/jp/or/jastro/index.html
+@@ -479,6 +479,19 @@
+ 			</li>
+ 		</ul>
+ 		<ul>
++			<li>
++				<span>
++					医療関係者
++				</span>
++				<time>
++					2026.10.27
++				</time>
++				<span>
++					<a href="/medicalpersonnel/event/student-seminar/30th-anniversary-magazine.pdf" rel="noopener noreferrer">
++						医学生・研修医セミナー30周年記念誌を掲載しました。
++					</a>
++				</span>
++			</li>
+ 			<li>
+ 				<span>
+ 					会員向け

@@ -1,0 +1,36 @@
+diff --git a/sites/jspho/org/jspho/index.html b/sites/jspho/org/jspho/index.html
+index 44069221b..9115b861c 100644
+--- a/sites/jspho/org/jspho/index.html
++++ b/sites/jspho/org/jspho/index.html
+@@ -416,9 +416,7 @@
+ 				<div>
+ 					<ul>
+ 						<div>
+-							<a href="https://site.convention.co.jp/jspho2026/" rel="noopener noreferrer">
+-								<img src="common/img/home/mainvisual15.png">
+-							</a>
++							<img src="common/img/home/mainvisual16.jpg">
+ 						</div>
+ 						<div>
+ 							<a href="https://www.congre.co.jp/jspho2025/" rel="noopener noreferrer">
+@@ -445,6 +443,20 @@
+ 							<img alt="お知らせ" src="common/img/home/hl_txt_news.png">
+ 						</h1>
+ 						<div>
++							<div>
++								<div>
++									2026.11.16
++								</div>
++								<div>
++									<a href="https://www.jspho.org/lifetime-care-and-support/guideline/index.html" rel="noopener noreferrer">
++										2026年度第3回小児・AYA世代のがんの長期フォローアップに関する研修会の受講申込を開始しました。
++									</a>
++									<br>
++									募集期間：2026年11月16日(月)9:00～11月20日(金)15:00まで
++									<br>
++									※応募者多数の場合は、募集期間内に締め切らせていただく場合がございます。
++								</div>
++							</div>
+ 							<div>
+ 								<div>
+ 									2026.11.11

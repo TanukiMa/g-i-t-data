@@ -1,0 +1,49 @@
+diff --git a/sites/medorjp/jp/or/med/index.html b/sites/medorjp/jp/or/med/index.html
+index 1a499401e..cc13cf4e6 100644
+--- a/sites/medorjp/jp/or/med/index.html
++++ b/sites/medorjp/jp/or/med/index.html
+@@ -371,25 +371,13 @@
+ 					</a>
+ 				</li>
+ 				<li>
+-					<a href="https://mamis.member-sys.info/" rel="noopener noreferrer">
++					<a href="https://mamis.med.or.jp/login" rel="noopener noreferrer">
+ 						<span>
+-							◇医師向け
+-							<br>
+-							情報共有サイト
++							◇MAMIS
+ 						</span>
+ 						<img alt="医師会会員情報システム" src="/n_images/pickup_thumbnail07b.jpg">
+ 					</a>
+ 				</li>
+-				<li>
+-					<a href="https://member-sys.info/" rel="noopener noreferrer">
+-						<span>
+-							◆医師会事務局向け
+-							<br>
+-							情報共有サイト
+-						</span>
+-						<img alt="医師会会員情報システム" src="/n_images/pickup_thumbnail06.jpg">
+-					</a>
+-				</li>
+ 			</ul>
+ 		</div>
+ 		<h2>
+@@ -584,12 +572,10 @@
+ 			</div>
+ 			<ul>
+ 				<li>
+-					<a href="https://forms.jmamem.med.or.jp/usrmed/02/reservehash/" rel="noopener noreferrer">
+-						<img alt="イベント情報" src="/n_images/banner_slide_09.png">
+-						<span>
+-							発送停止・再開フォーム
+-						</span>
+-					</a>
++					<img alt="" src="/n_images/banner_slide_09.png">
++					<span>
++						発送停止・再開フォーム(工事中)
++					</span>
+ 				</li>
+ 				<li>
+ 					<a href="/people/opinion/000002.html" rel="noopener noreferrer">

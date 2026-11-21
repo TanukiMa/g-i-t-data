@@ -1,0 +1,58 @@
+diff --git a/sites/nisseikyoorjp/jp/or/nisseikyo/index.html b/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
+index ba1cdaf2..80f04e68 100644
+--- a/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
++++ b/sites/nisseikyoorjp/jp/or/nisseikyo/index.html
+@@ -655,7 +655,7 @@
+ 					<ul>
+ 						<li>
+ 							<span>
+-								2026-10-26
++								2026-11-02
+ 							</span>
+ 							<a href="https://www.nisseikyo.or.jp/gyousei/tsuuchi/2026_list.php" rel="noopener noreferrer">
+ 								行政情報　厚労省等通達を更新しました
+@@ -663,15 +663,15 @@
+ 						</li>
+ 						<li>
+ 							<span>
+-								2026-10-22
++								2026-11-02
+ 							</span>
+-							<a href="https://www.nisseikyo.or.jp/news/jimukyoku/detail.php?@DB_ID@=747" rel="noopener noreferrer">
+-								PHPの脆弱性への対応完了のお知らせ
++							<a href="https://www.nisseikyo.or.jp/gyousei/saigai/202607_kumamoto.php" rel="noopener noreferrer">
++								行政情報　令和8年熊本地震関連情報を更新しました
+ 							</a>
+ 						</li>
+ 						<li>
+ 							<span>
+-								2026-10-19
++								2026-10-26
+ 							</span>
+ 							<a href="https://www.nisseikyo.or.jp/gyousei/tsuuchi/2026_list.php" rel="noopener noreferrer">
+ 								行政情報　厚労省等通達を更新しました
+@@ -679,18 +679,18 @@
+ 						</li>
+ 						<li>
+ 							<span>
+-								2026-10-19
++								2026-10-22
+ 							</span>
+-							<a href="https://www.nisseikyo.or.jp/gyousei/saigai/202607_kumamoto.php" rel="noopener noreferrer">
+-								行政情報　令和8年熊本地震関連情報を更新しました
++							<a href="https://www.nisseikyo.or.jp/news/jimukyoku/detail.php?@DB_ID@=747" rel="noopener noreferrer">
++								PHPの脆弱性への対応完了のお知らせ
+ 							</a>
+ 						</li>
+ 						<li>
+ 							<span>
+-								2026-10-15
++								2026-10-19
+ 							</span>
+-							<a href="https://www.nisseikyo.or.jp/news/topic/detail.php?@DB_ID@=746" rel="noopener noreferrer">
+-								日精協TOPICS　熊本地震 におけるDPAT活動報告
++							<a href="https://www.nisseikyo.or.jp/gyousei/tsuuchi/2026_list.php" rel="noopener noreferrer">
++								行政情報　厚労省等通達を更新しました
+ 							</a>
+ 						</li>
+ 					</ul>

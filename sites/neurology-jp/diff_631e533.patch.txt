@@ -1,0 +1,23 @@
+diff --git a/sites/neurology-jp/org/neurology-jp/index-html.html b/sites/neurology-jp/org/neurology-jp/index-html.html
+index 0fa3fff0..2a2888c9 100644
+--- a/sites/neurology-jp/org/neurology-jp/index-html.html
++++ b/sites/neurology-jp/org/neurology-jp/index-html.html
+@@ -216,6 +216,18 @@
+ 				</div>
+ 				<div>
+ 					<div>
++						<div>
++							<p>
++								日本神経学会のホームページについて
++							</p>
++							<p>
++								学会ホームページの緊急メンテナンス実施中には、ご利用者におかれまして大変なご不便とご迷惑をおかけいたしました。
++								<br>
++								今後も安全にご利用いただけますよう心がけてまいります。
++								<br>
++								どうぞ宜しくお願い申し上げます。
++							</p>
++						</div>
+ 						<div>
+ 							<h3>
+ 								<img alt="TOPICS" height="32" src="images/top_h3_topics.gif" width="860">

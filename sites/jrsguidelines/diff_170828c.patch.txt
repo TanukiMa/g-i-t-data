@@ -1,0 +1,20 @@
+diff --git a/sites/jrsguidelines/jp/or/jrs/publication-jrs-guidelines.html b/sites/jrsguidelines/jp/or/jrs/publication-jrs-guidelines.html
+index 969f21d0..ececa72c 100644
+--- a/sites/jrsguidelines/jp/or/jrs/publication-jrs-guidelines.html
++++ b/sites/jrsguidelines/jp/or/jrs/publication-jrs-guidelines.html
+@@ -386,6 +386,15 @@
+ 								</span>
+ 							</a>
+ 						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://apsr.org/member-guide-jp/" rel="noopener noreferrer">
++										<img alt="APSRのご案内" height="116" src="https://www.jrs.or.jp/tpl/img/nav_banner_apsr.png" width="492">
++									</a>
++								</li>
++							</ul>
++						</div>
+ 					</div>
+ 				</div>
+ 			</nav>

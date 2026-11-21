@@ -1,0 +1,114 @@
+diff --git a/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html b/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
+index 9b382419e..51485326c 100644
+--- a/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
++++ b/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
+@@ -981,64 +981,64 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/tokaihokuriku/dpc-tsuuchi.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/gyomu/bu_ka/nenkin_shinsa/shingikai.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月19日
++													2026年11月20日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													DPC関係の通知を新たに掲載しました。
++													東海北陸地方年金記録訂正審議会（部会）を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/yakka/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/newpage_00350.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月19日
++													2026年11月20日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													薬価基準、医薬品医療機器等法関係の通知を新たに掲載しました。
++													入院基本料等届出状況（届出項目別）を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/santei/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/newpage_00230.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月19日
++													2026年11月20日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													診療報酬の算定・施設基準の届出関係の通知を新たに掲載しました。
++													はり、きゅう及びあん摩マッサージ指圧の受領委任取扱い施術所一覧表（令和8年11月1日時点）を掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/ryoyou/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/dpc-tsuuchi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月19日
+@@ -1051,26 +1051,26 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													療養費関係（柔整・あはき・食事療養・訪問看護を含む）の通知を新たに掲載しました。
++													DPC関係の通知を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/newpage_00843.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/iryo_hoken/yakka/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月10日
++													2026年11月19日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														通知・通達
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」について更新しました。
++													薬価基準、医薬品医療機器等法関係の通知を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>

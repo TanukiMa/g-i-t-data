@@ -1,0 +1,22 @@
+diff --git a/sites/yuketsu/jp/or/jstmct/yuketsu/index.html b/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
+index 0a03fb5b..c8889373 100644
+--- a/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
++++ b/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
+@@ -269,7 +269,7 @@
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="http://www.kalibstore.jp/jstmct_0002" rel="noopener noreferrer">
++						<a href="https://store.kalib.jp/shopdetail/000000000008/" rel="noopener noreferrer">
+ 							<img alt="キービジュアル" height="228" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/top/kv/kv_190425.jpg" width="1064">
+ 						</a>
+ 					</li>
+@@ -341,7 +341,7 @@
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="/medical/committee/" rel="noopener noreferrer">
++							<a href="/committee/" rel="noopener noreferrer">
+ 								合同輸血療法委員会
+ 							</a>
+ 						</li>

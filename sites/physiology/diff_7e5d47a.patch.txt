@@ -1,0 +1,287 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index 2e5fb4f4..501b3f31 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -647,30 +647,30 @@
+ 								</h2>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-29
++															2026-10-30
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															セミナー情報
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
++														高知大学医学部生理学講座（統合生理学）教員の公募について
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34912/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -680,20 +680,20 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															研究助成
++															セミナー情報
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														令和9年度 公益信託成茂神経科学研究助成基金
++														千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34909/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34912/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -709,14 +709,14 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														公益財団法人医療機器センター附属医療機器産業研究所　2027年度研究助成　医療技術研究開発助成公募開始のご案内
++														令和9年度 公益信託成茂神経科学研究助成基金
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34909/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -726,43 +726,43 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															研究助成
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
++														公益財団法人医療機器センター附属医療機器産業研究所　2027年度研究助成　医療技術研究開発助成公募開始のご案内
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-19
++															2026-10-29
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															お知らせ
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														自然科学研究機構Open Mix Lab（OML）公募研究プログラム
++														東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34897/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -772,13 +772,13 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															お知らせ
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														京都大学・理学研究科・生物科学専攻　助教
++														自然科学研究機構Open Mix Lab（OML）公募研究プログラム
+ 													</em>
+ 												</p>
+ 											</div>
+@@ -1755,12 +1755,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-29
++																2026-10-30
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1771,19 +1771,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
++															高知大学医学部生理学講座（統合生理学）教員の公募について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34897/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-19
++																2026-10-29
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1794,19 +1794,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															京都大学・理学研究科・生物科学専攻　助教
++															東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34874/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34897/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-15
++																2026-10-19
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1817,19 +1817,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															大阪大学大学院医学系研究科　特任助教（常勤）公募
++															京都大学・理学研究科・生物科学専攻　助教
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34858/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34874/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-08
++																2026-10-15
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1840,19 +1840,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															慶應義塾大学医学部生理学教室教授候補者の公募
++															大阪大学大学院医学系研究科　特任助教（常勤）公募
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34769/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34858/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-14
++																2026-10-08
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1863,19 +1863,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															大阪大学大学院生命機能研究科 教授公募
++															慶應義塾大学医学部生理学教室教授候補者の公募
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34760/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34769/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-11
++																2026-09-14
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1886,7 +1886,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															2027年度産総研イノベーションスクール人材育成コース（博士研究員：15名程度）の公募
++															大阪大学大学院生命機能研究科 教授公募
+ 														</em>
+ 													</p>
+ 												</div>

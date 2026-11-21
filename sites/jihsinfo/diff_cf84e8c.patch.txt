@@ -1,0 +1,42 @@
+diff --git a/sites/jihsinfo/jp/go/jihs/id-info/index.html b/sites/jihsinfo/jp/go/jihs/id-info/index.html
+index e8891961e..ba576d525 100644
+--- a/sites/jihsinfo/jp/go/jihs/id-info/index.html
++++ b/sites/jihsinfo/jp/go/jihs/id-info/index.html
+@@ -510,6 +510,18 @@
+ 								</div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="./surveillance/idss/target-diseases/sfts/index.html" rel="noopener noreferrer">
++												<article>
++													<time>
++														2026年11月16日
++													</time>
++													<h3>
++														「感染症発生動向調査で届け出られたSFTS症の動向について」の記事を更新しました
++													</h3>
++												</article>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="./surveillance/idwr/article/influenza/article.html" rel="noopener noreferrer">
+ 												<article>
+@@ -558,18 +570,6 @@
+ 												</article>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="./surveillance/idwr/diseases/measles/graph/index.html" rel="noopener noreferrer">
+-												<article>
+-													<time>
+-														2026年11月10日
+-													</time>
+-													<h3>
+-														「麻疹 発生動向調査」の記事を更新しました
+-													</h3>
+-												</article>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<a href="/updates.html" rel="noopener noreferrer">

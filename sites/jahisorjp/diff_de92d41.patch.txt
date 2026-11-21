@@ -1,0 +1,36 @@
+diff --git a/sites/jahisorjp/jp/jahis/index.html b/sites/jahisorjp/jp/jahis/index.html
+index 86ce84d11..c897c3829 100644
+--- a/sites/jahisorjp/jp/jahis/index.html
++++ b/sites/jahisorjp/jp/jahis/index.html
+@@ -314,6 +314,14 @@
+ 								</h2>
+ 								<table>
+ 									<tbody>
++										<tr>
++											<th>
++												2026/10/21
++											</th>
++											<td>
++												10月28日（木）にサーバのメンテナンスを実施します＜17時30分～19時00分の間つながらない状況が発生します＞
++											</td>
++										</tr>
+ 										<tr>
+ 											<th>
+ 												2026/10/14
+@@ -504,16 +512,6 @@
+ 												</a>
+ 											</td>
+ 										</tr>
+-										<tr>
+-											<th>
+-												2025/07/09
+-											</th>
+-											<td>
+-												<a href="https://www.jahis.jp/standard/detail/id=1189" rel="noopener noreferrer">
+-													JAHIS標準「JAHISヘルスケア分野における監査証跡のメッセージ標準規約Ver2.2」が制定されました
+-												</a>
+-											</td>
+-										</tr>
+ 									</tbody>
+ 								</table>
+ 							</div>

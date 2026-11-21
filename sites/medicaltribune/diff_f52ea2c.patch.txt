@@ -1,0 +1,168 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 02a1aaffc..d6c1ae61e 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1299,8 +1299,8 @@
+ 								</a>
+ 							</div>
+ 							<div>
+-								<a href="https://www.mt-meet.org/" rel="noopener noreferrer">
+-									<img alt="眼科診療：遺伝性網膜ジストロフィ" src="https://asset.mtweb.jp/media/2026/07/22163236/crsl_mtmeet_bn_w840h210_1.png">
++								<a href="https://medical-tribune.co.jp/special/2026/mt/seminar/?blogid=20&amp;entryid=617286" rel="noopener noreferrer">
++									<img alt="眼科診療：遺伝性網膜ジストロフィ" src="https://asset.mtweb.jp/media/2026/10/15103852/thum_071_MT-MEET_DRyamada_01-1.png">
+ 								</a>
+ 							</div>
+ 							<div>
+@@ -1481,13 +1481,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ナルコレプシー根本治療薬、別格の臨床成績" src="https://asset.mtweb.jp/media/2026/06/09200741/com_dr_kato_thum_w440h275.jpg">
++																<img alt="rt-CGMで2型糖尿病のHbA1c低下が3年持続" src="https://asset.mtweb.jp/media/2026/10/13095110/rt-CGM-x-T2D_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617858" rel="noopener noreferrer">
+-																			ナルコレプシー根本治療薬、別格の臨床成績
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617787" rel="noopener noreferrer">
++																			rt-CGMで2型糖尿病のHbA1c低下が3年持続
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1530,13 +1530,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ビタミンK欠乏性出血症、経口13回法の普及後に減少" src="https://asset.mtweb.jp/media/2026/10/14190244/ChatGPT-Image-20261014_VitaminK.jpg">
++																<img alt="ナルコレプシー根本治療薬、別格の臨床成績" src="https://asset.mtweb.jp/media/2026/06/09200741/com_dr_kato_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617837" rel="noopener noreferrer">
+-																			ビタミンK欠乏性出血症、経口13回法の普及後に減少
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=617858" rel="noopener noreferrer">
++																			ナルコレプシー根本治療薬、別格の臨床成績
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1579,20 +1579,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="HFpEFの息切れ、薬物療法＋心リハで改善" src="https://asset.mtweb.jp/media/2026/10/14132052/com_jcskanto_thum_w440h275.png">
++																<img alt="ビタミンK欠乏性出血症、経口13回法の普及後に減少" src="https://asset.mtweb.jp/media/2026/10/14190244/ChatGPT-Image-20261014_VitaminK.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618036" rel="noopener noreferrer">
+-																			HFpEFの息切れ、薬物療法＋心リハで改善
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617837" rel="noopener noreferrer">
++																			ビタミンK欠乏性出血症、経口13回法の普及後に減少
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-14
++																			2026-10-15
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1628,13 +1628,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="菌状息肉症の予後予測にCLIPIスコアが有用" src="https://asset.mtweb.jp/media/2026/10/14094138/ChatGPT-Image-20261013_MFSS.png">
++																<img alt="HFpEFの息切れ、薬物療法＋心リハで改善" src="https://asset.mtweb.jp/media/2026/10/14132052/com_jcskanto_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617968" rel="noopener noreferrer">
+-																			菌状息肉症の予後予測にCLIPIスコアが有用
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=618036" rel="noopener noreferrer">
++																			HFpEFの息切れ、薬物療法＋心リハで改善
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1677,13 +1677,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="フェニルケトン尿症、新生児期発見でも代謝管理が悪化" src="https://asset.mtweb.jp/media/2026/10/11152403/ChatGPT-Image-2026%E5%B9%B410%E6%9C%889%E6%97%A5-14_00_03.png">
++																<img alt="菌状息肉症の予後予測にCLIPIスコアが有用" src="https://asset.mtweb.jp/media/2026/10/14094138/ChatGPT-Image-20261013_MFSS.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617762" rel="noopener noreferrer">
+-																			フェニルケトン尿症、新生児期発見でも代謝管理が悪化
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617968" rel="noopener noreferrer">
++																			菌状息肉症の予後予測にCLIPIスコアが有用
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1726,13 +1726,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="Gepotidacinで単純性尿路感染症が早期改善" src="https://asset.mtweb.jp/media/2026/10/11134435/ChatGPT-Image-20261011_Urinary-Tract-Infection.jpg">
++																<img alt="フェニルケトン尿症、新生児期発見でも代謝管理が悪化" src="https://asset.mtweb.jp/media/2026/10/11152403/ChatGPT-Image-2026%E5%B9%B410%E6%9C%889%E6%97%A5-14_00_03.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617758" rel="noopener noreferrer">
+-																			Gepotidacinで単純性尿路感染症が早期改善
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617762" rel="noopener noreferrer">
++																			フェニルケトン尿症、新生児期発見でも代謝管理が悪化
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1775,13 +1775,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ペマフィブラートでMASLDの肝機能改善" src="https://asset.mtweb.jp/media/2026/10/12144640/PemafibratexMASLD_TOP.jpg">
++																<img alt="Gepotidacinで単純性尿路感染症が早期改善" src="https://asset.mtweb.jp/media/2026/10/11134435/ChatGPT-Image-20261011_Urinary-Tract-Infection.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617770" rel="noopener noreferrer">
+-																			ペマフィブラートでMASLDの肝機能改善
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617758" rel="noopener noreferrer">
++																			Gepotidacinで単純性尿路感染症が早期改善
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1872,10 +1872,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									5
++																									15
+ 																								</span>
+ 																								<span>
+-																									5件「いいね！」されています
++																									15件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2024,10 +2024,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									42
++																									43
+ 																								</span>
+ 																								<span>
+-																									42件「いいね！」されています
++																									43件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

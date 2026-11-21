@@ -1,0 +1,220 @@
+diff --git a/sites/jsco/jp/or/jsco/index.html b/sites/jsco/jp/or/jsco/index.html
+index fcc56f749..910157f6a 100644
+--- a/sites/jsco/jp/or/jsco/index.html
++++ b/sites/jsco/jp/or/jsco/index.html
+@@ -1387,7 +1387,7 @@
+ 												<ul>
+ 													<li>
+ 														<div>
+-															2026年10月22日
++															2026年10月26日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1398,14 +1398,20 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
+-																【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++															<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
++																【
++																<span>
++																	<strong>
++																		参加登録期間延長：10月30(金)まで
++																	</strong>
++																</span>
++																】参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
+ 															</a>
+ 														</div>
+ 													</li>
+ 													<li>
+ 														<div>
+-															2026年10月20日
++															2026年10月22日
+ 														</div>
+ 														<div>
+ 															<span>
+@@ -1416,10 +1422,8 @@
+ 															</span>
+ 														</div>
+ 														<div>
+-															<a href="/news/detail.html?itemid=642&amp;dispmid=767" rel="noopener noreferrer">
+-																<span>
+-																	10月20日(火)～26日(月)　本学会へのお問い合わせについて
+-																</span>
++															<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
+ 															</a>
+ 														</div>
+ 													</li>
+@@ -1517,7 +1521,7 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026年10月22日
++																			2026年10月26日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1528,8 +1532,14 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
+-																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++																			<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
++																				【
++																				<span>
++																					<strong>
++																						参加登録期間延長：10月30(金)まで
++																					</strong>
++																				</span>
++																				】参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1538,19 +1548,22 @@
+ 																			2026年10月22日
+ 																		</div>
+ 																		<div>
++																			<span>
++																				重要
++																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1152&amp;dispmid=767" rel="noopener noreferrer">
+-																				MRD見解書第2版・MCED見解書第1版公開のお知らせ
++																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
+ 																			</a>
+ 																		</div>
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月20日
++																			2026年10月22日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1558,8 +1571,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1155&amp;dispmid=767" rel="noopener noreferrer">
+-																				「第2回がんちスタジオWebinar」(メディカルノート×日本癌治療学会連携)のオンデマンド配信のお知らせ
++																			<a href="/news/detail.html?itemid=1152&amp;dispmid=767" rel="noopener noreferrer">
++																				MRD見解書第2版・MCED見解書第1版公開のお知らせ
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1568,18 +1581,13 @@
+ 																			2026年10月20日
+ 																		</div>
+ 																		<div>
+-																			<span>
+-																				重要
+-																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=642&amp;dispmid=767" rel="noopener noreferrer">
+-																				<span>
+-																					10月20日(火)～26日(月)　本学会へのお問い合わせについて
+-																				</span>
++																			<a href="/news/detail.html?itemid=1155&amp;dispmid=767" rel="noopener noreferrer">
++																				「第2回がんちスタジオWebinar」(メディカルノート×日本癌治療学会連携)のオンデマンド配信のお知らせ
+ 																			</a>
+ 																		</div>
+ 																	</li>
+@@ -1619,7 +1627,7 @@
+ 																<ul>
+ 																	<li>
+ 																		<div>
+-																			2026年10月22日
++																			2026年10月26日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1630,8 +1638,14 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
+-																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
++																			<a href="/news/detail.html?itemid=1122&amp;dispmid=767" rel="noopener noreferrer">
++																				【
++																				<span>
++																					<strong>
++																						参加登録期間延長：10月30(金)まで
++																					</strong>
++																				</span>
++																				】参加者募集のご案内：がん関連学会Rising Starネットワーキング2027
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1642,13 +1656,16 @@
+ 																			2026年10月22日
+ 																		</div>
+ 																		<div>
++																			<span>
++																				重要
++																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1152&amp;dispmid=767" rel="noopener noreferrer">
+-																				MRD見解書第2版・MCED見解書第1版公開のお知らせ
++																			<a href="/news/detail.html?itemid=1156&amp;dispmid=767" rel="noopener noreferrer">
++																				【重要】セキュリティ対策に伴うmyがんち等のサービス一時停止のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1656,7 +1673,7 @@
+ 																	</li>
+ 																	<li>
+ 																		<div>
+-																			2026年10月20日
++																			2026年10月22日
+ 																		</div>
+ 																		<div>
+ 																			<span>
+@@ -1664,8 +1681,8 @@
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=1155&amp;dispmid=767" rel="noopener noreferrer">
+-																				「第2回がんちスタジオWebinar」(メディカルノート×日本癌治療学会連携)のオンデマンド配信のお知らせ
++																			<a href="/news/detail.html?itemid=1152&amp;dispmid=767" rel="noopener noreferrer">
++																				MRD見解書第2版・MCED見解書第1版公開のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>
+@@ -1676,18 +1693,13 @@
+ 																			2026年10月20日
+ 																		</div>
+ 																		<div>
+-																			<span>
+-																				重要
+-																			</span>
+ 																			<span>
+ 																				学会
+ 																			</span>
+ 																		</div>
+ 																		<div>
+-																			<a href="/news/detail.html?itemid=642&amp;dispmid=767" rel="noopener noreferrer">
+-																				<span>
+-																					10月20日(火)～26日(月)　本学会へのお問い合わせについて
+-																				</span>
++																			<a href="/news/detail.html?itemid=1155&amp;dispmid=767" rel="noopener noreferrer">
++																				「第2回がんちスタジオWebinar」(メディカルノート×日本癌治療学会連携)のオンデマンド配信のお知らせ
+ 																			</a>
+ 																		</div>
+ 																		<div>

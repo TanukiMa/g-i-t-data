@@ -1,0 +1,48 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 9eba030f5..43c9cde5c 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -692,6 +692,21 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<div>
++											<span>
++												令和8年10月14日
++											</span>
++											<div>
++												<span>
++													イベント
++												</span>
++											</div>
++										</div>
++										<a href="/news/event/270301_torikumiseika.html" rel="noopener noreferrer">
++											（令和9年3月1日・2日開催）｢令和8年度 臨床研究中核病院取組報告会／革新的医療技術創出拠点 令和8年度成果報...
++										</a>
++									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+@@ -752,21 +767,6 @@
+ 											先進的研究開発戦略センター（SCARDA）はタイ国立ワクチン研究所（NVI）と連携強化に関する覚書に署名
+ 										</a>
+ 									</li>
+-									<li>
+-										<div>
+-											<span>
+-												令和8年10月7日
+-											</span>
+-											<div>
+-												<span>
+-													イベント
+-												</span>
+-											</div>
+-										</div>
+-										<a href="/news/event/20261027_seminar.html" rel="noopener noreferrer">
+-											（令和8年10月27日開催）「医療機器開発ガイダンス活用セミナー2026」開催のお知らせ
+-										</a>
+-									</li>
+ 								</ul>
+ 								<ul>
+ 									<li>

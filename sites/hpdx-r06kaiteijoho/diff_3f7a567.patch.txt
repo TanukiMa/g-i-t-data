@@ -1,0 +1,16 @@
+diff --git a/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html b/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
+index d8fe307a7..bf4561b2d 100644
+--- a/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
++++ b/sites/hpdx-r06kaiteijoho/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-r06kaiteijoho-html.html
+@@ -694,6 +694,11 @@
+ 									平成24年　基本マスターに関する変更情報
+ 								</a>
+ 							</li>
++							<li>
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_061.html" rel="noopener noreferrer">
++									コメントマスター
++								</a>
++							</li>
+ 							<li>
+ 								<a href="/seikyushiharai/tensuhyo/kihonmasta/h28/index.html" rel="noopener noreferrer">
+ 									平成28年　基本マスター

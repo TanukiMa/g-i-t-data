@@ -1,0 +1,34 @@
+diff --git a/sites/japanptorjp/jp/or/japanpt/index.html b/sites/japanptorjp/jp/or/japanpt/index.html
+index efcd25c1..71d478c3 100644
+--- a/sites/japanptorjp/jp/or/japanpt/index.html
++++ b/sites/japanptorjp/jp/or/japanpt/index.html
+@@ -1405,7 +1405,7 @@
+ 								<li>
+ 									<a href="/activity/procedure/" rel="noopener noreferrer">
+ 										<span>
+-											意見・要望書の提出
++											政策活動レポート・要望等
+ 										</span>
+ 									</a>
+ 								</li>
+@@ -1446,6 +1446,20 @@
+ 										</span>
+ 									</a>
+ 								</li>
++								<li>
++									<a href="/activity/sports/" rel="noopener noreferrer">
++										<span>
++											スポーツ支援について
++										</span>
++									</a>
++								</li>
++								<li>
++									<a href="/activity/women_lifestage/" rel="noopener noreferrer">
++										<span>
++											女性のライフステージと理学療法
++										</span>
++									</a>
++								</li>
+ 								<li>
+ 									<a href="/covid-19/" rel="noopener noreferrer">
+ 										<span>

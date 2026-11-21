@@ -1,0 +1,92 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index 0064bad9c..8634b0509 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1877,7 +1877,7 @@
+ 				<div>
+ 					<dl>
+ 						<dt>
+-							2026/11/12
++							2026/11/13
+ 						</dt>
+ 						<dd>
+ 							<a href="/topics/admininfo/" rel="noopener noreferrer">
+@@ -1885,20 +1885,7 @@
+ 							</a>
+ 							<p>
+ 								<a href="/topics/admininfo/" rel="noopener noreferrer">
+-									医療行政情報を1件更新しました
+-								</a>
+-							</p>
+-						</dd>
+-						<dt>
+-							2026/11/12
+-						</dt>
+-						<dd>
+-							<a href="/seminar/" rel="noopener noreferrer">
+-								教育研修
+-							</a>
+-							<p>
+-								<a href="/seminar/pdf/seminar_info.pdf" rel="noopener noreferrer">
+-									研修参加申込状況を更新しました
++									医療行政情報を7件更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+@@ -2197,56 +2184,6 @@
+ 							</ul>
+ 						</div>
+ 					</a>
+-					<a href="https://www.ajha.or.jp/seminar/other/pdf/260807_2.pdf" rel="noopener noreferrer">
+-						<div>
+-							<span>
+-								締切間近
+-							</span>
+-							<h4>
+-								2026年度 組織全体で取り組む「身体拘束最小化」研修会
+-							</h4>
+-						</div>
+-						<div>
+-							<p>
+-								2026.10.3(土)
+-							</p>
+-						</div>
+-						<div>
+-							<ul>
+-								<li>
+-									定 員：90名
+-									<br>
+-									申込期限：2026.09.11(金)
+-								</li>
+-							</ul>
+-						</div>
+-					</a>
+-					<a href="https://www.ajha.or.jp/seminar/ikusei/pdf/260904_3.pdf" rel="noopener noreferrer">
+-						<div>
+-							<span>
+-								締切間近
+-							</span>
+-							<h4>
+-								2026年度
+-								<br>
+-								特定保健指導実施者 初任者研修
+-							</h4>
+-						</div>
+-						<div>
+-							<p>
+-								2026.11.3(火・祝)
+-							</p>
+-						</div>
+-						<div>
+-							<ul>
+-								<li>
+-									定員：60 名
+-									<br>
+-									申込期限：2026.10.16(金)
+-								</li>
+-							</ul>
+-						</div>
+-					</a>
+ 					<a href="https://www.ajha.or.jp/seminar/other/pdf/261014_5.pdf" rel="noopener noreferrer">
+ 						<div>
+ 							<span>

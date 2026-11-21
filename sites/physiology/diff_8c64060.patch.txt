@@ -1,0 +1,379 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index 501b3f31..89566de1 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -647,53 +647,53 @@
+ 								</h2>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/science-topic/34929/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-30
++															2026-11-09
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															サイエンストピックス
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														高知大学医学部生理学講座（統合生理学）教員の公募について
++														198. HCNチャネルにおける新たな細胞外VSD-PDカップリング機構の発見
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-29
++															2026-10-30
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															セミナー情報
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
++														高知大学医学部生理学講座（統合生理学）教員の公募について
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34912/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -703,20 +703,20 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															研究助成
++															セミナー情報
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														令和9年度 公益信託成茂神経科学研究助成基金
++														千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34909/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34912/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -732,14 +732,14 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														公益財団法人医療機器センター附属医療機器産業研究所　2027年度研究助成　医療技術研究開発助成公募開始のご案内
++														令和9年度 公益信託成茂神経科学研究助成基金
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34909/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -749,36 +749,36 @@
+ 													</p>
+ 													<div>
+ 														<p>
+-															求人
++															研究助成
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
++														公益財団法人医療機器センター附属医療機器産業研究所　2027年度研究助成　医療技術研究開発助成公募開始のご案内
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-19
++															2026-10-29
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															お知らせ
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														自然科学研究機構Open Mix Lab（OML）公募研究プログラム
++														東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
+ 													</em>
+ 												</p>
+ 											</div>
+@@ -2223,12 +2223,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34929/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-16
++																2026-11-09
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2239,19 +2239,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
++															198. HCNチャネルにおける新たな細胞外VSD-PDカップリング機構の発見
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-30
++																2026-10-16
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2262,19 +2262,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
++															197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-24
++																2026-09-30
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2285,19 +2285,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
++															196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/34318/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-07-23
++																2026-09-24
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2308,19 +2308,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															194. 心筋細胞のサルコメアは「1カ所ずつ」連携を切り替える　— 局所的な同期の切り替えは、広がりの異なる長さ再配分と結び付く —
++															195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/33596/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/34318/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-05-26
++																2026-07-23
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2331,19 +2331,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															193. 日本産ワサビ成分は象牙質を再生する
++															194. 心筋細胞のサルコメアは「1カ所ずつ」連携を切り替える　— 局所的な同期の切り替えは、広がりの異なる長さ再配分と結び付く —
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/science-topic/33592/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/science-topic/33596/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-05-18
++																2026-05-26
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2354,7 +2354,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															192. チック障害に関与する心と身体をつなぐ新たな神経回路を解明
++															193. 日本産ワサビ成分は象牙質を再生する
+ 														</em>
+ 													</p>
+ 												</div>
+@@ -2478,73 +2478,73 @@
+ 									<div>
+ 										<ul>
+ 											<li>
+-												<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
++												<a href="https://www.physiology.jp/mainnews/science-topic/34929/" rel="noopener noreferrer">
+ 													<p>
+-														<img alt="" height="198" src="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/10/299377688f5d9bb523994311df050dff-300x198.jpg" width="300">
++														<img alt="" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/no__image.png">
+ 													</p>
+ 													<div>
+ 														<div>
+ 															<p>
+ 																<time>
+-																	2026-10-16
++																	2026-11-09
+ 																</time>
+ 															</p>
+ 														</div>
+ 														<p>
+ 															<em>
+-																197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
++																198. HCNチャネルにおける新たな細胞外VSD-PDカップリング機構の発見
+ 															</em>
+ 														</p>
+ 														<p>
+-															鹿野健史朗（花田礼子）大分大学医学部生理学講座
++															劉嘉瑩（中條浩一）自治医科大学大学院・医学研究科・生理学講座・統合生理学部門
+ 														</p>
+ 													</div>
+ 												</a>
+ 											</li>
+ 											<li>
+-												<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
++												<a href="https://www.physiology.jp/mainnews/science-topic/34889/" rel="noopener noreferrer">
+ 													<p>
+-														<img alt="" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/no__image.png">
++														<img alt="" height="198" src="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/10/299377688f5d9bb523994311df050dff-300x198.jpg" width="300">
+ 													</p>
+ 													<div>
+ 														<div>
+ 															<p>
+ 																<time>
+-																	2026-09-30
++																	2026-10-16
+ 																</time>
+ 															</p>
+ 														</div>
+ 														<p>
+ 															<em>
+-																196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
++																197. NPGL/NPGMの欠損は食欲抑制とエネルギー代謝亢進を介して抗肥満効果をもたらす
+ 															</em>
+ 														</p>
+ 														<p>
+-															Jaehun Jung（前島隆司）金沢大学医薬保健研究域医学系　統合神経生理学
++															鹿野健史朗（花田礼子）大分大学医学部生理学講座
+ 														</p>
+ 													</div>
+ 												</a>
+ 											</li>
+ 											<li>
+-												<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
++												<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
+ 													<p>
+-														<img alt="" height="229" src="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/09/29d877e4931792cd4c27cf981ceff3bd-300x229.jpg" width="300">
++														<img alt="" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/no__image.png">
+ 													</p>
+ 													<div>
+ 														<div>
+ 															<p>
+ 																<time>
+-																	2026-09-24
++																	2026-09-30
+ 																</time>
+ 															</p>
+ 														</div>
+ 														<p>
+ 															<em>
+-																195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
++																196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
+ 															</em>
+ 														</p>
+ 														<p>
+-															竹内綾子1、嶋吉隆夫2　1岡山大学学術研究院医歯薬学域（薬）生理機能情報学分野、2岡山大学 AI・数理データサイエンスセンター
++															Jaehun Jung（前島隆司）金沢大学医薬保健研究域医学系　統合神経生理学
+ 														</p>
+ 													</div>
+ 												</a>

@@ -1,0 +1,74 @@
+diff --git a/sites/nipponpaorg/org/nippon-pa/secure/index.html b/sites/nipponpaorg/org/nippon-pa/secure/index.html
+index a0733afab..7c4b94f46 100644
+--- a/sites/nipponpaorg/org/nippon-pa/secure/index.html
++++ b/sites/nipponpaorg/org/nippon-pa/secure/index.html
+@@ -318,6 +318,69 @@
+ 					最新のお知らせ
+ 				</h2>
+ 				<div>
++					<dl>
++						<dt>
++							<div>
++								事務局からのお知らせ
++							</div>
++							2026.10.19
++						</dt>
++						<dd>
++							「
++							<a href="/pdf/announcement_2026_10.pdf" rel="noopener noreferrer">
++								サイバーセキュリティ・レジリエンス対策及びチェックリストの運用徹底について
++							</a>
++							」のお願い
++							<br>
++							近時の不正アクセスによる情報漏えい等の事案を踏まえ、厚生労働省から対策の実施や注意喚起の周知を求める事務連絡が発出されています。
++							<br>
++							当協会では、患者情報の保護と、被害時の業務継続・復旧への備えの重要性を共有するため、2026年10月16日付で会員向け通知を発出しました。チェックリストの運用、有事の備え・訓練、継続的な教育等について、会員各社の取組の充実・見直しにつなげていただくことを目的としています。
++							<br>
++							通知及び関連資料をご確認のうえ、経営層をはじめ、関係部署及び各薬局で共有いただければ幸いです。
++							<br>
++							添付資料
++							<br>
++							・
++							<a href="/pdf/npha20261019_1.pdf" rel="noopener noreferrer">
++								事務連絡_不正アクセスによる漏えい等の事案を踏まえた対応について_一般社団法人 日本保険薬局協会御中
++							</a>
++							<br>
++							・
++							<a href="/pdf/npha20261019_2.pdf" rel="noopener noreferrer">
++								別添１_不正アクセスによる漏えい等の事案を踏まえた対応について（２０２６年１０月９日内閣官房国家サイバー統括室）
++							</a>
++							<br>
++							・
++							<a href="/pdf/npha20261019_3.pdf" rel="noopener noreferrer">
++								別添２_高性能AI悪用によるサイバー攻撃に対する注意喚起
++							</a>
++							<br>
++							・
++							<a href="/pdf/npha20261019_4.pdf" rel="noopener noreferrer">
++								事務連絡_大規模な漏えい等事案を踏まえた対応について（注意喚起）の周知について_一般社団法人 日本保険薬局協会御中
++							</a>
++							<br>
++							・
++							<a href="/pdf/npha20261019_5.pdf" rel="noopener noreferrer">
++								（都道府県向け）事務連絡_大規模な漏えい等事案を踏まえた対応について（注意喚起）の周知について
++							</a>
++							<br>
++							<br>
++							参考
++							<br>
++							・厚生労働省 安全管理ガイドライン第7.0版・令和8年度チェックリスト・マニュアル（
++							<a href="https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html" rel="noopener noreferrer">
++								https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html
++							</a>
++							）
++							<br>
++							・警察庁「令和8年上半期におけるサイバー空間をめぐる脅威の情勢等について」（
++							<a href="https://www.npa.go.jp/publications/statistics/cybersecurity/data/R8kami/R08_kami_cyber_jousei.pdf" rel="noopener noreferrer">
++								R08_kami_cyber_jousei.pdf
++							</a>
++							）
++						</dd>
++					</dl>
+ 					<dl>
+ 						<dt>
+ 							<div>

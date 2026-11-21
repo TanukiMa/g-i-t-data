@@ -1,0 +1,54 @@
+diff --git a/sites/naika/jp/or/naika/index.html b/sites/naika/jp/or/naika/index.html
+index 4b3440c52..698421ef2 100644
+--- a/sites/naika/jp/or/naika/index.html
++++ b/sites/naika/jp/or/naika/index.html
+@@ -1011,6 +1011,25 @@
+ 								</div>
+ 								<div>
+ 									<ul>
++										<li>
++											<span>
++												2026年11月19日
++											</span>
++											<span>
++												<div>
++													<a href="/info-cat/%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%83%a1%e3%83%b3%e3%83%86%e3%83%8a%e3%83%b3%e3%82%b9/" rel="noopener noreferrer">
++														メンテナンス
++													</a>
++												</div>
++											</span>
++											<span>
++												<a href="https://www.naika.or.jp/info/20261119info/" rel="noopener noreferrer">
++													<b>
++														【重要】 セキュリティ対応に伴う本会ホームページの一時停止について
++													</b>
++												</a>
++											</span>
++										</li>
+ 										<li>
+ 											<span>
+ 												2026年11月13日
+@@ -1273,23 +1292,6 @@
+ 												</a>
+ 											</span>
+ 										</li>
+-										<li>
+-											<span>
+-												2026年10月01日
+-											</span>
+-											<span>
+-												<div>
+-													<a href="/info-cat/announcement/" rel="noopener noreferrer">
+-														日本内科学会
+-													</a>
+-												</div>
+-											</span>
+-											<span>
+-												<a href="https://www.naika.or.jp/info/20261001/" rel="noopener noreferrer">
+-													コンビニ振込における年会費払込時の運用変更に関するお知らせ（2027年4月1日より）
+-												</a>
+-											</span>
+-										</li>
+ 									</ul>
+ 								</div>
+ 								<div>

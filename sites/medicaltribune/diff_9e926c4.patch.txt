@@ -1,0 +1,219 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index e0fed3a2..d7b752a3 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1461,7 +1461,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月12日の新着ニュース
++															11月13日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1478,20 +1478,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="安定冠動脈疾患へのPCI追加、25年でも死亡・MI減らず" src="https://asset.mtweb.jp/media/2026/11/11114808/COURAGE_25yrs_TOP.jpg">
++																<img alt="三重作動薬で膝OA合併肥満例の疼痛軽減" src="/assets/images/rensai/thumbnails/com_multi_hum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621470" rel="noopener noreferrer">
+-																			安定冠動脈疾患へのPCI追加、25年でも死亡・MI減らず
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621511" rel="noopener noreferrer">
++																			三重作動薬で膝OA合併肥満例の疼痛軽減
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-12
++																			2026-11-13
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1527,20 +1527,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="安定冠動脈疾患への侵襲戦略、11年後も死亡減らず" src="https://asset.mtweb.jp/media/2026/11/09183813/ISCHEMIA-EXTEND_TOP.jpg">
++																<img alt="高用量EPAで肝転移切除後の大腸がん患者の生存率が改善？" src="https://asset.mtweb.jp/media/2026/11/12183222/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8812%E6%97%A5%E9%85%8D%E4%BF%A11.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621242" rel="noopener noreferrer">
+-																			安定冠動脈疾患への侵襲戦略、11年後も死亡減らず
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621654" rel="noopener noreferrer">
++																			高用量EPAで肝転移切除後の大腸がん患者の生存率が改善？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-12
++																			2026-11-13
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1576,13 +1576,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="日本人大腸がんに「過去の腸内細菌」の痕跡" src="https://asset.mtweb.jp/media/2026/08/17113600/com_dr_suda_thum_w440h275.jpg">
++																<img alt="アトピーへのデュピルマブ、効果不十分は4％" src="https://asset.mtweb.jp/media/2026/11/10161747/ChatGPT-Image-20261110_Dupilumab-in-AD.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
+-																			日本人大腸がんに「過去の腸内細菌」の痕跡
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621361" rel="noopener noreferrer">
++																			アトピーへのデュピルマブ、効果不十分は4％
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1625,13 +1625,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例" src="https://asset.mtweb.jp/media/2026/06/23100324/com_case_thum_w440h275-1.jpg">
++																<img alt="新しい不眠症治療薬、睡眠麻痺や鮮明な悪夢の副作用も" src="https://asset.mtweb.jp/media/2026/11/12182209/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8812%E6%97%A5%E9%85%8D%E4%BF%A13.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
+-																			胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621649" rel="noopener noreferrer">
++																			新しい不眠症治療薬、睡眠麻痺や鮮明な悪夢の副作用も
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1674,20 +1674,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="OAB治療薬の認知症リスク、β3作動薬に優位性なし" src="https://asset.mtweb.jp/media/2026/11/11092959/ChatGPT-Image-20261110_OAB.jpg">
++																<img alt="妊娠糖尿病の体重増加目標をBMI別に新策定" src="https://asset.mtweb.jp/media/2026/10/21092908/25_Teigen_seimei.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621423" rel="noopener noreferrer">
+-																			OAB治療薬の認知症リスク、β3作動薬に優位性なし
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621571" rel="noopener noreferrer">
++																			妊娠糖尿病の体重増加目標をBMI別に新策定
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-11
++																			2026-11-12
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1723,20 +1723,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="1分でできる！スナック運動とCGMで血糖管理" src="https://asset.mtweb.jp/media/2026/11/10164650/70572_photo01.jpg">
++																<img alt="小児にも使用可、国内初の補体阻害薬ペグセタコプラン登場" src="https://asset.mtweb.jp/media/2026/11/10181648/70573_fig02.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621231" rel="noopener noreferrer">
+-																			1分でできる！スナック運動とCGMで血糖管理
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621283" rel="noopener noreferrer">
++																			小児にも使用可、国内初の補体阻害薬ペグセタコプラン登場
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-11
++																			2026-11-12
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,20 +1772,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="退院後2週間の骨粗鬆症性骨折リスク1.8倍" src="https://asset.mtweb.jp/media/2026/11/10112747/%E7%97%85%E5%AE%A4%E3%81%A7%E8%85%B0%E3%82%92%E3%81%84%E3%81%9F%E3%82%8F%E3%82%8B%E9%AB%98%E9%BD%A2%E5%A5%B3%E6%80%A7.jpg">
++																<img alt="安定冠動脈疾患へのPCI追加、25年でも死亡・MI減らず" src="https://asset.mtweb.jp/media/2026/11/11114808/COURAGE_25yrs_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621302" rel="noopener noreferrer">
+-																			退院後2週間の骨粗鬆症性骨折リスク1.8倍
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621470" rel="noopener noreferrer">
++																			安定冠動脈疾患へのPCI追加、25年でも死亡・MI減らず
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-11
++																			2026-11-12
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1818,7 +1818,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月12日の新着連載
++															11月13日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									9
+ 																								</span>
+ 																								<span>
+-																									4件「いいね！」されています
++																									9件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1920,10 +1920,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									14
++																									16
+ 																								</span>
+ 																								<span>
+-																									14件「いいね！」されています
++																									16件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

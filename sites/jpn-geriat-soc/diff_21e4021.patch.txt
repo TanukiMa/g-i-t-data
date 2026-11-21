@@ -1,0 +1,73 @@
+diff --git a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+index d0087a797..d6698f65a 100644
+--- a/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
++++ b/sites/jpn-geriat-soc/jp/or/jpn-geriat-soc/index.html
+@@ -385,8 +385,8 @@
+ 						<div>
+ 							<div>
+ 								<div>
+-									<a href="shukai_tihou/tihoukai/chugoku/index.html" rel="noopener noreferrer">
+-										<img alt="第38回中国地方会" src="common/images/banner_chugoku_38_01.jpg">
++									<a href="shukai_tihou/shukai/boshu_69.html" rel="noopener noreferrer">
++										<img alt="第69回日本老年医学会学術集会" src="common/images/jgs69.jpg">
+ 									</a>
+ 								</div>
+ 								<div>
+@@ -399,6 +399,11 @@
+ 										<img alt="2026年 助成金 老化および老年医学高齢者栄養 YIA 長寿科学賞" src="common/images/banner_josei_2026.png">
+ 									</a>
+ 								</div>
++								<div>
++									<a href="shukai_tihou/tihoukai/shikoku/index.html" rel="noopener noreferrer">
++										<img alt="第38回四国地方会" src="common/images/banner_shikoku_38.jpg">
++									</a>
++								</div>
+ 								<div>
+ 									<a href="shukai_tihou/tihoukai/tohoku/index.html" rel="noopener noreferrer">
+ 										<img alt="第37回東北地方会" src="common/images/banner_tohoku_37v3.jpg">
+@@ -409,11 +414,6 @@
+ 										<img alt="第37回近畿地方会" src="common/images/banner_kinki_37.jpg">
+ 									</a>
+ 								</div>
+-								<div>
+-									<a href="shukai_tihou/tihoukai/kantokoshinetsu/index.html" rel="noopener noreferrer">
+-										<img alt="第78回関東甲信越地方" src="common/images/banner_kantokoshinetsu_78_01.jpg">
+-									</a>
+-								</div>
+ 							</div>
+ 						</div>
+ 						<div>
+@@ -460,6 +460,16 @@
+ 					<div>
+ 						<div>
+ 							<dl>
++								<div>
++									<dt>
++										2026年10月19日
++									</dt>
++									<dd>
++										<a href="shukai_tihou/shukai/boshu_69.html" rel="noopener noreferrer">
++											第69回学術集会の一般演題登録受付を開始しました
++										</a>
++									</dd>
++								</div>
+ 								<div>
+ 									<dt>
+ 										2026年10月15日
+@@ -644,6 +654,16 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<div>
++									<dt>
++										2026年10月19日
++									</dt>
++									<dd>
++										<a href="shukai_tihou/shukai/boshu_69.html" rel="noopener noreferrer">
++											第69回学術集会の一般演題登録受付を開始しました
++										</a>
++									</dd>
++								</div>
+ 								<div>
+ 									<dt>
+ 										2026年10月15日

@@ -1,0 +1,44 @@
+diff --git a/sites/sanei/jp/or/sanei/index.html b/sites/sanei/jp/or/sanei/index.html
+index 2d6f429c..11d9d012 100644
+--- a/sites/sanei/jp/or/sanei/index.html
++++ b/sites/sanei/jp/or/sanei/index.html
+@@ -654,6 +654,19 @@
+ 							</div>
+ 						</div>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026.11.10
++									</time>
++									<span>
++										一般向け
++									</span>
++									<a href="https://www.sanei.or.jp/news/public/individual.html?entry_id=1649" rel="noopener noreferrer" title="【重要】学会理事長をかたる不審なメールにご注意ください">
++										【重要】学会理事長をかたる不審なメールにご注意ください
++									</a>
++								</h3>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -791,19 +804,6 @@
+ 									</a>
+ 								</h3>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2026.07.01
+-									</time>
+-									<span>
+-										会員向け
+-									</span>
+-									<a href="https://www.sanei.or.jp/member/info/individual.html?entry_id=1588" rel="noopener noreferrer" title="役員選挙の公示を会員へのお知らせのページに掲載しました（会員専用）">
+-										役員選挙の公示を会員へのお知らせのページに掲載しました（会員専用）
+-									</a>
+-								</h3>
+-							</article>
+ 						</div>
+ 					</div>
+ 					<div>

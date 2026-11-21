@@ -1,0 +1,388 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 1d3f6b4c..e6c0b92e 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1478,13 +1478,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="siRNA薬zilebesiranは高血圧治療を変えるか" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
++																<img alt="フィブリノゲン濃縮製剤は輸血量を減らすのか？" src="https://asset.mtweb.jp/media/2026/06/30102904/com_dr_KazumaYunoki_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620461" rel="noopener noreferrer">
+-																			siRNA薬zilebesiranは高血圧治療を変えるか
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
++																			フィブリノゲン濃縮製剤は輸血量を減らすのか？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1527,20 +1527,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="糖尿病急性合併症による入院、最近5年で3割増加" src="https://asset.mtweb.jp/media/2026/11/05184131/DM-2026-11-05-183905.jpg">
++																<img alt="siRNA薬zilebesiranは高血圧治療を変えるか" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620815" rel="noopener noreferrer">
+-																			糖尿病急性合併症による入院、最近5年で3割増加
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620461" rel="noopener noreferrer">
++																			siRNA薬zilebesiranは高血圧治療を変えるか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-08
++																			2026-11-09
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1576,20 +1576,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="消化器疾患における再生医療の現状と未来" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
++																<img alt="糖尿病急性合併症による入院、最近5年で3割増加" src="https://asset.mtweb.jp/media/2026/11/05184131/DM-2026-11-05-183905.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=616818" rel="noopener noreferrer">
+-																			消化器疾患における再生医療の現状と未来
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620815" rel="noopener noreferrer">
++																			糖尿病急性合併症による入院、最近5年で3割増加
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-07
++																			2026-11-08
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1625,13 +1625,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="アルコールと消化器疾患" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
++																<img alt="消化器疾患における再生医療の現状と未来" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617115" rel="noopener noreferrer">
+-																			アルコールと消化器疾患
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=616818" rel="noopener noreferrer">
++																			消化器疾患における再生医療の現状と未来
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1674,13 +1674,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="https://asset.mtweb.jp/media/2026/10/02110059/com_normalinterv_thum_w440h275-1-300x188-1.jpg">
++																<img alt="アルコールと消化器疾患" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
+-																			片頭痛治療の新展開—CGRP関連薬剤
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617115" rel="noopener noreferrer">
++																			アルコールと消化器疾患
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1723,20 +1723,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="内科入院患者でも女性医師で30日死亡率低い" src="https://asset.mtweb.jp/media/2026/11/06111055/ChatGPT-Image-20261106_Physicians_SEX.jpg">
++																<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="https://asset.mtweb.jp/media/2026/10/28133022/70298_face01.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620878" rel="noopener noreferrer">
+-																			内科入院患者でも女性医師で30日死亡率低い
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
++																			片頭痛治療の新展開—CGRP関連薬剤
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-06
++																			2026-11-07
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,13 +1772,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="痛い！イタタタタ。痛いよー。…。" src="https://asset.mtweb.jp/media/2026/10/28184140/com_mylife_thum_w440h275-1.jpg">
++																<img alt="内科入院患者でも女性医師で30日死亡率低い" src="https://asset.mtweb.jp/media/2026/11/06111055/ChatGPT-Image-20261106_Physicians_SEX.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
+-																			痛い！イタタタタ。痛いよー。…。
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620878" rel="noopener noreferrer">
++																			内科入院患者でも女性医師で30日死亡率低い
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1838,19 +1838,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
+-																					<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
++																					<img alt="フィブリノゲン濃縮製剤は輸血量を減らすのか？" src="/assets/images/rensai/doceye/thumbnails/柚木一馬（麻酔科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-07
++																							2026-11-09
+ 																						</time>
+ 																						<h2>
+-																							片頭痛治療の新展開—CGRP関連薬剤
++																							フィブリノゲン濃縮製剤は輸血量を減らすのか？
+ 																						</h2>
+ 																						<p>
+-																							富永病院院長／脳神経内科部長／頭痛センターセンター長・竹島多賀夫氏
++																							58件1万3,530例のメタ解析
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									2
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									23
++																									3
+ 																								</span>
+ 																								<span>
+-																									23件「いいね！」されています
++																									3件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1889,19 +1889,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
+-																					<img alt="痛い！イタタタタ。痛いよー。…。" src="/assets/images/thumbnails/com_mylife_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
++																					<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-06
++																							2026-11-07
+ 																						</time>
+ 																						<h2>
+-																							痛い！イタタタタ。痛いよー。…。
++																							片頭痛治療の新展開—CGRP関連薬剤
+ 																						</h2>
+ 																						<p>
+-																							患者は激しい痛みをどう言い表すか
++																							富永病院院長／脳神経内科部長／頭痛センターセンター長・竹島多賀夫氏
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1910,20 +1910,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									4
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									22
++																									23
+ 																								</span>
+ 																								<span>
+-																									22件「いいね！」されています
++																									23件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1940,19 +1940,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620587" rel="noopener noreferrer">
+-																					<img alt="SGLT2阻害薬の「一過性eGFR低下」は本当に青信号？" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
++																					<img alt="痛い！イタタタタ。痛いよー。…。" src="/assets/images/thumbnails/com_mylife_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620587" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-06
+ 																						</time>
+ 																						<h2>
+-																							SGLT2阻害薬の「一過性eGFR低下」は本当に青信号？
++																							痛い！イタタタタ。痛いよー。…。
+ 																						</h2>
+ 																						<p>
+-																							「死亡リスク」を考慮すると…
++																							患者は激しい痛みをどう言い表すか
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1961,20 +1961,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									2
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									14
++																									33
+ 																								</span>
+ 																								<span>
+-																									14件「いいね！」されています
++																									33件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1991,19 +1991,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618888" rel="noopener noreferrer">
+-																					<img alt="加齢性難聴に対しての片耳 vs. 両耳補聴器" src="/assets/images/rensai/doceye/thumbnails/後藤穣（耳鼻咽喉科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620587" rel="noopener noreferrer">
++																					<img alt="SGLT2阻害薬の「一過性eGFR低下」は本当に青信号？" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618888" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=620587" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-05
++																							2026-11-06
+ 																						</time>
+ 																						<h2>
+-																							加齢性難聴に対しての片耳 vs. 両耳補聴器
++																							SGLT2阻害薬の「一過性eGFR低下」は本当に青信号？
+ 																						</h2>
+ 																						<p>
+-																							最新研究から考える「安全な聞こえ」とは
++																							「死亡リスク」を考慮すると…
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2012,20 +2012,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									5
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									5件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									35
++																									24
+ 																								</span>
+ 																								<span>
+-																									35件「いいね！」されています
++																									24件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2042,19 +2042,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620180" rel="noopener noreferrer">
+-																					<img alt="抗VEGF療法でも止まらない萎縮に打つ手は？" src="/assets/images/rensai/doceye/thumbnails/柳靖雄（眼科）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618888" rel="noopener noreferrer">
++																					<img alt="加齢性難聴に対しての片耳 vs. 両耳補聴器" src="/assets/images/rensai/doceye/thumbnails/後藤穣（耳鼻咽喉科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620180" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618888" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-05
+ 																						</time>
+ 																						<h2>
+-																							抗VEGF療法でも止まらない萎縮に打つ手は？
++																							加齢性難聴に対しての片耳 vs. 両耳補聴器
+ 																						</h2>
+ 																						<p>
+-																							nAMD眼へのペグセタコプラン併用1年成績
++																							最新研究から考える「安全な聞こえ」とは
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2073,10 +2073,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									24
++																									35
+ 																								</span>
+ 																								<span>
+-																									24件「いいね！」されています
++																									35件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

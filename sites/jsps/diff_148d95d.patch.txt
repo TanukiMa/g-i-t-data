@@ -1,0 +1,34 @@
+diff --git a/sites/jsps/jp/or/jsps/index.html b/sites/jsps/jp/or/jsps/index.html
+index e6bddacf6..288181e0d 100644
+--- a/sites/jsps/jp/or/jsps/index.html
++++ b/sites/jsps/jp/or/jsps/index.html
+@@ -229,6 +229,14 @@
+ 						</div>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								2026.10.20
++							</span>
++							<a href="https://www.jstage.jst.go.jp/browse/jjsps/62/6/_contents/-char/ja" rel="noopener noreferrer">
++								【日本小児外科学会雑誌62巻6号発行のお知らせ】
++							</a>
++						</li>
+ 						<li>
+ 							<span>
+ 								2026.10.1
+@@ -261,14 +269,6 @@
+ 								【理事長からのメッセージ】
+ 							</a>
+ 						</li>
+-						<li>
+-							<span>
+-								2026.4.21
+-							</span>
+-							<a href="https://www.jstage.jst.go.jp/browse/jjsps/62/2/_contents/-char/ja" rel="noopener noreferrer">
+-								【日本小児外科学会雑誌62巻2号発行のお知らせ】
+-							</a>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						<h2>

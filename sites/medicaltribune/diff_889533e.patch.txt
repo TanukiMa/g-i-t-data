@@ -1,0 +1,400 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index ce67a35c..e5a90deb 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1478,13 +1478,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="非肥満のMASLDは低リスクなのか？" src="https://asset.mtweb.jp/media/2026/06/08091842/com_dr_MasatoYoneda_thum_w440h275.jpg">
++																<img alt="骨量低下者、筋量が低いと骨折リスク1.8倍" src="https://asset.mtweb.jp/media/2026/09/25101814/com_jos28_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
+-																			非肥満のMASLDは低リスクなのか？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621017" rel="noopener noreferrer">
++																			骨量低下者、筋量が低いと骨折リスク1.8倍
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1527,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="米国に学ぶ体位性頻脈症候群、どう診療する？" src="https://asset.mtweb.jp/media/2026/10/26201700/com_dr_hashimoto_thum_w440h275-300x188-4.jpg">
++																<img alt="インフル4万例目前、全国で注意報レベル" src="https://asset.mtweb.jp/media/2026/07/14185544/com_weeklyreport_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619258" rel="noopener noreferrer">
+-																			米国に学ぶ体位性頻脈症候群、どう診療する？
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621305" rel="noopener noreferrer">
++																			インフル4万例目前、全国で注意報レベル
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1576,13 +1576,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="過多月経の発症率、医療施設のタイプで大きな差" src="https://asset.mtweb.jp/media/2026/11/06142538/ChatGPT-Image-20261106_heavy-menstrual-bleeding.jpg">
++																<img alt="左心耳閉鎖術後の抗血栓療法、単剤が併用に非劣性" src="https://asset.mtweb.jp/media/2026/11/06185552/After-LAAC-SAPT-vs-DAPT_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620925" rel="noopener noreferrer">
+-																			過多月経の発症率、医療施設のタイプで大きな差
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621071" rel="noopener noreferrer">
++																			左心耳閉鎖術後の抗血栓療法、単剤が併用に非劣性
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1625,20 +1625,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="鎌状赤血球症へのmitapivat、疼痛発作の有意な減少なし" src="https://asset.mtweb.jp/media/2026/11/06161631/ChatGPT-Image-20261106_sickle-cell.jpg">
++																<img alt="非肥満のMASLDは低リスクなのか？" src="https://asset.mtweb.jp/media/2026/06/08091842/com_dr_MasatoYoneda_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620967" rel="noopener noreferrer">
+-																			鎌状赤血球症へのmitapivat、疼痛発作の有意な減少なし
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
++																			非肥満のMASLDは低リスクなのか？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-09
++																			2026-11-10
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1674,20 +1674,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="マンジャロなど、不適切処方疑う施設への供給見直しも" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
++																<img alt="米国に学ぶ体位性頻脈症候群、どう診療する？" src="https://asset.mtweb.jp/media/2026/10/26201700/com_dr_hashimoto_thum_w440h275-300x188-4.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621142" rel="noopener noreferrer">
+-																			マンジャロなど、不適切処方疑う施設への供給見直しも
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619258" rel="noopener noreferrer">
++																			米国に学ぶ体位性頻脈症候群、どう診療する？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-09
++																			2026-11-10
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1723,20 +1723,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="フィブリノゲン濃縮製剤は輸血量を減らすのか？" src="https://asset.mtweb.jp/media/2026/06/30102904/com_dr_KazumaYunoki_thum_w440h275.jpg">
++																<img alt="過多月経の発症率、医療施設のタイプで大きな差" src="https://asset.mtweb.jp/media/2026/11/06142538/ChatGPT-Image-20261106_heavy-menstrual-bleeding.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
+-																			フィブリノゲン濃縮製剤は輸血量を減らすのか？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620925" rel="noopener noreferrer">
++																			過多月経の発症率、医療施設のタイプで大きな差
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-09
++																			2026-11-10
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,13 +1772,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="siRNA薬zilebesiranは高血圧治療を変えるか" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
++																<img alt="鎌状赤血球症へのmitapivat、疼痛発作の有意な減少なし" src="https://asset.mtweb.jp/media/2026/11/06161631/ChatGPT-Image-20261106_sickle-cell.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620461" rel="noopener noreferrer">
+-																			siRNA薬zilebesiranは高血圧治療を変えるか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620967" rel="noopener noreferrer">
++																			鎌状赤血球症へのmitapivat、疼痛発作の有意な減少なし
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1838,19 +1838,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
+-																					<img alt="非肥満のMASLDは低リスクなのか？" src="/assets/images/rensai/doceye/thumbnails/米田正人（消化器内科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621305" rel="noopener noreferrer">
++																					<img alt="インフル4万例目前、全国で注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621305" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-10
+ 																						</time>
+ 																						<h2>
+-																							非肥満のMASLDは低リスクなのか？
++																							インフル4万例目前、全国で注意報レベル
+ 																						</h2>
+ 																						<p>
+-																							肝生検診断1.8万例の国際後ろ向き研究
++																							【感染症動向調査第44週：10月26日～11月1日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									1
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									1件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									3
+ 																								</span>
+ 																								<span>
+-																									0件「いいね！」されています
++																									3件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1889,19 +1889,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619258" rel="noopener noreferrer">
+-																					<img alt="米国に学ぶ体位性頻脈症候群、どう診療する？" src="/assets/images/rensai/doceye/thumbnails/橋本洋一郎（脳卒中）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
++																					<img alt="非肥満のMASLDは低リスクなのか？" src="/assets/images/rensai/doceye/thumbnails/米田正人（消化器内科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619258" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=620132" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-10
+ 																						</time>
+ 																						<h2>
+-																							米国に学ぶ体位性頻脈症候群、どう診療する？
++																							非肥満のMASLDは低リスクなのか？
+ 																						</h2>
+ 																						<p>
+-																							起立性調節障害との違いなどポイントを解説
++																							肝生検診断1.8万例の国際後ろ向き研究
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1910,20 +1910,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									1
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									1件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									15
++																									7
+ 																								</span>
+ 																								<span>
+-																									15件「いいね！」されています
++																									7件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1940,19 +1940,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
+-																					<img alt="フィブリノゲン濃縮製剤は輸血量を減らすのか？" src="/assets/images/rensai/doceye/thumbnails/柚木一馬（麻酔科）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619258" rel="noopener noreferrer">
++																					<img alt="米国に学ぶ体位性頻脈症候群、どう診療する？" src="/assets/images/rensai/doceye/thumbnails/橋本洋一郎（脳卒中）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619258" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-09
++																							2026-11-10
+ 																						</time>
+ 																						<h2>
+-																							フィブリノゲン濃縮製剤は輸血量を減らすのか？
++																							米国に学ぶ体位性頻脈症候群、どう診療する？
+ 																						</h2>
+ 																						<p>
+-																							58件1万3,530例のメタ解析
++																							起立性調節障害との違いなどポイントを解説
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1961,20 +1961,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									4
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									39
++																									18
+ 																								</span>
+ 																								<span>
+-																									39件「いいね！」されています
++																									18件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1991,19 +1991,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
+-																					<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
++																					<img alt="フィブリノゲン濃縮製剤は輸血量を減らすのか？" src="/assets/images/rensai/doceye/thumbnails/柚木一馬（麻酔科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-07
++																							2026-11-09
+ 																						</time>
+ 																						<h2>
+-																							片頭痛治療の新展開—CGRP関連薬剤
++																							フィブリノゲン濃縮製剤は輸血量を減らすのか？
+ 																						</h2>
+ 																						<p>
+-																							富永病院院長／脳神経内科部長／頭痛センターセンター長・竹島多賀夫氏
++																							58件1万3,530例のメタ解析
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2012,20 +2012,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									3
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									38
++																									41
+ 																								</span>
+ 																								<span>
+-																									38件「いいね！」されています
++																									41件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2042,19 +2042,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
+-																					<img alt="痛い！イタタタタ。痛いよー。…。" src="/assets/images/thumbnails/com_mylife_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
++																					<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619743" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-06
++																							2026-11-07
+ 																						</time>
+ 																						<h2>
+-																							痛い！イタタタタ。痛いよー。…。
++																							片頭痛治療の新展開—CGRP関連薬剤
+ 																						</h2>
+ 																						<p>
+-																							患者は激しい痛みをどう言い表すか
++																							富永病院院長／脳神経内科部長／頭痛センターセンター長・竹島多賀夫氏
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2063,20 +2063,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									4
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									38
++																									41
+ 																								</span>
+ 																								<span>
+-																									38件「いいね！」されています
++																									41件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

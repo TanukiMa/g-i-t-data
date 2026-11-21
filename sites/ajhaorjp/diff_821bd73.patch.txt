@@ -1,0 +1,172 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index a4c006ff..67a267c1 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1599,18 +1599,18 @@
+ 						</a>
+ 						<ul>
+ 							<li>
+-								<a href="/news/backnumber/pdf/2026/261015.pdf" rel="noopener noreferrer">
+-									全日本病院学会in埼玉　学会企画３　異分野共創がひらく、病院の新たな景色
++								<a href="/news/backnumber/pdf/2026/261101.pdf" rel="noopener noreferrer">
++									【全日病】正会員が2600病院に到達、「引き続きATMで」
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/news/backnumber/pdf/2026/261015.pdf" rel="noopener noreferrer">
+-									全日本病院学会in埼玉　学会企画５　私にとって「在宅医療」とは何か
++								<a href="/news/backnumber/pdf/2026/261101.pdf" rel="noopener noreferrer">
++									【全日病】第67回全日本病院学会in埼玉　学会企画等続報
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/news/backnumber/pdf/2026/261015.pdf" rel="noopener noreferrer">
+-									【全日病】神野会長コラム 医論・医見・私点 「守るために、変える」
++								<a href="/news/backnumber/pdf/2026/261101.pdf" rel="noopener noreferrer">
++									【全日病】自院の取り組みに応じて進める〝病院DX〟
+ 								</a>
+ 							</li>
+ 						</ul>
+@@ -1651,26 +1651,24 @@
+ 								<br>
+ 								全日本病院協会主催セミナー開催のお知らせ
+ 							</a>
+-							<a href="/news/backnumber/pdf/2026/261015.pdf" rel="noopener noreferrer">
++							<a href="/news/backnumber/pdf/2026/261101.pdf" rel="noopener noreferrer">
+ 								<h3>
+-									全日病ニュース10月15日号
++									全日病ニュース11月1日号
+ 								</h3>
+ 								<span>
+-									神野会長コラム「守るために、変える」　１面
++									全日病　正会員数が2600を超える　　　　1面
+ 								</span>
+ 								<br>
+ 								<span>
+-									<span>
+-										全日本病院学会ｉｎ埼玉　学会企画３　　２面
+-									</span>
++									全日病 埼玉学会　学会企画　続報　 　 3面4面
+ 								</span>
+ 								<br>
+ 								<span>
+-									全日本病院学会ｉｎ埼玉　学会企画５　　３面
++									特別講演　渋沢栄一の「論語と算盤」　 　 5面
+ 								</span>
+ 								<br>
+ 								<span>
+-									介護報酬改定へ全日病が７点を要望　　　４面
++									医療DXシリーズ 第１回 長 英一郎 氏　　　6面
+ 								</span>
+ 							</a>
+ 						</div>
+@@ -1918,28 +1916,28 @@
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/10/29
++							2026/10/30
+ 						</dt>
+ 						<dd>
+-							<a href="/topics/admininfo/" rel="noopener noreferrer">
+-								医療行政情報
++							<a href="/seminar/" rel="noopener noreferrer">
++								教育研修
+ 							</a>
+ 							<p>
+-								<a href="/topics/admininfo/" rel="noopener noreferrer">
+-									医療行政情報を3件更新しました
++								<a href="/seminar/clinicalpractice/pdf/261030_1.pdf" rel="noopener noreferrer">
++									2026年度 臨床研修指導医講習会 オンライン開催のご案内
+ 								</a>
+ 							</p>
+ 						</dd>
+ 						<dt>
+-							2026/10/29
++							2026/10/30
+ 						</dt>
+ 						<dd>
+-							<a href="/seminar/" rel="noopener noreferrer">
+-								教育研修
++							<a href="/news/" rel="noopener noreferrer">
++								全日病NEWS
+ 							</a>
+ 							<p>
+-								<a href="/seminar/pdf/seminar_info.pdf" rel="noopener noreferrer">
+-									研修参加申込状況を更新しました
++								<a href="/news/backnumber/pdf/2026/261101.pdf" rel="noopener noreferrer">
++									全日病ニュース　第1112回／2026年11月1日号 更新しました
+ 								</a>
+ 							</p>
+ 						</dd>
+@@ -2259,7 +2257,14 @@
+ 								<li>
+ 									定 員：150 名程度
+ 									<br>
+-									申込期限：2026.11.04(水)
++									申込期限：
++									<s>
++										2026.11.04(水)
++									</s>
++									<br>
++									<span>
++										2026.11.06(金)まで延長
++									</span>
+ 								</li>
+ 							</ul>
+ 						</div>
+@@ -2298,6 +2303,42 @@
+ 							</ul>
+ 						</div>
+ 					</a>
++					<a href="https://www.ajha.or.jp/seminar/clinicalpractice/pdf/261030_1.pdf" rel="noopener noreferrer">
++						<div>
++							<h4>
++								2026年度
++								<br>
++								臨床研修指導医講習会
++							</h4>
++						</div>
++						<div>
++							<p>
++								【オンデマンド研修】
++								<br>
++								第1ターム : 2027.1. 9(土) 〜 2027.1.22(金)
++								<br>
++								第2ターム : 2027.1.24(日) 〜 2027.2. 5(金)
++								<br>
++								<br>
++								【オンラインライブ型研修】
++								<br>
++								※Zoomを使用した研修
++								<br>
++								第1回 ： 2027.1.24(日) 9：30〜16：30
++								<br>
++								第2回 ： 2027.2. 7(日) 9：30〜16：30
++							</p>
++						</div>
++						<div>
++							<ul>
++								<li>
++									定 員：32 名
++									<br>
++									申込期限：2026.12.4(金)
++								</li>
++							</ul>
++						</div>
++					</a>
+ 					<a href="https://www.ajha.or.jp/seminar/other/pdf/260708_5.pdf" rel="noopener noreferrer">
+ 						<div>
+ 							<span>
+@@ -2488,11 +2529,6 @@
+ 								こちら
+ 							</a>
+ 						</li>
+-						<li>
+-							情報セキュリティ確保のため、会員情報変更申請サイトの公開を一時停止しております。
+-							<br>
+-							皆様にはご不便をおかけいたしますが、ご理解賜りますようお願い申し上げます。
+-						</li>
+ 					</ul>
+ 				</nav>
+ 			</div>

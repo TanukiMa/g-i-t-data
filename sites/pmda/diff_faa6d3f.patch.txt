@@ -1,0 +1,90 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 76a79845f..d6633a1d9 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2370,6 +2370,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年11月18日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」、他1件
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/trials/0008.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2607,19 +2623,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年11月9日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
+-												</p>
+-											</a>
+-										</li>
+ 										<li>
+ 											<a href="/review-services/drug-reviews/about-reviews/p-drugs/0028.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2814,6 +2817,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年11月18日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」、他1件
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/reports/hcp/prev-vacc-act/0003.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2904,19 +2923,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年11月9日
+-												</p>
+-												<p>
+-													医薬品
+-												</p>
+-												<p>
+-													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
+-												</p>
+-											</a>
+-										</li>
+ 										<li>
+ 											<a href="/safety/info-services/devices/0054.html" rel="noopener noreferrer">
+ 												<p>

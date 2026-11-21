@@ -1,0 +1,38 @@
+diff --git a/sites/radiology/jp/radiology/index.html b/sites/radiology/jp/radiology/index.html
+index 35c4d50da..46de743ae 100644
+--- a/sites/radiology/jp/radiology/index.html
++++ b/sites/radiology/jp/radiology/index.html
+@@ -483,6 +483,16 @@
+ 						What's New
+ 					</h2>
+ 					<dl>
++						<dt>
++							<time>
++								2026年11月13日
++							</time>
++						</dt>
++						<dd>
++							<a href="member_info/relation/20261113_01.html" rel="noopener noreferrer">
++								【医用原子力技術研究振興財団】創立30周年記念公開講演会のご案内
++							</a>
++						</dd>
+ 						<dt>
+ 							<time>
+ 								2026年11月12日
+@@ -573,16 +583,6 @@
+ 								【注目】放射線科研修指導者資格更新のお知らせ
+ 							</a>
+ 						</dd>
+-						<dt>
+-							<time>
+-								2026年10月30日
+-							</time>
+-						</dt>
+-						<dd>
+-							<a href="member_info/relation/20261030_01.html" rel="noopener noreferrer">
+-								【厚生労働省】医薬品の適応外使用に係るかかる保険診療上の取扱いについて
+-							</a>
+-						</dd>
+ 					</dl>
+ 					<p>
+ 						<a href="past_info.html" rel="noopener noreferrer">

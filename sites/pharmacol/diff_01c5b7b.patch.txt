@@ -1,0 +1,44 @@
+diff --git a/sites/pharmacol/jp/or/pharmacol/index.html b/sites/pharmacol/jp/or/pharmacol/index.html
+index cee09e8d7..f28e27f60 100644
+--- a/sites/pharmacol/jp/or/pharmacol/index.html
++++ b/sites/pharmacol/jp/or/pharmacol/index.html
+@@ -930,6 +930,19 @@
+ 							お知らせ
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="https://pharmacol.or.jp/2026/10/DocArch.html" rel="noopener noreferrer">
++									<span>
++										事務局からのお知らせ
++									</span>
++									<span>
++										2026年10月15日(木)
++									</span>
++									<p>
++										過去のホームページに掲載していた資料を限定公開しました
++									</p>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://pharmacol.or.jp/2026/10/post-17.html" rel="noopener noreferrer">
+ 									<span>
+@@ -982,19 +995,6 @@
+ 									</p>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="https://pharmacol.or.jp/2026/07/32026100.html" rel="noopener noreferrer">
+-									<span>
+-										100周年記念博士研究奨励賞
+-									</span>
+-									<span>
+-										2026年10月 1日(木)
+-									</span>
+-									<p>
+-										第3回（2026年度）日本薬理学会100周年記念博士研究奨励賞
+-									</p>
+-								</a>
+-							</li>
+ 						</ul>
+ 						<div>
+ 							<a href="/information.html" rel="noopener noreferrer">

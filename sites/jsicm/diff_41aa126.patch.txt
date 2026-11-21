@@ -1,0 +1,19 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index 1787fc0d..f14fdf07 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1021,14 +1021,6 @@
+ 										</a>
+ 									</div>
+ 								</div>
+-								<div>
+-									<div>
+-										<a href="/meeting/local.html" rel="noopener noreferrer">
+-											<img alt="支部学術集会2026_演題募集" src="/img/slides/slide-jsicmbranch2026_banner_callforabstracts.webp">
+-											<img alt="支部学術集会2026_演題募集" src="/img/slides/slide-jsicmbranch2026_banner_callforabstracts-s.webp">
+-										</a>
+-									</div>
+-								</div>
+ 								<div>
+ 									<div>
+ 										<a href="/publication/book.html" rel="noopener noreferrer">

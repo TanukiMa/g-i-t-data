@@ -1,0 +1,202 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index c59432097..61f4c8bd2 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1434,11 +1434,11 @@
+ 							<div>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/research/jcj.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月16日
++												2026年10月22日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1446,12 +1446,31 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												第11回JINC著者インタビュー（2025年度「Highly cited article賞」受賞論文）を公開しました
++												<span>
++													【重要】学会メールの送受信障害について（現在復旧作業中）
++												</span>
+ 											</div>
+ 										</div>
+ 									</li>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news261016.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261022.html" rel="noopener noreferrer">
++										</a>
++										<div>
++											<div>
++												2026年10月22日
++											</div>
++											<div>
++												学会より
++											</div>
++										</div>
++										<div>
++											<div>
++												【セミナー管理システム】緊急メンテナンス終了いたしました
++											</div>
++										</div>
++									</li>
++									<li>
++										<a href="https://www.jsicm.org/research/jcj.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+@@ -1463,18 +1482,16 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<span>
+-													新入会申込み手続き再開のお知らせ
+-												</span>
++												第11回JINC著者インタビュー（2025年度「Highly cited article賞」受賞論文）を公開しました
+ 											</div>
+ 										</div>
+ 									</li>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261016.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月13日
++												2026年10月16日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1483,7 +1500,7 @@
+ 										<div>
+ 											<div>
+ 												<span>
+-													【重要】学会メールの送受信障害について（現在復旧作業中）
++													新入会申込み手続き再開のお知らせ
+ 												</span>
+ 											</div>
+ 										</div>
+@@ -1594,12 +1611,18 @@
+ 											</div>
+ 										</div>
+ 									</li>
++								</ul>
++								<span>
++								</span>
++							</div>
++							<div>
++								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/meeting/report/hokkaido10.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年9月28日
++												2026年10月22日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1607,22 +1630,18 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												第10回支部学術集会レポート掲載のお知らせ：北海道支部（2026.8.29開催）
++												<span>
++													【重要】学会メールの送受信障害について（現在復旧作業中）
++												</span>
+ 											</div>
+ 										</div>
+ 									</li>
+-								</ul>
+-								<span>
+-								</span>
+-							</div>
+-							<div>
+-								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/research/jcj.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261022.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月16日
++												2026年10月22日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1630,12 +1649,12 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												第11回JINC著者インタビュー（2025年度「Highly cited article賞」受賞論文）を公開しました
++												【セミナー管理システム】緊急メンテナンス終了いたしました
+ 											</div>
+ 										</div>
+ 									</li>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news261016.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/research/jcj.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+@@ -1647,18 +1666,16 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<span>
+-													新入会申込み手続き再開のお知らせ
+-												</span>
++												第11回JINC著者インタビュー（2025年度「Highly cited article賞」受賞論文）を公開しました
+ 											</div>
+ 										</div>
+ 									</li>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261016.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月13日
++												2026年10月16日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1667,7 +1684,7 @@
+ 										<div>
+ 											<div>
+ 												<span>
+-													【重要】学会メールの送受信障害について（現在復旧作業中）
++													新入会申込み手続き再開のお知らせ
+ 												</span>
+ 											</div>
+ 										</div>
+@@ -1778,23 +1795,6 @@
+ 											</div>
+ 										</div>
+ 									</li>
+-									<li>
+-										<a href="https://www.jsicm.org/news/news260915.html" rel="noopener noreferrer">
+-										</a>
+-										<div>
+-											<div>
+-												2026年9月16日
+-											</div>
+-											<div>
+-												学会より
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												【お知らせ】シルバーウィーク期間の事務局休業について
+-											</div>
+-										</div>
+-									</li>
+ 								</ul>
+ 								<span>
+ 								</span>

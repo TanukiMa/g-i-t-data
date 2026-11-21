@@ -1,0 +1,44 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index 4c0fa8d29..107f92092 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1873,6 +1873,19 @@
+ 				</div>
+ 				<div>
+ 					<dl>
++						<dt>
++							2026/10/08
++						</dt>
++						<dd>
++							<a href="/seminar/" rel="noopener noreferrer">
++								教育研修
++							</a>
++							<p>
++								<a href="/seminar/pdf/seminar_info.pdf" rel="noopener noreferrer">
++									研修参加申込状況を更新しました
++								</a>
++							</p>
++						</dd>
+ 						<dt>
+ 							2026/10/07
+ 						</dt>
+@@ -1899,19 +1912,6 @@
+ 								</a>
+ 							</p>
+ 						</dd>
+-						<dt>
+-							2026/10/01
+-						</dt>
+-						<dd>
+-							<a href="/seminar/" rel="noopener noreferrer">
+-								教育研修
+-							</a>
+-							<p>
+-								<a href="/seminar/pdf/seminar_info.pdf" rel="noopener noreferrer">
+-									研修参加申込状況を更新しました
+-								</a>
+-							</p>
+-						</dd>
+ 						<dt>
+ 							2026/09/29
+ 						</dt>

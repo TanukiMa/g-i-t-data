@@ -1,0 +1,146 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 40c794d7..d22a6c5b 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -994,63 +994,111 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						新潟医療福祉大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072478" rel="noopener noreferrer">
+-							超小型モビリティを活用した身体障害者の外出支援モデル構築
++						神奈川県立保健福祉大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000070825" rel="noopener noreferrer">
++							くも膜下出血離床研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						聖マリアンナ医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072673" rel="noopener noreferrer">
+-							TOPAZ研究
++						京都府立大学生命環境科学研究科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072656" rel="noopener noreferrer">
++							日本国内の成人を対象とした食環境整備の介入内容と成果：スコーピングレビュー
+ 						</a>
+ 					</li>
+ 					<li>
+-						和歌山県立医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072687" rel="noopener noreferrer">
+-							フォトンカウンティングCTを用いた放射線治療計画の実装可能性に関する前向き観察研究
++						岐阜大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071162" rel="noopener noreferrer">
++							PRISMA studay
+ 						</a>
+ 					</li>
+ 					<li>
+-						ロート製薬株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072593" rel="noopener noreferrer">
+-							局所ストレス応答試験
++						名桜大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072697" rel="noopener noreferrer">
++							VRを用いた胸骨圧迫トレーニングシステムの研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						ジャパンフリトレー株式会社/Japan Frito-Lay Ltd.：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000070345" rel="noopener noreferrer">
+-							ポップコーン摂取による食後血糖値上昇の抑制作用
++						愛知医科大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072696" rel="noopener noreferrer">
++							CTガイドPCIにおけるステント最適化達成度を血管内イメージングで検証する前向き研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						大塚製薬株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072652" rel="noopener noreferrer">
+-							日本人の高コレステロール血症患者でのCRP（C-reactive Protein）と心血管イベントおよび背景因子との関連性の探索的検討研究―病院カルテデータを用いた研究―
++						千葉大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072698" rel="noopener noreferrer">
++							超音波エラストグラフィーを用いたアキレス腱の硬さ計測の信頼性の検討
+ 						</a>
+ 					</li>
+ 					<li>
+-						愛媛大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072695" rel="noopener noreferrer">
+-							酒粕粉末を配合したハンドクリームの保湿性及び実施可能性評価に関する介入研究
++						藤田医科大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072596" rel="noopener noreferrer">
++							「情動的性質を備えたロボット」が前期高齢者の持つ IoT導入の心理的障壁に与える影響：予備的検討
+ 						</a>
+ 					</li>
+ 					<li>
+-						福島県立医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072636" rel="noopener noreferrer">
+-							退院後の助産師による母乳育児支援が、産後2か月までの母乳育児継続に与える影響
++						東北大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072703" rel="noopener noreferrer">
++							スマートフォンを用いた放射線治療後の体調確認Webアンケートに関する多機関共同研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社EPデータウィーブ：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072506" rel="noopener noreferrer">
+-							成人男女を対象とした研究食品摂取による骨関連マーカーへの影響
++						杏林大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072499" rel="noopener noreferrer">
++							仮想現実リハビリテーション
+ 						</a>
+ 					</li>
+ 					<li>
+-						国立研究開発法人国立精神・神経医療研究センター：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072324" rel="noopener noreferrer">
+-							HAL歩行訓練研究
++						湘南医療大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072707" rel="noopener noreferrer">
++							重症患者の認知機能評価を用いたリハビリテーション介入アルゴリズムの構築
++						</a>
++					</li>
++					<li>
++						湘南医療大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072711" rel="noopener noreferrer">
++							作業療法学生の高次脳機能障害に対する印象の変化に関する縦断調査
++						</a>
++					</li>
++					<li>
++						湘南医療大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072712" rel="noopener noreferrer">
++							急性期の作業療法士が外傷性脳損傷の患者さんの社会参加に向けて行っている評価・介入の調査
++						</a>
++					</li>
++					<li>
++						株式会社ヘルスケアシステムズ：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072715" rel="noopener noreferrer">
++							サプリメント摂取によるむくみ低減効果に関する研究
++						</a>
++					</li>
++					<li>
++						川口脳神経外科リハビリクリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072718" rel="noopener noreferrer">
++							社会的ケア関連QOLの評価が適切なケアサービスの移行に寄与した通所リハビリテーション事例　the Adult Social Care Outcomes Toolkitの有用性
++						</a>
++					</li>
++					<li>
++						川口脳神経外科リハビリクリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072719" rel="noopener noreferrer">
++							ピアサポート機能尺度 要介護高齢者版の開発に関する研究
++						</a>
++					</li>
++					<li>
++						川口脳神経外科リハビリクリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072709" rel="noopener noreferrer">
++							外来リハビリテーションにおける復職要因の検討
++						</a>
++					</li>
++					<li>
++						川口脳神経外科リハビリクリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072717" rel="noopener noreferrer">
++							通所リハビリテーション利用者における体組成と身体機能の経時的変化および関連性：後方視的観察研究
++						</a>
++					</li>
++					<li>
++						株式会社リグア：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072704" rel="noopener noreferrer">
++							特殊加工繊維品の皮膚ガス・血流試験
+ 						</a>
+ 					</li>
+ 				</ul>

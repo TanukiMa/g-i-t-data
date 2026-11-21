@@ -1,0 +1,44 @@
+diff --git a/sites/kankyokansenorg/org/kankyokansen/index.html b/sites/kankyokansenorg/org/kankyokansen/index.html
+index ad10eaa70..cd4bb4130 100644
+--- a/sites/kankyokansenorg/org/kankyokansen/index.html
++++ b/sites/kankyokansenorg/org/kankyokansen/index.html
+@@ -490,6 +490,19 @@
+ 									各種委員会からのお知らせ・ご報告等
+ 								</h2>
+ 								<div>
++									<div>
++										<span>
++											教育
++										</span>
++									</div>
++									<div>
++										<a href="https://www.kankyokansen.org/news/20261019/" rel="noopener noreferrer">
++											第43回～第45回 医療疫学トレーニングコース開催報告
++										</a>
++										<span>
++											（2026年10月19日			）
++										</span>
++									</div>
+ 									<div>
+ 										<span>
+ 											教育
+@@ -607,19 +620,6 @@
+ 											（2026年3月13日							）
+ 										</span>
+ 									</div>
+-									<div>
+-										<span>
+-											地域セミナー
+-										</span>
+-									</div>
+-									<div>
+-										<a href="https://www.kankyokansen.org/news/20260306/" rel="noopener noreferrer">
+-											地域セミナー（九州・沖縄ブロック）開催のお知らせ
+-										</a>
+-										<span>
+-											（2026年3月6日							）
+-										</span>
+-									</div>
+ 								</div>
+ 							</div>
+ 							<div>

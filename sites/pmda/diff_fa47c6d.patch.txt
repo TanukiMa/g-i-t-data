@@ -1,0 +1,29 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 94fd7bd92..0c65896a0 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2929,21 +2929,9 @@
+ 							</div>
+ 							<div>
+ 								<div>
+-									<ul>
+-										<li>
+-											<a href="/relief-services/infections/0032.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月7日
+-												</p>
+-												<p>
+-													救済
+-												</p>
+-												<p>
+-													生物由来製品等の一覧を更新しました
+-												</p>
+-											</a>
+-										</li>
+-									</ul>
++									<p>
++										現在、該当する情報はありません。
++									</p>
+ 									<div>
+ 										<div>
+ 											<a href="/0017.html" rel="noopener noreferrer">

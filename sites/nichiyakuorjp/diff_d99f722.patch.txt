@@ -1,0 +1,113 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 780148792..5ed836bfe 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -280,7 +280,7 @@
+ 							<li>
+ 								<div>
+ 									<a href="/news/detail?id=1718&amp;is_top=yes" rel="noopener noreferrer">
+-										【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++										【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 									</a>
+ 								</div>
+ 							</li>
+@@ -525,7 +525,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.26
++														2026.10.27
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -534,8 +534,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1727&amp;is_top=yes" rel="noopener noreferrer">
+-														メディア掲載・出演情報を更新しました（毎日新聞朝刊、令和8年10月26日）
++													<a href="/news/detail?id=1728&amp;is_top=yes" rel="noopener noreferrer">
++														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -544,7 +544,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.23
++														2026.10.26
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -553,8 +553,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1724&amp;is_top=yes" rel="noopener noreferrer">
+-														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1727&amp;is_top=yes" rel="noopener noreferrer">
++														メディア掲載・出演情報を更新しました（毎日新聞朝刊、令和8年10月26日）
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -563,7 +563,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.22
++														2026.10.23
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -572,8 +572,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1722&amp;is_top=yes" rel="noopener noreferrer">
+-														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1724&amp;is_top=yes" rel="noopener noreferrer">
++														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -582,7 +582,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.21
++														2026.10.22
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -591,8 +591,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1719&amp;is_top=yes" rel="noopener noreferrer">
+-														【重要】生涯学習支援システム【JPALS】、 健康サポート薬局e-ラーニング研修システムの緊急メンテナンスのお知らせ
++													<a href="/news/detail?id=1722&amp;is_top=yes" rel="noopener noreferrer">
++														【メンテナンス終了・再開のお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -601,7 +601,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.20
++														2026.10.21
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -610,8 +610,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1717&amp;is_top=yes" rel="noopener noreferrer">
+-														令和８年11月22日～11月28日は医療安全推進週間です
++													<a href="/news/detail?id=1719&amp;is_top=yes" rel="noopener noreferrer">
++														【重要】生涯学習支援システム【JPALS】、 健康サポート薬局e-ラーニング研修システムの緊急メンテナンスのお知らせ
+ 													</a>
+ 												</div>
+ 											</div>

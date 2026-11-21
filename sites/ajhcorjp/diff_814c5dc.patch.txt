@@ -1,0 +1,36 @@
+diff --git a/sites/ajhcorjp/jp/or/ajhc/index.html b/sites/ajhcorjp/jp/or/ajhc/index.html
+index f708c2e7..94456051 100644
+--- a/sites/ajhcorjp/jp/or/ajhc/index.html
++++ b/sites/ajhcorjp/jp/or/ajhc/index.html
+@@ -38,7 +38,7 @@
+ 							<p>
+ 								<strong>
+ 									<a href="disaster.html" rel="noopener noreferrer">
+-										各災害（地震・大雨等）の関連文章はこちら（10/19 更新 ）
++										各災害（地震・大雨等）の関連文章はこちら（11/2 更新 ）
+ 									</a>
+ 								</strong>
+ 							</p>
+@@ -196,14 +196,19 @@
+ 					<div>
+ 						<dl>
+ 							<dt>
+-								2026/11/04
++								2026/11/10
+ 								<span>
+ 									おしらせ
+ 								</span>
+ 							</dt>
+ 							<dd>
+-								<a href="siryo/20261029-1.pdf" rel="noopener noreferrer">
+-									令和8年医師、歯科医師及び薬剤師の届出について
++								<a href="https://www.cyber.go.jp/tokusetsu/contactpoint_advisory_hub/index.html" rel="noopener noreferrer">
++									国家サイバー統括室のサイバー対応特設サイトにおいて、サイバーセキュリティに関する注意喚起等を発信しております。
++								</a>
++								<br>
++								＞
++								<a href="https://www.cas.go.jp/jp/seisaku/cybersecurity_kakuryokaigi/pdf/countermeasure.pdf" rel="noopener noreferrer">
++									サイバーセキュリティ緊急対策パッケージ
+ 								</a>
+ 							</dd>
+ 							<dt>

@@ -1,0 +1,185 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 00447085..bc12eabb 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2370,6 +2370,38 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
++												<p>
++													2026年11月5日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「アバコパン製剤の使用に関する関連学会による文書の公表について（周知依頼）」を掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/0371.html" rel="noopener noreferrer">
++												<p>
++													2026年11月5日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													テルミサルタン製剤におけるニトロソアミン化合物検出のお知らせを掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/rs-std-jp/standards-development/jp/0008.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2667,32 +2699,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/procurements/contract-info/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月29日
+-												</p>
+-												<p>
+-													調達
+-												</p>
+-												<p>
+-													契約締結状況について
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/0371.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月28日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													「リザトリプタンOD錠 10mg「TCK」 ニトロソアミン化合物検出のお知らせ」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2921,9 +2927,9 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/properly-use-alert/0002.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月30日
++													2026年11月5日
+ 												</p>
+ 												<p>
+ 													医薬品
+@@ -2932,12 +2938,28 @@
+ 													New
+ 												</p>
+ 												<p>
+-													「PMDAからの医薬品適正使用のお願い」に「GLP-1受容体作動薬及びGIP/GLP-1受容体作動薬の適正使用のお願い」を掲載しました
++													「アバコパン製剤の使用に関する関連学会による文書の公表について（周知依頼）」を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/medical-safety-info/0178.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/0371.html" rel="noopener noreferrer">
++												<p>
++													2026年11月5日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													テルミサルタン製剤におけるニトロソアミン化合物検出のお知らせを掲載しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/properly-use-alert/0002.html" rel="noopener noreferrer">
+ 												<p>
+ 													2026年10月30日
+ 												</p>
+@@ -2948,14 +2970,14 @@
+ 													New
+ 												</p>
+ 												<p>
+-													「製薬企業からの医薬品の安全使用に関するお知らせ」に「ファンギゾンとアムビゾームの取り違え注意のお願い」を掲載しました
++													「PMDAからの医薬品適正使用のお願い」に「GLP-1受容体作動薬及びGIP/GLP-1受容体作動薬の適正使用のお願い」を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/medical-safety-info/0178.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月29日
++													2026年10月30日
+ 												</p>
+ 												<p>
+ 													医薬品
+@@ -2964,20 +2986,23 @@
+ 													New
+ 												</p>
+ 												<p>
+-													クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480
++													「製薬企業からの医薬品の安全使用に関するお知らせ」に「ファンギゾンとアムビゾームの取り違え注意のお願い」を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/drugs/0371.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年10月28日
++													2026年10月29日
+ 												</p>
+ 												<p>
+ 													医薬品
+ 												</p>
+ 												<p>
+-													「リザトリプタンOD錠 10mg「TCK」 ニトロソアミン化合物検出のお知らせ」を掲載しました
++													New
++												</p>
++												<p>
++													クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480
+ 												</p>
+ 											</a>
+ 										</li>
+@@ -3085,19 +3110,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月21日
+-												</p>
+-												<p>
+-													医薬品
+-												</p>
+-												<p>
+-													「アバコパン製剤の使用に当たっての留意事項について」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>

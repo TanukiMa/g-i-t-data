@@ -1,0 +1,42 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 4eeeb7ae..5ff81721 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -2355,6 +2355,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/06
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/organizationnews/post-160287.html" rel="noopener noreferrer">
++												第13回総合アレルギー講習会について（日本アレルギー学会）
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2583,18 +2595,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/08
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159425.html" rel="noopener noreferrer">
+-												小児医療の発展に向けた研究助成について（川野小児医学奨学財団_2027年度）
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

@@ -1,0 +1,66 @@
+diff --git a/sites/j-circ/jp/or/j-circ/index.html b/sites/j-circ/jp/or/j-circ/index.html
+index c94ffcee4..339e13132 100644
+--- a/sites/j-circ/jp/or/j-circ/index.html
++++ b/sites/j-circ/jp/or/j-circ/index.html
+@@ -774,6 +774,30 @@
+ 										</a>
+ 									</h3>
+ 									<div>
++										<article>
++											<div>
++												<time>
++													2026/11/17
++												</time>
++												<ul>
++													<li>
++														<a href="https://www.j-circ.or.jp/topics_categories/information/" rel="noopener noreferrer">
++															お知らせ
++														</a>
++													</li>
++													<li>
++														<a href="https://www.j-circ.or.jp/topics_classification/committee/bcvr/" rel="noopener noreferrer">
++															BCVR基礎研究部会
++														</a>
++													</li>
++												</ul>
++											</div>
++											<h4>
++												<a href="https://www.j-circ.or.jp/topics/basicresearchgrant_2023_pulmonarycirculation/" rel="noopener noreferrer">
++													本会の基礎研究助成を受けた論文のPulmonary Circulation誌採択について
++												</a>
++											</h4>
++										</article>
+ 										<article>
+ 											<div>
+ 												<time>
+@@ -913,30 +937,6 @@
+ 												</a>
+ 											</h4>
+ 										</article>
+-										<article>
+-											<div>
+-												<time>
+-													2026/10/01
+-												</time>
+-												<ul>
+-													<li>
+-														<a href="https://www.j-circ.or.jp/topics_categories/information/" rel="noopener noreferrer">
+-															お知らせ
+-														</a>
+-													</li>
+-													<li>
+-														<a href="https://www.j-circ.or.jp/topics_classification/committee/%e5%ad%a6%e8%a1%93%e5%a7%94%e5%93%a1%e4%bc%9a/" rel="noopener noreferrer">
+-															学術委員会
+-														</a>
+-													</li>
+-												</ul>
+-											</div>
+-											<h4>
+-												<a href="https://www.j-circ.or.jp/topics/20261001-3/" rel="noopener noreferrer">
+-													CTEPHに対するBPAの有効性と安全性に関する多施設レジストリーデータ利用について
+-												</a>
+-											</h4>
+-										</article>
+ 									</div>
+ 								</li>
+ 								<li>

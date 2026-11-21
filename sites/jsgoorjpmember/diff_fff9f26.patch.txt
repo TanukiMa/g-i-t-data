@@ -1,0 +1,38 @@
+diff --git a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+index bbcc00eee..10b302d43 100644
+--- a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
++++ b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+@@ -354,6 +354,16 @@
+ 									<div>
+ 										<table>
+ 											<tbody>
++												<tr>
++													<th>
++														2026/10/21
++													</th>
++													<td>
++														<a href="/entry_member/news/20261021/4575/" rel="noopener noreferrer">
++															緊急Tumor Board「妊娠26週子宮頸がん合併妊娠」
++														</a>
++													</td>
++												</tr>
+ 												<tr>
+ 													<th>
+ 														2026/10/14
+@@ -394,16 +404,6 @@
+ 														</a>
+ 													</td>
+ 												</tr>
+-												<tr>
+-													<th>
+-														2026/09/29
+-													</th>
+-													<td>
+-														<a href="/entry_member/news/20260929/4515/" rel="noopener noreferrer">
+-															「日本医学会e-News No.14」の発行のご案内
+-														</a>
+-													</td>
+-												</tr>
+ 											</tbody>
+ 										</table>
+ 									</div>

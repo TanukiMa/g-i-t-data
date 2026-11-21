@@ -1,0 +1,37 @@
+diff --git a/sites/jsh/jp/or/jsh/medical.html b/sites/jsh/jp/or/jsh/medical.html
+index d56d847a..bd7f99e0 100644
+--- a/sites/jsh/jp/or/jsh/medical.html
++++ b/sites/jsh/jp/or/jsh/medical.html
+@@ -994,6 +994,14 @@
+ 										第46回日本肝臓学会東部会　演題募集のご案内
+ 									</a>
+ 								</dd>
++								<dt>
++									2026/05/19
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1418&amp;type=news-info" rel="noopener noreferrer">
++										【重要】退会手続きについて
++									</a>
++								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/info.php" rel="noopener noreferrer">
+@@ -1172,14 +1180,9 @@
+ 						</div>
+ 						<div>
+ 							<dl>
+-								<dt>
+-									2026/07/30
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1540&amp;type=news-sokuho" rel="noopener noreferrer">
+-										令和８年熊本地震に係る公費負担医療の取扱いについて
+-									</a>
+-								</dd>
++								<p>
++									お知らせはありません。
++								</p>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/sokuho.php" rel="noopener noreferrer">

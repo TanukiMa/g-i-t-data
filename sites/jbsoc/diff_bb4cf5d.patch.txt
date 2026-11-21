@@ -1,0 +1,510 @@
+diff --git a/sites/jbsoc/jp/or/jbsoc/index.html b/sites/jbsoc/jp/or/jbsoc/index.html
+index 3c64b19d..27b2f82a 100644
+--- a/sites/jbsoc/jp/or/jbsoc/index.html
++++ b/sites/jbsoc/jp/or/jbsoc/index.html
+@@ -683,22 +683,49 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
+-														ニュース
++													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
++														学術集会
+ 													</a>
+ 												</span>
+-												2026.11.05
++												2026.11.06
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news4/scjnews986.html" rel="noopener noreferrer" title="日本学術会議ニュース　【お知らせ】連携会員の委嘱について 等">
+-													日本学術会議ニュース　【お知らせ】連携会員の委嘱について 等
++												<a href="https://www.jbsoc.or.jp/calendar_list/ifrec-16th-sympo2026#new_tab" rel="noopener noreferrer" title="第16回 IFReC国際シンポジウム（International Symposium on Advanced Immunology）">
++													第16回 IFReC国際シンポジウム（International Symposium on Advanced Immunology）
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news4/scjnews986.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/ifrec-16th-sympo2026#new_tab" rel="noopener noreferrer">
++													続きを読む
++												</a>
++											</aside>
++											<p>
++											</p>
++										</li>
++									</ul>
++									<ul>
++										<li>
++											<small>
++												<span>
++													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
++														求人情報
++													</a>
++												</span>
++												2026.11.06
++											</small>
++											<h3>
++												<a href="https://www.jbsoc.or.jp/job_info/ifrec-advanced-postdoc-program-2#new_tab" rel="noopener noreferrer" title="IFReC（大阪大学免疫学フロンティア研究センター） Advanced Postdoc Program　博士研究員">
++													IFReC（大阪大学免疫学フロンティア研究センター） Advanced Postdoc Program　博士研究員
++												</a>
++												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
++											</h3>
++											<p>
++											</p>
++											<aside>
++												<a href="https://www.jbsoc.or.jp/job_info/ifrec-advanced-postdoc-program-2#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -714,18 +741,18 @@
+ 														ニュース
+ 													</a>
+ 												</span>
+-												2026.11.05
++												2026.11.06
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news4/brain-2.html" rel="noopener noreferrer" title="生研支援センターの委託研究事業に関する令和９年度予算概算要求に基づく応募前説明及び個別相談のご案内">
+-													生研支援センターの委託研究事業に関する令和９年度予算概算要求に基づく応募前説明及び個別相談のご案内
++												<a href="https://www.jbsoc.or.jp/news/news4/scjnews987.html" rel="noopener noreferrer" title="日本学術会議ニュース　【開催案内】北海道地区会議学術講演会「日本の教育制度のアップデートを考える」 等">
++													日本学術会議ニュース　【開催案内】北海道地区会議学術講演会「日本の教育制度のアップデートを考える」 等
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news4/brain-2.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news4/scjnews987.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -737,22 +764,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news2" rel="noopener noreferrer">
+-														賞助成
++													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
++														ニュース
+ 													</a>
+ 												</span>
+-												2026.11.05
++												2026.11.06
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news2/jaame-2027.html" rel="noopener noreferrer" title="2027年度 研究助成 医療技術研究開発助成　公益財団法人医療機器センター附属医療機器産業研究所">
+-													2027年度 研究助成 医療技術研究開発助成　公益財団法人医療機器センター附属医療機器産業研究所
++												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey-3.html" rel="noopener noreferrer" title="リマインド【ご協力のお願い・11/30まで】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）">
++													リマインド【ご協力のお願い・11/30まで】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news2/jaame-2027.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey-3.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -764,22 +791,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
+-														学術集会
++													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
++														ニュース
+ 													</a>
+ 												</span>
+ 												2026.11.05
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-20261201#new_tab" rel="noopener noreferrer" title="デジタル社会におけるデータとトラストを考える 第3回「国を超えるヘルスデータとトラスト-便益とリスクのあいだでつくられる信頼とは-」">
+-													デジタル社会におけるデータとトラストを考える 第3回「国を超えるヘルスデータとトラスト-便益とリスクのあいだでつくられる信頼とは-」
++												<a href="https://www.jbsoc.or.jp/news/news4/scjnews986.html" rel="noopener noreferrer" title="日本学術会議ニュース　【お知らせ】連携会員の委嘱について 等">
++													日本学術会議ニュース　【お知らせ】連携会員の委嘱について 等
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-20261201#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news4/scjnews986.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -798,15 +825,15 @@
+ 												2026.11.05
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/seika/wp-content/uploads/2026/11/The-27th-IUBMB-FASBMB-SASBMB-Congress-2027-Registration-YSP-Applications-Now-Open.pdf#new_tab" rel="noopener noreferrer" title="The 27th IUBMB/FASBMB/SASBMB Congress 2027: Registration &amp; YSP Applications Now Open">
+-													The 27th IUBMB/FASBMB/SASBMB Congress 2027: Registration & YSP Applications Now Open
++												<a href="https://www.jbsoc.or.jp/news/news4/brain-2.html" rel="noopener noreferrer" title="生研支援センターの委託研究事業に関する令和９年度予算概算要求に基づく応募前説明及び個別相談のご案内">
++													生研支援センターの委託研究事業に関する令和９年度予算概算要求に基づく応募前説明及び個別相談のご案内
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/seika/wp-content/uploads/2026/11/The-27th-IUBMB-FASBMB-SASBMB-Congress-2027-Registration-YSP-Applications-Now-Open.pdf#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news4/brain-2.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -818,22 +845,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
+-														求人情報
++													<a href="https://www.jbsoc.or.jp/category/news/news2" rel="noopener noreferrer">
++														賞助成
+ 													</a>
+ 												</span>
+ 												2026.11.05
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/job_info/iwate-med-3#new_tab" rel="noopener noreferrer" title="岩手医科大学 医学部 生化学講座 分子医化学分野　助教">
+-													岩手医科大学 医学部 生化学講座 分子医化学分野　助教
++												<a href="https://www.jbsoc.or.jp/news/news2/jaame-2027.html" rel="noopener noreferrer" title="2027年度 研究助成 医療技術研究開発助成　公益財団法人医療機器センター附属医療機器産業研究所">
++													2027年度 研究助成 医療技術研究開発助成　公益財団法人医療機器センター附属医療機器産業研究所
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/job_info/iwate-med-3#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news2/jaame-2027.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -845,22 +872,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
+-														求人情報
++													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
++														学術集会
+ 													</a>
+ 												</span>
+ 												2026.11.05
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/job_info/iwate-med-2#new_tab" rel="noopener noreferrer" title="岩手医科大学 医学部 生化学講座 分子医化学分野　准教授">
+-													岩手医科大学 医学部 生化学講座 分子医化学分野　准教授
++												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-20261201#new_tab" rel="noopener noreferrer" title="デジタル社会におけるデータとトラストを考える 第3回「国を超えるヘルスデータとトラスト-便益とリスクのあいだでつくられる信頼とは-」">
++													デジタル社会におけるデータとトラストを考える 第3回「国を超えるヘルスデータとトラスト-便益とリスクのあいだでつくられる信頼とは-」
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/job_info/iwate-med-2#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/jst-ristex-20261201#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -872,22 +899,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
+-														学術集会
++													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
++														ニュース
+ 													</a>
+ 												</span>
+ 												2026.11.05
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026-2.html" rel="noopener noreferrer" title="【再掲載】「オルトライブ」開催ご案内　株式会社オルトメディコ">
+-													【再掲載】「オルトライブ」開催ご案内　株式会社オルトメディコ
++												<a href="https://www.jbsoc.or.jp/seika/wp-content/uploads/2026/11/The-27th-IUBMB-FASBMB-SASBMB-Congress-2027-Registration-YSP-Applications-Now-Open.pdf#new_tab" rel="noopener noreferrer" title="The 27th IUBMB/FASBMB/SASBMB Congress 2027: Registration &amp; YSP Applications Now Open">
++													The 27th IUBMB/FASBMB/SASBMB Congress 2027: Registration & YSP Applications Now Open
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news1/orthomedico-webinar-2026-2.html" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/seika/wp-content/uploads/2026/11/The-27th-IUBMB-FASBMB-SASBMB-Congress-2027-Registration-YSP-Applications-Now-Open.pdf#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -899,22 +926,22 @@
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
+-														学術集会
++													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
++														求人情報
+ 													</a>
+ 												</span>
+-												2026.10.22
++												2026.11.05
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/58th-naito-conference#new_tab" rel="noopener noreferrer" title="第58回内藤コンファレンス「微小管・分子モーター研究の最前線：構造からメカニクス、機能、疾患まで」ポスター発表者募集　（公財）内藤記念科学振興財団">
+-													第58回内藤コンファレンス「微小管・分子モーター研究の最前線：構造からメカニクス、機能、疾患まで」ポスター発表者募集　（公財）内藤記念科学振興財団
++												<a href="https://www.jbsoc.or.jp/job_info/iwate-med-3#new_tab" rel="noopener noreferrer" title="岩手医科大学 医学部 生化学講座 分子医化学分野　助教">
++													岩手医科大学 医学部 生化学講座 分子医化学分野　助教
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/58th-naito-conference#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/job_info/iwate-med-3#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -922,6 +949,8 @@
+ 											</p>
+ 										</li>
+ 									</ul>
++								</div>
++								<div>
+ 									<ul>
+ 										<li>
+ 											<small>
+@@ -930,18 +959,18 @@
+ 														学術集会
+ 													</a>
+ 												</span>
+-												2026.10.22
++												2026.11.06
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/57th-naito-conference#new_tab" rel="noopener noreferrer" title="第57回内藤コンファレンス「グリア・ニューロンネットワークが奏でる脳と全身機能の制御」ポスター発表者募集　（公財）内藤記念科学振興財団">
+-													第57回内藤コンファレンス「グリア・ニューロンネットワークが奏でる脳と全身機能の制御」ポスター発表者募集　（公財）内藤記念科学振興財団
++												<a href="https://www.jbsoc.or.jp/calendar_list/ifrec-16th-sympo2026#new_tab" rel="noopener noreferrer" title="第16回 IFReC国際シンポジウム（International Symposium on Advanced Immunology）">
++													第16回 IFReC国際シンポジウム（International Symposium on Advanced Immunology）
+ 												</a>
+ 												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/57th-naito-conference#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/calendar_list/ifrec-16th-sympo2026#new_tab" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -949,8 +978,6 @@
+ 											</p>
+ 										</li>
+ 									</ul>
+-								</div>
+-								<div>
+ 									<ul>
+ 										<li>
+ 											<small>
+@@ -1192,32 +1219,6 @@
+ 											</p>
+ 										</li>
+ 									</ul>
+-									<ul>
+-										<li>
+-											<small>
+-												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news1" rel="noopener noreferrer">
+-														学術集会
+-													</a>
+-												</span>
+-												2026.09.17
+-											</small>
+-											<h3>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/169th-jams-symposium#new_tab" rel="noopener noreferrer" title="第169回日本医学会シンポジウム「AIの実臨床応用」">
+-													第169回日本医学会シンポジウム「AIの実臨床応用」
+-												</a>
+-											</h3>
+-											<p>
+-											</p>
+-											<aside>
+-												<a href="https://www.jbsoc.or.jp/calendar_list/169th-jams-symposium#new_tab" rel="noopener noreferrer">
+-													続きを読む
+-												</a>
+-											</aside>
+-											<p>
+-											</p>
+-										</li>
+-									</ul>
+ 								</div>
+ 								<div>
+ 									<ul>
+@@ -1484,6 +1485,33 @@
+ 									</ul>
+ 								</div>
+ 								<div>
++									<ul>
++										<li>
++											<small>
++												<span>
++													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
++														求人情報
++													</a>
++												</span>
++												2026.11.06
++											</small>
++											<h3>
++												<a href="https://www.jbsoc.or.jp/job_info/ifrec-advanced-postdoc-program-2#new_tab" rel="noopener noreferrer" title="IFReC（大阪大学免疫学フロンティア研究センター） Advanced Postdoc Program　博士研究員">
++													IFReC（大阪大学免疫学フロンティア研究センター） Advanced Postdoc Program　博士研究員
++												</a>
++												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
++											</h3>
++											<p>
++											</p>
++											<aside>
++												<a href="https://www.jbsoc.or.jp/job_info/ifrec-advanced-postdoc-program-2#new_tab" rel="noopener noreferrer">
++													続きを読む
++												</a>
++											</aside>
++											<p>
++											</p>
++										</li>
++									</ul>
+ 									<ul>
+ 										<li>
+ 											<small>
+@@ -1724,25 +1752,55 @@
+ 											</p>
+ 										</li>
+ 									</ul>
++								</div>
++								<div>
+ 									<ul>
+ 										<li>
+ 											<small>
+ 												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news3" rel="noopener noreferrer">
+-														求人情報
++													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
++														ニュース
+ 													</a>
+ 												</span>
+-												2026.09.25
++												2026.11.06
+ 											</small>
+ 											<h3>
+-												<a href="https://www.jbsoc.or.jp/job_info/seikei-3#new_tab" rel="noopener noreferrer" title="成蹊大学　助教">
+-													成蹊大学　助教
++												<a href="https://www.jbsoc.or.jp/news/news4/scjnews987.html" rel="noopener noreferrer" title="日本学術会議ニュース　【開催案内】北海道地区会議学術講演会「日本の教育制度のアップデートを考える」 等">
++													日本学術会議ニュース　【開催案内】北海道地区会議学術講演会「日本の教育制度のアップデートを考える」 等
+ 												</a>
++												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
+ 											</h3>
+ 											<p>
+ 											</p>
+ 											<aside>
+-												<a href="https://www.jbsoc.or.jp/job_info/seikei-3#new_tab" rel="noopener noreferrer">
++												<a href="https://www.jbsoc.or.jp/news/news4/scjnews987.html" rel="noopener noreferrer">
++													続きを読む
++												</a>
++											</aside>
++											<p>
++											</p>
++										</li>
++									</ul>
++									<ul>
++										<li>
++											<small>
++												<span>
++													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
++														ニュース
++													</a>
++												</span>
++												2026.11.06
++											</small>
++											<h3>
++												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey-3.html" rel="noopener noreferrer" title="リマインド【ご協力のお願い・11/30まで】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）">
++													リマインド【ご協力のお願い・11/30まで】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）
++												</a>
++												<img src="https://www.jbsoc.or.jp/seika/wp-content/themes/seika/images/new.gif">
++											</h3>
++											<p>
++											</p>
++											<aside>
++												<a href="https://www.jbsoc.or.jp/news/news4/danjo_6th-survey-3.html" rel="noopener noreferrer">
+ 													続きを読む
+ 												</a>
+ 											</aside>
+@@ -1750,8 +1808,6 @@
+ 											</p>
+ 										</li>
+ 									</ul>
+-								</div>
+-								<div>
+ 									<ul>
+ 										<li>
+ 											<small>
+@@ -1966,58 +2022,6 @@
+ 											</p>
+ 										</li>
+ 									</ul>
+-									<ul>
+-										<li>
+-											<small>
+-												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
+-														ニュース
+-													</a>
+-												</span>
+-												2026.09.28
+-											</small>
+-											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news4/scjnews982.html" rel="noopener noreferrer" title="日本学術会議ニュース　【お知らせ】意思の表出：提言・見解・報告の公表について 等">
+-													日本学術会議ニュース　【お知らせ】意思の表出：提言・見解・報告の公表について 等
+-												</a>
+-											</h3>
+-											<p>
+-											</p>
+-											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news4/scjnews982.html" rel="noopener noreferrer">
+-													続きを読む
+-												</a>
+-											</aside>
+-											<p>
+-											</p>
+-										</li>
+-									</ul>
+-									<ul>
+-										<li>
+-											<small>
+-												<span>
+-													<a href="https://www.jbsoc.or.jp/category/news/news4" rel="noopener noreferrer">
+-														ニュース
+-													</a>
+-												</span>
+-												2026.09.28
+-											</small>
+-											<h3>
+-												<a href="https://www.jbsoc.or.jp/news/news4/scj.html" rel="noopener noreferrer" title="【日本学術会議】若手アカデミー候補者〔連携会員（特任）候補者〕の募集について">
+-													【日本学術会議】若手アカデミー候補者〔連携会員（特任）候補者〕の募集について
+-												</a>
+-											</h3>
+-											<p>
+-											</p>
+-											<aside>
+-												<a href="https://www.jbsoc.or.jp/news/news4/scj.html" rel="noopener noreferrer">
+-													続きを読む
+-												</a>
+-											</aside>
+-											<p>
+-											</p>
+-										</li>
+-									</ul>
+ 								</div>
+ 							</div>
+ 						</div>

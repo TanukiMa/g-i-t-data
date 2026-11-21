@@ -1,0 +1,29 @@
+diff --git a/sites/jsaweb/jp/jsaweb/index.html b/sites/jsaweb/jp/jsaweb/index.html
+index 564d1b81..ff886499 100644
+--- a/sites/jsaweb/jp/jsaweb/index.html
++++ b/sites/jsaweb/jp/jsaweb/index.html
+@@ -740,12 +740,12 @@
+ 				</div>
+ 				<div>
+ 					<a href="/modules/registlation/index.php?content_id=1" rel="noopener noreferrer">
+-						<img alt="YouTube アレルギー学会チャンネル" height="128" src="/themes/img/bnr_top_nyukai.jpg" width="548">
++						<img alt="入会申し込み" height="128" src="/themes/img/bnr_top_nyukai.jpg" width="548">
+ 					</a>
+ 				</div>
+ 				<div>
+-					<a href="/modules/message/index.php?content_id=1" rel="noopener noreferrer">
+-						<img alt="" height="242" src="/themes/img/bnr_youtube_riji_ebisawa.jpg" width="263">
++					<a href="https://jsa-elearning.jp/" rel="noopener noreferrer">
++						<img alt="Total Allergistのためのe-learning教材" height="242" src="/themes/img/bnr_e-learning.jpg" width="263">
+ 					</a>
+ 				</div>
+ 				<div>
+@@ -974,7 +974,7 @@
+ 				</div>
+ 				<span>
+ 					<b>
+-						2024 インパクトファクター  6.7
++						2025　インパクトファクター　6.2
+ 					</b>
+ 				</span>
+ 			</div>

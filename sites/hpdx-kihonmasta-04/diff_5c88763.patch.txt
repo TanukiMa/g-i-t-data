@@ -1,0 +1,22 @@
+diff --git a/sites/hpdx-kihonmasta-04/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-04-html.html b/sites/hpdx-kihonmasta-04/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-04-html.html
+index d0216bf18..50a0b66ac 100644
+--- a/sites/hpdx-kihonmasta-04/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-04-html.html
++++ b/sites/hpdx-kihonmasta-04/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-04-html.html
+@@ -836,13 +836,13 @@
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_06.html" rel="noopener noreferrer">
+-									コメントマスター
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html" rel="noopener noreferrer">
++									傷病名マスター
+ 								</a>
+ 							</li>
+ 							<li>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html" rel="noopener noreferrer">
+-									傷病名マスター
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_06.html" rel="noopener noreferrer">
++									コメントマスター
+ 								</a>
+ 							</li>
+ 						</ul>

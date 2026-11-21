@@ -1,0 +1,27 @@
+diff --git a/sites/jspho/org/jspho/index.html b/sites/jspho/org/jspho/index.html
+index be891955..22fe69e9 100644
+--- a/sites/jspho/org/jspho/index.html
++++ b/sites/jspho/org/jspho/index.html
+@@ -445,6 +445,22 @@
+ 							<img alt="お知らせ" src="common/img/home/hl_txt_news.png">
+ 						</h1>
+ 						<div>
++							<div>
++								<div>
++									2026.11.05
++								</div>
++								<div>
++									第19回小児血液・がんセミナー in 中部
++									<br>
++									日時：2027年1月26日（火）19:00～21:00
++									<br>
++									詳細は下記URLよりご確認ください。
++									<br>
++									<a href="https://www.jspho.org/activity/seminar.html#section1" rel="noopener noreferrer">
++										https://www.jspho.org/activity/seminar.html#section1
++									</a>
++								</div>
++							</div>
+ 							<div>
+ 								<div>
+ 									2026.11.02

@@ -1,0 +1,32 @@
+diff --git a/sites/medisdc/jp/or/medis/index.html b/sites/medisdc/jp/or/medis/index.html
+index a9f38406..0f700750 100644
+--- a/sites/medisdc/jp/or/medis/index.html
++++ b/sites/medisdc/jp/or/medis/index.html
+@@ -50,6 +50,10 @@
+ 						<img alt="匿名加工医療情報公正利用促進機構" src="img/fasthdj.jpg" width="206">
+ 					</a>
+ 					<br>
++					<a href="https://www.medis.or.jp/5_cmsh/index.html" rel="noopener noreferrer">
++						<img alt="CMS-H事業" src="img/br_cmsh@2x_1.png" width="206">
++					</a>
++					<br>
+ 					<a href="https://www.jka-cycle.jp" rel="noopener noreferrer">
+ 						<img alt="JKA事業" src="img/banner2.png" width="206">
+ 					</a>
+@@ -68,6 +72,16 @@
+ 								新着情報
+ 							</td>
+ 						</tr>
++						<tr>
++							<td>
++								2026.11.09
++							</td>
++							<td>
++								<a href="https://www.medis.or.jp/5_cmsh/index.html" rel="noopener noreferrer">
++									R8年度マスター等の標準化事業（厚生労働省より受託）のページが開設されました
++								</a>
++							</td>
++						</tr>
+ 						<tr>
+ 							<td>
+ 								2026.09.19

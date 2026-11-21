@@ -1,0 +1,97 @@
+diff --git a/sites/jsh/jp/or/jsh/medical.html b/sites/jsh/jp/or/jsh/medical.html
+index 3a41f3828..3b464a569 100644
+--- a/sites/jsh/jp/or/jsh/medical.html
++++ b/sites/jsh/jp/or/jsh/medical.html
+@@ -682,7 +682,7 @@
+ 						<div>
+ 							<dl>
+ 								<dt>
+-									2026/10/07
++									2026/10/14
+ 								</dt>
+ 								<dd>
+ 									<p>
+@@ -704,6 +704,14 @@
+ 										上記の時間内は、マイページはご利用頂けませんので、何卒ご理解の程よろしくお願いいたします。
+ 									</p>
+ 								</dd>
++								<dt>
++									2026/10/14
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1687&amp;type=news-request" rel="noopener noreferrer">
++										JDDW 2026 特設ページのお知らせ
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/10/07
+ 								</dt>
+@@ -848,14 +856,6 @@
+ 										デュルバルマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（膀胱癌、非小細胞肺癌、小細胞肺癌、肝細胞癌、胆道癌、子宮体癌及び胃癌）の一部改正について
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/08/19
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1587&amp;type=news-request" rel="noopener noreferrer">
+-										水溶性プレドニン10mg・20mg、リンデロン注2mg(0.4%) ・4mg(0.4%)の出荷最減少に伴う、処方時のご配慮のお願い
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/" rel="noopener noreferrer">
+@@ -866,7 +866,7 @@
+ 						<div>
+ 							<dl>
+ 								<dt>
+-									2026/10/07
++									2026/10/14
+ 								</dt>
+ 								<dd>
+ 									<p>
+@@ -1024,14 +1024,6 @@
+ 										【重要】退会手続きについて
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/05/18
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1412&amp;type=news-info" rel="noopener noreferrer">
+-										「School of Hepatology 2026 in CHOSHU」開催概要
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/info.php" rel="noopener noreferrer">
+@@ -1041,6 +1033,14 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026/10/14
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1687&amp;type=news-request" rel="noopener noreferrer">
++										JDDW 2026 特設ページのお知らせ
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/10/05
+ 								</dt>
+@@ -1193,14 +1193,6 @@
+ 										「高齢者におけるポリファーマシー対策の普及啓発資材について」の通知発出について
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/07/31
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1549&amp;type=news-request" rel="noopener noreferrer">
+-										「ヒトゲノム編集胚等の取扱いの規制に関する法律」の公布について
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/request.php" rel="noopener noreferrer">

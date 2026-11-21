@@ -1,0 +1,68 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index b0df02635..a1235ea8f 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1190,17 +1190,17 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/02
++												2026/10/07
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="/members-only/members-news" rel="noopener noreferrer">
+-												会員限定のお知らせ
++											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
++												イベント
+ 											</a>
+ 										</td>
+ 										<td>
+-											<a href="/members-only/" rel="noopener noreferrer">
+-												会員専用ホームページに新しいお知らせを掲載しました
++											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
++												小児診療初期対応（JPLS）コース募集情報更新について
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -1224,7 +1224,7 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/10/01
++												2026/10/02
+ 											</time>
+ 										</td>
+ 										<td>
+@@ -1275,17 +1275,17 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/09/30
++												2026/10/01
+ 											</time>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/event" rel="noopener noreferrer">
+-												イベント
++											<a href="/members-only/members-news" rel="noopener noreferrer">
++												会員限定のお知らせ
+ 											</a>
+ 										</td>
+ 										<td>
+-											<a href="https://www.jpeds.or.jp/news/event/post-159484.html" rel="noopener noreferrer">
+-												小児診療初期対応（JPLS）コース募集情報更新について
++											<a href="/members-only/" rel="noopener noreferrer">
++												会員専用ホームページに新しいお知らせを掲載しました
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -2155,7 +2155,7 @@
+ 									<tr>
+ 										<td>
+ 											<time>
+-												2026/09/30
++												2026/10/07
+ 											</time>
+ 										</td>
+ 										<td>

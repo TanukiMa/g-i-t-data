@@ -1,0 +1,336 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index ec0b7ffe9..032d14637 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -407,26 +407,20 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
+-								ノーベル化学賞に硤合氏ら‐不斉合成の自己触媒反応発見
++							<a href="https://www.yakuji.co.jp/entry140431.html" rel="noopener noreferrer">
++								獣医療、日薬は大動物から‐12薬局は他業種と連携
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年10月14日 (水) 06:31
++						2026年10月14日 (水) 08:31
+ 					</div>
+ 					<div>
+-						<div>
+-							<img alt="硤合氏（提供：東京理科大学）" height="277" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_01-01.jpg" width="230">
+-							<p>
+-								硤合氏（提供：東京理科大学）
+-							</p>
+-						</div>
+ 						<p>
+-							スウェーデン王立科学アカデミーは7日、2026年のノーベル化学賞を東京理科大学名誉教授の硤合憲三（そあい・けいそう）氏と仏の化学者のアンリ・カガン氏に授与すると発表した。発表によると両氏の研究は、全てのアミノ酸が二つの異性体（鏡像異性体）として存在するのに対し、生物の多くはその一方しか利用しないという生命の謎を解くことに貢献した。医薬品では、効果がある異性体と、効果がないまたは悪さをする異性体を、技術により選択的に作り分ける。今回の授賞は、生成物自身が触媒となって一方の異性体を増幅していく「自己触媒反応」を化学実験で示したことで、医薬品製造における不斉合成の発展につながる成果としても評価された。
++							獣医療で薬剤師の役割を広げる動きが活発化している。日本薬剤師会は日本獣医師会が掲げる「ワンヘルス」を接点に連携を模索し、まずは産業動物への医薬品提供への参画を目指す。将来的には犬や猫などペット調剤の医薬分業も視野に入れる。一方、動物調剤専門薬局「12薬局」は医薬品卸などと次世代アニマルヘルスケア・プラットフォームの事業化に乗り出す。アカデミアでも研修プログラムを拡充するなど、職能や教育の各方面で取り組みが具体化してきた。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry140431.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -448,11 +442,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
+-									<img alt="硤合氏（提供：東京理科大学）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140431.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
+-									ノーベル化学賞に硤合氏ら‐不斉合成の自己触媒反応発見
++								<a href="https://www.yakuji.co.jp/entry140431.html" rel="noopener noreferrer">
++									獣医療、日薬は大動物から‐12薬局は他業種と連携
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -465,10 +458,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140434.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140437.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140434.html" rel="noopener noreferrer">
+-									【がんセ東病院 土井院長】日本で早期臨床試験体制‐新興バイオの開発に対応
++								<a href="https://www.yakuji.co.jp/entry140437.html" rel="noopener noreferrer">
++									【GE薬協】見直し求める意見書発表‐医薬品特許期間延長制度
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -481,14 +474,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140298.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
++									<img alt="硤合氏（提供：東京理科大学）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140298.html" rel="noopener noreferrer">
+-									【大塚製薬】実行機能障害など改善‐新規ADHD薬の追加解析
++								<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
++									ノーベル化学賞に硤合氏ら‐不斉合成の自己触媒反応発見
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月13日 (火)
++									2026年10月14日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -497,14 +491,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140299.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140434.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140299.html" rel="noopener noreferrer">
+-									【エーザイ／米メルク】腎細胞癌で米承認取得‐レンビマ、ウェリレグ併用療法
++								<a href="https://www.yakuji.co.jp/entry140434.html" rel="noopener noreferrer">
++									【がんセ東病院 土井院長】日本で早期臨床試験体制‐新興バイオの開発に対応
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月13日 (火)
++									2026年10月14日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -513,11 +507,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140296.html" rel="noopener noreferrer">
+-									<img alt="OTC関連メーカーなどがブースを出展し、会場は多くの来場者でにぎわった" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13226_06-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140298.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140296.html" rel="noopener noreferrer">
+-									OTCの知識や使い方発信‐一般薬連など、普及啓発イベント開催
++								<a href="https://www.yakuji.co.jp/entry140298.html" rel="noopener noreferrer">
++									【大塚製薬】実行機能障害など改善‐新規ADHD薬の追加解析
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -530,11 +523,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140291.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13226_02-02-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140299.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140291.html" rel="noopener noreferrer">
+-									【GE薬協 川俣会長】需要急増、増産追いつかず‐数量シェア拡大に貢献も
++								<a href="https://www.yakuji.co.jp/entry140299.html" rel="noopener noreferrer">
++									【エーザイ／米メルク】腎細胞癌で米承認取得‐レンビマ、ウェリレグ併用療法
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -648,14 +640,14 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140361.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140414.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140361.html" rel="noopener noreferrer">
+-									【第一三共ヘルスケア】独自開発の香りを付与した化粧品を用いたスキンケアが、リラックス状…
++								<a href="https://www.yakuji.co.jp/entry140414.html" rel="noopener noreferrer">
++									【積水メディカル】ポッドキャストCMの配信を開始‐拡大新生児スクリーニング検査の大切さ伝え…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月13日 (火)
++									2026年10月14日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -664,14 +656,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140358.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140413.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140358.html" rel="noopener noreferrer">
+-									医療機関の倒産情報　2026年9月30日
++								<a href="https://www.yakuji.co.jp/entry140413.html" rel="noopener noreferrer">
++									【アセンシア】Sava社と戦略的業務提携を締結‐マイクロセンサー技術に関して
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月13日 (火)
++									2026年10月14日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -742,11 +734,11 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140427.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_06-03-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140402.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/202610140730_1013ichi1_1-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140427.html" rel="noopener noreferrer">
+-									【新製品】8種の生薬を配合‐「ルル滋養内服液プレミアム」　第一三共ヘルスケア
++								<a href="https://www.yakuji.co.jp/entry140402.html" rel="noopener noreferrer">
++									【新製品】プリマヴィスタから初のチークカラー登場‐ほのつや血色感で、夕方まで明るい顔印象…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -759,11 +751,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140424.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_06-02-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140427.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_06-03-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140424.html" rel="noopener noreferrer">
+-									【新製品】女性のための発毛剤‐「リアップリジェンヌプラス」　大正製薬
++								<a href="https://www.yakuji.co.jp/entry140427.html" rel="noopener noreferrer">
++									【新製品】8種の生薬を配合‐「ルル滋養内服液プレミアム」　第一三共ヘルスケア
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1710,11 +1702,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
+-									<img alt="硤合氏（提供：東京理科大学）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140431.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
+-									ノーベル化学賞に硤合氏ら‐不斉合成の自己触媒反応発見
++								<a href="https://www.yakuji.co.jp/entry140431.html" rel="noopener noreferrer">
++									獣医療、日薬は大動物から‐12薬局は他業種と連携
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1727,10 +1718,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140434.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140437.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140434.html" rel="noopener noreferrer">
+-									【がんセ東病院 土井院長】日本で早期臨床試験体制‐新興バイオの開発に対応
++								<a href="https://www.yakuji.co.jp/entry140437.html" rel="noopener noreferrer">
++									【GE薬協】見直し求める意見書発表‐医薬品特許期間延長制度
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1743,11 +1734,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140427.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_06-03-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140414.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140427.html" rel="noopener noreferrer">
+-									【新製品】8種の生薬を配合‐「ルル滋養内服液プレミアム」　第一三共ヘルスケア
++								<a href="https://www.yakuji.co.jp/entry140414.html" rel="noopener noreferrer">
++									【積水メディカル】ポッドキャストCMの配信を開始‐拡大新生児スクリーニング検査の大切さ伝え…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1760,11 +1750,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140424.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_06-02-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140413.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140424.html" rel="noopener noreferrer">
+-									【新製品】女性のための発毛剤‐「リアップリジェンヌプラス」　大正製薬
++								<a href="https://www.yakuji.co.jp/entry140413.html" rel="noopener noreferrer">
++									【アセンシア】Sava社と戦略的業務提携を締結‐マイクロセンサー技術に関して
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1777,10 +1766,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140419.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140411.html" rel="noopener noreferrer">
++									<img alt="全自動前処理装置「CLAM-2040 CL」とトリプル四重極質量分析計「LCMS-8060 CL」" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/202610140731_1013ka1-1-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140419.html" rel="noopener noreferrer">
+-									28日に「レギュラトリーサイエンスエキスパート研修会専門コース」　医薬品医療機器レギュラ…
++								<a href="https://www.yakuji.co.jp/entry140411.html" rel="noopener noreferrer">
++									【島津製作所】臨床検査ワークフローの自動化推進‐豪病院で質量分析ソリューションの開発・実…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1793,10 +1783,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140415.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140402.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/202610140730_1013ichi1_1-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140415.html" rel="noopener noreferrer">
+-									2、3年次に社会との接点を
++								<a href="https://www.yakuji.co.jp/entry140402.html" rel="noopener noreferrer">
++									【新製品】プリマヴィスタから初のチークカラー登場‐ほのつや血色感で、夕方まで明るい顔印象…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1809,10 +1800,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140429.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
++									<img alt="硤合氏（提供：東京理科大学）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13228_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140429.html" rel="noopener noreferrer">
+-									薬事日報　2026/10/14
++								<a href="https://www.yakuji.co.jp/entry140432.html" rel="noopener noreferrer">
++									ノーベル化学賞に硤合氏ら‐不斉合成の自己触媒反応発見
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1825,14 +1817,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140416.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140434.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140416.html" rel="noopener noreferrer">
+-									令和8年度　登録販売者試験　試験結果　【西日本】
++								<a href="https://www.yakuji.co.jp/entry140434.html" rel="noopener noreferrer">
++									【がんセ東病院 土井院長】日本で早期臨床試験体制‐新興バイオの開発に対応
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月13日 (火)
++									2026年10月14日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1852,7 +1844,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年10月  (149)
++		 2026年10月  (155)
+ 	 2026年9月  (341)
+ 	 2026年8月  (320)
+ 	 2026年7月  (386)

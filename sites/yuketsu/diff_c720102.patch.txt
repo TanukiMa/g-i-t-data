@@ -1,0 +1,194 @@
+diff --git a/sites/yuketsu/jp/or/jstmct/yuketsu/index.html b/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
+index c8889373..a9ec79ea 100644
+--- a/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
++++ b/sites/yuketsu/jp/or/jstmct/yuketsu/index.html
+@@ -408,7 +408,7 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/11/05
++											2026/11/12
+ 										</div>
+ 										<div>
+ 											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+@@ -416,7 +416,7 @@
+ 										</div>
+ 									</div>
+ 									<div>
+-										第86回東海支部例会「プログラム・抄録集」の更新を
++										東海支部の「規約」を
+ 										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_tokai/" rel="noopener noreferrer">
+ 											東海支部
+ 										</a>
+@@ -428,19 +428,18 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/11/02
++											2026/11/12
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_7
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										第44回北陸支部例会「プログラム・抄録集」を
+-										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_hokuriku/" rel="noopener noreferrer">
+-											北陸支部
++										<a href="https://yuketsu.jstmct.or.jp/info/" rel="noopener noreferrer">
++											CAR-T療法タスクフォース　テクニカルセミナー（TACTICS）開催案内
+ 										</a>
+-										に掲載しました。
++										を学会からのお知らせに掲載しました。
+ 									</div>
+ 									<div>
+ 									</div>
+@@ -448,7 +447,7 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/10/30
++											2026/11/05
+ 										</div>
+ 										<div>
+ 											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+@@ -456,7 +455,7 @@
+ 										</div>
+ 									</div>
+ 									<div>
+-										第86回東海支部例会「プログラム・抄録集」を
++										第86回東海支部例会「プログラム・抄録集」の更新を
+ 										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_tokai/" rel="noopener noreferrer">
+ 											東海支部
+ 										</a>
+@@ -468,15 +467,19 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/10/29
++											2026/11/02
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_6
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										2027年度臨床研究推進事業につきましては、例年より公募時期を前倒しして実施しておりますが、より多くの会員の皆様に応募の機会を提供するため、申請期間を以下のとおり延長することとしました。  　申請期間は、2026年9月1日（火）から2026年11月7日（土）23時59分までです
++										第44回北陸支部例会「プログラム・抄録集」を
++										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_hokuriku/" rel="noopener noreferrer">
++											北陸支部
++										</a>
++										に掲載しました。
+ 									</div>
+ 									<div>
+ 									</div>
+@@ -484,7 +487,7 @@
+ 								<div>
+ 									<div>
+ 										<div>
+-											2026/10/29
++											2026/10/30
+ 										</div>
+ 										<div>
+ 											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+@@ -492,9 +495,9 @@
+ 										</div>
+ 									</div>
+ 									<div>
+-										九州支部会第73回総会・第94回例会「参加登録・開催案内」「日程表」を
+-										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_kyusyu/" rel="noopener noreferrer">
+-											九州支部
++										第86回東海支部例会「プログラム・抄録集」を
++										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_tokai/" rel="noopener noreferrer">
++											東海支部
+ 										</a>
+ 										に掲載しました。
+ 									</div>
+@@ -507,16 +510,12 @@
+ 											2026/10/29
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_6
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										第70回近畿支部総会「日程表・プログラム, 参加者・演者の皆様へ」を
+-										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_kinki/" rel="noopener noreferrer">
+-											近畿支部
+-										</a>
+-										に掲載しました。
++										2027年度臨床研究推進事業につきましては、例年より公募時期を前倒しして実施しておりますが、より多くの会員の皆様に応募の機会を提供するため、申請期間を以下のとおり延長することとしました。  　申請期間は、2026年9月1日（火）から2026年11月7日（土）23時59分までです
+ 									</div>
+ 									<div>
+ 									</div>
+@@ -527,14 +526,14 @@
+ 											2026/10/29
+ 										</div>
+ 										<div>
+-											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_7
++											<img alt="アイコン" height="20" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/common/icon_news_4
+ .png" width="68">
+ 										</div>
+ 									</div>
+ 									<div>
+-										令和8年度赤十字血液シンポジウム（中国四国ブロック）プログラムを
+-										<a href="https://yuketsu.jstmct.or.jp/info/" rel="noopener noreferrer">
+-											学会からのお知らせ
++										九州支部会第73回総会・第94回例会「参加登録・開催案内」「日程表」を
++										<a href="https://yuketsu.jstmct.or.jp/society_branch/branch_kyusyu/" rel="noopener noreferrer">
++											九州支部
+ 										</a>
+ 										に掲載しました。
+ 									</div>
+@@ -553,6 +552,22 @@
+ 								<img alt="INFO" height="19" src="https://yuketsu.jstmct.or.jp/wp-content/themes/jstmct/images/top/img_top_info.gif" width="69">
+ 							</div>
+ 							<div>
++								<div>
++									<div>
++										2026/11/12
++									</div>
++									<div>
++										CAR-T療法タスクフォース　テクニカルセミナー（TACTICS）のお知らせ
++										<br>
++										≫
++										<a href="https://yuketsu.jstmct.or.jp/wp-content/uploads/2026/11/TACTICS20261201.pdf" rel="noopener noreferrer">
++											開催案内
++										</a>
++										<br>
++									</div>
++									<div>
++									</div>
++								</div>
+ 								<div>
+ 									<div>
+ 										2026/10/29
+@@ -627,22 +642,6 @@
+ 									<div>
+ 									</div>
+ 								</div>
+-								<div>
+-									<div>
+-										2026/06/02
+-									</div>
+-									<div>
+-										2026年度日本輸血・細胞治療学会精度管理調査のご案内
+-										<br>
+-										≫
+-										<a href="https://yuketsu.jstmct.or.jp/wp-content/uploads/2026/06/7272a84139459642ed835e98c4bdb6c4.pdf" rel="noopener noreferrer">
+-											参加登録のお知らせ
+-										</a>
+-										<br>
+-									</div>
+-									<div>
+-									</div>
+-								</div>
+ 								<p>
+ 									<a href="/info/" rel="noopener noreferrer">
+ 										学会からのお知らせ一覧を見る

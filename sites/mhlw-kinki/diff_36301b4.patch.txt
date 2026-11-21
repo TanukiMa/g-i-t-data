@@ -1,0 +1,126 @@
+diff --git a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+index 68abf835..7efdb4ae 100644
+--- a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
++++ b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+@@ -920,32 +920,32 @@
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/shinsei/shido_kansa/shitei_kijun/baseup-oshirase.html" rel="noopener noreferrer">
++										<a href="/kinki/iryo_shido/26kaitei-daketsuritsu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月1日
++													2026年9月15日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													ベースアップ評価料等に係る診療報酬請求について
++													令和8年11月30日までに妥結率等に係る報告が必要です。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/shinsei/shido_kansa/shitei_kijun/baseup_houkoku.html" rel="noopener noreferrer">
++										<a href="/kinki/shinsei/shido_kansa/shitei_kijun/baseup-oshirase.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年8月7日
++													2026年9月1日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -958,7 +958,7 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和7年度賃金改善報告書及び令和8年度賃金改善中間報告書作成に係る説明資料及び手引き動画を公開しました。
++													ベースアップ評価料等に係る診療報酬請求について
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -987,32 +987,31 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kinki/gyomu/gyomu/hoken_kikan/shitei_jokyo.html" rel="noopener noreferrer">
++										<a href="/kinki/gyomu/bu_ka/kanri/documents/30hokenniryoukikanntounikannsurutuuti_00011.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月5日
++													2026年11月6日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険医療機関・保険薬局等の管内指定状況等について」を更新しました。
++													保険医療機関等に関する通知（令和8年度）を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/gyomu/gyomu/hoken_kikan/kijun_jurijoukyou.html" rel="noopener noreferrer">
++										<a href="/kinki/gyomu/gyomu/hoken_kikan/shitei_jokyo.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月30日
++													2026年11月5日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -1025,28 +1024,29 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」をご確認ください。
++													「保険医療機関・保険薬局等の管内指定状況等について」を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kinki/gyomu/bu_ka/kanri/documents/30hokenniryoukikanntounikannsurutuuti_00011.html" rel="noopener noreferrer">
++										<a href="/kinki/gyomu/gyomu/hoken_kikan/kijun_jurijoukyou.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月23日
++													2026年10月30日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+-															その他
++															<img alt="重要" src="/common/img/icn_important.svg">
++															医療機関等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関等に関する通知（令和8年度）を更新しました。
++													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」をご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>

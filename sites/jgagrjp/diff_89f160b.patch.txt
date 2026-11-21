@@ -1,0 +1,44 @@
+diff --git a/sites/jgagrjp/jp/gr/jga/index.html b/sites/jgagrjp/jp/gr/jga/index.html
+index 2a36d56c6..f9d07255b 100644
+--- a/sites/jgagrjp/jp/gr/jga/index.html
++++ b/sites/jgagrjp/jp/gr/jga/index.html
+@@ -1140,6 +1140,19 @@
+ 							<div>
+ 								<nav>
+ 									<ul>
++										<li>
++											<a href="/medical/confirm-effective.html" rel="noopener noreferrer">
++												<time>
++													2026.10.19
++												</time>
++												<span>
++													更新
++												</span>
++												<span>
++													効果・効能について情報を更新しました。
++												</span>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1179,19 +1192,6 @@
+ 												</span>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/medical/confirm-effective.html" rel="noopener noreferrer">
+-												<time>
+-													2026.10.02
+-												</time>
+-												<span>
+-													更新
+-												</span>
+-												<span>
+-													効果・効能について情報を更新しました。
+-												</span>
+-											</a>
+-										</li>
+ 									</ul>
+ 								</nav>
+ 							</div>

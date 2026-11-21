@@ -1,0 +1,58 @@
+diff --git a/sites/jacsurg/jp/gr/jacsurg/index.html b/sites/jacsurg/jp/gr/jacsurg/index.html
+index 2ea79a8aa..c0bdbdaee 100644
+--- a/sites/jacsurg/jp/gr/jacsurg/index.html
++++ b/sites/jacsurg/jp/gr/jacsurg/index.html
+@@ -1314,6 +1314,26 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<span>
++											2026/10/16
++										</span>
++										<span>
++											<a href="https://www.medsafe.or.jp/med-cms/wp-content/uploads/2026/10/houdoushiryo20261009.pdf" rel="noopener noreferrer">
++												日本医療安全調査機構より医療事故調査制度の現況報告（9月）
++											</a>
++										</span>
++									</li>
++									<li>
++										<span>
++											2026/10/16
++										</span>
++										<span>
++											<a href="https://www.scj.go.jp/ja/event/2026/407-1102.html" rel="noopener noreferrer">
++												日本学術会議より公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」（11/2開催）のお知らせ
++											</a>
++										</span>
++									</li>
+ 									<li>
+ 										<span>
+ 											2026/10/09
+@@ -1362,26 +1382,6 @@
+ 											</a>
+ 										</span>
+ 									</li>
+-									<li>
+-										<span>
+-											2026/10/02
+-										</span>
+-										<span>
+-											<a href="https://jams.med.or.jp/event/doc/pdf_sympo-poster169.pdf" rel="noopener noreferrer">
+-												日本医学会より第169回日本医学会シンポジウム「AIの実臨床応用」開催のお知らせ
+-											</a>
+-										</span>
+-									</li>
+-									<li>
+-										<span>
+-											2026/09/11
+-										</span>
+-										<span>
+-											<a href="https://www.medsafe.or.jp/med-cms/wp-content/uploads/2026/09/houdoushiryo20260909.pdf" rel="noopener noreferrer">
+-												日本医療安全調査機構より医療事故調査制度の現況報告（8月）
+-											</a>
+-										</span>
+-									</li>
+ 								</ul>
+ 							</div>
+ 							<p>

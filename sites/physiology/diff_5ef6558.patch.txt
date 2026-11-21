@@ -1,0 +1,377 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index 173d19e56..d51f45be0 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -435,12 +435,12 @@
+ 						<div>
+ 							<ul>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/hold/34829/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-09-16
++														2026-10-05
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -451,42 +451,42 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
++													第7回 PSJオンラインセミナーのご案内
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-09-09
++														2026-09-16
+ 													</time>
+ 												</p>
+ 												<div>
+ 													<p>
+-														お知らせ
++														セミナー情報
+ 													</p>
+ 												</div>
+ 											</div>
+ 											<p>
+ 												<em>
+-													【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
++													【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34687/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34758/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-08-24
++														2026-09-09
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -497,19 +497,19 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													【日本生理学会】学会賞候補者の募集（〆切：10/9(金)正午）
++													【日本生理学会】年会費の口座引落「新規登録・口座変更」受付終了のお知らせ
+ 												</em>
+ 											</p>
+ 										</div>
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.physiology.jp/mainnews/guidance/34614/" rel="noopener noreferrer">
++									<a href="https://www.physiology.jp/mainnews/guidance/34687/" rel="noopener noreferrer">
+ 										<div>
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026-08-16
++														2026-08-24
+ 													</time>
+ 												</p>
+ 												<div>
+@@ -520,7 +520,7 @@
+ 											</div>
+ 											<p>
+ 												<em>
+-													第32回日本医学会総会奨励賞の候補者推薦申込みについて
++													【日本生理学会】学会賞候補者の募集（〆切：10/9(金)正午）
+ 												</em>
+ 											</p>
+ 										</div>
+@@ -652,53 +652,53 @@
+ 								</h2>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/hold/34829/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-09-30
++															2026-10-05
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															サイエンストピックス
++															セミナー情報
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
++														第7回 PSJオンラインセミナーのご案内
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34810/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/science-topic/34818/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-09-29
++															2026-09-30
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															研究助成
++															サイエンストピックス
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														『時実利彦記念賞』2027年度募集要領について
++														196.  GIRKチャネルが体内時計の「夜」の形成に寄与する
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34799/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34810/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -714,14 +714,14 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														ソルト・サイエンス研究財団
++														『時実利彦記念賞』2027年度募集要領について
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/promotion/34797/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34799/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+@@ -737,53 +737,53 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														パブリックヘルス科学研究助成
++														ソルト・サイエンス研究財団
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/promotion/34797/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-09-24
++															2026-09-29
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															サイエンストピックス
++															研究助成
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
++														パブリックヘルス科学研究助成
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/science-topic/34789/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-09-16
++															2026-09-24
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															セミナー情報
++															サイエンストピックス
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
++														195.ミトコンドリア代謝に介入して心筋の虚血再灌流傷害を回避する
+ 													</em>
+ 												</p>
+ 											</div>
+@@ -2064,12 +2064,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34829/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-16
++																2026-10-05
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2080,19 +2080,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
++															第7回 PSJオンラインセミナーのご案内
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34771/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-14
++																2026-09-16
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2103,19 +2103,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第5回慶應義塾大学WPI-Bio2Q国際シンポジウムのお知らせ“Wiring the Body: Brain–Organ–Microbiome Networks”
++															【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34732/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34771/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-08-27
++																2026-09-14
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2126,19 +2126,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															公益財団法人 千里ライフサイエンス振興財団　千里ライフサイエンスセミナーY4　『幹細胞・再生医療研究の最前線』
++															第5回慶應義塾大学WPI-Bio2Q国際シンポジウムのお知らせ“Wiring the Body: Brain–Organ–Microbiome Networks”
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34717/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34732/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-08-24
++																2026-08-27
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2149,14 +2149,14 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															医研シンポジウム2026
++															公益財団法人 千里ライフサイエンス振興財団　千里ライフサイエンスセミナーY4　『幹細胞・再生医療研究の最前線』
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34711/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34717/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+@@ -2172,19 +2172,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第34回木原記念財団学術賞　受賞記念講演会のご案内
++															医研シンポジウム2026
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34664/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34711/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-08-20
++																2026-08-24
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2195,7 +2195,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															日本睡眠学会「冬の学校2027」
++															第34回木原記念財団学術賞　受賞記念講演会のご案内
+ 														</em>
+ 													</p>
+ 												</div>

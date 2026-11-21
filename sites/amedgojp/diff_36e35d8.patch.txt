@@ -1,0 +1,142 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 9ee49a16b..5828a17cd 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -344,6 +344,21 @@
+ 												公募情報一覧
+ 											</p>
+ 											<ul>
++												<li>
++													<a href="/koubo/yokoku_index.html" rel="noopener noreferrer">
++														公募予告一覧
++													</a>
++												</li>
++												<li>
++													<a href="/koubo/koubo_index.html" rel="noopener noreferrer">
++														公募情報一覧
++													</a>
++												</li>
++												<li>
++													<a href="/koubo/saitaku_index.html" rel="noopener noreferrer">
++														採択情報一覧
++													</a>
++												</li>
+ 												<li>
+ 													<a href="/koubo/bunya_index.html" rel="noopener noreferrer">
+ 														分野別一覧
+@@ -473,6 +488,11 @@
+ 														事業に関するお知らせ
+ 													</a>
+ 												</li>
++												<li>
++													<a href="/news/event/event_list.html" rel="noopener noreferrer">
++														イベント
++													</a>
++												</li>
+ 												<li>
+ 													<a href="/news/other/2026_other_index.html" rel="noopener noreferrer">
+ 														その他お知らせ
+@@ -489,6 +509,39 @@
+ 								</div>
+ 							</div>
+ 						</li>
++						<li>
++							<div>
++								<a href="/news/event/event_list.html" rel="noopener noreferrer">
++									<span>
++										イベント
++									</span>
++								</a>
++							</div>
++							開閉ボタン
++							<div>
++								<div>
++									<div>
++										<div>
++											<a href="/news/event/event_list.html" rel="noopener noreferrer">
++												<img alt="" src="/content/000002696.png">
++												<span>
++													イベント
++												</span>
++											</a>
++										</div>
++										<div>
++											<ul>
++												<li>
++													<a href="/news/event/event_list.html" rel="noopener noreferrer">
++														イベント
++													</a>
++												</li>
++											</ul>
++										</div>
++									</div>
++								</div>
++							</div>
++						</li>
+ 						<li>
+ 							<div>
+ 								<a href="/pr/index.html" rel="noopener noreferrer">
+@@ -755,7 +808,7 @@
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/index.html" rel="noopener noreferrer">
++										<a href="/news/event/event_list.html" rel="noopener noreferrer">
+ 											イベント一覧
+ 										</a>
+ 									</li>
+@@ -1205,6 +1258,21 @@
+ 								公募情報一覧
+ 							</span>
+ 							<ul>
++								<li>
++									<a href="/koubo/yokoku_index.html" rel="noopener noreferrer">
++										公募予告一覧
++									</a>
++								</li>
++								<li>
++									<a href="/koubo/koubo_index.html" rel="noopener noreferrer">
++										公募情報一覧
++									</a>
++								</li>
++								<li>
++									<a href="/koubo/saitaku_index.html" rel="noopener noreferrer">
++										採択情報一覧
++									</a>
++								</li>
+ 								<li>
+ 									<a href="/koubo/bunya_index.html" rel="noopener noreferrer">
+ 										分野別一覧
+@@ -1270,6 +1338,11 @@
+ 								事業に関するお知らせ
+ 							</a>
+ 						</li>
++						<li>
++							<a href="/news/event/event_list.html" rel="noopener noreferrer">
++								イベント
++							</a>
++						</li>
+ 						<li>
+ 							<a href="/news/other/2026_other_index.html" rel="noopener noreferrer">
+ 								その他お知らせ
+@@ -1282,6 +1355,20 @@
+ 						</li>
+ 					</ul>
+ 				</div>
++				<div>
++					<h3>
++						<a href="/news/event/event_list.html" rel="noopener noreferrer">
++							イベント
++						</a>
++					</h3>
++					<ul>
++						<li>
++							<a href="/news/event/event_list.html" rel="noopener noreferrer">
++								イベント
++							</a>
++						</li>
++					</ul>
++				</div>
+ 				<div>
+ 					<h3>
+ 						<a href="/pr/index.html" rel="noopener noreferrer">

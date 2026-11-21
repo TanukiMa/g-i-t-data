@@ -1,0 +1,56 @@
+diff --git a/sites/jsaweb/jp/jsaweb/index.html b/sites/jsaweb/jp/jsaweb/index.html
+index 99d1f80c1..78c551c6f 100644
+--- a/sites/jsaweb/jp/jsaweb/index.html
++++ b/sites/jsaweb/jp/jsaweb/index.html
+@@ -347,7 +347,7 @@
+ 							</div>
+ 							<div>
+ 								<a href="https://www.jsaweb.jp/modules/award/index.php?content_id=38" rel="noopener noreferrer">
+-									Kenji Mano Travel Grant
++									JSA Young Investigator Travel Grant
+ 								</a>
+ 							</div>
+ 							<div>
+@@ -595,6 +595,16 @@
+ 							</a>
+ 						</div>
+ 						<div>
++							<div>
++								<div>
++									2026.10.19
++								</div>
++								<div>
++									<a href="https://www.jsaweb.jp/modules/news_topics/index.php?content_id=720" rel="noopener noreferrer">
++										【新】JSA Young Investigator Travel Grant 2027 AAAAI Annual Meeting の 募集開始 について
++									</a>
++								</div>
++							</div>
+ 							<div>
+ 								<div>
+ 									2026.10.15
+@@ -685,16 +695,6 @@
+ 									</a>
+ 								</div>
+ 							</div>
+-							<div>
+-								<div>
+-									2026.8.7
+-								</div>
+-								<div>
+-									<a href="https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1111" rel="noopener noreferrer">
+-										薬剤の供給量減少に係る協力依頼について
+-									</a>
+-								</div>
+-							</div>
+ 						</div>
+ 					</div>
+ 				</div>
+@@ -1263,7 +1263,7 @@
+ 				</li>
+ 				<li>
+ 					<a href="https://www.jsaweb.jp/modules/award/index.php?content_id=38" rel="noopener noreferrer">
+-						Kenji Mano Travel Grant
++						JSA Young Investigator Travel Grant
+ 					</a>
+ 				</li>
+ 				<li>
