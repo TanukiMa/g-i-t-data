@@ -144,6 +144,7 @@ sites:
     name: "AnswersNews"
     slug: "answersnews"
     tags: ["報道・情報"]
+    paused: true   # Akamai answers 403 Access Denied to every automated fetch (2026-11-22)
   - url: https://www.yakuji.co.jp/
     name: "薬事日報"
     slug: "yakujicojp"
