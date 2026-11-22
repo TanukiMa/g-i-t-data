@@ -158,6 +158,7 @@ sites:
     name: "日本保険薬局協会"
     slug: "nipponpaorg"
     tags: ["職能・業界団体", "診療報酬・保険", "医薬品・医療機器"]
+    paused: true   # 403 for the Cloud Run address range since 2026-11-17 (2026-11-22)
   - url: https://www.jga.gr.jp/
     name: "日本ジェネリック製薬協会"
     slug: "jgagrjp"
@@ -170,6 +171,7 @@ sites:
     name: "健康保険組合連合会 - プレスリリース"
     slug: "kenporen"
     tags: ["職能・業界団体", "診療報酬・保険"]
+    paused: true   # 403 for the Cloud Run address range (2026-11-22)
   - url: https://www.wam.go.jp/gyoseiShiryou/top
     name: "福祉医療機構- 行政情報"
     slug: "wamgojpgyosei"
@@ -479,6 +481,7 @@ sites:
     name: "日本移植学会"
     slug: "jst"
     tags: ["学会", "外科系"]
+    paused: true   # connection times out from the Cloud Run address range (2026-11-22)
   - url: https://www.jsmm.org/main.html
     name: "日本医真菌学会"
     slug: "jsmm"
