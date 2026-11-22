@@ -39,6 +39,7 @@ sites:
     name: "がん情報サービス - 医療関係者向け情報"
     slug: "ganjohoguideline"
     tags: ["がん"]
+    paused: true   # the page moved: /guideline/ -> /guideline/index.html answers 404 (2026-11-22)
   - url: https://gstu.members-web.com/gstu/guideline/index.php?category_id=9
     name: "日本癌治療学会 - がん診療ガイドライン"
     slug: "gstuguideline"
