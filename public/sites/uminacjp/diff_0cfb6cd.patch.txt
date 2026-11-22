@@ -1,0 +1,66 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 5ce2571e8..5dc361beb 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -972,6 +972,30 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						DRC株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072779" rel="noopener noreferrer">
++							各年代の顔及び手の状態評価試験
++						</a>
++					</li>
++					<li>
++						東京ミッドタウン先端医療研究所：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072915" rel="noopener noreferrer">
++							男性型脱毛症に対する異なる治療法による毛髪の変化と治療効果との関連を調べる後ろ向き観察研究
++						</a>
++					</li>
++					<li>
++						東京科学大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072921" rel="noopener noreferrer">
++							CREW Study
++						</a>
++					</li>
++					<li>
++						日本赤十字看護大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072922" rel="noopener noreferrer">
++							ICU看護師の終末期家族支援教育プログラム
++						</a>
++					</li>
+ 					<li>
+ 						日立総合病院：
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071424" rel="noopener noreferrer">
+@@ -1008,30 +1032,6 @@
+ 							子どもの口腔体操プログラムによる口腔発達への影響研究
+ 						</a>
+ 					</li>
+-					<li>
+-						明治国際医療大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072726" rel="noopener noreferrer">
+-							肩こりに対する温泉入浴併用の鍼灸治療効果
+-						</a>
+-					</li>
+-					<li>
+-						国立病院機構相模原病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072701" rel="noopener noreferrer">
+-							重症のピーナッツ・クルミ・カシューナッツアレルギー児に対する微量固定経口免疫療法
+-						</a>
+-					</li>
+-					<li>
+-						フェリング・ファーマ株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072877" rel="noopener noreferrer">
+-							NA
+-						</a>
+-					</li>
+-					<li>
+-						帝京平成大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072891" rel="noopener noreferrer">
+-							単回の鍼刺激がブドウ糖摂取後の糖代謝調節に与える即時的な影響
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="https://center9.umin.ac.jp/nuhs/news" rel="noopener noreferrer">
