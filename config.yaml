@@ -3,7 +3,7 @@
 tag_groups:
   種別: ["学会", "行政", "公的機関", "職能・業界団体", "報道・情報"]
   組織: ["厚生労働省", "PMDA"]
-  内容: ["通知・法令", "ガイドライン", "診療報酬・保険", "マスター", "医薬品・医療機器", "医療DX・医療情報", "感染症", "医療安全"]
+  内容: ["通知・法令", "ガイドライン", "診療報酬・保険", "マスター", "医薬品・医療機器", "医療DX・医療情報", "感染症", "医療安全", "助成"]
   領域: ["内科系", "外科系", "産婦人科・小児", "精神・神経", "感覚器・皮膚・口腔", "放射線・画像・検査", "がん", "救急・麻酔・集中治療", "基礎医学", "公衆衛生・予防", "運動器・リハ", "薬剤・栄養", "医療機器・工学", "総合・教育"]
 sites:
   - url: https://iyakuhin-kyokyu.mhlw.go.jp/api/info-site/supply-status-report
@@ -1138,3 +1138,27 @@ sites:
     name: "加盟学会一覧 - 日本医学会連合"
     slug: "jmsfaccession"
     tags: ["学会", "総合・教育"]
+  - url: https://www.nishikawa-iryou.org/news/
+    name: "西川医療振興財団 - お知らせ（助成）"
+    slug: "nishikawa-iryou"
+    tags: ["職能・業界団体", "助成", "総合・教育"]
+  - url: https://www.nakatani-foundation.jp/news/
+    name: "中谷財団 - 事業ニュース（助成）"
+    slug: "nakatani-foundation"
+    tags: ["職能・業界団体", "助成", "医療機器・工学"]
+  - url: https://www.ueharazaidan.or.jp/newslist
+    name: "上原記念生命科学財団 - お知らせ"
+    slug: "ueharazaidan-news"
+    tags: ["職能・業界団体", "助成", "基礎医学"]
+  - url: https://www.ueharazaidan.or.jp/grant/varius_grants_detail.html
+    name: "上原記念生命科学財団 - 各種助成金"
+    slug: "ueharazaidan-grants"
+    tags: ["職能・業界団体", "助成", "基礎医学"]
+  - url: https://www.suzukenzaidan.or.jp/bosyu/index.html
+    name: "鈴木謙三記念医科学応用研究財団 - 募集案内"
+    slug: "suzukenzaidan"
+    tags: ["職能・業界団体", "助成", "基礎医学"]
+  - url: https://aomri.jp/archives/category/information
+    name: "画像診断管理認証機構（AOMRI） - Information"
+    slug: "aomri"
+    tags: ["職能・業界団体", "助成", "放射線・画像・検査"]
