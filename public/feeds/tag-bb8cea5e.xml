@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 通知・法令</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-bb8cea5e.xml</id>
-  <updated>2026-11-20T22:35:40Z</updated>
+  <updated>2026-11-23T22:33:58Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-bb8cea5e.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>福祉医療機構 - 行政情報 - 審議会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyoseibunlist/4f0f83ddadd27425c896c84fc3327b6f71eed47a</id>
+    <updated>2026-11-23T22:33:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/diff_4f0f83d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>福祉医療機構 - 行政情報 - 審議会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyoseibunlist/1df606754f98962a62130592d7e1fa1a2febcac1</id>
@@ -350,12 +357,5 @@
     <updated>2026-11-12T07:33:32Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/history.html" />
     <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/diff_fb70ff2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261112092159/https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>福祉医療機構- 行政情報: 追加: 「第220回 社会保障審議会 医療保険部会（令和8年11月11日開催）」の記載が加わりました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyosei/1089c019931506808306ab09eeec5106d84b1783</id>
-    <updated>2026-11-12T07:33:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyosei/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第220回 社会保障審議会 医療保険部会（令和8年11月11日開催）」の記載が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第63回 社会保障審議会 生活保護基準部会（令和8年11月11日開催）」の記載が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第77回 中央社会保険医療協議会 診療報酬改定結果検証部会（令和8年11月11日開催）」の記載が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第274回 社会保障審議会 介護給付費分科会（令和8年11月6日開催）」「インフルエンザ最新情報（令和8年11月6日更新）」「第26回 健やか親子21推進本部総会（令和8年11月9日開催）」ほか3件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/top"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyosei/diff_1089c01.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261112015522/https://www.wam.go.jp/gyoseiShiryou/top"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
