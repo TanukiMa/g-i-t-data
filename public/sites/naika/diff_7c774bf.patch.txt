@@ -1,0 +1,70 @@
+diff --git a/sites/naika/jp/or/naika/index.html b/sites/naika/jp/or/naika/index.html
+index fb2665080..ea5a90e26 100644
+--- a/sites/naika/jp/or/naika/index.html
++++ b/sites/naika/jp/or/naika/index.html
+@@ -1016,7 +1016,14 @@
+ 												2026年11月24日
+ 											</span>
+ 											<span>
+-												<a href="https://www.naika.or.jp/info/20261124/" rel="noopener noreferrer">
++												<div>
++													<a href="/info-cat/announcement/" rel="noopener noreferrer">
++														日本内科学会
++													</a>
++												</div>
++											</span>
++											<span>
++												<a href="https://www.naika.or.jp/info/20261124-2/" rel="noopener noreferrer">
+ 													リカレント教育 新規4コンテンツ追加公開のお知らせ
+ 												</a>
+ 											</span>
+@@ -1876,6 +1883,23 @@
+ 									</div>
+ 									<div>
+ 										<ul>
++											<li>
++												<span>
++													2026年11月24日
++												</span>
++												<span>
++													<div>
++														<a href="/info-cat/announcement/" rel="noopener noreferrer">
++															日本内科学会
++														</a>
++													</div>
++												</span>
++												<span>
++													<a href="https://www.naika.or.jp/info/20261124-2/" rel="noopener noreferrer">
++														リカレント教育 新規4コンテンツ追加公開のお知らせ
++													</a>
++												</span>
++											</li>
+ 											<li>
+ 												<span>
+ 													2026年11月13日
+@@ -2138,25 +2162,6 @@
+ 													</a>
+ 												</span>
+ 											</li>
+-											<li>
+-												<span>
+-													2026年07月29日
+-												</span>
+-												<span>
+-													<div>
+-														<a href="/info-cat/announcement/" rel="noopener noreferrer">
+-															日本内科学会
+-														</a>
+-													</div>
+-												</span>
+-												<span>
+-													<a href="https://www.naika.or.jp/info/20260729/" rel="noopener noreferrer">
+-														<span>
+-															【緊急】令和８年熊本地震について（サバイバルカード＆アクションカード）
+-														</span>
+-													</a>
+-												</span>
+-											</li>
+ 										</ul>
+ 									</div>
+ 									<div>

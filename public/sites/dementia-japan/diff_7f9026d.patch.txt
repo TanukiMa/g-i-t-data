@@ -1,0 +1,100 @@
+diff --git a/sites/dementia-japan/org/dementia-japan/index.html b/sites/dementia-japan/org/dementia-japan/index.html
+index 1c291ccdf..ad81b9c2e 100644
+--- a/sites/dementia-japan/org/dementia-japan/index.html
++++ b/sites/dementia-japan/org/dementia-japan/index.html
+@@ -481,6 +481,25 @@
+ 				</h2>
+ 				<div>
+ 					<ul>
++						<li>
++							<div>
++								<div>
++									2026-11-24
++								</div>
++							</div>
++							<div>
++								<span>
++									news
++								</span>
++							</div>
++							<div>
++								<a href="https://dementia-japan.org/guideline/#2" rel="noopener noreferrer">
++									レカネマブ（製品名：レケンビ）の最適使用推進ガイドライン（改訂版）の公表について
++								</a>
++							</div>
++							<div>
++							</div>
++						</li>
+ 						<li>
+ 							<div>
+ 								<div>
+@@ -557,32 +576,32 @@
+ 							<div>
+ 							</div>
+ 						</li>
++					</ul>
++					<a href="https://dementia-japan.org/category/news/" rel="noopener noreferrer">
++						+　more
++					</a>
++				</div>
++				<div>
++					<ul>
+ 						<li>
+ 							<div>
+ 								<div>
+-									2026-10-20
++									2026-11-24
+ 								</div>
+ 							</div>
+ 							<div>
+ 								<span>
+-									update
++									news
+ 								</span>
+ 							</div>
+ 							<div>
+-								<a href="https://dementia-japan.org/doctors/" rel="noopener noreferrer">
+-									専門医一覧、専門医のいる施設を更新しました
++								<a href="https://dementia-japan.org/guideline/#2" rel="noopener noreferrer">
++									レカネマブ（製品名：レケンビ）の最適使用推進ガイドライン（改訂版）の公表について
+ 								</a>
+ 							</div>
+ 							<div>
+ 							</div>
+ 						</li>
+-					</ul>
+-					<a href="https://dementia-japan.org/category/news/" rel="noopener noreferrer">
+-						+　more
+-					</a>
+-				</div>
+-				<div>
+-					<ul>
+ 						<li>
+ 							<div>
+ 								<div>
+@@ -659,25 +678,6 @@
+ 							<div>
+ 							</div>
+ 						</li>
+-						<li>
+-							<div>
+-								<div>
+-									2026-10-20
+-								</div>
+-							</div>
+-							<div>
+-								<span>
+-									update
+-								</span>
+-							</div>
+-							<div>
+-								<a href="https://dementia-japan.org/doctors/" rel="noopener noreferrer">
+-									専門医一覧、専門医のいる施設を更新しました
+-								</a>
+-							</div>
+-							<div>
+-							</div>
+-						</li>
+ 					</ul>
+ 					<a href="https://dementia-japan.org/category/news_en/" rel="noopener noreferrer">
+ 						+　more

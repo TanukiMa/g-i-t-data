@@ -2,270 +2,480 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 更新情報（すべて）</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/all.xml</id>
-  <updated>2026-11-24T03:37:11Z</updated>
+  <updated>2026-11-24T07:33:52Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/all.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>日本プライマリ・ケア連合学会: 追加: 「【2026年12月13日WEB開催】プライマリ・ケア認定薬剤師研修会　申込〆切延長！！【11月30日17時まで】」（2026.11.24）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/primarycare-japan/da8da82ae7dc5492d3042c0975ed1ae5a2f78346</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/primarycare-japan/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「【2026年12月13日WEB開催】プライマリ・ケア認定薬剤師研修会　申込〆切延長！！【11月30日17時まで】」（2026.11.24）&lt;/li&gt;&lt;li&gt;変更: 「第19回若手医師のための家庭医療学冬期セミナー 申込終了まで残り5日！」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.primarycare-japan.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/primarycare-japan/diff_da8da82.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加：「医薬品・医療機器等安全性情報 No.434（厚生労働省発行）を掲載しました」（2026年11月24日）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/1de8e67347f43d72056ae421cf7001e0aa065629</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：「医薬品・医療機器等安全性情報 No.434（厚生労働省発行）を掲載しました」（2026年11月24日）&lt;/li&gt;&lt;li&gt;追加：「「副作用が疑われる症例報告に関する情報」に2026年7月分の情報を追加しました」（2026年11月24日）&lt;/li&gt;&lt;li&gt;変更：「添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「令和8年度第2回運営評議会　開催案内を掲載しました。」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_1de8e67.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本精神科病院協会: 追加: 「行政情報　厚労省等通達を更新しました」（2026-11-24）の記載が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/nisseikyoorjp/b8bc2a74feaa5bac358c85525e3ad303b6986597</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nisseikyoorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「行政情報　厚労省等通達を更新しました」（2026-11-24）の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「行政情報　令和8年熊本地震関連情報を更新しました」（2026-11-02）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.nisseikyo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nisseikyoorjp/diff_b8bc2a7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本衛生学会: 変更：「日本衛生学会第3回免疫衛生学研究会独自集会＜教育講演＞」（2026年10月9日）の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/nihon-eisei/653bed4f678224ff91f5523b7d1be272f246fbea</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nihon-eisei/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「日本衛生学会第3回免疫衛生学研究会独自集会＜教育講演＞」（2026年10月9日）の記載が消えました。&lt;/li&gt;&lt;li&gt;追加：2026年11月24日「採用・求人・大学院生の募集」として「日本大学医学部 助教(任期制)もしくは助手(任期制)1名 公募」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.nihon-eisei.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nihon-eisei/diff_653bed4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本薬剤師会: 追加：【重要】PHPの脆弱性対応に伴う緊急システムメンテナンス終了およびサービス再開のお知らせ（11/24更新）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/nichiyakuorjp/85308a51b8aa6bb5a82e4e985c63dba2733e4927</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/nichiyakuorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：【重要】PHPの脆弱性対応に伴う緊急システムメンテナンス終了およびサービス再開のお知らせ（11/24更新）&lt;/li&gt;&lt;li&gt;追加：2026.11.24 「【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム」&lt;/li&gt;&lt;li&gt;変更：「【緊急システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム（11/20）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：2026.10.29 「第60回日本薬剤師会学術大会（福島大会）の大会ホームページが開設されました」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.nichiyaku.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/nichiyakuorjp/diff_85308a5.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本内科学会: 変更: 「【緊急】令和８年熊本地震について（サバイバルカード＆アクションカード）」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/naika/7c774bfb9f8c30e0efc758a8eeab9ba851ba1762</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/naika/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【緊急】令和８年熊本地震について（サバイバルカード＆アクションカード）」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「リカレント教育 新規4コンテンツ追加公開のお知らせ」（2026年11月24日）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.naika.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/naika/diff_7c774bf.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>厚生労働省 - 社会保障審議会（医療保険部会）: 変更 「11月9日」「11月5日」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlwgojp28708/8a4203324d51c38d794b7ce92e23adf92bfc139c</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlwgojp28708/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; 「11月9日」「11月5日」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt; 「11月24日」（開催案内および議事録）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/newpage_28708.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlwgojp28708/diff_8a42033.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>厚生労働省 - 新着情報: 追加: 「人口動態統計速報」令和８（2026）年09月分が掲載されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-new-info/288bf22719ac6b690230f017fc74fa3d2e48837b</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-new-info/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「人口動態統計速報」令和８（2026）年09月分が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第１回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第２タスクフォースのページが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第222回社会保障審議会医療保険部会（ペーパーレス）の開催についてのページが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 食品中の放射性物質の検査結果について（１５２２報）のページが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第152回脳死下での臓器提供事例に係る検証会議を開催しますのページが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 第３回「化学物質管理強調月間」を２月に実施のページが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第146回労働政策審議会障害者雇用分科会」を開催します（開催案内）のページが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-new-info/diff_288bf22.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>厚生労働省 - 新着の法令: 追加: 令和８年１１月２４日掲載「労働安全衛生規則の一部を改正する省令（令和８年11月24日厚生労働省令第158号）(PDF,104KB)」【労働基準局安全衛生部化学物質対策課】</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-hourei-newindex/a025b24fcf0e66a770e6f93fa2f0858f582a2d22</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和８年１１月２４日掲載「労働安全衛生規則の一部を改正する省令（令和８年11月24日厚生労働省令第158号）(PDF,104KB)」【労働基準局安全衛生部化学物質対策課】&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/hourei/new/hourei/newindex.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-hourei-newindex/diff_a025b24.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>厚生労働省: 追加：「「人口動態統計速報」令和８（2026）年09月分」</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/f084ae2473e6db21aae0cdd9e858b263049c9add</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：「「人口動態統計速報」令和８（2026）年09月分」&lt;/li&gt;&lt;li&gt;追加：「第１回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第２タスクフォース」&lt;/li&gt;&lt;li&gt;追加：「第222回社会保障審議会医療保険部会（ペーパーレス）の開催について」&lt;/li&gt;&lt;li&gt;追加：「食品中の放射性物質の検査結果について（１５２２報）」&lt;/li&gt;&lt;li&gt;追加：「第３回「化学物質管理強調月間」を２月に実施」&lt;/li&gt;&lt;li&gt;追加：「第152回脳死下での臓器提供事例に係る検証会議を開催します」&lt;/li&gt;&lt;li&gt;追加：「「第146回労働政策審議会障害者雇用分科会」を開催します（開催案内）」&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_f084ae2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>メディカルトリビューン: 追加: 「上位感染症軒並み増、インフル警報レベル超え 【感染症動向調査第46週：11月9～15日】」</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/c042813806a6b7a1f0cf0c1a50aa29d04f30bb0b</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「上位感染症軒並み増、インフル警報レベル超え 【感染症動向調査第46週：11月9～15日】」&lt;/li&gt;&lt;li&gt;変更: 「セリアック病患者は摂食障害リスクが高い」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 「〔10pt進呈〕トリプタンやNSAIDの薬剤使用過多による頭痛（MOH）を防ぐため、滝沢翼氏が提示した1カ月当たりの服用日数の目安は？【MT医療検定 No.150】（12/2まで）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_c042813.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>国民健康保険中央会: 追加: 「宮崎県日之影町の保健事業事例を掲載いたしました。」（2026年11月24日 保健事業情報）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/kokuho/49aad553c9f786c40305baf13246e8ba26d186c8</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/kokuho/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「宮崎県日之影町の保健事業事例を掲載いたしました。」（2026年11月24日 保健事業情報）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「すこやかリレー令和8年11月20日号「高血圧対策の強化」を掲載いたしました。」（2026年11月24日 保健事業情報）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「地域の皆様が医療保険や介護保険等をいつでもどこでも安心して利用できるような基盤づくりをしています。」（※画像をクリックすると、「国保制度改善強化全国大会」のページへ移動します。）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kokuho.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kokuho/diff_49aad55.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本小児外科学会: 追加: 2026.11.24 「【「小児慢性特定疾病指定医の指定について」の一部改正について】」が掲載されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsps/3b3e28947faef8e740c755e8d2f84a5ed6338438</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsps/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24 「【「小児慢性特定疾病指定医の指定について」の一部改正について】」が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24 「【「指定医の指定について」の一部改正について】」が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【IPEG-JSPS Joint Webinar開催のご案内】」「【第28回評議員選挙確定選挙人名簿の確認と投票方法のお知らせ】」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.jsps.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsps/diff_3b3e289.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本レーザー医学会: 追加: 「令和8年度 日本レーザー医学会 臨時総会」における決議結果のご報告（2026.11.24）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jslsm/5f8a616ebbab6ea1c427f7533d30e55301213a9b</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jslsm/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「令和8年度 日本レーザー医学会 臨時総会」における決議結果のご報告（2026.11.24）&lt;/li&gt;&lt;li&gt;変更: 「第60回安全教育講習会（オンデマンド配信）」開催のご案内（2026.08.24）の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 第32回「日本医学会総会奨励賞」候補者ご推薦受付のご案内（2026.06.09）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jslsm.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jslsm/diff_5f8a616.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本免疫学会: 追加: 会員及び研究者向け＞お知らせに「在日フランス大使館・公益財団法人 後藤喜代子・ポールブルダリ癌基金協会「第3回 共同渡航支援プログラム」のお知らせ」が掲載されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsi-men-eki/2c13478d6375b7e5570569238f3a38dab4c803cd</id>
+    <updated>2026-11-24T07:33:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsi-men-eki/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 会員及び研究者向け＞お知らせに「在日フランス大使館・公益財団法人 後藤喜代子・ポールブルダリ癌基金協会「第3回 共同渡航支援プログラム」のお知らせ」が掲載されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsi-men-eki.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsi-men-eki/diff_2c13478.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本人類遺伝学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jshg/86eb92f86f9a51997ac186125cd3e43cf55e913c</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshg/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshg.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshg/diff_86eb92f.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本肝臓学会: 追加: 「2026年度 第2期 eラーニング 受講サイトメンテナンスのお知らせ」が追加されました（2026/11/24）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsh/306e0248c33de4d021b783b23a5e6bc12f8c3b91</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsh/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年度 第2期 eラーニング 受講サイトメンテナンスのお知らせ」が追加されました（2026/11/24）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌）について、他」および「JSH International Liver Conference 2028の会長公募について」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsh.or.jp/medical/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsh/diff_306e024.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本臨床薬理学会: 追加: 2026.11.24 「「第2回再生医療等研究者向け教育研修会」のお知らせ」が追加されました（細胞・再生医療・遺伝治療実現加速化プラグラム事業（倫理・社会共創課題）より）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jscpt/e9e245e1c308a857a0e085edea8cd0f3b927e477</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jscpt/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24 「「第2回再生医療等研究者向け教育研修会」のお知らせ」が追加されました（細胞・再生医療・遺伝治療実現加速化プラグラム事業（倫理・社会共創課題）より）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「パブリックヘルス科学研究助成」公募情報のお知らせ」（2026.10.13）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jscpt.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jscpt/diff_e9e245e.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本消化器内視鏡学会: 追加: 「第3回医療フォトニクスシンポジウム～実用化成功の鍵を探る～のご案内」（2026年11月24日）の掲載が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/c1e2a0bd42aaf468e576c480c7fc030e154edfb7</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jges/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第3回医療フォトニクスシンポジウム～実用化成功の鍵を探る～のご案内」（2026年11月24日）の掲載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌、非小細胞肺癌、悪性黒色腫、子宮体癌、高い腫瘍遺伝子変異量（TMB-High）を有する固形癌、子宮頸癌、原発性縦隔大細胞型B細胞リンパ腫、胃癌、頭頸部癌、悪性胸膜中皮腫、胆道癌、古典的ホジキンリンパ腫、高頻度マイクロサテライト不安定性（MSI-High）を有する固形癌及び結腸・直腸癌、腎細胞癌、食道癌、乳癌並びに尿路上皮癌）の一部改正について厚生労働省より周知依頼がございました。」（2026年11月16日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_c1e2a0b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本糖尿病学会 - 刊行物: 追加：内分泌代謝・糖尿病内科専門医研修ガイドブック 改訂第2版（日本内分泌学会・日本糖尿病学会 編、診断と治療社、B5判、定価：本体 8,700円＋税、2026年 11月20日 …</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jdspublication/de2833857336508003ba549742d11519b5dda18e</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jdspublication/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：内分泌代謝・糖尿病内科専門医研修ガイドブック 改訂第2版（日本内分泌学会・日本糖尿病学会 編、診断と治療社、B5判、定価：本体 8,700円＋税、2026年 11月20日 発行）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「内分泌代謝・糖尿病内科領域専門医研修ガイドブック」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：更新日が2026年11月24日に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jds.or.jp/modules/publication/index.php?content_id=1"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jdspublication/diff_de28338.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本作業療法士協会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jaotorjp/caae9fecef8f5541997ef919bf53a2949f6e564d</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jaotorjp/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jaot.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jaotorjp/diff_caae9fe.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本医療情報学会: 追加: 2026年11月24日付で「2026年学術奨励賞（第46回医療情報学連合大会）・YIA（Young Investigator Award）、YPA（Young Pract…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jami/a3f20197b87a2a5cf2abe817c48732d09a8527b4</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jami/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月24日付で「2026年学術奨励賞（第46回医療情報学連合大会）・YIA（Young Investigator Award）、YPA（Young Practitioner Award）が決定しました。」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jami.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jami/diff_a3f2019.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本医療政策機構: 追加：【お知らせ】国連気候変動枠組条約（UNFCCC）のオブザーバー団体として認定（2026年11月）（2026-11-24）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpgiorg/e199de3ca13dd4503931a0b4ef66b1ce5a49bfe9</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpgiorg/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：【お知らせ】国連気候変動枠組条約（UNFCCC）のオブザーバー団体として認定（2026年11月）（2026-11-24）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「【講演報告】ウェビナー「アジアン・ブレイン・ヘルス・エコノミー戦略の構築」（ユーロ地中海経済学者協会／グローバル・ブレイン・エコノミー・イニシアティブ、2026年9月17日）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hgpi.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpgiorg/diff_e199de3.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本病院会: 追加: 2026.11.24付け事務連絡「令和８年11月20日からの大雪に伴う災害の被災者に係るマイナ保険証又は資格確認書の提示等について」</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hospitalorjp/a7b3af959e454f92893d4d334441b7e06bc5970c</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hospitalorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026.11.24付け事務連絡「令和８年11月20日からの大雪に伴う災害の被災者に係るマイナ保険証又は資格確認書の提示等について」&lt;/li&gt;&lt;li&gt;変更: 「【事務連絡】抗CGRP 抗体製剤に係る最適使用推進ガイドラインの策定に伴う留意事項について」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hospital.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hospitalorjp/diff_a7b3af9.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>gemmed: 追加: 「「介護事業所等の厳しい経営状況」「他産業と介護従事者との給与格差」踏まえ、介護報酬での対応求める声大—社保審・介護給付費分科会（2）」が掲載されました（2026.11.…</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/846453f219a5f93ee3bd7fe85fa9f5c85a00aa09</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「「介護事業所等の厳しい経営状況」「他産業と介護従事者との給与格差」踏まえ、介護報酬での対応求める声大—社保審・介護給付費分科会（2）」が掲載されました（2026.11.24）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「京大病院で「小児・AYA世代のがん患者へ最適な抗がん剤治療を可能とする患者申出療養」スタート—国がん・京大病院」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2024→25年度にかけて多くの介護サービスで経営悪化、訪問介護の経営は「さらに良好」になっているが・・・―介護事業経営調査委員会（2）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_846453f.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本製薬団体連合会(日薬連): 追加: 2026.11.23「メール配信委託先における不正アクセスに関する調査結果について」</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/fpmajgrjp/295b7b6b6fc224301dabf52a70e3c123038066de</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/fpmajgrjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026.11.23「メール配信委託先における不正アクセスに関する調査結果について」&lt;/li&gt;&lt;li&gt;変更: 「トップメッセージ」「2026.01.04」「令和８年 年頭ご挨拶」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.fpmaj.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/fpmajgrjp/diff_295b7b6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本認知症学会: 追加: 2026-11-24付で「レカネマブ（製品名：レケンビ）の最適使用推進ガイドライン（改訂版）の公表について」が掲載されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/dementia-japan/7f9026dc8925e55538115d2ad4c0304fc901aea6</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/dementia-japan/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026-11-24付で「レカネマブ（製品名：レケンビ）の最適使用推進ガイドライン（改訂版）の公表について」が掲載されました。&lt;/li&gt;&lt;li&gt;変更: 「2026-10-20 update 専門医一覧、専門医のいる施設を更新しました」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://dementia-japan.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/dementia-japan/diff_7f9026d.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>内閣官房 - 健康・医療戦略推進本部: 追加: 健康・医療戦略推進専門調査会 第48回が令和８年11月18日に開催された旨の記載と関連リンクが追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/casgojpkenkouiryou/75932f122e65af2c8ddfcaa94aec51bd3cc74b86</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/casgojpkenkouiryou/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 健康・医療戦略推進専門調査会 第48回が令和８年11月18日に開催された旨の記載と関連リンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cas.go.jp/jp/seisakukaigi/kenkouiryou/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/casgojpkenkouiryou/diff_75932f1.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>日本医療研究開発機構(AMED): 追加: 「（情報更新）（令和9年3月5日／ 6日開催）「第12回 研究倫理を語る会」開催のお知らせ」（令和8年11月24日、イベント）の記載が追加されました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/amedgojp/85183b85fb4b022a1d4fa8f1ef2913c1f466425b</id>
+    <updated>2026-11-24T07:33:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/amedgojp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「（情報更新）（令和9年3月5日／ 6日開催）「第12回 研究倫理を語る会」開催のお知らせ」（令和8年11月24日、イベント）の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「（情報更新）「公募カレンダー」最新情報を掲載しました」（令和8年11月16日、トピックス）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.amed.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/amedgojp/diff_85183b8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>全日本病院協会: 変更: 更新日が「2026/11/20」から「2026/11/24」に変更されました</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/ajhaorjp/8c9922ab0c83bb0741ec11693bf12d743d16b074</id>
+    <updated>2026-11-24T07:33:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ajhaorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 更新日が「2026/11/20」から「2026/11/24」に変更されました&lt;/li&gt;&lt;li&gt;変更: 更新件数が「医療行政情報を7件更新しました」から「医療行政情報を4件更新しました」に変更されました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ajhaorjp/diff_8c9922a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>薬事日報: 追加: 【ツムラ】漢方製剤の情報提供強化‐胃腸症、睡眠障害領域で</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/63276efadb7a322bae6e7463eae2905c4467dc9f</id>
     <updated>2026-11-24T03:37:11Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 【ツムラ】漢方製剤の情報提供強化‐胃腸症、睡眠障害領域で&lt;/li&gt;&lt;li&gt;追加: 【JACDS】SMBGのOTC化推進要望‐薬剤師関与へ仕組み整備を&lt;/li&gt;&lt;li&gt;追加: 12月21～22日に「第11回DIA再生医療製品・遺伝子治療用製品シンポジウム」開催　ディー・アイ…&lt;/li&gt;&lt;li&gt;追加: 【日本酸素】PET診断薬原料製造プラントを新設‐世界需要に対応し供給体制を刷新&lt;/li&gt;&lt;li&gt;追加: 【三井化学グループ】アフリカで初の歯科シンポ開催‐EMEA地域の事業基盤を強化&lt;/li&gt;&lt;li&gt;追加: 【奥谷金網製作所】マイクロナノバブル洗浄機「OKS-1400MS」が高い評価&lt;/li&gt;&lt;li&gt;変更: 「【科研製薬】「エクテリー」が順調に拡大‐初の経口HAE治療薬」「薬剤師関与の販売制度を‐NPhA 藤井会長、OTC使用で適切に助言」「【27年度介護報酬改定】老健の薬剤師評価拡充か‐医療・介護連携を強化へ」ほか 8 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_63276ef.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 【ツムラ】漢方製剤の情報提供強化‐胃腸症、睡眠障害領域で&lt;/li&gt;&lt;li&gt;追加: 【JACDS】SMBGのOTC化推進要望‐薬剤師関与へ仕組み整備を&lt;/li&gt;&lt;li&gt;追加: 12月21～22日に「第11回DIA再生医療製品・遺伝子治療用製品シンポジウム」開催　ディー・アイ…&lt;/li&gt;&lt;li&gt;追加: 【日本酸素】PET診断薬原料製造プラントを新設‐世界需要に対応し供給体制を刷新&lt;/li&gt;&lt;li&gt;追加: 【三井化学グループ】アフリカで初の歯科シンポ開催‐EMEA地域の事業基盤を強化&lt;/li&gt;&lt;li&gt;追加: 【奥谷金網製作所】マイクロナノバブル洗浄機「OKS-1400MS」が高い評価&lt;/li&gt;&lt;li&gt;変更: 「【科研製薬】「エクテリー」が順調に拡大‐初の経口HAE治療薬」「薬剤師関与の販売制度を‐NPhA 藤井会長、OTC使用で適切に助言」「【27年度介護報酬改定】老健の薬剤師評価拡充か‐医療・介護連携を強化へ」ほか 8 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_63276ef.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>福祉医療機構 - 行政情報 - 審議会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyoseibunlist/52ffd158938f9d55ad0650653695bc94ce2c8685</id>
     <updated>2026-11-24T03:37:11Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/diff_52ffd15.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/diff_52ffd15.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>福祉医療機構- 行政情報: 追加: 「第23回 全世代型社会保障構築会議（令和8年11月20日開催）」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyosei/147c262ec5f0b6243a7ef0cf2e4b7c69ee1bf1a3</id>
     <updated>2026-11-24T03:37:11Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyosei/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第23回 全世代型社会保障構築会議（令和8年11月20日開催）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第11回 こどもの自殺対策に関する関係省庁連絡会議（令和8年11月20日開催）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第276回 社会保障審議会 介護給付費分科会（令和8年11月20日開催）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「中央社会保険医療協議会の開催について（令和8年11月25日開催予定）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第139回 社会保障審議会 介護保険部会（令和8年11月26日開催予定）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第161回 社会保障審議会 障害者部会（令和8年11月30日開催予定）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「麻しん最新情報（令和8年11月17日更新）」「第221回 社会保障審議会 医療保険部会（令和8年11月17日開催）」ほか 4 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/top"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyosei/diff_147c262.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第23回 全世代型社会保障構築会議（令和8年11月20日開催）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第11回 こどもの自殺対策に関する関係省庁連絡会議（令和8年11月20日開催）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第276回 社会保障審議会 介護給付費分科会（令和8年11月20日開催）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「中央社会保険医療協議会の開催について（令和8年11月25日開催予定）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第139回 社会保障審議会 介護保険部会（令和8年11月26日開催予定）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第161回 社会保障審議会 障害者部会（令和8年11月30日開催予定）」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「麻しん最新情報（令和8年11月17日更新）」「第221回 社会保障審議会 医療保険部会（令和8年11月17日開催）」ほか 4 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/top"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyosei/diff_147c262.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.wam.go.jp/gyoseiShiryou/top"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>大学病院医療情報ネットワークセンター(UMIN): 変更: 「第62回中部日本小児科学会」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/3c68c1a1eec86b5d4d3a0c78b1f79772a8ed4c01</id>
     <updated>2026-11-24T03:37:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第62回中部日本小児科学会」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「International Conference on Gynecology and Obstetrics 2027」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_3c68c1a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第62回中部日本小児科学会」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「International Conference on Gynecology and Obstetrics 2027」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_3c68c1a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.umin.ac.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>独立行政法人 医薬品医療機器総合機構(PMDA): 追加: 「2026年度 医療機器規制と審査の最適化のための協働計画における承認審査等に関する講習会のご案内」を掲載しました（2026年11月24日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/99398cbdd7a8aab435069149c682d64f25174bf4</id>
     <updated>2026-11-24T03:37:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年度 医療機器規制と審査の最適化のための協働計画における承認審査等に関する講習会のご案内」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「1月の簡易相談実施予定を掲載しました（医療機器等）」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「プログラム医療機器のページを更新（講習会資料の英訳公開、職員募集）しました。」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8事業年度第2回審査・安全業務委員会　開催案内を掲載しました」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「オレンジレターNo.30を掲載しました。」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「RS戦略相談に係る相談手数料低額要件適用申請に関するFAQ（2026年（令和8年）11月24日版）を掲載しました。」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「［MID-NET］MID-NETの利活用状況を更新しました」ほか6件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_99398cb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年度 医療機器規制と審査の最適化のための協働計画における承認審査等に関する講習会のご案内」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「1月の簡易相談実施予定を掲載しました（医療機器等）」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「プログラム医療機器のページを更新（講習会資料の英訳公開、職員募集）しました。」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8事業年度第2回審査・安全業務委員会　開催案内を掲載しました」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「オレンジレターNo.30を掲載しました。」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「RS戦略相談に係る相談手数料低額要件適用申請に関するFAQ（2026年（令和8年）11月24日版）を掲載しました。」を掲載しました（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「［MID-NET］MID-NETの利活用状況を更新しました」ほか6件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_99398cb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本病理学会: 追加: 2026.11.24付で「医療機関が受託する検体検査（病理標本作製）について「再委託の禁止」（保険医療機関間の連携による病理診断における不適切な標本作製受託に関する注意喚…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/pathology/b127cd293d9a54aaa22442563d3bf1d55874e53e</id>
     <updated>2026-11-24T03:37:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pathology/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24付で「医療機関が受託する検体検査（病理標本作製）について「再委託の禁止」（保険医療機関間の連携による病理診断における不適切な標本作製受託に関する注意喚起）」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24付で「【開催案内】2026年度第5回 希少がん病理診断講習会（抽選制）」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pathology.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pathology/diff_b127cd2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24付で「医療機関が受託する検体検査（病理標本作製）について「再委託の禁止」（保険医療機関間の連携による病理診断における不適切な標本作製受託に関する注意喚起）」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24付で「【開催案内】2026年度第5回 希少がん病理診断講習会（抽選制）」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pathology.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pathology/diff_b127cd2.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.pathology.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本内科学会: 追加: 「リカレント教育 新規4コンテンツ追加公開のお知らせ」（2026年11月24日）の記載が追加されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/naika/e71aa5b7c676b150e7475c0a61cbd0a3fcd0edd7</id>
     <updated>2026-11-24T03:37:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/naika/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「リカレント教育 新規4コンテンツ追加公開のお知らせ」（2026年11月24日）の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「日本内科学会」「カスタマーハラスメントに対する基本方針の策定について」（2026年10月01日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.naika.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/naika/diff_e71aa5b.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「リカレント教育 新規4コンテンツ追加公開のお知らせ」（2026年11月24日）の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「日本内科学会」「カスタマーハラスメントに対する基本方針の策定について」（2026年10月01日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.naika.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/naika/diff_e71aa5b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.naika.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省 - 医療分野のトピックス: 追加: 2026年11月24日掲載の令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-topics-150873/9dd4981b00defe7382b2bd62f60a02db78887f3f</id>
     <updated>2026-11-24T03:37:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-topics-150873/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月24日掲載の令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月24日掲載の「人生会議」普及啓発ポスター・リーフレット（令和８年度）を公開しました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics_150873_139_140.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-topics-150873/diff_9dd4981.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月24日掲載の令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月24日掲載の「人生会議」普及啓発ポスター・リーフレット（令和８年度）を公開しました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics_150873_139_140.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-topics-150873/diff_9dd4981.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics_150873_139_140.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省 - 新着情報: 追加: 「食肉検査等情報還元調査」が掲載されました（2026年11月24日（火）掲載）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-new-info/67e488f7d30099c77a34bba281cd1ef8c3256786</id>
     <updated>2026-11-24T03:37:10Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-new-info/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「食肉検査等情報還元調査」が掲載されました（2026年11月24日（火）掲載）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します（関連ページ：「令和８年度人生会議（ACP：アドバンス・ケア・プランニング）普及・啓発イベントを令和９年１月24日（日）に北海道函館市で開催します」、「令和８年度　人生会議（ACP）普及・啓発イベント 『自分らしく生き抜くために「人生会議」はじめてみませんか？  in 北海道函館市』を令和９年１月24日（日）に函館市で開催します」）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「人生会議」普及啓発ポスター・リーフレット（令和８年度）を公開しました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 採用情報（任期付職員（相談支援専門官）募集情報）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 採用情報（任期付職員（国際保健・協力室主査）募集情報）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年9月24日（木）掲載」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年9月23日（水）掲載」ほか 14 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-new-info/diff_67e488f.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「食肉検査等情報還元調査」が掲載されました（2026年11月24日（火）掲載）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します（関連ページ：「令和８年度人生会議（ACP：アドバンス・ケア・プランニング）普及・啓発イベントを令和９年１月24日（日）に北海道函館市で開催します」、「令和８年度　人生会議（ACP）普及・啓発イベント 『自分らしく生き抜くために「人生会議」はじめてみませんか？  in 北海道函館市』を令和９年１月24日（日）に函館市で開催します」）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「人生会議」普及啓発ポスター・リーフレット（令和８年度）を公開しました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 採用情報（任期付職員（相談支援専門官）募集情報）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 採用情報（任期付職員（国際保健・協力室主査）募集情報）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年9月24日（木）掲載」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年9月23日（水）掲載」ほか 14 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-new-info/diff_67e488f.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.mhlw.go.jp/stf/new-info/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省 - 九州厚生局: 追加: 「保険医療機関等に関する通知について(令和8年度) 」を更新しました。（2026年11月24日、通知・通達）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-kyushu/2e567129d199ee44e403dc25ced12c54ef49cc5d</id>
     <updated>2026-11-24T03:37:09Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-kyushu/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「保険医療機関等に関する通知について(令和8年度) 」を更新しました。（2026年11月24日、通知・通達）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/kyushu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-kyushu/diff_2e56712.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「保険医療機関等に関する通知について(令和8年度) 」を更新しました。（2026年11月24日、通知・通達）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/kyushu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-kyushu/diff_2e56712.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://kouseikyoku.mhlw.go.jp/kyushu/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省 - 近畿厚生局: 変更: 「2026年11月6日」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-kinki/2ee9c9a6f785572fa520af77a5f188da99b320b4</id>
     <updated>2026-11-24T03:37:09Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-kinki/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年11月6日」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/kinki/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-kinki/diff_2ee9c9a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年11月6日」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/kinki/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-kinki/diff_2ee9c9a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://kouseikyoku.mhlw.go.jp/kinki/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省 - 中国四国厚生局: 変更：日付が「2026年11月10日」から「2026年11月24日」に変更されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-chugokushikoku/ad402ebcf9f23e98464c99130b83986fe4df71be</id>
     <updated>2026-11-24T03:37:09Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-chugokushikoku/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：日付が「2026年11月10日」から「2026年11月24日」に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/chugokushikoku/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-chugokushikoku/diff_ad402eb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：日付が「2026年11月10日」から「2026年11月24日」に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/chugokushikoku/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-chugokushikoku/diff_ad402eb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://kouseikyoku.mhlw.go.jp/chugokushikoku/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>厚生労働省: 変更: 「11月17日は世界さい帯血の日です」「11月は薬剤耐性（AMR）対策推進月間です」ほか 6 件の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/d2bf3ab0f71c790ddc6c918c614da9a8cede7902</id>
     <updated>2026-11-24T03:37:09Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「11月17日は世界さい帯血の日です」「11月は薬剤耐性（AMR）対策推進月間です」ほか 6 件の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「医療従事者の２年に一度の届出について」「年金生活者支援給付金のお知らせ」の案内が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「食肉検査等情報還元調査」「採用情報（任期付職員（相談支援専門官）募集情報）」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します」「「人生会議」普及啓発ポスター・リーフレット（令和８年度）を公開しました」の記載が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_d2bf3ab.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「11月17日は世界さい帯血の日です」「11月は薬剤耐性（AMR）対策推進月間です」ほか 6 件の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「医療従事者の２年に一度の届出について」「年金生活者支援給付金のお知らせ」の案内が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「食肉検査等情報還元調査」「採用情報（任期付職員（相談支援専門官）募集情報）」の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します」「「人生会議」普及啓発ポスター・リーフレット（令和８年度）を公開しました」の記載が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_d2bf3ab.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本医師会 - サイト全体新着一覧: 変更: 「2026年11月02日」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjpnew/8a3322a76b279ec8376664306883f2f64f32df1d</id>
     <updated>2026-11-24T03:37:09Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjpnew/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「2026年11月02日」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 2026年11月24日&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/new.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjpnew/diff_8a3322a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「2026年11月02日」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 2026年11月24日&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/new.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjpnew/diff_8a3322a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.med.or.jp/new.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本医師会: 追加: 令和８年度 「死体検案研修会（基礎）」のご案内（E-learning形式）（2026.11.24）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medorjp/ddb9ed6a76beb63396cf13f2d3f9f3806a675c81</id>
     <updated>2026-11-24T03:37:09Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 令和８年度 「死体検案研修会（基礎）」のご案内（E-learning形式）（2026.11.24）&lt;/li&gt;&lt;li&gt;変更: 「吃音とその対応 －安心して会話ができる環境づくりを－【健康ぷらざNo.608】」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_ddb9ed6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 令和８年度 「死体検案研修会（基礎）」のご案内（E-learning形式）（2026.11.24）&lt;/li&gt;&lt;li&gt;変更: 「吃音とその対応 －安心して会話ができる環境づくりを－【健康ぷらざNo.608】」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.med.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medorjp/diff_ddb9ed6.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.med.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>メディカルトリビューン: 追加: 「スマートリングに無呼吸の通知が出た」と患者が受診してきたら？（2026-11-24）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/bddab2c40889be4782c68b55bab6f56e0c440c4e</id>
     <updated>2026-11-24T03:37:08Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「スマートリングに無呼吸の通知が出た」と患者が受診してきたら？（2026-11-24）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「チルゼパチドで心疾患合併糖尿病の血圧とBNP低下」ほか1件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.1-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_bddab2c.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「スマートリングに無呼吸の通知が出た」と患者が受診してきたら？（2026-11-24）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「チルゼパチドで心疾患合併糖尿病の血圧とBNP低下」ほか1件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.1-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_bddab2c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本呼吸器内視鏡学会: 追加: 「第3回共同渡航支援プログラム募集のご案内」（2026年11月24日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsre/4debf8a75f342e63e29105fcc8dd4ee98c125773</id>
     <updated>2026-11-24T03:37:08Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsre/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「第3回共同渡航支援プログラム募集のご案内」（2026年11月24日）&lt;/li&gt;&lt;li&gt;変更: 「第34回　日本呼吸器内視鏡学会気管支鏡専門医大会」「第14回（2025年度）後藤喜代子・ポールブルダリ科学賞　応募要項」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsre.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsre/diff_4debf8a.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「第3回共同渡航支援プログラム募集のご案内」（2026年11月24日）&lt;/li&gt;&lt;li&gt;変更: 「第34回　日本呼吸器内視鏡学会気管支鏡専門医大会」「第14回（2025年度）後藤喜代子・ポールブルダリ科学賞　応募要項」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsre.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsre/diff_4debf8a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jsre.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本栄養治療学会: 追加: 2026.11.24「JSPEN-U45委員 追加募集（医師職）につきまして」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jspen/e334391803ea9b7489b294cceccdb238b43cdc0c</id>
     <updated>2026-11-24T03:37:08Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jspen/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24「JSPEN-U45委員 追加募集（医師職）につきまして」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第42回日本栄養治療学会学術集会（JSPEN2027）参加登録開始のおしらせ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jspen.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jspen/diff_e334391.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24「JSPEN-U45委員 追加募集（医師職）につきまして」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第42回日本栄養治療学会学術集会（JSPEN2027）参加登録開始のおしらせ」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jspen.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jspen/diff_e334391.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jspen.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本免疫学会: 追加: 会員及び研究者向け＞お知らせに「NBRP加齢マウス供給事業：第10回NBRP加齢マウス供給課題受付開始のお知らせ」を掲載しました（2026/11/24）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsi-men-eki/da023bcbd51a617839a8460b597dc3047446600f</id>
     <updated>2026-11-24T03:37:08Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsi-men-eki/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 会員及び研究者向け＞お知らせに「NBRP加齢マウス供給事業：第10回NBRP加齢マウス供給課題受付開始のお知らせ」を掲載しました（2026/11/24）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsi-men-eki.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsi-men-eki/diff_da023bc.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 会員及び研究者向け＞お知らせに「NBRP加齢マウス供給事業：第10回NBRP加齢マウス供給課題受付開始のお知らせ」を掲載しました（2026/11/24）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsi-men-eki.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsi-men-eki/diff_da023bc.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261124052524/https://www.jsi-men-eki.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本健康学会: 変更 E-mailアドレスの表記が変更され、「jshhe▲ksot.kyorin-u.ac.jp（▲を@に置き換えてください）」となりました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jshhe/df53fe0684d78283cb95e0a42397016fbbefb4f1</id>
     <updated>2026-11-24T03:37:08Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshhe/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; E-mailアドレスの表記が変更され、「jshhe▲ksot.kyorin-u.ac.jp（▲を@に置き換えてください）」となりました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshhe.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshhe/diff_df53fe0.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; E-mailアドレスの表記が変更され、「jshhe▲ksot.kyorin-u.ac.jp（▲を@に置き換えてください）」となりました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshhe.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshhe/diff_df53fe0.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://jshhe.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本肝胆膵外科学会: 変更：「2026年9月24日」の項目が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jshbps/3c08cf6e9f7a3036132380000d9551b350e893d4</id>
     <updated>2026-11-24T03:37:08Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshbps/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「2026年9月24日」の項目が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「2026年11月24日」の項目が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jshbps.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshbps/diff_3c08cf6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「2026年9月24日」の項目が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「2026年11月24日」の項目が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jshbps.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshbps/diff_3c08cf6.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jshbps.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本肝臓学会: 追加: 「第46回日本肝臓学会東部会　講演要旨・プログラム集の会場表記の誤りについて」（2026/11/24）が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsh/8177829b8a379dc01173e439cacf9fff0b642878</id>
     <updated>2026-11-24T03:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsh/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第46回日本肝臓学会東部会　講演要旨・プログラム集の会場表記の誤りについて」（2026/11/24）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第46回日本肝臓学会東部会・2026年度後期教育講演会の参加登録のご案内」（2026/09/24）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【重要】Hepatology Research 投稿システム変更のお知らせ（7月2日切替）」（2026/06/26）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsh.or.jp/medical/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsh/diff_8177829.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第46回日本肝臓学会東部会　講演要旨・プログラム集の会場表記の誤りについて」（2026/11/24）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第46回日本肝臓学会東部会・2026年度後期教育講演会の参加登録のご案内」（2026/09/24）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【重要】Hepatology Research 投稿システム変更のお知らせ（7月2日切替）」（2026/06/26）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsh.or.jp/medical/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsh/diff_8177829.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jsh.or.jp/medical/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本透析医学会: 追加: 日本腎代替療法医療専門職推進協会主催「第５回 腎代替療法講習会」開催のお知らせ( ～ 2026年12月04日 )（2026年11月24日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jsdt/e477875138cdb54cb4f3f2c55834c32bb8136cfb</id>
     <updated>2026-11-24T03:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsdt/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 日本腎代替療法医療専門職推進協会主催「第５回 腎代替療法講習会」開催のお知らせ( ～ 2026年12月04日 )（2026年11月24日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsdt.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsdt/diff_e477875.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 日本腎代替療法医療専門職推進協会主催「第５回 腎代替療法講習会」開催のお知らせ( ～ 2026年12月04日 )（2026年11月24日）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsdt.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsdt/diff_e477875.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jsdt.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本公衆衛生協会: 追加：2026.11.24「第２回　令和8年度地域保健総合推進事業「ひきこもり相談支援実践研修会D研修」」の次第および講義A〜C資料が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jphaorjp/b189e0e11a42df3258d7d0a94f38a103c7e00a94</id>
     <updated>2026-11-24T03:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jphaorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加：2026.11.24「第２回　令和8年度地域保健総合推進事業「ひきこもり相談支援実践研修会D研修」」の次第および講義A〜C資料が掲載されました。&lt;/li&gt;&lt;li&gt;変更：「全国精神保健福祉センター長会　第2回理事会（10月27日（火）10時30分～11時30分）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「全国精神保健福祉センター長会　会議　（10月27日（火）13時～14時35分）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「令和8年度地域保健総合推進事業「ひきこもり相談支援実践研修会D研修」」ほか1件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jpha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jphaorjp/diff_b189e0e.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;追加：2026.11.24「第２回　令和8年度地域保健総合推進事業「ひきこもり相談支援実践研修会D研修」」の次第および講義A〜C資料が掲載されました。&lt;/li&gt;&lt;li&gt;変更：「全国精神保健福祉センター長会　第2回理事会（10月27日（火）10時30分～11時30分）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「全国精神保健福祉センター長会　会議　（10月27日（火）13時～14時35分）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「令和8年度地域保健総合推進事業「ひきこもり相談支援実践研修会D研修」」ほか1件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jpha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jphaorjp/diff_b189e0e.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jpha.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本小児科学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jpeds/bd008b6de935df40a43a1315fb031979c805fc48</id>
     <updated>2026-11-24T03:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jpeds/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jpeds.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jpeds/diff_bd008b6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jpeds.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jpeds/diff_bd008b6.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jpeds.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>国立健康危機管理研究機構 感染症情報提供サイト: 追加: 「2026年11月24日 「IDWR速報データ 2026年第46週」の記事を更新しました」</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jihsinfo/da41a0c97cba87648dad387d92da152b490855af</id>
     <updated>2026-11-24T03:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jihsinfo/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日 「IDWR速報データ 2026年第46週」の記事を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日 「麻疹 発生動向調査」の記事を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日 「風疹 発生動向調査」の記事を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日 「感染症発生動向調査週報」の記事を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年11月4日 「IDWR速報データ 2026年第43週」の記事を更新しました」ほか 5 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://id-info.jihs.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jihsinfo/diff_da41a0c.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日 「IDWR速報データ 2026年第46週」の記事を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日 「麻疹 発生動向調査」の記事を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日 「風疹 発生動向調査」の記事を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月24日 「感染症発生動向調査週報」の記事を更新しました」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年11月4日 「IDWR速報データ 2026年第43週」の記事を更新しました」ほか 5 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://id-info.jihs.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jihsinfo/diff_da41a0c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://id-info.jihs.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>国立健康危機管理研究機構 - 感染症発生動向調査週報: 変更: 「IDWR速報データ 2026年第45週」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jihsgojpidwr/81fdaf6d7cb082af0cd54408a9315d77f208207d</id>
     <updated>2026-11-24T03:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jihsgojpidwr/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「IDWR速報データ 2026年第45週」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「IDWR速報データ 2026年第46週」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://id-info.jihs.go.jp/surveillance/idwr/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jihsgojpidwr/diff_81fdaf6.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「IDWR速報データ 2026年第45週」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「IDWR速報データ 2026年第46週」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://id-info.jihs.go.jp/surveillance/idwr/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jihsgojpidwr/diff_81fdaf6.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261124050930/https://id-info.jihs.go.jp/surveillance/idwr/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本消化器内視鏡学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/3d95cf46b6e558178b5e2ef26acf0fdbefdad4fa</id>
     <updated>2026-11-24T03:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jges/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_3d95cf4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_3d95cf4.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jges.net/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本リハビリテーション医学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jarm-2/bad93e75af0f00d224e1ecaa8d6e2d06b192c396</id>
     <updated>2026-11-24T03:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jarm-2/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jarm.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jarm-2/diff_bad93e7.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jarm.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jarm-2/diff_bad93e7.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.jarm.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本内分泌外科学会: 変更：「2026.10.08」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jaes/667a8b84b6684fc1a496450d847cdbc8c645fe02</id>
     <updated>2026-11-24T03:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jaes/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「2026.10.08」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加：2026.11.24&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jaes.umin.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jaes/diff_667a8b8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「2026.10.08」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加：2026.11.24&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jaes.umin.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jaes/diff_667a8b8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://jaes.umin.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本内分泌学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/j-endo/6c47a633a723bb61c809c72d6bc07a27dbaeb3ae</id>
     <updated>2026-11-24T03:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/j-endo/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.j-endo.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/j-endo/diff_6c47a63.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.j-endo.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/j-endo/diff_6c47a63.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.j-endo.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本医療政策機構: 追加：【政策提言】AMR対策の基盤としての微生物学的検査体制の強化に向けて（2026年11月24日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpgiorg/f67284ccf102a07265d4aa05d1fbdcb1620d5352</id>
     <updated>2026-11-24T03:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpgiorg/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：【政策提言】AMR対策の基盤としての微生物学的検査体制の強化に向けて（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：【調査報告】AMR Policy Update #12：ノルウェーがん協会の実践から学ぶ医療政策との関わり方（後編）－がん対策とAMR対策の交差点（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「【開催報告】超党派国会議員向け医療政策勉強会「30分で伝える医療政策最前線：急性期医療を取り巻く政策課題と遠隔ICUの取り組み」（2026年10月29日）」「【お知らせ】「野心的な交渉成果を通じて健康と命を守る：COP31に向けた提言」に賛同（2026年11月9日）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hgpi.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpgiorg/diff_f67284c.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：【政策提言】AMR対策の基盤としての微生物学的検査体制の強化に向けて（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：【調査報告】AMR Policy Update #12：ノルウェーがん協会の実践から学ぶ医療政策との関わり方（後編）－がん対策とAMR対策の交差点（2026年11月24日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「【開催報告】超党派国会議員向け医療政策勉強会「30分で伝える医療政策最前線：急性期医療を取り巻く政策課題と遠隔ICUの取り組み」（2026年10月29日）」「【お知らせ】「野心的な交渉成果を通じて健康と命を守る：COP31に向けた提言」に賛同（2026年11月9日）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hgpi.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpgiorg/diff_f67284c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://hgpi.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本病院会: 追加: 2026.11.24付で「【事務連絡】令和８年11月20日からの大雪に係るオンライン資格確認等システムにおける「緊急時医療情報・資格確認機能」をアクティブ化する医療機関・…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hospitalorjp/4acf6e427a639e81702ce1a2091ae82cbedead28</id>
     <updated>2026-11-24T03:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hospitalorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24付で「【事務連絡】令和８年11月20日からの大雪に係るオンライン資格確認等システムにおける「緊急時医療情報・資格確認機能」をアクティブ化する医療機関・薬局の範囲・期間について」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【事務連絡】レカネマブ（遺伝子組換え）製剤に係る最適使用推進ガイドラインの策定に伴う留意事項の一部改正について」「【事務連絡】医薬品医療機器等法上の効能・効果等の変更に伴う留意事項の一部改正等について」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hospital.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hospitalorjp/diff_4acf6e4.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24付で「【事務連絡】令和８年11月20日からの大雪に係るオンライン資格確認等システムにおける「緊急時医療情報・資格確認機能」をアクティブ化する医療機関・薬局の範囲・期間について」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「【事務連絡】レカネマブ（遺伝子組換え）製剤に係る最適使用推進ガイドラインの策定に伴う留意事項の一部改正について」「【事務連絡】医薬品医療機器等法上の効能・効果等の変更に伴う留意事項の一部改正等について」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hospital.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hospitalorjp/diff_4acf6e4.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.hospital.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本HL7協会: 追加: 2026.11.24付けで「第99回HL7セミナー資料を掲載しました。」（https://www.hl7.jp/docs/99hl7web1112.html）が追加されま…</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hl7jp/b317acb161378409cebd980e1baad128d724fa72</id>
     <updated>2026-11-24T03:37:05Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hl7jp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24付けで「第99回HL7セミナー資料を掲載しました。」（https://www.hl7.jp/docs/99hl7web1112.html）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第93回HL7セミナー資料を掲載しました。」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hl7.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hl7jp/diff_b317acb.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.24付けで「第99回HL7セミナー資料を掲載しました。」（https://www.hl7.jp/docs/99hl7web1112.html）が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第93回HL7セミナー資料を掲載しました。」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hl7.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hl7jp/diff_b317acb.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.hl7.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>gemmed: 追加：記事「糖尿病や慢性心不全治療に用いる「SGLT2阻害薬」、アルツハイマー病治療にも効果がある可能性—長寿医療研究センター」（2026.11.24.）が掲載されました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/gemmed/7f968e872f9d50d4ed89408be26c961a663ea121</id>
     <updated>2026-11-24T03:37:05Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/gemmed/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：記事「糖尿病や慢性心不全治療に用いる「SGLT2阻害薬」、アルツハイマー病治療にも効果がある可能性—長寿医療研究センター」（2026.11.24.）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所」（2026.11.20.）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「2026年度診療報酬改定での「外科医療の集約化」方向は重要だが、「地域医療への影響確認や中小病院への配慮」求める声も―外保連」（2026.11.17.）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_7f968e8.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：記事「糖尿病や慢性心不全治療に用いる「SGLT2阻害薬」、アルツハイマー病治療にも効果がある可能性—長寿医療研究センター」（2026.11.24.）が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所」（2026.11.20.）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「2026年度診療報酬改定での「外科医療の集約化」方向は重要だが、「地域医療への影響確認や中小病院への配慮」求める声も―外保連」（2026.11.17.）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gemmed.ghc-j.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/gemmed/diff_7f968e8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261123233811/https://gemmed.ghc-j.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>日本医療研究開発機構(AMED): 変更: 「令和8年度 研究公正セミナー「AI時代の研究データ管理」開催のお知らせ令和8年12月7日（月）13時30分～16時15分（会場13時00分）」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/amedgojp/cfb065834be6841d4ae5953b25557ab1479e9c8e</id>
     <updated>2026-11-24T03:37:05Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/amedgojp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「令和8年度 研究公正セミナー「AI時代の研究データ管理」開催のお知らせ令和8年12月7日（月）13時30分～16時15分（会場13時00分）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 「「第12回 レギュラトリーサイエンス公開シンポジウム」開催のお知らせ令和8年11月26日（木）13時00分～18時00分（予定）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 令和8年11月13日掲載の「（令和8年12月7日開催）「開発途上国・新興国向け 医療機器事業化戦略セミナー」開催のお知らせ」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「ライフコースを通じた健康とウェルビーイングの実現　～ライフコースアプローチ研究が拓く疾患メカニズムの解明と先制医療への展開～」開催のお知らせ（令和9年1月22日（金）13時00分～16時00分）」が追加されました。&lt;/li&gt;&lt;li&gt;追加: 研究公正シンポジウム「研究の未来と公正性～生成AI時代の研究公正の課題とは～」開催のお知らせ（令和8年11月30日（月）13時30分～17時00分、JPタワーホール＆カンファレンス ホール1＋2）が追加されました。&lt;/li&gt;&lt;li&gt;追加: 令和8年11月24日付で「（情報更新）（令和8年11月26日開催）「第12回　レギュラトリーサイエンス公開シンポジウム」開催のお知らせ」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.amed.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/amedgojp/diff_cfb0658.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「令和8年度 研究公正セミナー「AI時代の研究データ管理」開催のお知らせ令和8年12月7日（月）13時30分～16時15分（会場13時00分）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 「「第12回 レギュラトリーサイエンス公開シンポジウム」開催のお知らせ令和8年11月26日（木）13時00分～18時00分（予定）」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更: 令和8年11月13日掲載の「（令和8年12月7日開催）「開発途上国・新興国向け 医療機器事業化戦略セミナー」開催のお知らせ」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「ライフコースを通じた健康とウェルビーイングの実現　～ライフコースアプローチ研究が拓く疾患メカニズムの解明と先制医療への展開～」開催のお知らせ（令和9年1月22日（金）13時00分～16時00分）」が追加されました。&lt;/li&gt;&lt;li&gt;追加: 研究公正シンポジウム「研究の未来と公正性～生成AI時代の研究公正の課題とは～」開催のお知らせ（令和8年11月30日（月）13時30分～17時00分、JPタワーホール＆カンファレンス ホール1＋2）が追加されました。&lt;/li&gt;&lt;li&gt;追加: 令和8年11月24日付で「（情報更新）（令和8年11月26日開催）「第12回　レギュラトリーサイエンス公開シンポジウム」開催のお知らせ」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.amed.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/amedgojp/diff_cfb0658.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261124045251/https://www.amed.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>全日本病院協会: 変更：「好評！」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ajhaorjp/383ef004a475e2c5a9e7fece9c93cb30fcdfade0</id>
     <updated>2026-11-24T03:37:05Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ajhaorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「好評！」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加：「締切間近」の記載が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ajhaorjp/diff_383ef00.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「好評！」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加：「締切間近」の記載が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ajhaorjp/diff_383ef00.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261124045237/https://www.ajha.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>薬事日報: 追加: 【科研製薬】「エクテリー」が順調に拡大‐初の経口HAE治療薬</title>
@@ -448,215 +658,5 @@
     <updated>2026-11-21T22:34:16Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
     <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_8f04acd.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261122031441/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本消化器内視鏡学会: 変更: 「第117回　日本消化器内視鏡学会近畿支部例会」の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/9e23196c61b41a0c11a13c5e776cebe81b3abb38</id>
-    <updated>2026-11-21T22:34:16Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jges/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「第117回　日本消化器内視鏡学会近畿支部例会」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「第70回　日本消化器内視鏡学会東海支部例会」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_9e23196.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261122031358/https://www.jges.net/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>傷病名マスター: 変更: 「歯式マスター」の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx-kihonmasta-07/72b0ed079d7f4c51ecc67d9b82ea06355cb41a49</id>
-    <updated>2026-11-21T22:34:16Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx-kihonmasta-07/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「歯式マスター」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 「医科診療行為マスター」のリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx-kihonmasta-07/diff_72b0ed0.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261122031316/https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本大腸肛門病学会: 追加: 「2026年11月21日 第81回学術集会のマイページ参加登録について」の記載が加わりました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/coloproctology/8d73b7037d0c2324b6caa91f8f751c8df0a22282</id>
-    <updated>2026-11-21T22:34:15Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/coloproctology/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「2026年11月21日 第81回学術集会のマイページ参加登録について」の記載が加わりました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「2026年9月1日 令和8年8月千葉豪雨に対するお見舞い」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.coloproctology.gr.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/coloproctology/diff_8d73b70.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261122031234/https://www.coloproctology.gr.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>メディカルトリビューン: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/914962c54477798f5dd0aa5844c53adaf55abfb6</id>
-    <updated>2026-11-21T07:33:04Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_914962c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041532/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 変更：「外国製造業者認定・登録番号を掲載しました」（2026年11月6日公表、全製品）の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/462cb0ac6f07c7cc05d43086d287956f5b20f89d</id>
-    <updated>2026-11-21T03:33:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「外国製造業者認定・登録番号を掲載しました」（2026年11月6日公表、全製品）の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「「こどもくすり会議【序章】―みんなの“こえ”が小児がんのお薬を届ける力になる―」の開催について」（2026年11月6日公表、イベント）の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「専門委員名簿を更新しました」（2026年11月6日公表、その他）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_462cb0a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041936/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>経済産業省 - ヘルスケア産業: 追加: 産福共創相談窓口を設置しました！（～令和９年３月12日）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/metigojphealthcare/f573ec225c96ba04473fa7dbbe27890b40fc808f</id>
-    <updated>2026-11-21T03:33:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/metigojphealthcare/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 産福共創相談窓口を設置しました！（～令和９年３月12日）&lt;/li&gt;&lt;li&gt;追加: 令和８年度「ヘルスケア産業国際展開推進事業」（医療インバウンドプラットフォーム構築に係る事業）パイロット医療機関の選定に係る公募のご案内&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.meti.go.jp/policy/mono_info_service/healthcare/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/metigojphealthcare/diff_f573ec2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>メディカルトリビューン: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/f834237594132f966c362d34b817ee9b8e797e10</id>
-    <updated>2026-11-21T03:33:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_f834237.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041532/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本寄生虫学会: 追加: 2026年11月20日付で「日本寄生虫学会理事等選挙」に関する「要領」が追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsparasitol/23b094dbad5ae5a5ee6519b2c79882e23e88dc55</id>
-    <updated>2026-11-21T03:33:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsparasitol/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月20日付で「日本寄生虫学会理事等選挙」に関する「要領」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月20日付で「選挙人・被選挙人名簿（確定版）」が掲載されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jsparasitol.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsparasitol/diff_23b094d.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121042430/https://jsparasitol.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本消化器内視鏡学会: 変更：「第70回　日本消化器内視鏡学会東海支部例会」の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/63a8ed44cec136196cfa057e578ff2f18b73a58a</id>
-    <updated>2026-11-21T03:33:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jges/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「第70回　日本消化器内視鏡学会東海支部例会」の記載が消えました。&lt;/li&gt;&lt;li&gt;追加：「第117回　日本消化器内視鏡学会近畿支部例会」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_63a8ed4.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041010/https://www.jges.net/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本医療情報学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jami/a67ad769e69a561705991c1958b63c352ecfcead</id>
-    <updated>2026-11-21T03:33:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jami/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jami.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jami/diff_a67ad76.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121040816/https://www.jami.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>薬事日報: 追加: 「プレスリリース・タイトルリスト　2026/11/20」（2026年11月20日 (金)）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/yakujicojp/160bef569c808849397b963d7cde4abfcf651a9a</id>
-    <updated>2026-11-20T22:35:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/yakujicojp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 「プレスリリース・タイトルリスト　2026/11/20」（2026年11月20日 (金)）&lt;/li&gt;&lt;li&gt;追加: 「行政情報リスト　2026/11/20」（2026年11月20日 (金)）&lt;/li&gt;&lt;li&gt;変更: 「プレスリリース・タイトルリスト　2026/11/18」「行政情報リスト　2026/11/18」「専門職ならではのメリットを」「薬事日報　2026/11/20」「2026年11月  (249)」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yakuji.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/yakujicojp/diff_160bef5.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121042329/https://www.yakuji.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>福祉医療機構 - 行政情報 - 審議会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyoseibunlist/1df606754f98962a62130592d7e1fa1a2febcac1</id>
-    <updated>2026-11-20T22:35:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyoseibunlist/diff_1df6067.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121042249/https://www.wam.go.jp/gyoseiShiryou/bun-list?bun1=010"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>福祉医療機構- 行政情報: 変更：「第70回 障害福祉報酬改定検討チーム（令和8年11月20日開催予定）」の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/wamgojpgyosei/0eb6b300dab16f2f6e5d0a805ea2995401c5e27e</id>
-    <updated>2026-11-20T22:35:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/wamgojpgyosei/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「第70回 障害福祉報酬改定検討チーム（令和8年11月20日開催予定）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wam.go.jp/gyoseiShiryou/top"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/wamgojpgyosei/diff_0eb6b30.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121042204/https://www.wam.go.jp/gyoseiShiryou/top"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>大学病院医療情報ネットワークセンター(UMIN): 追加：「東京大学大学院 医学系研究科 社会連携講座 ナーシングデータサイエンス講座 特任研究員または特任助教（1名） 特任研究員公募」ほか3件の教員・研究員公募情報が掲載されまし…</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/uminacjp/180651b11fa10206c3f18099651a3181f32fa2aa</id>
-    <updated>2026-11-20T22:35:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/uminacjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「東京大学大学院 医学系研究科 社会連携講座 ナーシングデータサイエンス講座 特任研究員または特任助教（1名） 特任研究員公募」ほか3件の教員・研究員公募情報が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：「事前の課題説明方法が予測不能な姿勢外乱に対する姿勢調節に及ぼす影響」ほか13件の臨床試験情報が掲載されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「手指関節症に関する疫学研究」ほか11件の臨床試験情報の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.umin.ac.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/uminacjp/diff_180651b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261120205011/https://www.umin.ac.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本リウマチ学会: 追加: 2026.11.20 「リウマチ版J-OSLERメンテナンスのお知らせ」が追加されました（資格関連）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/ryumachi-jp/eb289ff06589ed4472f0ba748c34dbd0e04a1f2b</id>
-    <updated>2026-11-20T22:35:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ryumachi-jp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.20 「リウマチ版J-OSLERメンテナンスのお知らせ」が追加されました（資格関連）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「タブネオス（一般名：アバコパン）の中止とその後の治療について」（2026.11.04）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ryumachi-jp.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ryumachi-jp/diff_eb289ff.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121042051/https://www.ryumachi-jp.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本プライマリ・ケア連合学会: 変更：「【会員へのお知らせ】役員・代議員一覧/委員会一覧を更新しました 2026.08.21」「【会員へのお知らせ】会員規則改定 2026.08.21」の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/primarycare-japan/7173d7068c498f506cfbf6f0c61bb6cb678b9465</id>
-    <updated>2026-11-20T22:35:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/primarycare-japan/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「【会員へのお知らせ】役員・代議員一覧/委員会一覧を更新しました 2026.08.21」「【会員へのお知らせ】会員規則改定 2026.08.21」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.primarycare-japan.com/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/primarycare-japan/diff_7173d70.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121042004/https://www.primarycare-japan.com/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>独立行政法人 医薬品医療機器総合機構(PMDA): 変更: 「医薬関係者からの報告受付サイト」の画像・リンクの記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/pmda/8f40e988ae5de9f6b83e50c427fed650395b6b98</id>
-    <updated>2026-11-20T22:35:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/pmda/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「医薬関係者からの報告受付サイト」の画像・リンクの記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「患者向医薬品ガイド等 Webアンケート」の画像とリンク（&lt;code&gt;/safety/info-services/drugs/items-information/guide-for-patients/0001.html&lt;/code&gt;）が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.pmda.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/pmda/diff_8f40e98.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041936/https://www.pmda.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省 - 新着情報: 追加: 報道発表「令和８年度　感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します」が掲載されました（/stf/newpage_77581.html）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-new-info/024894bbfe98ae0c13585900d6d6cdd8be8c2435</id>
-    <updated>2026-11-20T22:35:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-new-info/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 報道発表「令和８年度　感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します」が掲載されました（/stf/newpage_77581.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 大臣会見等「令和８年１１月２０日付大臣会見概要」が掲載されました（/stf/kaiken/daijin/0000194708_00992.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 報道発表「第７６回中央最低賃金審議会の開催について」が掲載されました（/stf/newpage_77528.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 報道発表「上野厚生労働大臣　閣議後記者会見のお知らせ」が掲載されました（/stf/newpage_77571.html）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「中央最低賃金審議会 (中央最低賃金審議会)」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/new-info/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-new-info/diff_024894b.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041816/https://www.mhlw.go.jp/stf/new-info/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省 - 九州厚生局: 追加: 「令和8年度 九州・沖縄地区 医療安全に関するワークショップの研修資料を掲載しました。」（2026年11月20日）の記載が追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw-kyushu/4c9012ccb6623d8de984f30ea90afec32baaf85f</id>
-    <updated>2026-11-20T22:35:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw-kyushu/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8年度 九州・沖縄地区 医療安全に関するワークショップの研修資料を掲載しました。」（2026年11月20日）の記載が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「指導監査課　保険医療機関・保険薬局及び指定訪問看護事業所の「施設基準の受理状況」について修正しました。」（2026年11月16日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://kouseikyoku.mhlw.go.jp/kyushu/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw-kyushu/diff_4c9012c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041714/https://kouseikyoku.mhlw.go.jp/kyushu/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省: 追加：令和８年度　感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlw/93229c92c30390e2ed646f5f70ee7a7fc92ee20f</id>
-    <updated>2026-11-20T22:35:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlw/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：令和８年度　感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：令和８年１１月２０日付大臣会見概要&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：第７６回中央最低賃金審議会の開催について&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：育成就労に関する二国間取決め（協力覚書）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「第139回社会保障審議会介護保険部会の開催について」「社会保障審議会（介護保険部会）」「ＵＨＣナレッジハブの第七回調整委員会の開催について」「総合職（化学・生物・薬学）（薬系技官）」「インフルエンザの発生状況を更新しました」「第84回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します」「令和９年 医政局所管国家試験会場（予定）一覧」ほか 1 件の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlw/diff_93229c9.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041613/https://www.mhlw.go.jp/index.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>経済産業省 - ヘルスケア産業: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/metigojphealthcare/d488bbe6d375d6d322f6652549833c92d20384c6</id>
-    <updated>2026-11-20T22:35:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/metigojphealthcare/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.meti.go.jp/policy/mono_info_service/healthcare/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/metigojphealthcare/diff_d488bbe.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>メディカルトリビューン: 追加: 新着ニュースとして「侵襲性アスペルギルス症、診断後1年死亡率は54％」「分娩誘発、鎮痙薬・重曹で自然経腟分娩増えず」「乾癬患者が待望する「よく効く飲み薬」に？」の3件が掲…</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/medicaltribune/e6e014110f1375b334872af6f77815c1bf88eacb</id>
-    <updated>2026-11-20T22:35:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/medicaltribune/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 新着ニュースとして「侵襲性アスペルギルス症、診断後1年死亡率は54％」「分娩誘発、鎮痙薬・重曹で自然経腟分娩増えず」「乾癬患者が待望する「よく効く飲み薬」に？」の3件が掲載されました&lt;/li&gt;&lt;li&gt;変更: 「糖尿病患者も楽しめるラーメンを」「GLP-1関連薬による減量に「隠れた有害事象」？」「再骨折リスク、デノスマブよりBP製剤で高い」の記載が消えました&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://medical-tribune.co.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/medicaltribune/diff_e6e0141.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041532/https://medical-tribune.co.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本造血・免疫細胞療法学会: 追加: 「情報提供」カテゴリに「2026年11月20日」付で「【11月26日18時～】造血幹細胞移植支援システムのメンテナンスに伴うサービス停止について」が追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jstct/cac6e395c54073f117607957f73f47328804b172</id>
-    <updated>2026-11-20T22:35:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jstct/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「情報提供」カテゴリに「2026年11月20日」付で「【11月26日18時～】造血幹細胞移植支援システムのメンテナンスに伴うサービス停止について」が追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「造血細胞移植功労賞／日本造血・免疫細胞療法学会学会賞　2026年度受賞候補者推薦の募集について」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstct.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jstct/diff_cac6e39.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041457/https://www.jstct.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本小児血液・がん学会: 追加: AYAがんの医療と支援のあり方研究会による「新版AYA世代がんサポートガイド」刊行の案内が追加されました（2026.11.20付）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jspho/3429f3f116f23b5ba47a6f0fb1a409bf8a131f96</id>
-    <updated>2026-11-20T22:35:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jspho/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: AYAがんの医療と支援のあり方研究会による「新版AYA世代がんサポートガイド」刊行の案内が追加されました（2026.11.20付）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jspho.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jspho/diff_3429f3f.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261120112117/https://www.jspho.org/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本肝臓学会: 追加: 2026/11/20付で「「感染症対策特別促進事業の実施について」の一部改正について、他」が追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsh/8b4bab82581afc42cedb8641a016fae0181b1048</id>
-    <updated>2026-11-20T22:35:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsh/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加: 2026/11/20付で「「感染症対策特別促進事業の実施について」の一部改正について、他」が追加されました。&lt;/li&gt;&lt;li&gt;変更: 「変異型クロイツフェルト・ヤコブ病（vCJD）感染状況を踏まえた献血制限に係る関係通知の廃止の実施について」「再生医療等の適切な提供に係る自己点検について（依頼）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsh.or.jp/medical/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsh/diff_8b4bab8.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041248/https://www.jsh.or.jp/medical/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本消化器病学会: 追加: 2026年11月20日 周知依頼「APAGE Newsletter – APDNews Nov 2026発行について」</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jsge/3e49daa72d11dba5be8abcfcfac3a84aaa1884f0</id>
-    <updated>2026-11-20T22:35:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jsge/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026年11月20日 周知依頼「APAGE Newsletter – APDNews Nov 2026発行について」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「「人を対象とした医学研究の日本消化器病学会における発表の倫理規準」一部改定について」（2026年11月04日）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「モビコール®配合内用剤LD/HDの供給に関するお知らせ（周知依頼）」（2026年10月01日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jsge.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jsge/diff_3e49daa.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041205/https://www.jsge.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>国立健康危機管理研究機構 感染症情報提供サイト: 追加: 「インフルエンザ様疾患発生報告（学校欠席者数）」の記事を更新しました</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jihsinfo/a99b6997d258f9afc368ead616261d787c615675</id>
-    <updated>2026-11-20T22:35:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jihsinfo/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「インフルエンザ様疾患発生報告（学校欠席者数）」の記事を更新しました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「IDWR 2026年第45号＜注目すべき感染症＞ インフルエンザ」の記事を更新しました&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「麻疹 発生動向調査」「風疹 発生動向調査」の記事を更新しました（2026年11月17日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://id-info.jihs.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jihsinfo/diff_a99b699.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261120111236/https://id-info.jihs.go.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>国立健康危機管理研究機構 - 感染症発生動向調査週報: 追加：「IDWR 2026年第45号＜注目すべき感染症＞ インフルエンザ」の記事を更新しました（2026年11月20日）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jihsgojpidwr/c6f92f5fdfb5ea80db2a59fa2bbb9321a558014b</id>
-    <updated>2026-11-20T22:35:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jihsgojpidwr/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;追加：「IDWR 2026年第45号＜注目すべき感染症＞ インフルエンザ」の記事を更新しました（2026年11月20日）&lt;/li&gt;&lt;li&gt;変更：「IDWR 2026年第10号＜注目すべき感染症＞ 麻しん」の記事を更新しました（2026年3月23日）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://id-info.jihs.go.jp/surveillance/idwr/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jihsgojpidwr/diff_c6f92f5.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261120111135/https://id-info.jihs.go.jp/surveillance/idwr/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本消化器内視鏡学会: 変更: 「第117回　日本消化器内視鏡学会近畿支部例会」の記載が消えました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jges/6378e7ad616670edb41f28197e552f63333aa9e1</id>
-    <updated>2026-11-20T22:35:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jges/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「第117回　日本消化器内視鏡学会近畿支部例会」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「第70回　日本消化器内視鏡学会東海支部例会」が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jges.net/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jges/diff_6378e7a.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261121041010/https://www.jges.net/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>日本臨床衛生検査技師会: 追加: 2026.11.20 「医療事故情報収集等事業「医療安全情報No.240」の提供について」</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/jamtorjp/70e98d0573ba3b43e9174a62434b0b370566be85</id>
-    <updated>2026-11-20T22:35:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jamtorjp/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 2026.11.20 「医療事故情報収集等事業「医療安全情報No.240」の提供について」&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「厚生労働省政策統括官付医療情報連携担当参事官室より「大規模な漏えい等事案を踏まえた対応について（注意喚起）の周知について （個人情報保護委員会からの依頼事項）」」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jamt.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jamtorjp/diff_70e98d0.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261120110810/https://www.jamt.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

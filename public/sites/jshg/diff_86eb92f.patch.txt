@@ -1,0 +1,18 @@
+diff --git a/sites/jshg/jp/jshg/index.html b/sites/jshg/jp/jshg/index.html
+index 1fdafcb2b..4ae01335f 100644
+--- a/sites/jshg/jp/jshg/index.html
++++ b/sites/jshg/jp/jshg/index.html
+@@ -518,10 +518,10 @@
+ 						賛助会員
+ 					</span>
+ 				</h2>
+-				<p>
+-					ライフテクノロジーズジャパン株式会社
+-				</p>
+ 				<ul>
++					<li>
++						ライフテクノロジーズジャパン株式会社
++					</li>
+ 					<li>
+ 						サノフィ株式会社
+ 					</li>

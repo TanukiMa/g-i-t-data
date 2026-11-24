@@ -1,0 +1,44 @@
+diff --git a/sites/nihon-eisei/org/nihon-eisei/index.html b/sites/nihon-eisei/org/nihon-eisei/index.html
+index db2848033..9aa74a0ff 100644
+--- a/sites/nihon-eisei/org/nihon-eisei/index.html
++++ b/sites/nihon-eisei/org/nihon-eisei/index.html
+@@ -350,6 +350,19 @@
+ 					最新情報
+ 				</h3>
+ 				<ul>
++					<li>
++						<span>
++							2026年11月24日
++						</span>
++						<span>
++							採用・求人・大学院生の募集
++						</span>
++						<p>
++							<a href="https://www.nihon-eisei.org/activity/job/" rel="noopener noreferrer">
++								日本大学医学部 助教(任期制)もしくは助手(任期制)1名 公募
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<span>
+ 							2026年11月19日
+@@ -467,19 +480,6 @@
+ 							</a>
+ 						</p>
+ 					</li>
+-					<li>
+-						<span>
+-							2026年10月9日
+-						</span>
+-						<span>
+-							講演会・セミナーのお知らせ
+-						</span>
+-						<p>
+-							<a href="activity/seminars/" rel="noopener noreferrer">
+-								日本衛生学会第3回免疫衛生学研究会独自集会＜教育講演＞
+-							</a>
+-						</p>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://www.nihon-eisei.org/?cat=2" rel="noopener noreferrer">
