@@ -1,0 +1,345 @@
+diff --git a/sites/mhlw/jp/go/mhlw/index.html b/sites/mhlw/jp/go/mhlw/index.html
+index 67219e292..08290e2fb 100644
+--- a/sites/mhlw/jp/go/mhlw/index.html
++++ b/sites/mhlw/jp/go/mhlw/index.html
+@@ -1300,9 +1300,9 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://www.bs.jrc.or.jp/bmdc/generalpublic/m1_02_00_saitai.html" rel="noopener noreferrer">
++									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryojujisha-todokede-sys.html" rel="noopener noreferrer">
+ 										<span>
+-											11月17日は世界さい帯血の日です
++											医療従事者の２年に一度の届出について
+ 										</span>
+ 									</a>
+ 								</li>
+@@ -1321,9 +1321,9 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://amr.jihs.go.jp/information/campaign2026.html" rel="noopener noreferrer">
++									<a href="http://www.mhlw.go.jp/nenkinkyuufukin/index.html" rel="noopener noreferrer">
+ 										<span>
+-											11月は薬剤耐性（AMR）対策推進月間です
++											年金生活者支援給付金のお知らせ
+ 										</span>
+ 									</a>
+ 								</li>
+@@ -1362,9 +1362,9 @@
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="https://www.bs.jrc.or.jp/bmdc/generalpublic/m1_02_00_saitai.html" rel="noopener noreferrer">
++									<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryojujisha-todokede-sys.html" rel="noopener noreferrer">
+ 										<figure>
+-											<img alt="11月17日は世界さい帯血の日です" src="/content/001767693.png">
++											<img alt="医療従事者の２年に一度の届出について" src="/content/001771655.jpg">
+ 										</figure>
+ 									</a>
+ 								</div>
+@@ -1383,9 +1383,9 @@
+ 									</a>
+ 								</div>
+ 								<div>
+-									<a href="https://amr.jihs.go.jp/information/campaign2026.html" rel="noopener noreferrer">
++									<a href="http://www.mhlw.go.jp/nenkinkyuufukin/index.html" rel="noopener noreferrer">
+ 										<figure>
+-											<img alt="11月は薬剤耐性（AMR）対策推進月間です" src="/content/001765199.jpg">
++											<img alt="年金生活者支援給付金のお知らせ" src="/content/001771656.jpg">
+ 										</figure>
+ 									</a>
+ 								</div>
+@@ -1445,96 +1445,96 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/newpage_77581.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/toukei/list/113-1.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	報道発表
++																	統計情報
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																令和８年度　感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します
++																食肉検査等情報還元調査
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77521.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/acp-jinseikaigi/" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	審議会等
++																	その他
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																「第2回と畜場の制度に関する研究会」の開催について
++																令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/kaiken/daijin/0000194708_00992.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/acp-jinseikaigi/" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	大臣会見等
++																	その他
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																令和８年１１月２０日付大臣会見概要
++																「人生会議」普及啓発ポスター・リーフレット（令和８年度）を公開しました
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77528.html" rel="noopener noreferrer">
++													<a href="/stf/kouseiroudoushou/saiyou/ninkituki/ninki-soudanshiensenmonkan.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	審議会等
++																	採用情報
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																第７６回中央最低賃金審議会の開催について
++																採用情報（任期付職員（相談支援専門官）募集情報）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/0000180648_00012.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77249.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	その他
++																	報道発表
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																育成就労に関する二国間取決め（協力覚書）
++																令和８年度　人生会議（ACP）普及・啓発イベント 『自分らしく生き抜くために「人生会議」はじめてみませんか？  in 北海道函館市』を令和９年１月24日（日）に函館市で開催します
+ 															</span>
+ 														</div>
+ 													</a>
+@@ -1570,10 +1570,10 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/newpage_77581.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77249.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1583,13 +1583,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																令和８年度　感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します
++																令和８年度　人生会議（ACP）普及・啓発イベント 『自分らしく生き抜くために「人生会議」はじめてみませんか？  in 北海道函館市』を令和９年１月24日（日）に函館市で開催します
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77571.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77581.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月20日
+@@ -1602,13 +1602,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																上野厚生労働大臣　閣議後記者会見のお知らせ
++																令和８年度　感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77497.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77571.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月20日
+@@ -1621,13 +1621,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																「毎月勤労統計調査（全国調査）」における公表結果の訂正等について
++																上野厚生労働大臣　閣議後記者会見のお知らせ
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77497.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月20日
+@@ -1640,13 +1640,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																インフルエンザに関する報道発表資料を更新しました
++																「毎月勤労統計調査（全国調査）」における公表結果の訂正等について
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/0000121431_00485.html" rel="noopener noreferrer">
++													<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月20日
+@@ -1659,7 +1659,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																新型コロナウイルス感染症に関する報道発表資料を更新しました
++																インフルエンザに関する報道発表資料を更新しました
+ 															</span>
+ 														</div>
+ 													</a>
+@@ -1820,10 +1820,10 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/0000180648_00012.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/acp-jinseikaigi/" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1833,16 +1833,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																育成就労に関する二国間取決め（協力覚書）
++																令和8年度「人生会議」普及啓発イベント第二弾を令和９年１月24日（日）に北海道函館市で開催します
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77568.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/acp-jinseikaigi/" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1852,13 +1852,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																ＵＨＣナレッジハブの第七回調整委員会の開催について
++																「人生会議」普及啓発ポスター・リーフレット（令和８年度）を公開しました
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html" rel="noopener noreferrer">
++													<a href="/stf/seisakunitsuite/bunya/0000180648_00012.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月20日
+@@ -1871,13 +1871,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました
++																育成就労に関する二国間取決め（協力覚書）
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/shinsei_boshu/choutatsujouhou/chotatu/j-wto-siryo/newpage_10538.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77568.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月20日
+@@ -1890,13 +1890,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																資料招請（年金業務システム（フェーズ２）に係る設計・開発等(基盤サブシステム（基盤ソフトウェア）に係る設計・開発業務 一式（その５）））
++																ＵＨＣナレッジハブの第七回調整委員会の開催について
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.mhlw.go.jp/web_magazine/" rel="noopener noreferrer">
++													<a href="/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月20日
+@@ -1909,7 +1909,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																WEBマガジン「厚生労働」（特集[技能五輪国際大会]ほか更新）
++																インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました
+ 															</span>
+ 														</div>
+ 													</a>

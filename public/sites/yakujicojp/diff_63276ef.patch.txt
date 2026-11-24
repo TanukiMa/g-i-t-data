@@ -1,0 +1,417 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index 10a527351..7cc94534f 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -407,26 +407,20 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry141996.html" rel="noopener noreferrer">
+-								【科研製薬】「エクテリー」が順調に拡大‐初の経口HAE治療薬
++							<a href="https://www.yakuji.co.jp/entry141993.html" rel="noopener noreferrer">
++								【ツムラ】漢方製剤の情報提供強化‐胃腸症、睡眠障害領域で
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年11月24日 (火) 06:31
++						2026年11月24日 (火) 08:31
+ 					</div>
+ 					<div>
+-						<div>
+-							<img alt="PTP包装サイズは縦幅53.0mm、横幅35.5mmで携帯しやすい" height="263" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_07-01.jpg" width="350">
+-							<p>
+-								PTP包装サイズは縦幅53.0mm、横幅35.5mmで携帯しやすい
+-							</p>
+-						</div>
+ 						<p>
+-							科研製薬が3月に国内で発売した遺伝性血管性浮腫（HAE）の急性発作を対象とする初の経口治療薬「エクテリー錠300mg」（一般名：セベトラルスタット）が順調に処方を拡大している。いつでもどこでも服用可能な利便性の高さが強みで、発作発生時の早期治療ニーズを捉えた。
++							ツムラは、機能性胃腸症や睡眠障害に対し医療用漢方生薬製剤が有用であるとの情報提供を強化している。機能性胃腸症では、5月に国際的診療ガイドライン「ROMEV」で、原因不明の慢性的な胃もたれなどの機能性ディスペプシア（FD）の治療に六君子湯が、有効性・安全性の確立された製剤として第一選択薬に例示されたことから、積極的に訴求する。睡眠障害は診療科名として標榜できるようになり、関連する四つの漢方生薬製剤の有用性などを伝える。医師向けの新規資材や複数回のウェブセミナーの開催を予定する。同社は処方の拡大、実売の伸長を目指す。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry141996.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry141993.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -448,11 +442,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141996.html" rel="noopener noreferrer">
+-									<img alt="PTP包装サイズは縦幅53.0mm、横幅35.5mmで携帯しやすい" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141993.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141996.html" rel="noopener noreferrer">
+-									【科研製薬】「エクテリー」が順調に拡大‐初の経口HAE治療薬
++								<a href="https://www.yakuji.co.jp/entry141993.html" rel="noopener noreferrer">
++									【ツムラ】漢方製剤の情報提供強化‐胃腸症、睡眠障害領域で
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -465,11 +458,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141989.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_02-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141998.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141989.html" rel="noopener noreferrer">
+-									薬剤師関与の販売制度を‐NPhA 藤井会長、OTC使用で適切に助言
++								<a href="https://www.yakuji.co.jp/entry141998.html" rel="noopener noreferrer">
++									【JACDS】SMBGのOTC化推進要望‐薬剤師関与へ仕組み整備を
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -482,14 +474,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141994.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141996.html" rel="noopener noreferrer">
++									<img alt="PTP包装サイズは縦幅53.0mm、横幅35.5mmで携帯しやすい" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_07-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141994.html" rel="noopener noreferrer">
+-									【27年度介護報酬改定】老健の薬剤師評価拡充か‐医療・介護連携を強化へ
++								<a href="https://www.yakuji.co.jp/entry141996.html" rel="noopener noreferrer">
++									【科研製薬】「エクテリー」が順調に拡大‐初の経口HAE治療薬
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -498,15 +491,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141991.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141989.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_02-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141991.html" rel="noopener noreferrer">
+-									【医療保険部会】次期適正化計画の論点議論‐地域フォーミュラリに意見
++								<a href="https://www.yakuji.co.jp/entry141989.html" rel="noopener noreferrer">
++									薬剤師関与の販売制度を‐NPhA 藤井会長、OTC使用で適切に助言
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -515,10 +508,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141988.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141994.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141988.html" rel="noopener noreferrer">
+-									【医療安全情報】注射剤で投与間隔間違い‐スケジュール管理喚起
++								<a href="https://www.yakuji.co.jp/entry141994.html" rel="noopener noreferrer">
++									【27年度介護報酬改定】老健の薬剤師評価拡充か‐医療・介護連携を強化へ
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -531,10 +524,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141987.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141991.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141987.html" rel="noopener noreferrer">
+-									【PhRMA】拡大案「到底容認できず」‐費用対評価に不満表明
++								<a href="https://www.yakuji.co.jp/entry141991.html" rel="noopener noreferrer">
++									【医療保険部会】次期適正化計画の論点議論‐地域フォーミュラリに意見
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -648,14 +642,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141939.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142019.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261124_1119ka4-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141939.html" rel="noopener noreferrer">
+-									【第一三共ヘルスケア】乾燥するのに、べたつき・毛穴も気になる「敏感肌かつ混合肌」の特徴…
++								<a href="https://www.yakuji.co.jp/entry142019.html" rel="noopener noreferrer">
++									【奥谷金網製作所】マイクロナノバブル洗浄機「OKS-1400MS」が高い評価
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月19日 (木)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -664,14 +659,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141937.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142017.html" rel="noopener noreferrer">
++									<img alt="左から、Dr. Abu Bakr Eliwa－General Manager, Kulzer Middle East &amp; Africa、Dr. Nahawand Thabet－FDI Council Member and Representative for Africa、林田博巳ライフ＆ヘルスケアソリューション事業本部長、Prof. Dr. Tarek Abbas－President of the African Regional Organisation (ARO), FDI World Dental Federation; Pro Vice-Chancellor、他" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261124_1119ka3-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141937.html" rel="noopener noreferrer">
+-									【富士レビオ】血漿中β－アミロイド1‐42検査薬、製造販売承認を取得
++								<a href="https://www.yakuji.co.jp/entry142017.html" rel="noopener noreferrer">
++									【三井化学グループ】アフリカで初の歯科シンポ開催‐EMEA地域の事業基盤を強化
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月19日 (木)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -742,15 +738,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141980.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_06-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142024.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/d27a80119e17c7d69909bdfcaee7772e-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141980.html" rel="noopener noreferrer">
+-									【新製品】冬の街彩る輝きを表現‐「消臭力」から数量限定品　エステー
++								<a href="https://www.yakuji.co.jp/entry142024.html" rel="noopener noreferrer">
++									【新製品】韓国発コスメブランド「TIRTIR」から、欲しいを重ねる　私の心をつかむ運命の1本‐…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -759,15 +755,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141935.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261118_1118ka2-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142021.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/82073bbb16b5aa64c1ebac84f4dd1204-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141935.html" rel="noopener noreferrer">
+-									【新製品】Bluetooth内蔵の上腕式血圧計「UA-652BLE Plus」を発売へ　A＆D
++								<a href="https://www.yakuji.co.jp/entry142021.html" rel="noopener noreferrer">
++									【新製品】2年ぶりに待望の復活　高機能ファブリックケアブランド「レプリカノーツ」＜コンフ…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月19日 (木)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1167,15 +1163,14 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141927.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/IMG_0355-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142028.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141927.html" rel="noopener noreferrer">
+-									20日にウェビナー「EDC構築にAIを入れて、何が変わったか」開催　セブントゥワン
++								<a href="https://www.yakuji.co.jp/entry142028.html" rel="noopener noreferrer">
++									12月21～22日に「第11回DIA再生医療製品・遺伝子治療用製品シンポジウム」開催　ディー・アイ…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月19日 (木)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1184,14 +1179,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141860.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141927.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/IMG_0355-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141860.html" rel="noopener noreferrer">
+-									21日に島根でラグビーイベント‐競技環境充実に貢献　大正製薬
++								<a href="https://www.yakuji.co.jp/entry141927.html" rel="noopener noreferrer">
++									20日にウェビナー「EDC構築にAIを入れて、何が変わったか」開催　セブントゥワン
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月18日 (水)
++									2026年11月19日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1709,11 +1705,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141996.html" rel="noopener noreferrer">
+-									<img alt="PTP包装サイズは縦幅53.0mm、横幅35.5mmで携帯しやすい" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142028.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141996.html" rel="noopener noreferrer">
+-									【科研製薬】「エクテリー」が順調に拡大‐初の経口HAE治療薬
++								<a href="https://www.yakuji.co.jp/entry142028.html" rel="noopener noreferrer">
++									12月21～22日に「第11回DIA再生医療製品・遺伝子治療用製品シンポジウム」開催　ディー・アイ…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1726,11 +1721,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141989.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_02-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141993.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141989.html" rel="noopener noreferrer">
+-									薬剤師関与の販売制度を‐NPhA 藤井会長、OTC使用で適切に助言
++								<a href="https://www.yakuji.co.jp/entry141993.html" rel="noopener noreferrer">
++									【ツムラ】漢方製剤の情報提供強化‐胃腸症、睡眠障害領域で
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1743,14 +1737,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142029.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141998.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142029.html" rel="noopener noreferrer">
+-									行政情報リスト　2026/11/20
++								<a href="https://www.yakuji.co.jp/entry141998.html" rel="noopener noreferrer">
++									【JACDS】SMBGのOTC化推進要望‐薬剤師関与へ仕組み整備を
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1759,14 +1753,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142006.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142024.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/d27a80119e17c7d69909bdfcaee7772e-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142006.html" rel="noopener noreferrer">
+-									プレスリリース・タイトルリスト　2026/11/20
++								<a href="https://www.yakuji.co.jp/entry142024.html" rel="noopener noreferrer">
++									【新製品】韓国発コスメブランド「TIRTIR」から、欲しいを重ねる　私の心をつかむ運命の1本‐…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1775,14 +1770,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141994.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142021.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/82073bbb16b5aa64c1ebac84f4dd1204-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141994.html" rel="noopener noreferrer">
+-									【27年度介護報酬改定】老健の薬剤師評価拡充か‐医療・介護連携を強化へ
++								<a href="https://www.yakuji.co.jp/entry142021.html" rel="noopener noreferrer">
++									【新製品】2年ぶりに待望の復活　高機能ファブリックケアブランド「レプリカノーツ」＜コンフ…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1791,15 +1787,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141991.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13244_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142019.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261124_1119ka4-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141991.html" rel="noopener noreferrer">
+-									【医療保険部会】次期適正化計画の論点議論‐地域フォーミュラリに意見
++								<a href="https://www.yakuji.co.jp/entry142019.html" rel="noopener noreferrer">
++									【奥谷金網製作所】マイクロナノバブル洗浄機「OKS-1400MS」が高い評価
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1808,14 +1804,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141988.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142017.html" rel="noopener noreferrer">
++									<img alt="左から、Dr. Abu Bakr Eliwa－General Manager, Kulzer Middle East &amp; Africa、Dr. Nahawand Thabet－FDI Council Member and Representative for Africa、林田博巳ライフ＆ヘルスケアソリューション事業本部長、Prof. Dr. Tarek Abbas－President of the African Regional Organisation (ARO), FDI World Dental Federation; Pro Vice-Chancellor、他" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261124_1119ka3-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141988.html" rel="noopener noreferrer">
+-									【医療安全情報】注射剤で投与間隔間違い‐スケジュール管理喚起
++								<a href="https://www.yakuji.co.jp/entry142017.html" rel="noopener noreferrer">
++									【三井化学グループ】アフリカで初の歯科シンポ開催‐EMEA地域の事業基盤を強化
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1824,14 +1821,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141987.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142015.html" rel="noopener noreferrer">
++									<img alt="酸素-18安定同位体標識水" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261124_1119ka2-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141987.html" rel="noopener noreferrer">
+-									【PhRMA】拡大案「到底容認できず」‐費用対評価に不満表明
++								<a href="https://www.yakuji.co.jp/entry142015.html" rel="noopener noreferrer">
++									【日本酸素】PET診断薬原料製造プラントを新設‐世界需要に対応し供給体制を刷新
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月20日 (金)
++									2026年11月24日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1851,7 +1849,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年11月  (253)
++		 2026年11月  (262)
+ 	 2026年10月  (380)
+ 	 2026年9月  (341)
+ 	 2026年8月  (319)

@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本内分泌学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/j-endo.xml</id>
-  <updated>2026-11-17T03:34:06Z</updated>
+  <updated>2026-11-24T03:37:06Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/j-endo.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/j-endo/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本内分泌学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/j-endo/6c47a633a723bb61c809c72d6bc07a27dbaeb3ae</id>
+    <updated>2026-11-24T03:37:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/j-endo/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.j-endo.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/j-endo/diff_6c47a63.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本内分泌学会: 追加：「第18回神戸甲状腺診断セミナーのご案内」（2026年11月17日）</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/j-endo/1c29874664424c2721c08385a2be4e97abb0032f</id>

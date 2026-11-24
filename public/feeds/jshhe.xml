@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本健康学会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/jshhe.xml</id>
-  <updated>2026-10-28T16:31:34Z</updated>
+  <updated>2026-11-24T03:37:08Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/jshhe.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshhe/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本健康学会: 変更 E-mailアドレスの表記が変更され、「jshhe▲ksot.kyorin-u.ac.jp（▲を@に置き換えてください）」となりました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/jshhe/df53fe0684d78283cb95e0a42397016fbbefb4f1</id>
+    <updated>2026-11-24T03:37:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/jshhe/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt; E-mailアドレスの表記が変更され、「jshhe▲ksot.kyorin-u.ac.jp（▲を@に置き換えてください）」となりました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://jshhe.org/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/jshhe/diff_df53fe0.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本健康学会: 内容に実質的な変更はありません（表示の調整のみ）。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/jshhe/a9919664095624b9c562f32a3443fc4a886789cc</id>

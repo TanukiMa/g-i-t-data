@@ -1,0 +1,28 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 9adaaba48..eb64b48eb 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -662,6 +662,11 @@
+ 						GENERAL（医学・医療系リンク集）
+ 					</h5>
+ 					<ul>
++						<li>
++							<a href="https://gynecologycongress.com/" rel="noopener noreferrer">
++								International Conference on Gynecology and Obstetrics 2027
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.jichi.ac.jp/jmu-cgtr/" rel="noopener noreferrer">
+ 								第3回JMU-CGTR市民公開講座
+@@ -692,11 +697,6 @@
+ 								シンポジウムシリーズ「社会が求める健康データサイエンティスト」第4回～食品・栄養と健康データサイエンティスト～
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://square.umin.ac.jp/chubu62/" rel="noopener noreferrer">
+-								第62回中部日本小児科学会
+-							</a>
+-						</li>
+ 					</ul>
+ 					<h5>
+ 						Drug、Clinical Trial、Epidemiology、Statistics（医薬品、臨床試験、疫学、統計リンク集）
