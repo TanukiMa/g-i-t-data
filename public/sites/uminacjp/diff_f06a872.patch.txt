@@ -1,0 +1,148 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index eb64b48eb..d84f93d06 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -760,6 +760,24 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015739" rel="noopener noreferrer">
++							国立大学法人筑波大学 医学医療系　災害・地域精神医学分野 その他公募
++						</a>
++					</li>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015738" rel="noopener noreferrer">
++							国立大学法人筑波大学 医学医療系　顎口腔外科学分野 特任助教公募
++						</a>
++					</li>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015728" rel="noopener noreferrer">
++							名古屋大学 大学院医学系研究科　総合保健学専攻　予防・リハビリテーション科学　作業療法科学 助教公募
++						</a>
++					</li>
+ 					<li>
+ 						[教職員公募]
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015740" rel="noopener noreferrer">
+@@ -802,24 +820,6 @@
+ 							群馬大学 大学院医学系研究科　生化学分野 助教公募
+ 						</a>
+ 					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015735" rel="noopener noreferrer">
+-							群馬大学 大学院医学系研究科　生化学分野 講師公募
+-						</a>
+-					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015729" rel="noopener noreferrer">
+-							鹿児島大学 大学院医歯学総合研究科腫瘍学講座(顎顔面放射線学分野) 助教公募
+-						</a>
+-					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015727" rel="noopener noreferrer">
+-							名古屋市立大学 医学研究科　加齢・環境皮膚科学分野 教授公募
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">
+@@ -973,63 +973,63 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						国際医療福祉大学病院腎泌尿器外科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000067663" rel="noopener noreferrer">
+-							ThuVAPの治療効果
++						国際医療福祉大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000070958" rel="noopener noreferrer">
++							頚部干渉波電流刺激の評価
+ 						</a>
+ 					</li>
+ 					<li>
+-						藤田医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072881" rel="noopener noreferrer">
+-							運動および振動刺激が腸活動に及ぼす影響
++						広島大学小児科学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072937" rel="noopener noreferrer">
++							造血幹細胞移植後の部分性脂肪萎縮症に関する全国疫学調査研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						医療法人芙蓉会 村上病院消化器内科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072928" rel="noopener noreferrer">
+-							Helicobacter pyloriのクラリスロマイシン耐性の研究
++						医療法人社団明芳会 横浜新都市脳神経外科病院内科・認知症診断センター：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072943" rel="noopener noreferrer">
++							認知症患者における抑肝散加陳皮半夏の処方対象症状と治療反応に関する診療録研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						早稲田大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072931" rel="noopener noreferrer">
+-							低エネルギー状態が男性アスリートの血糖及び睡眠に及ぼす影響
++						トヨタ記念病院トヨタアスリートサポートセンター：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072945" rel="noopener noreferrer">
++							成人の体幹運動研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						早稲田大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072932" rel="noopener noreferrer">
+-							アスリートの適切な食事摂取が非鉄欠乏性貧血の改善に及ぼす影響
++						和洋女子大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072947" rel="noopener noreferrer">
++							還元型CoQ10-PMS試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社ウェルナス：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072933" rel="noopener noreferrer">
+-							タケノコ乾燥粉末摂取による睡眠改善効果
++						宮崎大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072949" rel="noopener noreferrer">
++							運動後のたんぱく質摂取と食事摂取量
+ 						</a>
+ 					</li>
+ 					<li>
+-						横浜市立大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072934" rel="noopener noreferrer">
+-							敗血症ICU退室判定AIモデル研究
++						福岡大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072450" rel="noopener noreferrer">
++							肉・植物性たんぱく質食比較試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京科学大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072938" rel="noopener noreferrer">
+-							異なる歯ブラシが軽度認知障害患者に与える影響
++						洛西シミズ病院リハビリテーション科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072956" rel="noopener noreferrer">
++							人工膝関節全置換術後早期のパルス超音波療法に伴う痛みと膝機能の変化
+ 						</a>
+ 					</li>
+ 					<li>
+-						DRC株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072779" rel="noopener noreferrer">
+-							各年代の顔及び手の状態評価試験
++						国際医療福祉大学病院腎泌尿器外科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000067663" rel="noopener noreferrer">
++							ThuVAPの治療効果
+ 						</a>
+ 					</li>
+ 					<li>
+-						東京ミッドタウン先端医療研究所：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072915" rel="noopener noreferrer">
+-							男性型脱毛症に対する異なる治療法による毛髪の変化と治療効果との関連を調べる後ろ向き観察研究
++						藤田医科大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072881" rel="noopener noreferrer">
++							運動および振動刺激が腸活動に及ぼす影響
+ 						</a>
+ 					</li>
+ 				</ul>

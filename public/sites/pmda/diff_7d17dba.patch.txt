@@ -1,0 +1,146 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 0334ae880..cc6c3891e 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2370,6 +2370,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
++												<p>
++													2026年11月24日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/calling-attention/safety-info/0166.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2597,22 +2613,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年11月18日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													New
+-												</p>
+-												<p>
+-													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」、他1件
+-												</p>
+-											</a>
+-										</li>
+ 										<li>
+ 											<a href="/review-services/trials/0008.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2878,57 +2878,57 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/safety-info/0166.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
+ 												<p>
+ 													2026年11月24日
+ 												</p>
+ 												<p>
+-													全製品
++													医薬品
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													医薬品・医療機器等安全性情報 No.434（厚生労働省発行）を掲載しました
++													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/review-services/symposia/0213.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/calling-attention/safety-info/0166.html" rel="noopener noreferrer">
+ 												<p>
+ 													2026年11月24日
+ 												</p>
+ 												<p>
+-													イベント
++													全製品
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													2026年度 医療機器規制と審査の最適化のための協働計画における承認審査等に関する講習会のご案内
++													医薬品・医療機器等安全性情報 No.434（厚生労働省発行）を掲載しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/drugs/adr-info/suspected-adr/0005.html" rel="noopener noreferrer">
++											<a href="/review-services/symposia/0213.html" rel="noopener noreferrer">
+ 												<p>
+ 													2026年11月24日
+ 												</p>
+ 												<p>
+-													医薬品
++													イベント
+ 												</p>
+ 												<p>
+ 													New
+ 												</p>
+ 												<p>
+-													「副作用が疑われる症例報告に関する情報」に2026年7月分の情報を追加しました
++													2026年度 医療機器規制と審査の最適化のための協働計画における承認審査等に関する講習会のご案内
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/drugs/items-information/guide-for-patients/0001.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/adr-info/suspected-adr/0005.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年11月20日
++													2026年11月24日
+ 												</p>
+ 												<p>
+ 													医薬品
+@@ -2937,14 +2937,14 @@
+ 													New
+ 												</p>
+ 												<p>
+-													薬・ワクチンのガイド（必須版）のWebアンケート調査を開始しました
++													「副作用が疑われる症例報告に関する情報」に2026年7月分の情報を追加しました
+ 												</p>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/recall-info/0002.html" rel="noopener noreferrer">
++											<a href="/safety/info-services/drugs/items-information/guide-for-patients/0001.html" rel="noopener noreferrer">
+ 												<p>
+-													2026年11月18日
++													2026年11月20日
+ 												</p>
+ 												<p>
+ 													医薬品
+@@ -2953,7 +2953,7 @@
+ 													New
+ 												</p>
+ 												<p>
+-													クラスI回収 該当回収品目　照射赤血球液-LR「日赤」、他1件
++													薬・ワクチンのガイド（必須版）のWebアンケート調査を開始しました
+ 												</p>
+ 											</a>
+ 										</li>

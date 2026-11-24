@@ -1,0 +1,19 @@
+diff --git a/sites/shingi-chuo/jp/go/mhlw/stf-shingi-shingi-chuo-128154-html.html b/sites/shingi-chuo/jp/go/mhlw/stf-shingi-shingi-chuo-128154-html.html
+index 7c231bead..745e3e3fd 100644
+--- a/sites/shingi-chuo/jp/go/mhlw/stf-shingi-shingi-chuo-128154-html.html
++++ b/sites/shingi-chuo/jp/go/mhlw/stf-shingi-shingi-chuo-128154-html.html
+@@ -1502,7 +1502,13 @@
+ 											時改定について
+ 										</td>
+ 										<td>
+-											－
++											<ul>
++												<li>
++													<a href="https://www.mhlw.go.jp/stf/newpage_77624.html" rel="noopener noreferrer">
++														議事録
++													</a>
++												</li>
++											</ul>
+ 										</td>
+ 										<td>
+ 											<ul>
