@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 全日本病院協会</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/ajhaorjp.xml</id>
-  <updated>2026-11-24T07:33:50Z</updated>
+  <updated>2026-11-25T07:33:48Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/ajhaorjp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ajhaorjp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>全日本病院協会: 変更：「医療行政情報を4件更新しました」の記載が消えました。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/ajhaorjp/a65ba092bb3b12af6ac06c2599bea780ac2bc5fe</id>
+    <updated>2026-11-25T07:33:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/ajhaorjp/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更：「医療行政情報を4件更新しました」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：「教育研修」および「研修参加申込状況を更新しました」の記載が消えました。&lt;/li&gt;&lt;li&gt;変更：更新日が「2026/11/24」「2026/11/19」から「2026/11/25」に変更されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ajha.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/ajhaorjp/diff_a65ba09.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>全日本病院協会: 変更: 更新日が「2026/11/20」から「2026/11/24」に変更されました</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/ajhaorjp/8c9922ab0c83bb0741ec11693bf12d743d16b074</id>

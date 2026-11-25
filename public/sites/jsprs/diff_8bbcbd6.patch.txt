@@ -1,0 +1,16 @@
+diff --git a/sites/jsprs/jp/or/jsprs/index.html b/sites/jsprs/jp/or/jsprs/index.html
+index 44468b156..8d5216f99 100644
+--- a/sites/jsprs/jp/or/jsprs/index.html
++++ b/sites/jsprs/jp/or/jsprs/index.html
+@@ -712,6 +712,11 @@
+ 							<img alt="第35回日本形成外科学会基礎学術集会" height="51" src="banner/meeting/jsprs_kiso2026.jpg" width="306">
+ 						</a>
+ 					</li>
++					<li>
++						<a href="https://jsprs-kiso2027.umin.jp/" rel="noopener noreferrer">
++							<img alt="第36回日本形成外科学会基礎学術集会" height="51" src="banner/meeting/jsprs-kiso2027.png" width="306">
++						</a>
++					</li>
+ 					<li>
+ 						<a href="https://gakkai.co.jp/jsprs70/" rel="noopener noreferrer">
+ 							<img alt="第70回日本形成外科学会総会・学術集会" height="51" src="banner/meeting/jsprs70.jpg" width="306">
