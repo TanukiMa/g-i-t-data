@@ -1,0 +1,16 @@
+diff --git a/sites/jshporjp/jp/or/jshp/index.html b/sites/jshporjp/jp/or/jshp/index.html
+index 33e4240e2..763afbe21 100644
+--- a/sites/jshporjp/jp/or/jshp/index.html
++++ b/sites/jshporjp/jp/or/jshp/index.html
+@@ -479,7 +479,10 @@
+ 				</div>
+ 				<div>
+ 					<a href="content/2026/0420-2.html" rel="noopener noreferrer">
+-						施設・地域での地域医療連携に関する取り組み事例収集へのご協力のお願い
++						施設・地域での地域医療連携に関する取り組み事例収集のお願い
++						<span>
++							12/31まで！
++						</span>
+ 					</a>
+ 					<a href="content/2025/0925-2.html" rel="noopener noreferrer">
+ 						薬剤管理サマリーの利活用に関する事例収集へのご協力のお願い

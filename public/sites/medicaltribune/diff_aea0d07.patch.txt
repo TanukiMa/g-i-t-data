@@ -1,0 +1,250 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index be15e64a3..08e35de43 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1461,7 +1461,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月25日の新着ニュース
++															11月26日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1478,20 +1478,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="エボロクマブ、日本人FHでLDL-C低下が2年持続" src="https://asset.mtweb.jp/media/2026/11/25160204/ChatGPT-Image-20261125_Evolocumab_FH.jpg">
++																<img alt="ドナネマブ投与後1年でアミロイド96％除去" src="https://asset.mtweb.jp/media/2026/11/25170931/ChatGPT-Image-20261125_donanemab.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622732" rel="noopener noreferrer">
+-																			エボロクマブ、日本人FHでLDL-C低下が2年持続
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622573" rel="noopener noreferrer">
++																			ドナネマブ投与後1年でアミロイド96％除去
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-25
++																			2026-11-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1527,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="あはき・柔整施術所の不適切広告、保健所が監視" src="https://asset.mtweb.jp/media/2026/11/24112942/%E9%A1%94%E5%86%99%E7%9C%9F_%E5%90%91%E5%B1%B1%E6%99%B4%E5%AD%90.jpg">
++																<img alt="英国でも若者の「草食化」が深刻" src="https://asset.mtweb.jp/media/2026/11/25145619/ChatGPT-Image-20261125_Sexual-behaviour.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622594" rel="noopener noreferrer">
+-																			あはき・柔整施術所の不適切広告、保健所が監視
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622877" rel="noopener noreferrer">
++																			英国でも若者の「草食化」が深刻
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1576,13 +1576,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="がんが「転移する力」はいつ備わるのか" src="https://asset.mtweb.jp/media/2026/06/10160320/com_dr_iwai_thum_w440h275.jpg">
++																<img alt="禁煙は無理でも「減煙」で乾癬リスクが低下" src="https://asset.mtweb.jp/media/2026/11/24164400/ChatGPT-Image-20261124_PsAxSmoking.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
+-																			がんが「転移する力」はいつ備わるのか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622689" rel="noopener noreferrer">
++																			禁煙は無理でも「減煙」で乾癬リスクが低下
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1625,13 +1625,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="前立腺がん検診、平均リスクの50～69歳男性に2年ごとの受診を推奨" src="https://asset.mtweb.jp/media/2026/11/24175145/000551_ft.jpeg">
++																<img alt="エボロクマブ、日本人FHでLDL-C低下が2年持続" src="https://asset.mtweb.jp/media/2026/11/25160204/ChatGPT-Image-20261125_Evolocumab_FH.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622716" rel="noopener noreferrer">
+-																			前立腺がん検診、平均リスクの50～69歳男性に2年ごとの受診を推奨
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622732" rel="noopener noreferrer">
++																			エボロクマブ、日本人FHでLDL-C低下が2年持続
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1674,20 +1674,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="学童への心電図検診、心疾患の早期発見に有用" src="https://asset.mtweb.jp/media/2026/11/22114422/ChatGPT-Image-20261122_Universal-ECG-Screening.jpg">
++																<img alt="あはき・柔整施術所の不適切広告、保健所が監視" src="https://asset.mtweb.jp/media/2026/11/24112942/%E9%A1%94%E5%86%99%E7%9C%9F_%E5%90%91%E5%B1%B1%E6%99%B4%E5%AD%90.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622555" rel="noopener noreferrer">
+-																			学童への心電図検診、心疾患の早期発見に有用
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622594" rel="noopener noreferrer">
++																			あはき・柔整施術所の不適切広告、保健所が監視
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-24
++																			2026-11-25
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1723,20 +1723,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「あはき」施術関連の健康被害、10年で1,668例" src="https://asset.mtweb.jp/media/2026/11/24110108/%E9%A1%94%E5%86%99%E7%9C%9F_%E5%AE%AE%E5%B4%8E%E6%B5%A9.jpg">
++																<img alt="がんが「転移する力」はいつ備わるのか" src="https://asset.mtweb.jp/media/2026/06/10160320/com_dr_iwai_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622587" rel="noopener noreferrer">
+-																			「あはき」施術関連の健康被害、10年で1,668例
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
++																			がんが「転移する力」はいつ備わるのか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-24
++																			2026-11-25
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,20 +1772,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="〔10pt進呈〕第54回日本頭痛学会のテーマ「頭痛診療の社会実装―明日へのシナリオ―」に大会長の橋本洋一郎氏が込めた思いとは？【MT医療検定 No.151】（11/30まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																<img alt="前立腺がん検診、平均リスクの50～69歳男性に2年ごとの受診を推奨" src="https://asset.mtweb.jp/media/2026/11/24175145/000551_ft.jpeg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622377" rel="noopener noreferrer">
+-																			〔10pt進呈〕第54回日本頭痛学会のテーマ「頭痛診療の社会実装―明日へのシナリオ―」に大会長の橋本洋一郎氏が込めた思いとは？【MT医療検定 No.151】（11/30まで）
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622716" rel="noopener noreferrer">
++																			前立腺がん検診、平均リスクの50～69歳男性に2年ごとの受診を推奨
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-24
++																			2026-11-25
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1818,7 +1818,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月25日の新着連載
++															11月26日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									4
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									8
++																									18
+ 																								</span>
+ 																								<span>
+-																									8件「いいね！」されています
++																									18件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1919,10 +1919,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									21
++																									22
+ 																								</span>
+ 																								<span>
+-																									21件「いいね！」されています
++																									22件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1970,10 +1970,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									25
++																									29
+ 																								</span>
+ 																								<span>
+-																									25件「いいね！」されています
++																									29件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2021,10 +2021,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									23
++																									28
+ 																								</span>
+ 																								<span>
+-																									23件「いいね！」されています
++																									28件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2072,10 +2072,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									38
++																									42
+ 																								</span>
+ 																								<span>
+-																									38件「いいね！」されています
++																									42件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

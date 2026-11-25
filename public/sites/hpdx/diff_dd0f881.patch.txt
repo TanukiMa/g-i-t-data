@@ -1,0 +1,16 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 9c085ea39..e2594e5b1 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -106,6 +106,11 @@
+ 					<div>
+ 						<div>
+ 							<ul>
++								<li>
++									<a href="/saigai/saigai_r081125/index.html" rel="noopener noreferrer">
++										<img alt="令和8年11月20日からの大雪に伴う災害に関するお知らせ" height="346" src="index.images/mvimg_saigai_R081125.png" width="500">
++									</a>
++								</li>
+ 								<li>
+ 									<a href="/about/s_kaikaku/dxkikou_oshirase_1.html" rel="noopener noreferrer">
+ 										<img alt="支払基金の改組に伴うお知らせ" height="346" src="index.images/mvimg_kaisogo.png" width="500">

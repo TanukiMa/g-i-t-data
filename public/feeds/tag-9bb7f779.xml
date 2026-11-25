@@ -2,18 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 診療報酬・保険</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-9bb7f779.xml</id>
-  <updated>2026-11-25T03:33:58Z</updated>
+  <updated>2026-11-25T22:34:05Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-9bb7f779.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
   <entry>
+    <title>協会けんぽ: 追加: 「令和8年11月20日からの大雪に伴う災害（福島県）」が災害情報として追加されました（令和08年11月25日）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/kyoukaikenpo/fc831c25677dd1f87d0270a19d1238813efbd71b</id>
+    <updated>2026-11-25T22:34:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/kyoukaikenpo/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8年11月20日からの大雪に伴う災害（福島県）」が災害情報として追加されました（令和08年11月25日）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「健康保険コラムを掲載しました」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「令和8年台風第25号に伴う災害」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kyoukaikenpo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kyoukaikenpo/diff_fc831c2.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 追加: 「令和8年11月20日からの大雪に伴う災害に関するお知らせ」へのリンクが追加されました（/saigai/saigai_r081125/index.html）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/dd0f88118e31cfd4fe57ba35615885d8dcb3b5d7</id>
+    <updated>2026-11-25T22:34:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8年11月20日からの大雪に伴う災害に関するお知らせ」へのリンクが追加されました（&lt;code&gt;/saigai/saigai_r081125/index.html&lt;/code&gt;）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_dd0f881.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 変更: 「災害に関するお知らせ」のバナー画像の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/9117d63d848c8a97f85669beed0f673e5ad61552</id>
     <updated>2026-11-25T03:33:58Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「災害に関するお知らせ」のバナー画像の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 令和8年11月25日付けで「医療機関・保険者」向けに「審査の差異の可視化レポート」の「審査の一般的な取扱い事例」の再フォローアップ検証(医科1事例)及び再々フォローアップ検証(医科1事例)のレポートを掲載しました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_9117d63.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;変更: 「災害に関するお知らせ」のバナー画像の記載が消えました。&lt;/li&gt;&lt;li&gt;追加: 令和8年11月25日付けで「医療機関・保険者」向けに「審査の差異の可視化レポート」の「審査の一般的な取扱い事例」の再フォローアップ検証(医科1事例)及び再々フォローアップ検証(医科1事例)のレポートを掲載しました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_9117d63.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>中央社会保険医療協議会(中央社会保険医療協議会総会): 追加: 議事録のリンク（https://www.mhlw.go.jp/stf/newpage_77624.html）が追加されました。</title>
@@ -343,19 +357,5 @@
     <updated>2026-11-05T03:34:28Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlwgojp28708/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「10月21日」の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「11月5日」および「資料等」（/stf/newpage_77182.html）の記載が追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/newpage_28708.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlwgojp28708/diff_ce63c20.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261105074921/https://www.mhlw.go.jp/stf/newpage_28708.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>協会けんぽ: 内容に実質的な変更はありません（表示の調整のみ）。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/kyoukaikenpo/bdc6ccdc23c20e527c0a759e83f616c1f16d9b18</id>
-    <updated>2026-11-05T03:34:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/kyoukaikenpo/history.html" />
-    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kyoukaikenpo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kyoukaikenpo/diff_bdc6ccd.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261105074423/https://www.kyoukaikenpo.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>協会けんぽ: 追加: 健康保険コラムを掲載しました（令和08年11月04日）</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/kyoukaikenpo/4caf56060da8c962261e62c178f8d701f9c54000</id>
-    <updated>2026-11-04T07:36:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/kyoukaikenpo/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 健康保険コラムを掲載しました（令和08年11月04日）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「本部における事務処理誤り等の発生状況について（令和8年7月～9月）」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.kyoukaikenpo.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/kyoukaikenpo/diff_4caf560.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261104104016/https://www.kyoukaikenpo.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
