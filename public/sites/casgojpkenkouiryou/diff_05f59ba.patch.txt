@@ -1,0 +1,22 @@
+diff --git a/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html b/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
+index f0b0a1bb8..208e06889 100644
+--- a/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
++++ b/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
+@@ -162,6 +162,17 @@
+ 						トピックス
+ 					</h2>
+ 					<ul>
++						<li>
++							<span>
++								令和８年11月24日
++							</span>
++							<span>
++								<a href="kansenshou/dai7/gijishidai.html" rel="noopener noreferrer">
++									第７回感染症協議会
++								</a>
++								が開催されました。
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								令和８年11月18日

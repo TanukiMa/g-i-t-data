@@ -1,0 +1,39 @@
+diff --git a/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html b/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
+index 142750b6b..a4c33e63d 100644
+--- a/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
++++ b/sites/wamgojpgyoseibunlist/jp/go/wam/gyoseiShiryou-bun-list-bun1-010.html
+@@ -2654,6 +2654,17 @@
+ 											</tr>
+ 										</thead>
+ 										<tbody>
++											<tr>
++												<td>
++													<img alt="" src="/content/css/img/icon_szl_new.gif" title="新着アイコン">
++													<a href="detail-list?bun=010020245" rel="noopener noreferrer" title="疾病対策部会│指定難病検討委員会">
++														疾病対策部会│指定難病検討委員会
++													</a>
++												</td>
++												<td>
++													2026/11/25
++												</td>
++											</tr>
+ 											<tr>
+ 												<td>
+ 													<img alt="" src="/content/css/img/icon_szl_new.gif" title="新着アイコン">
+@@ -2716,16 +2727,6 @@
+ 													2026/09/02
+ 												</td>
+ 											</tr>
+-											<tr>
+-												<td>
+-													<a href="detail-list?bun=010020245" rel="noopener noreferrer" title="疾病対策部会│指定難病検討委員会">
+-														疾病対策部会│指定難病検討委員会
+-													</a>
+-												</td>
+-												<td>
+-													2026/08/31
+-												</td>
+-											</tr>
+ 											<tr>
+ 												<td>
+ 													<a href="detail-list?bun=010020250" rel="noopener noreferrer" title="疾病対策部会│難病対策委員会">
