@@ -336,19 +336,23 @@ sites:
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_07.html
     name: "傷病名マスター"
     slug: "hpdx-kihonmasta-07"
+    remove: ["div.loruizi"]   # 「こちらもお探しですか」: the recommended links change by themselves
     tags: ["公的機関", "マスター", "医療DX・医療情報"]
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html
     name: "医薬品マスター"
     slug: "hpdx-kihonmasta-04"
+    remove: ["div.loruizi"]   # 「こちらもお探しですか」: the recommended links change by themselves
     tags: ["公的機関", "マスター", "医薬品・医療機器", "医療DX・医療情報"]
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_05.html
     name: "特定器材マスター"
     tags: ["公的機関", "マスター", "医療DX・医療情報"]
     slug: "hpdx-kihonmasta-05"
+    remove: ["div.loruizi"]   # 「こちらもお探しですか」: the recommended links change by themselves
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_01.html
     name: "医科診療行為マスター"
     tags: ["公的機関", "マスター", "医療DX・医療情報"]
     slug: "hpdx-kihonmasta-01"
+    remove: ["div.loruizi"]   # 「こちらもお探しですか」: the recommended links change by themselves
   - url: https://www.mhlw.go.jp/topics/2026/04/tp20260401-01.html
     name: "薬価基準収載品目リスト及び後発医薬品に関する情報について"
     slug: "mhlw-topics-20260401-01"
@@ -388,6 +392,7 @@ sites:
   - url: https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/r06kaiteijoho.html
     name: "令和6年 基本マスターに関する変更情報"
     slug: "hpdx-r06kaiteijoho"
+    remove: ["div.loruizi"]   # 「こちらもお探しですか」: the recommended links change by themselves
     tags: ["公的機関", "マスター", "医療DX・医療情報"]
   - url: https://www.chemotherapy.or.jp/modules/newslist/index.php?content_id=4
     name: "日本化学療法学会 - 全てのお知らせ"
