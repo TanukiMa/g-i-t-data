@@ -1,0 +1,20 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 180dd374a..8c36fa058 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -1094,14 +1094,10 @@
+ 						</li>
+ 						<li>
+ 							<a href="/aboutus/katsudou.html" rel="noopener noreferrer">
+-								海外事業所/a>
++								海外事業所
+ 							</a>
+ 						</li>
+-						<a href="/aboutus/katsudou.html" rel="noopener noreferrer">
+-						</a>
+ 						<li>
+-							<a href="/aboutus/katsudou.html" rel="noopener noreferrer">
+-							</a>
+ 							<a href="/aboutus/renkei.html" rel="noopener noreferrer">
+ 								国内外機関との連携
+ 							</a>

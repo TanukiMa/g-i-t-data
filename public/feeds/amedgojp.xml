@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 日本医療研究開発機構(AMED)</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/amedgojp.xml</id>
-  <updated>2026-11-26T03:34:30Z</updated>
+  <updated>2026-11-26T07:33:04Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/amedgojp.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/amedgojp/history.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>日本医療研究開発機構(AMED): 内容に実質的な変更はありません（表示の調整のみ）。</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/amedgojp/4433e3974e7870d9b305f2d8e8594eb2290bef64</id>
+    <updated>2026-11-26T07:33:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/amedgojp/history.html" />
+    <content type="html">&lt;p&gt;内容に実質的な変更はありません（表示の調整のみ）。&lt;/p&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.amed.go.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/amedgojp/diff_4433e39.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>日本医療研究開発機構(AMED): 変更：「広報ウェブマガジン『AMED Pickup』で『中釜理事長の「ふくしま医療機器開発支援センター」サイトビジット ...」の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/amedgojp/cf7b7edb97d4a04364c3d2f25e99724c778c4a5b</id>
