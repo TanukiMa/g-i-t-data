@@ -1,0 +1,36 @@
+diff --git a/sites/jahisorjp/jp/jahis/index.html b/sites/jahisorjp/jp/jahis/index.html
+index bfddd352c..93d88be17 100644
+--- a/sites/jahisorjp/jp/jahis/index.html
++++ b/sites/jahisorjp/jp/jahis/index.html
+@@ -314,14 +314,6 @@
+ 								</h2>
+ 								<table>
+ 									<tbody>
+-										<tr>
+-											<th>
+-												2026/11/18
+-											</th>
+-											<td>
+-												11月25日（水）にサーバのメンテナンスを実施します＜17時30分～19時00分の間つながらない状況が発生します＞
+-											</td>
+-										</tr>
+ 										<tr>
+ 											<th>
+ 												2026/10/23
+@@ -512,6 +504,16 @@
+ 												</a>
+ 											</td>
+ 										</tr>
++										<tr>
++											<th>
++												2025/08/13
++											</th>
++											<td>
++												<a href="https://www.jahis.jp/action/contents_type=22" rel="noopener noreferrer">
++													JAHIS会誌（会誌75号）を発行しました
++												</a>
++											</td>
++										</tr>
+ 									</tbody>
+ 								</table>
+ 							</div>

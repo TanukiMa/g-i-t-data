@@ -1,0 +1,55 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index 12250ede7..059487a6f 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -477,6 +477,28 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/11/26
++					</span>
++					<span>
++						公示
++					</span>
++					<div>
++						<a href="/assets/public_notice_202611.pdf" rel="noopener noreferrer">
++							公示「公益社団法人日本看護協会 令和10年度通常総会および2028年度全国看護師交流集会Ⅰに係る運営等業務」に関する業務委託先を募集します。
++						</a>
++						<div>
++							<p>
++								【説明会】
++								<br>
++								申込期限：12月10日（木）17時
++								<br>
++								開催日　 ：12月17日（木）10～11時
++							</p>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/11/25
+@@ -611,21 +633,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/11/11
+-					</span>
+-					<span>
+-						看護研修学校
+-					</span>
+-					<div>
+-						<a href="/nursing/nintei/index.html" rel="noopener noreferrer">
+-							2027年度看護研修学校「特定行為研修 共通科目コース」について掲載しました。
+-						</a>
+-						<div>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>

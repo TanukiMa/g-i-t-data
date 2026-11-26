@@ -1,0 +1,444 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index fd175b247..b4f7a83b1 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -168,11 +168,6 @@
+ 								薬事日報 電子版とは
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.yakuji.co.jp/yakujinippo-newsmart" rel="noopener noreferrer">
+-								薬事日報 NEWSmart（モバイル版）
+-							</a>
+-						</li>
+ 					</ul>
+ 					<ul>
+ 						<li>
+@@ -273,11 +268,6 @@
+ 											薬事日報 電子版とは
+ 										</a>
+ 									</li>
+-									<li>
+-										<a href="https://www.yakuji.co.jp/yakujinippo-newsmart" rel="noopener noreferrer">
+-											薬事日報 NEWSmart（モバイル版）
+-										</a>
+-									</li>
+ 								</ul>
+ 							</details>
+ 							<details>
+@@ -407,20 +397,20 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry142070.html" rel="noopener noreferrer">
+-								【インテージHC】7カ月連続の前年割れ‐9月度OTC販売 天候不順が影響
++							<a href="https://www.yakuji.co.jp/entry142071.html" rel="noopener noreferrer">
++								【エーザイ】AD進行1年以上遅らせる‐「レケンビ」5年投与で
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年11月26日 (木) 06:31
++						2026年11月26日 (木) 08:31
+ 					</div>
+ 					<div>
+ 						<p>
+-							インテージヘルスケアは、2026年9月度のOTC医薬品（一般用医薬品）市場概況を公表した。それによると、9月度の販売金額は992億円となり、OTC医薬品市場は前年比97.8％で7カ月連続の前年割れとなった。過去5年の9月の平均を100とした場合の5年指数は100.3。東京都心では統計開始以来最長となる37日間連続で降水が観測されるなど、天候に恵まれない日が多かった。また、大型連休があったものの、買い物行動自体が低調だった可能性が指摘されている。
++							早期アルツハイマー病治療薬レカネマブ（製品名「レケンビ」、製造販売：エーザイ）の臨床試験（ClarityAD試験）の長期投与試験において、投与5年時点で疾患進行を1年以上遅らせたとの研究結果がまとめられた。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry142070.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry142071.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -442,10 +432,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142070.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142071.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142070.html" rel="noopener noreferrer">
+-									【インテージHC】7カ月連続の前年割れ‐9月度OTC販売 天候不順が影響
++								<a href="https://www.yakuji.co.jp/entry142071.html" rel="noopener noreferrer">
++									【エーザイ】AD進行1年以上遅らせる‐「レケンビ」5年投与で
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -458,10 +448,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142072.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142068.html" rel="noopener noreferrer">
++									<img alt="左から薄井、岡田、畠山の各氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13245_03-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142072.html" rel="noopener noreferrer">
+-									【塩野義製薬】神経筋疾患など重点領域に‐買収後のR＆D戦略発表
++								<a href="https://www.yakuji.co.jp/entry142068.html" rel="noopener noreferrer">
++									【東北医科薬科大病院】病院間連携で薬剤師育成‐各施設の機能活用
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -474,15 +465,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142060.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13245_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142070.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142060.html" rel="noopener noreferrer">
+-									【厚労省検討会議】タミフルOTC化に慎重論‐賛成意見5000件超も高い壁
++								<a href="https://www.yakuji.co.jp/entry142070.html" rel="noopener noreferrer">
++									【インテージHC】7カ月連続の前年割れ‐9月度OTC販売 天候不順が影響
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -491,14 +481,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142066.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142072.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142066.html" rel="noopener noreferrer">
+-									【財政審が建議】27年度改定 完全実施を‐薬局減算は対象拡大も
++								<a href="https://www.yakuji.co.jp/entry142072.html" rel="noopener noreferrer">
++									【塩野義製薬】神経筋疾患など重点領域に‐買収後のR＆D戦略発表
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -507,10 +497,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142062.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142060.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13245_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142062.html" rel="noopener noreferrer">
+-									【GE薬協議会】先発品撤退で情報消失経験‐国による一元管理を提言
++								<a href="https://www.yakuji.co.jp/entry142060.html" rel="noopener noreferrer">
++									【厚労省検討会議】タミフルOTC化に慎重論‐賛成意見5000件超も高い壁
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -523,10 +514,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142064.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142066.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142064.html" rel="noopener noreferrer">
+-									【厚労省】供給システムに不正侵入‐企業担当者の情報漏洩も
++								<a href="https://www.yakuji.co.jp/entry142066.html" rel="noopener noreferrer">
++									【財政審が建議】27年度改定 完全実施を‐薬局減算は対象拡大も
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -640,15 +631,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142081.html" rel="noopener noreferrer">
+-									<img alt="表彰式の模様 (2026年11月19日)" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261125_1124ka4-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142125.html" rel="noopener noreferrer">
++									<img alt="トレース氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/a3000f4789e6dae9f6a2204f4e3efbae-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142081.html" rel="noopener noreferrer">
+-									【日立製作所】粒子線治療装置の照射制御システムの発明‐関東地方発明表彰文部科学大臣賞を受…
++								<a href="https://www.yakuji.co.jp/entry142125.html" rel="noopener noreferrer">
++									【アボットメディカルジャパン】「Volt」新発売に伴うプレスセミナー開催
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -657,15 +648,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142078.html" rel="noopener noreferrer">
+-									<img alt="ガスクロマトグラフ質量分析計「GCMS-QP2050」" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261125_1124ka3-1-100x100.avif" width="100">
++								<a href="https://www.yakuji.co.jp/entry142122.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142078.html" rel="noopener noreferrer">
+-									【島津テクノリサーチ】クビアカツヤカミキリの寄生検査サービスを開始‐農研機構開発技術を活…
++								<a href="https://www.yakuji.co.jp/entry142122.html" rel="noopener noreferrer">
++									【アルケア】多忙な看護現場の安全を支える‐「主義の標準化」「処置の省力化」ソリューション…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -736,15 +726,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142085.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/362cf777a293b2489530cd3d98484e89-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142123.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/9058b7da29adcae93d0379ebd874b6f4-100x100.webp" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142085.html" rel="noopener noreferrer">
+-									【新製品】YOLUから春限定品‐夕桜・夜桜をイメージした「移ろい感じる桜シリーズ」　I-ne
++								<a href="https://www.yakuji.co.jp/entry142123.html" rel="noopener noreferrer">
++									【新製品】「DHCスパコラ　スプリーム　シリーズ」5品が初リニューアル　DHC
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -753,15 +743,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142083.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261125_1124ka5-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142114.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261126_1125ka4-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142083.html" rel="noopener noreferrer">
+-									【新製品】体重体組成計「KDR-718T」を発売へ‐日体大と共同開発の「アスリートモード」搭載　…
++								<a href="https://www.yakuji.co.jp/entry142114.html" rel="noopener noreferrer">
++									【新製品】卓上に置ける次亜塩素酸空間除菌脱臭機「ジアイーノ」F-ML1000Dを発売へ　パナソニ…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1703,10 +1693,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142070.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142157.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142070.html" rel="noopener noreferrer">
+-									【インテージHC】7カ月連続の前年割れ‐9月度OTC販売 天候不順が影響
++								<a href="https://www.yakuji.co.jp/entry142157.html" rel="noopener noreferrer">
++									モバイルサイト「薬事日報 NEWSmart」サービス終了のお知らせ
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1719,10 +1709,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142072.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142071.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142072.html" rel="noopener noreferrer">
+-									【塩野義製薬】神経筋疾患など重点領域に‐買収後のR＆D戦略発表
++								<a href="https://www.yakuji.co.jp/entry142071.html" rel="noopener noreferrer">
++									【エーザイ】AD進行1年以上遅らせる‐「レケンビ」5年投与で
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1735,14 +1725,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142101.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142068.html" rel="noopener noreferrer">
++									<img alt="左から薄井、岡田、畠山の各氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13245_03-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142101.html" rel="noopener noreferrer">
+-									行政情報リスト　2026/11/25
++								<a href="https://www.yakuji.co.jp/entry142068.html" rel="noopener noreferrer">
++									【東北医科薬科大病院】病院間連携で薬剤師育成‐各施設の機能活用
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1751,14 +1742,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142130.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142125.html" rel="noopener noreferrer">
++									<img alt="トレース氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/a3000f4789e6dae9f6a2204f4e3efbae-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142130.html" rel="noopener noreferrer">
+-									プレスリリース・タイトルリスト　2026/11/25
++								<a href="https://www.yakuji.co.jp/entry142125.html" rel="noopener noreferrer">
++									【アボットメディカルジャパン】「Volt」新発売に伴うプレスセミナー開催
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1767,15 +1759,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142060.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13245_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142123.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/9058b7da29adcae93d0379ebd874b6f4-100x100.webp" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142060.html" rel="noopener noreferrer">
+-									【厚労省検討会議】タミフルOTC化に慎重論‐賛成意見5000件超も高い壁
++								<a href="https://www.yakuji.co.jp/entry142123.html" rel="noopener noreferrer">
++									【新製品】「DHCスパコラ　スプリーム　シリーズ」5品が初リニューアル　DHC
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1784,14 +1776,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142066.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142122.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142066.html" rel="noopener noreferrer">
+-									【財政審が建議】27年度改定 完全実施を‐薬局減算は対象拡大も
++								<a href="https://www.yakuji.co.jp/entry142122.html" rel="noopener noreferrer">
++									【アルケア】多忙な看護現場の安全を支える‐「主義の標準化」「処置の省力化」ソリューション…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1800,15 +1792,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142085.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/362cf777a293b2489530cd3d98484e89-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142118.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/202611226_1125ka6-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142085.html" rel="noopener noreferrer">
+-									【新製品】YOLUから春限定品‐夕桜・夜桜をイメージした「移ろい感じる桜シリーズ」　I-ne
++								<a href="https://www.yakuji.co.jp/entry142118.html" rel="noopener noreferrer">
++									【大和書房】新刊 まんぷく500kcal。美しく痩せて、衰えないからだを作る『タニタの食べる筋…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1817,15 +1809,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry142083.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261125_1124ka5-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry142116.html" rel="noopener noreferrer">
++									<img alt="CSGSA法によるがん早期発見の全体像（1回の採血→腫瘍マーカー・糖ペプチド測定→AIによる2段階判定→結果報告）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261126_1125ka5-100x100.png" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry142083.html" rel="noopener noreferrer">
+-									【新製品】体重体組成計「KDR-718T」を発売へ‐日体大と共同開発の「アスリートモード」搭載　…
++								<a href="https://www.yakuji.co.jp/entry142116.html" rel="noopener noreferrer">
++									【慶応大、NECなど】新しいがんスクリーニング法を開発‐AIと糖ペプチド解析で複数がんを早期…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月25日 (水)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1845,7 +1837,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年11月  (281)
++		 2026年11月  (293)
+ 	 2026年10月  (380)
+ 	 2026年9月  (341)
+ 	 2026年8月  (319)
+@@ -2147,14 +2139,14 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141350.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry142157.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141350.html" rel="noopener noreferrer">
+-									【復旧】ウェブサイト閲覧障害のお詫び
++								<a href="https://www.yakuji.co.jp/entry142157.html" rel="noopener noreferrer">
++									モバイルサイト「薬事日報 NEWSmart」サービス終了のお知らせ
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月05日 (木)
++									2026年11月26日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -2163,15 +2155,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry137075.html" rel="noopener noreferrer">
+-									<img alt="YAKKURU_info" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/07/notification_image_20260724_01-01-100x100.png" width="100">
++								<a href="https://www.yakuji.co.jp/entry141350.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry137075.html" rel="noopener noreferrer">
+-									2026年 お盆期間中の休刊のお知らせ
++								<a href="https://www.yakuji.co.jp/entry141350.html" rel="noopener noreferrer">
++									【復旧】ウェブサイト閲覧障害のお詫び
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年07月24日 (金)
++									2026年11月05日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -2218,11 +2209,6 @@
+ 						製品・サービス等
+ 					</div>
+ 					<div>
+-						<div>
+-							<a href="https://www.yakuji.co.jp/yakujinippo-newsmart" rel="noopener noreferrer">
+-								<img alt="薬事日報 NEWSmart" height="135" src="https://www.yakuji.co.jp/ad/yakujinippo-newsmart03.jpg" width="280">
+-							</a>
+-						</div>
+ 						<div>
+ 							<a href="https://www.yakuji.co.jp/finephoto" rel="noopener noreferrer">
+ 								<img alt="「剤形写真」「患者服薬指導説明文」データライセンス販売" height="45" src="https://www.yakuji.co.jp/ad/C0001YN01011.gif" width="280">

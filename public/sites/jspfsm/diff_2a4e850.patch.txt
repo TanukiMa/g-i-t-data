@@ -1,0 +1,64 @@
+diff --git a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+index 0c1e3562b..a8f210cc3 100644
+--- a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
++++ b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+@@ -189,6 +189,13 @@
+ 							新着情報
+ 						</h2>
+ 						<ul>
++							<li>
++								「
++								<a href="region/program/kinki_41.htm" rel="noopener noreferrer">
++									第41回日本体力医学会近畿地方会
++								</a>
++								」開催案内・一般演題募集のご案内（2026/11/26）
++							</li>
+ 							<li>
+ 								<a href="recent-topics/index.htm" rel="noopener noreferrer">
+ 									体力医科学に関する最近のトピック
+@@ -231,13 +238,6 @@
+ 								</a>
+ 								（2026/10/14）
+ 							</li>
+-							<li>
+-								「
+-								<a href="region/program/kinki_41.htm" rel="noopener noreferrer">
+-									第41回日本体力医学会近畿地方会
+-								</a>
+-								」一般演題募集のご案内（2026/10/1）
+-							</li>
+ 							<li>
+ 								「
+ 								<a href="region/program/chushikoku_97_1.pdf" rel="noopener noreferrer">
+@@ -392,6 +392,12 @@
+ 								からのお知らせ
+ 							</h2>
+ 							<ul>
++								<li>
++									<a href="topic/20261126.pdf" rel="noopener noreferrer">
++										第32回日本医学会総会　産業医セッションの受講申込開始の周知および登録推進への協力のお願いについて
++									</a>
++									（2026/11/26）
++								</li>
+ 								<li>
+ 									<a href="topic/20261125.pdf" rel="noopener noreferrer">
+ 										治験エコシステム導入推進を目的とした情報発信協力機関への登録のお願い （追加募集）
+@@ -422,18 +428,6 @@
+ 									</a>
+ 									（2026/11/16）
+ 								</li>
+-								<li>
+-									<a href="topic/20261109.pdf" rel="noopener noreferrer">
+-										医薬品の適応外使用に係る保険診療上の取扱いについて (周知依頼)
+-									</a>
+-									（2026/11/9）
+-								</li>
+-								<li>
+-									<a href="topic/20261028.pdf" rel="noopener noreferrer">
+-										医療事故の再発防止に向けた警鐘レポートNo.7の公表について (周知依頼)
+-									</a>
+-									（2026/10/28）
+-								</li>
+ 							</ul>
+ 						</div>
+ 					</div>
