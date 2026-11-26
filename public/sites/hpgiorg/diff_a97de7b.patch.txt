@@ -1,0 +1,54 @@
+diff --git a/sites/hpgiorg/org/hgpi/index.html b/sites/hpgiorg/org/hgpi/index.html
+index 84e4c6d34..90d491258 100644
+--- a/sites/hpgiorg/org/hgpi/index.html
++++ b/sites/hpgiorg/org/hgpi/index.html
+@@ -347,6 +347,24 @@
+ 					</div>
+ 				</div>
+ 			</div>
++			<div>
++				<a href="https://hgpi.org/lecture/lecture-media-395.html" rel="noopener noreferrer">
++					<img alt="【メディア掲載】「微生物学的検査体制の強化を AMRアライアンス・ジャパンが政策提言」（日刊薬業、2026年11月24日）" src="https://hgpi.org/wp-content/uploads/AMRalliance-logo-11.jpg">
++				</a>
++				<div>
++					記事・講演・報道
++				</div>
++				<div>
++					<div>
++						2026-11-26
++					</div>
++					<div>
++						<a href="https://hgpi.org/lecture/lecture-media-395.html" rel="noopener noreferrer">
++							【メディア掲載】「微生物学的検査体制の強化を AMRアライアンス・ジャパンが政策提言」（日刊薬業、2026年11月24日）
++						</a>
++					</div>
++				</div>
++			</div>
+ 			<div>
+ 				<a href="https://hgpi.org/research/ai-20261126.html" rel="noopener noreferrer">
+ 					<img alt="【政策提言】「AI診断支援を『承認』から『現場』へ～医療機関の導入を後押しする『AI診断支援導入バウチャー』の創設を～」（2026年11月26日）" src="https://hgpi.org/wp-content/uploads/HGPI_20261124_AIVoucherRecommendation.jpg">
+@@ -491,24 +509,6 @@
+ 					</div>
+ 				</div>
+ 			</div>
+-			<div>
+-				<a href="https://hgpi.org/news/thinkcell-20261117.html" rel="noopener noreferrer">
+-					<img src="/assets/img/katsudo/img_no_image.jpg">
+-				</a>
+-				<div>
+-					ニュース
+-				</div>
+-				<div>
+-					<div>
+-						2026-11-17
+-					</div>
+-					<div>
+-						<a href="https://hgpi.org/news/thinkcell-20261117.html" rel="noopener noreferrer">
+-							【お知らせ】think-cellからのソフトウェアのご提供について（2026年11月17日）
+-						</a>
+-					</div>
+-				</div>
+-			</div>
+ 		</div>
+ 		<div>
+ 		</div>

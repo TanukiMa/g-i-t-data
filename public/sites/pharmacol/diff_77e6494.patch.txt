@@ -1,0 +1,44 @@
+diff --git a/sites/pharmacol/jp/or/pharmacol/index.html b/sites/pharmacol/jp/or/pharmacol/index.html
+index 22d65d07c..81c4e1d43 100644
+--- a/sites/pharmacol/jp/or/pharmacol/index.html
++++ b/sites/pharmacol/jp/or/pharmacol/index.html
+@@ -947,6 +947,19 @@
+ 							お知らせ
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="https://pharmacol.or.jp/2026/11/post-12.html" rel="noopener noreferrer">
++									<span>
++										公募情報
++									</span>
++									<span>
++										2026年11月26日(木)
++									</span>
++									<p>
++										山梨大学大学院総合研究部医学域臨床医学系（臨床検査医学）研究助教の公募について
++									</p>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://pharmacol.or.jp/2026/11/R8秋の叙勲-亀井千晃先生.html" rel="noopener noreferrer">
+ 									<span>
+@@ -999,19 +1012,6 @@
+ 									</p>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="https://pharmacol.or.jp/2026/10/post-17.html" rel="noopener noreferrer">
+-									<span>
+-										公募情報
+-									</span>
+-									<span>
+-										2026年10月14日(水)
+-									</span>
+-									<p>
+-										大阪大学大学院医学系研究科　特任助教（常勤）公募について
+-									</p>
+-								</a>
+-							</li>
+ 						</ul>
+ 						<div>
+ 							<a href="/information.html" rel="noopener noreferrer">

@@ -1,0 +1,136 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index d34e3a9cd..c5ea23817 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -760,6 +760,12 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015382" rel="noopener noreferrer">
++							香川大学医学部 精神神経医学講座（仮称） 教授公募
++						</a>
++					</li>
+ 					<li>
+ 						[教職員公募]
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015730" rel="noopener noreferrer">
+@@ -814,12 +820,6 @@
+ 							東京女子医科大学 看護学部　老年看護学領域 講師公募
+ 						</a>
+ 					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015731" rel="noopener noreferrer">
+-							福島県立医科大学会津医療センター 呼吸器内科学講座 教授公募
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">
+@@ -973,75 +973,63 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						社会福祉法人シナプス　埼玉精神神経センター脳神経内科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072396" rel="noopener noreferrer">
+-							姿勢ウェアラブル・振動刺激頭痛研究
+-						</a>
+-					</li>
+-					<li>
+-						広島大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072954" rel="noopener noreferrer">
+-							超音波内視鏡の有用性と安全性の検証
+-						</a>
+-					</li>
+-					<li>
+-						洛西シミズ病院リハビリテーション科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072958" rel="noopener noreferrer">
+-							人工膝関節全置換術後のパルス超音波療法に伴う痛みと膝機能の変化
++						立命館大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072895" rel="noopener noreferrer">
++							若年成人における中鎖脂肪酸の単回摂取による認知疲労抑制効果
+ 						</a>
+ 					</li>
+ 					<li>
+-						Asama General Hospital：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072957" rel="noopener noreferrer">
+-							CARE-DM Study
++						春木レディースクリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072953" rel="noopener noreferrer">
++							REMAIN Study
+ 						</a>
+ 					</li>
+ 					<li>
+-						岐阜大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072961" rel="noopener noreferrer">
+-							SEMS-GBD study
++						青森大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000064576" rel="noopener noreferrer">
++							ナッジとインセンティブの組み合わせによる健診等受診率の比較
+ 						</a>
+ 					</li>
+ 					<li>
+-						横浜市立大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072962" rel="noopener noreferrer">
+-							遠隔ICU支援・労務環境調査
++						みらいリハビリテーション病院リハビリテーション科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072978" rel="noopener noreferrer">
++							軽度認知症に対する神経刺激併用リハビリテーション研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						味の素株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072963" rel="noopener noreferrer">
+-							化粧料塗布による肌状態改善効果検証試験
++						東京大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072759" rel="noopener noreferrer">
++							Vulnerable Brain研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						独立行政法人国立病院機構鹿児島医療センター（臨床研究部）：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072966" rel="noopener noreferrer">
+-							胸骨正中切開創表皮細菌とSSIの研究
++						Universitas Nahdlatul Ulama Surabaya：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000072982" rel="noopener noreferrer">
++							Salicylic acid versus lactic acid peels in acne vulgaris
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社アイメックＲＤ：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072955" rel="noopener noreferrer">
+-							高齢者の体組成変化に対する乳酸菌継続摂取の影響
++						社会福祉法人シナプス　埼玉精神神経センター脳神経内科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072396" rel="noopener noreferrer">
++							姿勢ウェアラブル・振動刺激頭痛研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						名古屋市立大学大学院看護学研究科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072972" rel="noopener noreferrer">
+-							就業男性向け月経支援教育動画の効果検証
++						広島大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072954" rel="noopener noreferrer">
++							超音波内視鏡の有用性と安全性の検証
+ 						</a>
+ 					</li>
+ 					<li>
+-						朝日大学歯学部 口腔機能修復学講座 摂食嚥下リハビリテーション学分野：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072973" rel="noopener noreferrer">
+-							歯面清掃時のとろみ水使用に関する研究
++						洛西シミズ病院リハビリテーション科：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072958" rel="noopener noreferrer">
++							人工膝関節全置換術後のパルス超音波療法に伴う痛みと膝機能の変化
+ 						</a>
+ 					</li>
+ 					<li>
+-						独立行政法人国立病院機構（京都医療センター臨床研究センター）：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072342" rel="noopener noreferrer">
+-							薬剤師の宿題研究
++						Asama General Hospital：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072957" rel="noopener noreferrer">
++							CARE-DM Study
+ 						</a>
+ 					</li>
+ 				</ul>
