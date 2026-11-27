@@ -1,0 +1,79 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index 059487a6f..305ed8ca6 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -477,6 +477,36 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/11/27
++					</span>
++					<span>
++						掲載のお知らせ
++					</span>
++					<div>
++						<a href="/nursing/qualification/cn_education/index.html" rel="noopener noreferrer">
++							「認定看護師教育の見直し」について掲載しました。
++						</a>
++						<div>
++						</div>
++					</div>
++				</li>
++				<li>
++					<span>
++						2026/11/27
++					</span>
++					<span>
++						意見募集のお知らせ
++					</span>
++					<div>
++						<a href="/nursing/qualification/index.html#opinion" rel="noopener noreferrer">
++							認定看護師教育の見直しに伴う「認定看護師教育基準カリキュラム案」についての意見募集を開始しました。
++						</a>
++						<div>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/11/26
+@@ -602,37 +632,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/11/13
+-					</span>
+-					<span>
+-						調査ご協力のお願い
+-					</span>
+-					<div>
+-						<a href="/news/byoin_chosa2026_03.html" rel="noopener noreferrer">
+-							「2026年病院看護実態調査」は終了しました。
+-						</a>
+-					</div>
+-				</li>
+-				<li>
+-					<span>
+-						2026/11/13
+-					</span>
+-					<span>
+-						ニュースリリース
+-					</span>
+-					<div>
+-						<a href="/home/about/newsrelease/" rel="noopener noreferrer">
+-							厚生労働大臣へ要望
+-						</a>
+-						<div>
+-							<p>
+-								看護職員の全産業と遜色のない賃上げを要望
+-							</p>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>

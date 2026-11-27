@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>G醫t 分類: 診療報酬・保険</title>
   <id>tag:giiit.goudge.org,2026:g-i-t-data/feeds/tag-9bb7f779.xml</id>
-  <updated>2026-11-26T03:34:32Z</updated>
+  <updated>2026-11-27T07:33:25Z</updated>
   <link rel="self" type="application/atom+xml" href="https://giiit.goudge.org/feeds/tag-9bb7f779.xml" />
   <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites.html" />
   <author>
     <name>G醫t</name>
   </author>
+  <entry>
+    <title>厚生労働省 - 医療保険: 追加: 「最近の調剤医療費（電算処理分）の動向　令和8年度7月号」（2026年11月27日掲載）</title>
+    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlwiryohoken/538670cf7e3f3ea772e550b3f4773bda812cc8dd</id>
+    <updated>2026-11-27T07:33:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlwiryohoken/history.html" />
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「最近の調剤医療費（電算処理分）の動向　令和8年度7月号」（2026年11月27日掲載）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「最近の歯科医療費（電算処理分）の動向　令和8年度7月号」（2026年11月27日掲載）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「最近の医科医療費（電算処理分）の動向　令和8年度7月号」（2026年11月27日掲載）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「最近の医療費の動向-MEDIAS-令和8年度7月号」（2026年11月27日掲載）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「最近の調剤医療費（電算処理分）の動向　令和8年度6月号」（2026年10月30日掲載）の記載が消えました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;: 「後期高齢者医療事業状況報告」「国民健康保険事業年報・月報」「第49回　匿名医療情報等の提供に関する専門委員会　資料」の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlwiryohoken/diff_538670c.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>厚生労働省 - 社会保障審議会（医療保険部会）: 変更：11月11日、11月24日の記載が消えました。</title>
     <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlwgojp28708/2d47ab409b465a99b2b6b5439ecaa6b30d5bc495</id>
@@ -34,7 +41,7 @@
     <id>tag:giiit.goudge.org,2026:g-i-t-data/hpdx/dd0f88118e31cfd4fe57ba35615885d8dcb3b5d7</id>
     <updated>2026-11-25T22:34:04Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/hpdx/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8年11月20日からの大雪に伴う災害に関するお知らせ」へのリンクが追加されました（&lt;code&gt;/saigai/saigai_r081125/index.html&lt;/code&gt;）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_dd0f881.html"&gt;差分&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 「令和8年11月20日からの大雪に伴う災害に関するお知らせ」へのリンクが追加されました（&lt;code&gt;/saigai/saigai_r081125/index.html&lt;/code&gt;）。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpdx.or.jp/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/hpdx/diff_dd0f881.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261125184507/https://www.hpdx.or.jp/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>医療情報基盤・診療報酬審査支払機構（DX審査支払機構）: 変更: 「災害に関するお知らせ」のバナー画像の記載が消えました。</title>
@@ -350,12 +357,5 @@
     <updated>2026-11-05T22:33:31Z</updated>
     <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/shingi-chuo/history.html" />
     <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;: 中央社会保険医療協議会（中医協）の開催情報として、第661回（2026年11月6日 / 令和8年11月6日）の議事次第（入院・外来医療等の調査・評価分科会からの報告について、医薬品の新規薬価収載について、最適使用推進ガイドラインについて（審議）、費用対効果評価の結果を踏まえた薬価の見直しについて、薬価基準から削除する品目について、DPCにおける高額な新規の医薬品等への対応について、在宅自己注射について、DPC対象病院の再編及び退出に係る報告について）および関連資料へのリンクが追加されました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/shingi-chuo/diff_703320c.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261106033707/https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>厚生労働省 - 医療保険: 追加：2026年11月5日掲載「第49回　匿名医療情報等の提供に関する専門委員会　資料」へのリンクが追加されました。</title>
-    <id>tag:giiit.goudge.org,2026:g-i-t-data/mhlwiryohoken/3778600d94134b28af39ff817224cf7af5300387</id>
-    <updated>2026-11-05T22:33:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://giiit.goudge.org/sites/mhlwiryohoken/history.html" />
-    <content type="html">&lt;ul&gt;&lt;li&gt;&lt;strong&gt;追加&lt;/strong&gt;：2026年11月5日掲載「第49回　匿名医療情報等の提供に関する専門委員会　資料」へのリンクが追加されました。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;変更&lt;/strong&gt;：「後期高齢者医療事業状況報告」（2026年10月21日掲載）の記載が消えました。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;small&gt;gemini-3.5-flash-lite による要約&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/"&gt;確認先のページ&lt;/a&gt; ・ &lt;a href="https://giiit.goudge.org/sites/mhlwiryohoken/diff_3778600.html"&gt;差分&lt;/a&gt; ・ &lt;a href="https://web.archive.org/web/20261106033444/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/"&gt;Wayback Machine&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
