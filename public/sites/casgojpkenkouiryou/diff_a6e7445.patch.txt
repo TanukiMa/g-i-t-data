@@ -1,0 +1,22 @@
+diff --git a/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html b/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
+index 208e06889..bf57536dc 100644
+--- a/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
++++ b/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
+@@ -162,6 +162,17 @@
+ 						トピックス
+ 					</h2>
+ 					<ul>
++						<li>
++							<span>
++								令和８年11月27日
++							</span>
++							<span>
++								<a href="suisin/kaisai.html" rel="noopener noreferrer">
++									第58回　健康・医療戦略推進本部
++								</a>
++								が開催されました。
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								令和８年11月24日

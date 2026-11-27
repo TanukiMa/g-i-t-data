@@ -1,0 +1,78 @@
+diff --git a/sites/jihsinfo/jp/go/jihs/id-info/index.html b/sites/jihsinfo/jp/go/jihs/id-info/index.html
+index 0db9f60a9..d5be9fe7e 100644
+--- a/sites/jihsinfo/jp/go/jihs/id-info/index.html
++++ b/sites/jihsinfo/jp/go/jihs/id-info/index.html
+@@ -511,61 +511,61 @@
+ 								<div>
+ 									<ul>
+ 										<li>
+-											<a href="./surveillance/idwr/article/influenza/article.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/diseases/influenza/school/flulike.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年11月27日
+ 													</time>
+ 													<h3>
+-														「インフルエンザ（鳥インフルエンザ及び新型インフルエンザ等感染症を除く。）」の記事を更新しました
++														「インフルエンザ様疾患発生報告（学校欠席者数）」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idss/target-diseases/acute-respiratory-infection/weekly-report/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/idwr/article/influenza/article.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年11月27日
+ 													</time>
+ 													<h3>
+-														「急性呼吸器感染症サーベイランス週報」の記事を更新しました
++														「インフルエンザ（鳥インフルエンザ及び新型インフルエンザ等感染症を除く。）」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/iasr/pathogens/vol47/561/561p01.html" rel="noopener noreferrer">
++											<a href="./surveillance/idss/target-diseases/acute-respiratory-infection/weekly-report/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+-														2026年11月25日
++														2026年11月27日
+ 													</time>
+ 													<h3>
+-														「2026年夏季におけるインフルエンザの流行入りとインフルエンザウイルスについて」の記事を更新しました
++														「急性呼吸器感染症サーベイランス週報」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/iasr/pathogens/vol47/561/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/iasr/pathogens/vol47/561/561p01.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+ 														2026年11月25日
+ 													</time>
+ 													<h3>
+-														「IASR Vol.47, No.11（No.561）November 2026 インフルエンザ 2025/26シーズン」の記事を更新しました
++														「2026年夏季におけるインフルエンザの流行入りとインフルエンザウイルスについて」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="./surveillance/idwr/diseases/measles/graph/index.html" rel="noopener noreferrer">
++											<a href="./surveillance/iasr/pathogens/vol47/561/index.html" rel="noopener noreferrer">
+ 												<article>
+ 													<time>
+-														2026年11月24日
++														2026年11月25日
+ 													</time>
+ 													<h3>
+-														「麻疹 発生動向調査」の記事を更新しました
++														「IASR Vol.47, No.11（No.561）November 2026 インフルエンザ 2025/26シーズン」の記事を更新しました
+ 													</h3>
+ 												</article>
+ 											</a>

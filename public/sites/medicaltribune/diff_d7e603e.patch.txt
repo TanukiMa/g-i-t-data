@@ -1,0 +1,435 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 120d01178..68be1473f 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1461,7 +1461,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月27日の新着ニュース
++															11月28日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1478,20 +1478,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ボルノレキサント、日本人での長期忍容性良好" src="https://asset.mtweb.jp/media/2026/11/26180338/ChatGPT-Image-20261126_vornorexant.jpg">
++																<img alt="Retatrutideが結ぶ「肥満」と「循環器」" src="https://asset.mtweb.jp/media/2026/06/19141047/com_dr_kojima_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623093" rel="noopener noreferrer">
+-																			ボルノレキサント、日本人での長期忍容性良好
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622637" rel="noopener noreferrer">
++																			Retatrutideが結ぶ「肥満」と「循環器」
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-27
++																			2026-11-28
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1527,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「呼吸している」のに心停止？  その瞬間を見抜けるか" src="https://asset.mtweb.jp/media/2026/06/26182732/com_dr_saita_thum_w440h275.jpg">
++																<img alt="Lp(a)測定の意義は揺らがない―日本動脈硬化学会" src="https://asset.mtweb.jp/media/2026/11/27162137/68178_fig01-1.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619902" rel="noopener noreferrer">
+-																			「呼吸している」のに心停止？  その瞬間を見抜けるか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623290" rel="noopener noreferrer">
++																			Lp(a)測定の意義は揺らがない―日本動脈硬化学会
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1576,13 +1576,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="コーヒーの習慣的な摂取は大腸の動きに関係" src="https://asset.mtweb.jp/media/2026/11/26190225/000608_ft.jpeg">
++																<img alt="扁桃切除がIgA腎症の予防策に？" src="https://asset.mtweb.jp/media/2026/06/05131311/com_watch_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623116" rel="noopener noreferrer">
+-																			コーヒーの習慣的な摂取は大腸の動きに関係
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622756" rel="noopener noreferrer">
++																			扁桃切除がIgA腎症の予防策に？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1625,20 +1625,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="乳癌学会・乳癌検診学会が広告表示に注意喚起" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
++																<img alt="新世代SCLでアレルギー性結膜炎悪化せず" src="https://asset.mtweb.jp/media/2026/11/26204259/ChatGPT-Image-20261126_Verofilcon-A.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623099" rel="noopener noreferrer">
+-																			乳癌学会・乳癌検診学会が広告表示に注意喚起
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623141" rel="noopener noreferrer">
++																			新世代SCLでアレルギー性結膜炎悪化せず
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-26
++																			2026-11-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1674,20 +1674,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="1型糖尿病のステージ分類を採用へ" src="https://asset.mtweb.jp/media/2026/11/26171308/25_%E6%8F%90%E8%A8%80%E3%83%BB%E5%A3%B0%E6%98%8E_%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB-2.jpg">
++																<img alt="ボルノレキサント、日本人での長期忍容性良好" src="https://asset.mtweb.jp/media/2026/11/26180338/ChatGPT-Image-20261126_vornorexant.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623073" rel="noopener noreferrer">
+-																			1型糖尿病のステージ分類を採用へ
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623093" rel="noopener noreferrer">
++																			ボルノレキサント、日本人での長期忍容性良好
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-26
++																			2026-11-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1723,20 +1723,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="重症AKIの腎代替療法、「持続」か「間欠」か" src="https://asset.mtweb.jp/media/2026/06/18104626/com_dr_tanpo_thum_w440h275.jpg">
++																<img alt="「呼吸している」のに心停止？  その瞬間を見抜けるか" src="https://asset.mtweb.jp/media/2026/06/26182732/com_dr_saita_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622161" rel="noopener noreferrer">
+-																			重症AKIの腎代替療法、「持続」か「間欠」か
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619902" rel="noopener noreferrer">
++																			「呼吸している」のに心停止？  その瞬間を見抜けるか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-26
++																			2026-11-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1772,20 +1772,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="五十肩の短期的な症状改善には体外衝撃波療法と麻酔下徒手授動術が有望" src="https://asset.mtweb.jp/media/2026/11/26175708/000602_ft.jpeg">
++																<img alt="コーヒーの習慣的な摂取は大腸の動きに関係" src="https://asset.mtweb.jp/media/2026/11/26190225/000608_ft.jpeg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623084" rel="noopener noreferrer">
+-																			五十肩の短期的な症状改善には体外衝撃波療法と麻酔下徒手授動術が有望
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623116" rel="noopener noreferrer">
++																			コーヒーの習慣的な摂取は大腸の動きに関係
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-26
++																			2026-11-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1818,7 +1818,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月27日の新着連載
++															11月28日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1838,19 +1838,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619902" rel="noopener noreferrer">
+-																					<img alt="「呼吸している」のに心停止？  その瞬間を見抜けるか" src="/assets/images/rensai/doceye/thumbnails/齋田良知（整形外科）.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622637" rel="noopener noreferrer">
++																					<img alt="Retatrutideが結ぶ「肥満」と「循環器」" src="/assets/images/rensai/doceye/thumbnails/小島淳（循環器）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619902" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622637" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-27
++																							2026-11-28
+ 																						</time>
+ 																						<h2>
+-																							「呼吸している」のに心停止？  その瞬間を見抜けるか
++																							Retatrutideが結ぶ「肥満」と「循環器」
+ 																						</h2>
+ 																						<p>
+-																							スペインでのサッカー選手死亡事故と、心停止48例の動画解析から
++																							TRIUMPH-1試験から考える減量の利益と治療の調整
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									1
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									1件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									6
++																									4
+ 																								</span>
+ 																								<span>
+-																									6件「いいね！」されています
++																									4件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1889,19 +1889,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622161" rel="noopener noreferrer">
+-																					<img alt="重症AKIの腎代替療法、「持続」か「間欠」か" src="/assets/images/rensai/doceye/thumbnails/丹保亜希仁（救急医療）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622756" rel="noopener noreferrer">
++																					<img alt="扁桃切除がIgA腎症の予防策に？" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622161" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622756" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-26
++																							2026-11-27
+ 																						</time>
+ 																						<h2>
+-																							重症AKIの腎代替療法、「持続」か「間欠」か
++																							扁桃切除がIgA腎症の予防策に？
+ 																						</h2>
+ 																						<p>
+-																							多施設RCTの90日転帰
++																							韓国300万例研究でクローズアップ
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1910,20 +1910,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									2
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									34
++																									8
+ 																								</span>
+ 																								<span>
+-																									34件「いいね！」されています
++																									8件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1940,18 +1940,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622382" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕抗CGRP抗体（注射薬）とゲパント（経口薬）の使い分け法として、竹島多賀夫氏が提示した考えに最も近いものは？【MT医療検定 No.152】（12/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619902" rel="noopener noreferrer">
++																					<img alt="「呼吸している」のに心停止？  その瞬間を見抜けるか" src="/assets/images/rensai/doceye/thumbnails/齋田良知（整形外科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622382" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619902" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-26
++																							2026-11-27
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕抗CGRP抗体（注射薬）とゲパント（経口薬）の使い分け法として、竹島多賀夫氏が提示した考えに最も近いものは？【MT医療検定 No.152】（12/2まで）
++																							「呼吸している」のに心停止？  その瞬間を見抜けるか
+ 																						</h2>
+ 																						<p>
++																							スペインでのサッカー選手死亡事故と、心停止48例の動画解析から
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1960,20 +1961,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									3
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									13
++																									10
+ 																								</span>
+ 																								<span>
+-																									13件「いいね！」されています
++																									10件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1990,21 +1991,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622241" rel="noopener noreferrer">
+-																					<img alt="対面とデジタルの融合で情報提供を進化医師一人ひとりの疑問に応える「オンラインMR」" src="/assets/images/thumbnails/com_Exective_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622161" rel="noopener noreferrer">
++																					<img alt="重症AKIの腎代替療法、「持続」か「間欠」か" src="/assets/images/rensai/doceye/thumbnails/丹保亜希仁（救急医療）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622241" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622161" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-26
+ 																						</time>
+ 																						<h2>
+-																							対面とデジタルの融合で情報提供を進化
+-																							<br>
+-																							医師一人ひとりの疑問に応える「オンラインMR」
++																							重症AKIの腎代替療法、「持続」か「間欠」か
+ 																						</h2>
+ 																						<p>
+-																							アステラス製薬株式会社 オンラインカスタマーエンゲージメント部 部長 福島 徹氏
++																							多施設RCTの90日転帰
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2013,20 +2012,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									4
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									14
++																									36
+ 																								</span>
+ 																								<span>
+-																									14件「いいね！」されています
++																									36件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2043,19 +2042,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
+-																					<img alt="がんが「転移する力」はいつ備わるのか" src="/assets/images/rensai/doceye/thumbnails/岩井拓磨（消化器外科）.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622382" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕抗CGRP抗体（注射薬）とゲパント（経口薬）の使い分け法として、竹島多賀夫氏が提示した考えに最も近いものは？【MT医療検定 No.152】（12/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622382" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-25
++																							2026-11-26
+ 																						</time>
+ 																						<h2>
+-																							がんが「転移する力」はいつ備わるのか
++																							〔10pt進呈〕抗CGRP抗体（注射薬）とゲパント（経口薬）の使い分け法として、竹島多賀夫氏が提示した考えに最も近いものは？【MT医療検定 No.152】（12/2まで）
+ 																						</h2>
+ 																						<p>
+-																							早期大腸がん、浸潤先進部で起きていること
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2064,20 +2062,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									0
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									42
++																									14
+ 																								</span>
+ 																								<span>
+-																									42件「いいね！」されています
++																									14件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

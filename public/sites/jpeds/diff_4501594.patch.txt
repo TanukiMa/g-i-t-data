@@ -1,0 +1,42 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 716f1be1b..f7287fb9e 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -2355,6 +2355,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/27
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/organizationnews/post-160499.html" rel="noopener noreferrer">
++												第32回日本医学会総会産業医研修単位の申し込みについて（日本医学会）
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2583,18 +2595,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/24
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159550.html" rel="noopener noreferrer">
+-												外来診療における小児急性呼吸器感染症に対する 多項目遺伝子関連検査の実施指針について（日本小児科医会）
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
