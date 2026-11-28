@@ -1,0 +1,22 @@
+diff --git a/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html b/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
+index 6d607564a..f0b0a1bb8 100644
+--- a/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
++++ b/sites/casgojpkenkouiryou/jp/go/cas/jp-seisakukaigi-kenkouiryou.html
+@@ -162,6 +162,17 @@
+ 						トピックス
+ 					</h2>
+ 					<ul>
++						<li>
++							<span>
++								令和８年11月18日
++							</span>
++							<span>
++								<a href="tyousakai/dai48/gijishidai.html" rel="noopener noreferrer">
++									第48回 健康・医療戦略推進専門調査会
++								</a>
++								が開催されました。
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								令和８年10月６日

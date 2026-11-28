@@ -1,0 +1,55 @@
+diff --git a/sites/japanptorjp/jp/or/japanpt/index.html b/sites/japanptorjp/jp/or/japanpt/index.html
+index 1789380a7..fc7b13d26 100644
+--- a/sites/japanptorjp/jp/or/japanpt/index.html
++++ b/sites/japanptorjp/jp/or/japanpt/index.html
+@@ -619,6 +619,26 @@
+ 			</h2>
+ 			<div>
+ 				<ul>
++					<li>
++						<a href="/info/20261019_279.html" rel="noopener noreferrer">
++							<div>
++								2026年10月19日
++							</div>
++							<div>
++								<ul>
++									<li>
++										会員限定コンテンツ
++									</li>
++									<li>
++										協会について
++									</li>
++								</ul>
++							</div>
++							<div>
++								2026年度 役員候補者選挙告示のお知らせ
++							</div>
++						</a>
++					</li>
+ 					<li>
+ 						<a href="/info/20261014_282.html" rel="noopener noreferrer">
+ 							<div>
+@@ -707,23 +727,6 @@
+ 							</div>
+ 						</a>
+ 					</li>
+-					<li>
+-						<a href="/info/20261007_266.html" rel="noopener noreferrer">
+-							<div>
+-								2026年10月07日
+-							</div>
+-							<div>
+-								<ul>
+-									<li>
+-										お知らせ
+-									</li>
+-								</ul>
+-							</div>
+-							<div>
+-								［リガクラボ］「自分の身体を知り、日々の生活に運動・スポーツを取り入れよう！」を掲載しました
+-							</div>
+-						</a>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="/info/pt/" rel="noopener noreferrer">

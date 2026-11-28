@@ -1,0 +1,152 @@
+diff --git a/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html b/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
+index c24f3875d..beb9701e8 100644
+--- a/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
++++ b/sites/mhlw-kantoshinetsu/jp/go/mhlw/kouseikyoku/kantoshinetsu.html
+@@ -1031,83 +1031,83 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kantoshinetsu/chousa/shitei.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/chotatsu/nyusatsu/nyusatsur3_00008.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月5日
++													2026年10月8日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														調達情報
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													管内の保険医療機関・保険薬局の指定等一覧を更新しました。（令和8年10月1日現在）
++													【入札公告】東京事務所移転に伴う電話主装置及び電話機の新設並びに撤去
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/newpage_00530.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/chousa/shitei.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月5日
+ 												</time>
+ 												<em>
+ 													<span>
+-														開催案内
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													医療安全セミナー・ワークショップの開催について
++													管内の保険医療機関・保険薬局の指定等一覧を更新しました。（令和8年10月1日現在）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/gyomu/bu_ka/tokyo/index.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/newpage_00530.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月2日
++													2026年10月5日
+ 												</time>
+ 												<em>
+ 													<span>
+-														申請・届出
++														開催案内
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「お知らせ：届出等の「控」への受付押印の終了について」を掲載しました。
++													医療安全セミナー・ワークショップの開催について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/gyomu/bu_ka/nenkin_chosei/gakuseinofu.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/gyomu/bu_ka/tokyo/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月30日
++													2026年10月2日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														申請・届出
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													学生納付特例事務法人一覧表を更新しました。
++													「お知らせ：届出等の「控」への受付押印の終了について」を掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kantoshinetsu/iryo_shido/daketuritu.html" rel="noopener noreferrer">
++										<a href="/kantoshinetsu/gyomu/bu_ka/nenkin_chosei/gakuseinofu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年9月30日
+@@ -1120,7 +1120,7 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													妥結率等に係る報告について更新しました。
++													学生納付特例事務法人一覧表を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -1436,12 +1436,12 @@
+ 													<div>
+ 														<ul>
+ 															<li>
+-																<a href="https://www.ncd.mhlw.go.jp/sousa.html" rel="noopener noreferrer">
++																<a href="" rel="noopener noreferrer">
+ 																	薬物犯罪捜査
+ 																</a>
+ 															</li>
+ 															<li>
+-																<a href="https://www.ncd.mhlw.go.jp/shidou.html" rel="noopener noreferrer">
++																<a href="" rel="noopener noreferrer">
+ 																	麻薬取扱者等に対する指導監督
+ 																</a>
+ 															</li>
+@@ -1456,7 +1456,7 @@
+ 																</a>
+ 															</li>
+ 															<li>
+-																<a href="https://www.ncd.mhlw.go.jp/tel.html" rel="noopener noreferrer">
++																<a href="" rel="noopener noreferrer">
+ 																	違法薬物の相談、情報提供をする方へ
+ 																</a>
+ 															</li>
+@@ -1473,12 +1473,12 @@
+ 													<div>
+ 														<ul>
+ 															<li>
+-																<a href="https://www.ncd.mhlw.go.jp/sonota3.html" rel="noopener noreferrer">
++																<a href="" rel="noopener noreferrer">
+ 																	薬物乱用防止の普及啓発活動
+ 																</a>
+ 															</li>
+ 															<li>
+-																<a href="https://www.ncd.mhlw.go.jp/index-sairanyou.html" rel="noopener noreferrer">
++																<a href="" rel="noopener noreferrer">
+ 																	再乱用防止支援活動
+ 																</a>
+ 															</li>

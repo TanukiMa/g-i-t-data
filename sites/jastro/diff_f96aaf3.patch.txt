@@ -1,0 +1,24 @@
+diff --git a/sites/jastro/jp/or/jastro/index.html b/sites/jastro/jp/or/jastro/index.html
+index cb487a2ab..fbbe35fcf 100644
+--- a/sites/jastro/jp/or/jastro/index.html
++++ b/sites/jastro/jp/or/jastro/index.html
+@@ -403,6 +403,19 @@
+ 					</p>
+ 				</a>
+ 			</div>
++			<div>
++				<a href="https://jastro-ri.org/8/" rel="noopener noreferrer">
++					<img alt="" src="/medicalpersonnel/banner/main20270306.jpg">
++					<h3>
++						第8回放射性同位元素内用療法セミナー
++					</h3>
++					<p>
++						2027年3月6日（土）
++						<br>
++						会場：横浜市立大学 福浦キャンパス
++					</p>
++				</a>
++			</div>
+ 			<div>
+ 				<a href="https://2027jgb.com/index.html" rel="noopener noreferrer">
+ 					<img alt="" src="/medicalpersonnel/banner/main20270514.png">

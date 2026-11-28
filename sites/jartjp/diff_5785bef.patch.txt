@@ -1,0 +1,98 @@
+diff --git a/sites/jartjp/jp/jart/index.html b/sites/jartjp/jp/jart/index.html
+index 6e1c6aaa3..aee698dfc 100644
+--- a/sites/jartjp/jp/jart/index.html
++++ b/sites/jartjp/jp/jart/index.html
+@@ -535,24 +535,27 @@
+ 															<div>
+ 																<div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20260728-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261014-03" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+ 																					2026/10/14
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+-																						お知らせ
++																						告示研修
++																					</li>
++																					<li>
++																						会告/告示
+ 																					</li>
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				JARTISリニューアルに伴う利用登録（再登録）のお願い
++																				告示研修（実技研修）2026年度 開催日程（2026/10/14更新）
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261014-01" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20260728-01" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+ 																					2026/10/14
+@@ -564,15 +567,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【再掲】動画視聴システム更新に伴う一時休止のお知らせ（10/20 12：00〜14：00）
++																				JARTISリニューアルに伴う利用登録（再登録）のお願い
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261012" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261014-01" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/12
++																					2026/10/14
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -581,15 +584,15 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				【会員限定特典】JART会誌・学術論文を電子版でご覧いただけます！
++																				【再掲】動画視聴システム更新に伴う一時休止のお知らせ（10/20 12：00〜14：00）
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261001-07" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261012" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+-																					2026/10/01
++																					2026/10/12
+ 																				</div>
+ 																				<ul>
+ 																					<li>
+@@ -598,12 +601,12 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				ワクチン筋注行為実技研修 開催要項更新のお知らせ
++																				【会員限定特典】JART会誌・学術論文を電子版でご覧いただけます！
+ 																			</p>
+ 																		</a>
+ 																	</div>
+ 																	<div>
+-																		<a href="https://www.jart.jp/news/info/20261001-6" rel="noopener noreferrer">
++																		<a href="https://www.jart.jp/news/info/20261001-07" rel="noopener noreferrer">
+ 																			<div>
+ 																				<div>
+ 																					2026/10/01
+@@ -615,7 +618,7 @@
+ 																				</ul>
+ 																			</div>
+ 																			<p>
+-																				動画視聴システム更新に伴う一時休止のお知らせ（10/20 12：00〜14：00）
++																				ワクチン筋注行為実技研修 開催要項更新のお知らせ
+ 																			</p>
+ 																		</a>
+ 																	</div>

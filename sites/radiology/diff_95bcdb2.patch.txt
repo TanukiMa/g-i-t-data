@@ -1,0 +1,40 @@
+diff --git a/sites/radiology/jp/radiology/index.html b/sites/radiology/jp/radiology/index.html
+index 75a260bb..edbd75c6 100644
+--- a/sites/radiology/jp/radiology/index.html
++++ b/sites/radiology/jp/radiology/index.html
+@@ -500,7 +500,17 @@
+ 						</dt>
+ 						<dd>
+ 							<a href="member_info/relation/20261104_01.html" rel="noopener noreferrer">
+-								【日本アイソトープ協会】アイソトープ内用療法講習会のご案内
++								【日本アイソトープ協会】アイソトープ内用療法講習会
++							</a>
++						</dd>
++						<dt>
++							<time>
++								2026年11月03日
++							</time>
++						</dt>
++						<dd>
++							<a href="member_info/esr.html" rel="noopener noreferrer">
++								International Day of Radiology (IDoR) 2026
+ 							</a>
+ 						</dd>
+ 						<dt>
+@@ -573,16 +583,6 @@
+ 								[AOSR] Education & Training
+ 							</a>
+ 						</dd>
+-						<dt>
+-							<time>
+-								2026年10月23日
+-							</time>
+-						</dt>
+-						<dd>
+-							<a href="member_info/relation/20261023_02.html" rel="noopener noreferrer">
+-								【JIRA（日本画像医療システム工業会）】2026年度 画像医療システム産業研究会 開催のご案内
+-							</a>
+-						</dd>
+ 					</dl>
+ 					<p>
+ 						<a href="past_info.html" rel="noopener noreferrer">

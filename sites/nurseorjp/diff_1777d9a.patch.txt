@@ -1,0 +1,23 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index a891a147..be69ad41 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -341,6 +341,18 @@
+ 							</a>
+ 						</div>
+ 					</li>
++					<li>
++						<div>
++							<a href="/nursing/cheer/column3/12_9.html" rel="noopener noreferrer">
++								<img alt="update_seminar_PC" src="/assets/update_seminar_PC.png">
++							</a>
++						</div>
++						<div>
++							<a href="/nursing/cheer/column3/12_9.html" rel="noopener noreferrer">
++								<img alt="update_seminar_SP" src="/assets/update_seminar_SP.png">
++							</a>
++						</div>
++					</li>
+ 					<li>
+ 						<div>
+ 							<a href="/nursing/shift_n_share/guideline/index.html#seminar" rel="noopener noreferrer">

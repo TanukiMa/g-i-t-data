@@ -1,0 +1,74 @@
+diff --git a/sites/jsnfs/jp/or/jsnfs/index.html b/sites/jsnfs/jp/or/jsnfs/index.html
+index 042a17d3..961ba599 100644
+--- a/sites/jsnfs/jp/or/jsnfs/index.html
++++ b/sites/jsnfs/jp/or/jsnfs/index.html
+@@ -208,6 +208,12 @@
+ 									<ul>
+ 									</ul>
+ 									<ul>
++										<li>
++											【お知らせ】
++											<a href="https://www.jsnfs.or.jp/news/news_20261106.html" rel="noopener noreferrer">
++												第6回日本医学会連合RisingStarリトリート開催のご案内について
++											</a>
++										</li>
+ 										<li>
+ 											【お知らせ】
+ 											<a href="https://www.jsnfs.or.jp/news/news_20261102.html" rel="noopener noreferrer">
+@@ -265,7 +271,7 @@
+ 										<li>
+ 											【公募・助成】
+ 											<a href="https://www.jsnfs.or.jp/job_grant/grant_20261221.html" rel="noopener noreferrer">
+-												第3回（2027年度）特定研究助成金応募要項
++												（公財）三島海雲記念財団 第3回（2027年度）特定研究助成金応募要項
+ 											</a>
+ 										</li>
+ 										<li>
+@@ -286,12 +292,6 @@
+ 												11月2日開催の公開シンポジウム「動物を用いた研究と教育の新たな地平 ―「動物実験の2006年体制」発足から20年、動物福祉を踏まえて拓く未来―」について
+ 											</a>
+ 										</li>
+-										<li>
+-											【公募・助成】
+-											<a href="https://www.jsnfs.or.jp/job_grant/grant_20270201.html" rel="noopener noreferrer">
+-												公益財団法人 山田科学振興財団2027年度研究援助申請について
+-											</a>
+-										</li>
+ 									</ul>
+ 									<p>
+ 										»
+@@ -312,6 +312,12 @@
+ 									<ul>
+ 									</ul>
+ 									<ul>
++										<li>
++											【お知らせ】
++											<a href="https://www.jsnfs.or.jp/news/news_20261106.html" rel="noopener noreferrer">
++												第6回日本医学会連合RisingStarリトリート開催のご案内について
++											</a>
++										</li>
+ 										<li>
+ 											【お知らせ】
+ 											<a href="https://www.jsnfs.or.jp/news/news_20261102.html" rel="noopener noreferrer">
+@@ -366,12 +372,6 @@
+ 												訃報
+ 											</a>
+ 										</li>
+-										<li>
+-											【お知らせ】
+-											<a href="https://www.jsnfs.or.jp/news/news_20260817.html" rel="noopener noreferrer">
+-												医薬品・医療機器等安全性情報 No.431
+-											</a>
+-										</li>
+ 									</ul>
+ 									<p>
+ 										»
+@@ -491,7 +491,7 @@
+ 										<li>
+ 											【公募·助成】
+ 											<a href="https://www.jsnfs.or.jp/job_grant/grant_20261221.html" rel="noopener noreferrer">
+-												第3回（2027年度）特定研究助成金応募要項
++												（公財）三島海雲記念財団 第3回（2027年度）特定研究助成金応募要項
+ 											</a>
+ 										</li>
+ 										<li>

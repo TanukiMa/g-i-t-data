@@ -1,0 +1,115 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index b56c22aa..defd309e 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2370,6 +2370,38 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/devices/0054.html" rel="noopener noreferrer">
++												<p>
++													2026年11月6日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													クラスI回収 該当回収品目　ARROW PICカテーテルキット HP
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/devices/0096.html" rel="noopener noreferrer">
++												<p>
++													2026年11月6日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「医療機器自主回収のおしらせ（クラスI）（販売名：ARROW PICカテーテルキット HP）」を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/drug-reviews/foreign-mfr/0003.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2658,32 +2690,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/pharmaceutical-excipients/0001.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月30日
+-												</p>
+-												<p>
+-													審査
+-												</p>
+-												<p>
+-													特定の製剤や特定の条件下においてのみ使用が認められた添加剤リストを更新しました。
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/review-services/trials/0016.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月30日
+-												</p>
+-												<p>
+-													審査
+-												</p>
+-												<p>
+-													人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2921,6 +2927,38 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/devices/0054.html" rel="noopener noreferrer">
++												<p>
++													2026年11月6日
++												</p>
++												<p>
++													医療機器
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													クラスI回収 該当回収品目　ARROW PICカテーテルキット HP
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/devices/0096.html" rel="noopener noreferrer">
++												<p>
++													2026年11月6日
++												</p>
++												<p>
++													医療機器
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「医療機器自主回収のおしらせ（クラスI）（販売名：ARROW PICカテーテルキット HP）」を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
+ 												<p>

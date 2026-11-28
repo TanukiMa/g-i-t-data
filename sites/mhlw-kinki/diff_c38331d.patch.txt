@@ -1,0 +1,61 @@
+diff --git a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+index a67013435..f741f2cb1 100644
+--- a/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
++++ b/sites/mhlw-kinki/jp/go/mhlw/kouseikyoku/kinki.html
+@@ -802,47 +802,47 @@
+ 							<ul>
+ 								<li>
+ 									<a href="https://kouseikyoku.mhlw.go.jp/kinki/gyomu/gyomu/hoken_kikan/shinryohoshuh08.html" rel="noopener noreferrer">
+-										令和8年度診療報酬改定（お知らせ・施設基準届・疑義照会）
++										1⃣ 令和8年度診療報酬改定（お知らせ・施設基準届・疑義照会）
+ 									</a>
+ 								</li>
+ 								<li>
+ 									<a href="https://kouseikyoku.mhlw.go.jp/kinki/iryo_shido/iryouka_tyousaka/26kari.html" rel="noopener noreferrer">
+-										保険医療機関・薬局・訪看・柔整・あはき関係（お知らせ、手続のご案内）
++										2⃣ 保険医療機関・薬局・訪看・柔整・あはき関係（お知らせ、手続のご案内）
+ 									</a>
+ 								</li>
+ 								<li>
+ 									<a href="https://kouseikyoku.mhlw.go.jp/kinki/houkan.html" rel="noopener noreferrer">
+-										訪問看護ステーション関係
++										3⃣ 訪問看護ステーション関係
+ 									</a>
+ 								</li>
+ 								<li>
+ 									<a href="https://kouseikyoku.mhlw.go.jp/kinki/iryo_shido/iryouka_tyousaka/syudane-learnning_00002.html" rel="noopener noreferrer">
+-										集団指導　　 (eラーニング)
++										4⃣ 集団指導　　 (eラーニング)
+ 									</a>
+ 								</li>
+ 								<li>
+ 									<a href="https://kouseikyoku.mhlw.go.jp/kinki/gyomu/gyomu/yakkan/index.html" rel="noopener noreferrer">
+-										医薬品等の輸入関係
++										5⃣ 医薬品等の輸入関係
+ 									</a>
+ 								</li>
+ 								<li>
+ 									<a href="https://www.mhlw.go.jp/stf/newpage_08277.html" rel="noopener noreferrer">
+-										マイナ保険証利用について
++										6⃣ マイナ保険証利用について
+ 									</a>
+ 								</li>
+ 								<li>
+ 									<a href="https://kouseikyoku.mhlw.go.jp/kinki/newpage_01309.html" rel="noopener noreferrer">
+-										指導医療官（医科担当）の募集情報
++										7⃣ 指導医療官（医科担当）の募集情報
+ 									</a>
+ 								</li>
+ 								<li>
+ 									<a href="https://kouseikyoku.mhlw.go.jp/kinki/saiyo/index.html" rel="noopener noreferrer">
+-										採用情報
++										8⃣ 採用情報
+ 									</a>
+ 								</li>
+ 								<li>
+ 									<a href="/kinki/gyomu/gyomu/hoken_kikan/kijun_jurijoukyou.html" rel="noopener noreferrer">
+-										保険医療機関・薬局・訪看の「施設基準等の受理状況」
++										9⃣ 保険医療機関・薬局・訪看の「施設基準等の受理状況」
+ 									</a>
+ 								</li>
+ 							</ul>

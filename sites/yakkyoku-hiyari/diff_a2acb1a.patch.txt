@@ -1,0 +1,42 @@
+diff --git a/sites/yakkyoku-hiyari/jp/or/jcqhc/yakkyoku-hiyari/index.html b/sites/yakkyoku-hiyari/jp/or/jcqhc/yakkyoku-hiyari/index.html
+index a2b7c0f45..af53e6620 100644
+--- a/sites/yakkyoku-hiyari/jp/or/jcqhc/yakkyoku-hiyari/index.html
++++ b/sites/yakkyoku-hiyari/jp/or/jcqhc/yakkyoku-hiyari/index.html
+@@ -189,6 +189,13 @@
+ 					</div>
+ 				</a>
+ 				<div>
++					<div>
++						<strong>
++							2026.11.24
++						</strong>
++						<br>
++						2026年10月1日～31日に報告された事例を「事例検索」に公開致しました。
++					</div>
+ 					<div>
+ 						<strong>
+ 							2026.10.26
+@@ -265,23 +272,6 @@
+ 							PDF
+ 						</a>
+ 					</div>
+-					<div>
+-						<strong>
+-							2026.07.27
+-						</strong>
+-						<br>
+-						「共有すべき事例」2026年 No.7を公開致しました。
+-						<a href="pdf/sharing_case_2026_07.pdf" rel="noopener noreferrer">
+-							PDF
+-						</a>
+-					</div>
+-					<div>
+-						<strong>
+-							2026.07.14
+-						</strong>
+-						<br>
+-						2026年6月1日～30日に報告された事例を「事例検索」に公開致しました。
+-					</div>
+ 				</div>
+ 			</div>
+ 			<div>

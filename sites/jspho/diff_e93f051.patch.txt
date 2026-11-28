@@ -1,0 +1,36 @@
+diff --git a/sites/jspho/org/jspho/index.html b/sites/jspho/org/jspho/index.html
+index bee6daffd..7b2acd5a3 100644
+--- a/sites/jspho/org/jspho/index.html
++++ b/sites/jspho/org/jspho/index.html
+@@ -445,6 +445,31 @@
+ 							<img alt="お知らせ" src="common/img/home/hl_txt_news.png">
+ 						</h1>
+ 						<div>
++							<div>
++								<div>
++									2026.10.22
++								</div>
++								<div>
++									日本医学会からのお知らせ
++									<br>
++									令和8年10月1日付メールにて厚生労働省医薬局医薬品審査管理課より
++									<br>
++									・
++									<a href="files/oshirase/20261022.pdf" rel="noopener noreferrer">
++										エボロクマブ（遺伝子組換え）製剤の最適使用推進ガイドラインの簡略版への切替えについて周知依頼
++									</a>
++									<br>
++									【お問合せ先】
++									<br>
++									厚生労働省 医薬局医薬品審査管理課
++									<br>
++									担当：木村様（内線：4221）
++									<br>
++									〒100-8916 東京都千代田区霞ヶ関1-2-2
++									<br>
++									TEL 03-5253-1111（代表）
++								</div>
++							</div>
+ 							<div>
+ 								<div>
+ 									2026.10.09

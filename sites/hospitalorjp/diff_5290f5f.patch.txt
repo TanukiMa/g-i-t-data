@@ -1,0 +1,160 @@
+diff --git a/sites/hospitalorjp/jp/or/hospital/index.html b/sites/hospitalorjp/jp/or/hospital/index.html
+index 2c5fdaccf..f30ff6572 100644
+--- a/sites/hospitalorjp/jp/or/hospital/index.html
++++ b/sites/hospitalorjp/jp/or/hospital/index.html
+@@ -441,31 +441,31 @@
+ 			</header>
+ 			<div>
+ 				<div>
+-					<a href="https://www.hospital.or.jp/site/seminar/detail.html?id=1679287046" rel="noopener noreferrer">
++					<a href="https://www.mrp-portal.jp/entry_price/" rel="noopener noreferrer">
+ 						<div>
+ 							<div>
+ 							</div>
+ 						</div>
+ 					</a>
+-					<a href="https://ishijimu.hospital.or.jp/" rel="noopener noreferrer">
++					<a href="https://www.hospital.or.jp/site/seminar/detail.html?id=1679287046" rel="noopener noreferrer">
+ 						<div>
+ 							<div>
+ 							</div>
+ 						</div>
+ 					</a>
+-					<a href="/site/comprehensive_medical_checkup/" rel="noopener noreferrer">
++					<a href="https://ishijimu.hospital.or.jp/" rel="noopener noreferrer">
+ 						<div>
+ 							<div>
+ 							</div>
+ 						</div>
+ 					</a>
+-					<a href="https://www.hospital.or.jp/site/seminar/" rel="noopener noreferrer">
++					<a href="/site/comprehensive_medical_checkup/" rel="noopener noreferrer">
+ 						<div>
+ 							<div>
+ 							</div>
+ 						</div>
+ 					</a>
+-					<a href="https://www.c-linkage.co.jp/jha2027/" rel="noopener noreferrer">
++					<a href="https://www.hospital.or.jp/site/seminar/" rel="noopener noreferrer">
+ 						<div>
+ 							<div>
+ 							</div>
+@@ -479,6 +479,11 @@
+ 				<div>
+ 				</div>
+ 			</div>
++			<div>
++				<a href="https://www.mrp-portal.jp/entry_price/" rel="noopener noreferrer">
++					<img alt="MAVIS Priceスコープ" src="/site/img/MAVIS_Price.jpg">
++				</a>
++			</div>
+ 			<div>
+ 				<div>
+ 					<div>
+@@ -597,6 +602,30 @@
+ 									</li>
+ 								</ul>
+ 								<div>
++									<div>
++										<div>
++											2026.11.16
++										</div>
++										<div>
++										</div>
++										<p>
++											<a href="/site/news/file/1794793233.pdf" rel="noopener noreferrer">
++												【事務連絡】院内感染対策サーベイランス事業（JANIS）のシステム停止期間中における参加登録等の取扱いについて
++											</a>
++										</p>
++									</div>
++									<div>
++										<div>
++											2026.11.16
++										</div>
++										<div>
++										</div>
++										<p>
++											<a href="/site/news/file/1794793233.pdf" rel="noopener noreferrer">
++												【事務連絡】院内感染対策サーベイランス事業（JANIS）のシステム停止期間中における参加登録等の取扱いについて
++											</a>
++										</p>
++									</div>
+ 									<div>
+ 										<div>
+ 											2026.11.11
+@@ -825,18 +854,6 @@
+ 											</a>
+ 										</p>
+ 									</div>
+-									<div>
+-										<div>
+-											2026.11.04
+-										</div>
+-										<div>
+-										</div>
+-										<p>
+-											<a href="/site/news/file/1793768172.pdf" rel="noopener noreferrer">
+-												第16回がん新薬開発合同シンポジウム＋第10回医療機器開発シンポジウムのご案内
+-											</a>
+-										</p>
+-									</div>
+ 									<div>
+ 										<div>
+ 											2026.11.04
+@@ -981,18 +998,6 @@
+ 											</a>
+ 										</p>
+ 									</div>
+-									<div>
+-										<div>
+-											2026.10.30
+-										</div>
+-										<div>
+-										</div>
+-										<p>
+-											<a href="/site/news/file/1793350021.pdf" rel="noopener noreferrer">
+-												【事務連絡】医療機器の保険適用について
+-											</a>
+-										</p>
+-									</div>
+ 									<div>
+ 										<div>
+ 											2026.10.29
+@@ -1077,18 +1082,6 @@
+ 											</a>
+ 										</p>
+ 									</div>
+-									<div>
+-										<div>
+-											2026.09.01
+-										</div>
+-										<div>
+-										</div>
+-										<p>
+-											<a href="https://www.hospital.or.jp/site/seminar/detail.html?id=1756709820" rel="noopener noreferrer">
+-												第20回診療情報管理士認定試験　申込開始のお知らせ
+-											</a>
+-										</p>
+-									</div>
+ 									<div>
+ 										<div>
+ 											2026.08.31
+@@ -1197,6 +1190,18 @@
+ 											</a>
+ 										</p>
+ 									</div>
++									<div>
++										<div>
++											2026.03.17
++										</div>
++										<div>
++										</div>
++										<p>
++											<a href="https://www.hospital.or.jp/site/seminar/detail.html?id=1679288772" rel="noopener noreferrer">
++												2026年度 病院中堅職員育成研修　参加申し込み開始のお知らせ
++											</a>
++										</p>
++									</div>
+ 								</div>
+ 								<a href="/site/news/" rel="noopener noreferrer">
+ 									新着情報一覧

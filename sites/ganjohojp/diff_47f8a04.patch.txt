@@ -1,0 +1,46 @@
+diff --git a/sites/ganjohojp/jp/ganjoho/index.html b/sites/ganjohojp/jp/ganjoho/index.html
+index 32d4cf244..d7997f47f 100644
+--- a/sites/ganjohojp/jp/ganjoho/index.html
++++ b/sites/ganjohojp/jp/ganjoho/index.html
+@@ -2173,6 +2173,22 @@
+ 					</ul>
+ 				</div>
+ 				<ul>
++					<li>
++						<div>
++							2026年11月25日
++						</div>
++						<div>
++							「
++							<a href="/public/institution/prefectures/index.html" rel="noopener noreferrer">
++								地域のがん情報
++							</a>
++							」「
++							<a href="/public/life_stage/child/prefectures_child.html" rel="noopener noreferrer">
++								小児の地域のがん情報
++							</a>
++							」神奈川県、富山県、長崎県の情報を更新しました。
++						</div>
++					</li>
+ 					<li>
+ 						<div>
+ 							2026年11月06日
+@@ -2219,18 +2235,6 @@
+ 							」3種を掲載・更新しました。
+ 						</div>
+ 					</li>
+-					<li>
+-						<div>
+-							2026年10月16日
+-						</div>
+-						<div>
+-							「
+-							<a href="/public/cancer/retinoblastoma/index.html" rel="noopener noreferrer">
+-								網膜芽細胞腫〈小児〉
+-							</a>
+-							」を更新しました。
+-						</div>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="/public/news/index.html" rel="noopener noreferrer">

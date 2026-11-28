@@ -1,0 +1,57 @@
+diff --git a/sites/jsps/jp/or/jsps/index.html b/sites/jsps/jp/or/jsps/index.html
+index 6e2239496..a73671962 100644
+--- a/sites/jsps/jp/or/jsps/index.html
++++ b/sites/jsps/jp/or/jsps/index.html
+@@ -278,6 +278,22 @@
+ 						</div>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								2026.11.20
++							</span>
++							<a href="http://www.jsps.or.jp/archives/press/board-of-elections" rel="noopener noreferrer">
++								選挙管理委員会
++							</a>
++						</li>
++						<li>
++							<span>
++								2026.11.20
++							</span>
++							<a href="http://www.jsps.or.jp/archives/press/board-of-elections" rel="noopener noreferrer">
++								【第28回評議員選挙 電子投票を再開しました】
++							</a>
++						</li>
+ 						<li>
+ 							<span>
+ 								2026.11.19
+@@ -326,14 +342,6 @@
+ 								【第28回評議員選挙 電子投票停止について】
+ 							</a>
+ 						</li>
+-						<li>
+-							<span>
+-								2026.11.18
+-							</span>
+-							<a href="http://www.jsps.or.jp/archives/press/board-of-elections" rel="noopener noreferrer">
+-								選挙管理委員会
+-							</a>
+-						</li>
+ 						<li>
+ 							<span>
+ 								2026.11.16
+@@ -350,14 +358,6 @@
+ 								【第28回評議員選挙確定選挙人名簿の確認と投票方法のお知らせ】
+ 							</a>
+ 						</li>
+-						<li>
+-							<span>
+-								2026.11.11
+-							</span>
+-							<a href="http://www.jsps.or.jp/wp-content/uploads/2026/11/26_LPEC.pdf" rel="noopener noreferrer">
+-								【第２６回日本LPEC研究会開催のご案内】
+-							</a>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						<div>

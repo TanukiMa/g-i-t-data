@@ -1,0 +1,48 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 99b37a8f5..6e03741a2 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -720,6 +720,21 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<div>
++											<span>
++												令和8年10月23日
++											</span>
++											<div>
++												<span>
++													その他お知らせ
++												</span>
++											</div>
++										</div>
++										<a href="/news/other/20261023.html" rel="noopener noreferrer">
++											慶應義塾大学における不正行為に対する措置の決定
++										</a>
++									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+@@ -780,21 +795,6 @@
+ 											健康長寿に向けた課題解決（Healthy Longevity Global Competition）： ハイブリ...
+ 										</a>
+ 									</li>
+-									<li>
+-										<div>
+-											<span>
+-												令和8年10月16日
+-											</span>
+-											<div>
+-												<span>
+-													イベント
+-												</span>
+-											</div>
+-										</div>
+-										<a href="/news/event/261126_RSsympo.html" rel="noopener noreferrer">
+-											（情報更新）（令和8年11月26日開催）「第12回　レギュラトリーサイエンス公開シンポジウム」開催のお知らせ
+-										</a>
+-									</li>
+ 								</ul>
+ 								<ul>
+ 									<li>

@@ -1,0 +1,69 @@
+diff --git a/sites/jeaweb/jp/jeaweb/index.html b/sites/jeaweb/jp/jeaweb/index.html
+index a1b980049..6ba0aac49 100644
+--- a/sites/jeaweb/jp/jeaweb/index.html
++++ b/sites/jeaweb/jp/jeaweb/index.html
+@@ -349,13 +349,13 @@
+ 							<article>
+ 								<h3>
+ 									<time>
+-										2026年10月09日
++										2026年10月13日
+ 									</time>
+ 									<span>
+-										募集
++										セミナー
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2859" rel="noopener noreferrer">
+-										【乳の学術連合】  2027年度学術研究公募のご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2861" rel="noopener noreferrer">
++										第45回（2026年度 第3回）DOHaD疫学セミナーのご案内
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -367,8 +367,8 @@
+ 									<span>
+ 										募集
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2858" rel="noopener noreferrer">
+-										【AMED】令和９年度「ワクチン・新規モダリティ・治療薬等研究開発事業」募集のご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2859" rel="noopener noreferrer">
++										【乳の学術連合】  2027年度学術研究公募のご案内
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -380,8 +380,8 @@
+ 									<span>
+ 										募集
+ 									</span>
+-									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2857" rel="noopener noreferrer">
+-										「協会けんぽ委託研究事業」募集のご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2858" rel="noopener noreferrer">
++										【AMED】令和９年度「ワクチン・新規モダリティ・治療薬等研究開発事業」募集のご案内
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -393,8 +393,8 @@
+ 									<span>
+ 										募集
+ 									</span>
+-									<a href="https://www.phrf.jp/aboutus/gaiyou_jyosei_oubo.php" rel="noopener noreferrer">
+-										「パブリックヘルス科学研究助成」公募のご案内
++									<a href="https://jeaweb.jp/jeanews/network/individual.html?entry_id=2857" rel="noopener noreferrer">
++										「協会けんぽ委託研究事業」募集のご案内
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -404,10 +404,10 @@
+ 										2026年10月09日
+ 									</time>
+ 									<span>
+-										求人案内
++										募集
+ 									</span>
+-									<a href="https://www.igakuken.or.jp/careers/2026-07.html" rel="noopener noreferrer">
+-										【東京都医学総合研究所】 プロジェクト研究リーダー公募のご案内
++									<a href="https://www.phrf.jp/aboutus/gaiyou_jyosei_oubo.php" rel="noopener noreferrer">
++										「パブリックヘルス科学研究助成」公募のご案内
+ 									</a>
+ 								</h3>
+ 							</article>

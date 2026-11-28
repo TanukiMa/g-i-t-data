@@ -1,0 +1,59 @@
+diff --git a/sites/j-athero/org/j-athero/jp.html b/sites/j-athero/org/j-athero/jp.html
+index 69b57b33..0d47cd9a 100644
+--- a/sites/j-athero/org/j-athero/jp.html
++++ b/sites/j-athero/org/j-athero/jp.html
+@@ -1195,17 +1195,22 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="./jas_gl2022/" rel="noopener noreferrer">
++									<a href="https://square.umin.ac.jp/jas2027/" rel="noopener noreferrer">
++										<img alt="第59回日本動脈硬化学会総会・学術集会" height="310" src="https://www.j-athero.org/jp/wp-content/uploads/2026/11/jas59.jpg" title="20270703_59動脈硬化_バナー_900×310" width="900">
++									</a>
++								</li>
++								<li>
++									<a href="http://./jas_gl2022/" rel="noopener noreferrer">
+ 										<img alt="動脈硬化性疾患予防ガイドライン2022年版" height="310" src="https://www.j-athero.org/jp/wp-content/uploads/2022/08/ガイドライン2022バナー_2.png" title="ガイドライン2022バナー_2" width="900">
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="./fhguideline2022_commentary/" rel="noopener noreferrer">
++									<a href="http://./fhguideline2022_commentary/" rel="noopener noreferrer">
+ 										<img alt="" height="310" src="https://www.j-athero.org/jp/wp-content/uploads/2022/09/fh_gl2022-900x310.png" title="FHガイドライン2022年版解説動画" width="900">
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="./general/9_japandiet/" rel="noopener noreferrer">
++									<a href="http://./general/9_japandiet/" rel="noopener noreferrer">
+ 										<img alt="" height="310" src="https://www.j-athero.org/jp/wp-content/uploads/2024/09/japandiet_baner.png" title="japandiet_baner" width="900">
+ 									</a>
+ 								</li>
+@@ -1381,6 +1386,18 @@
+ 							</a>
+ 						</p>
+ 					</div>
++					<div>
++						<p>
++							2026/11/2
++						</p>
++						<p>
++						</p>
++						<p>
++							<a href="https://www.jstage.jst.go.jp/browse/jat/list/-char/en" rel="noopener noreferrer">
++								JAT Vol. 33 No.11が発刊されました
++							</a>
++						</p>
++					</div>
+ 					<div>
+ 						<p>
+ 							2026/9/8
+@@ -1425,6 +1442,9 @@
+ 					<a href="https://square.umin.ac.jp/jasforum27/" rel="noopener noreferrer">
+ 						<img src="https://www.j-athero.org/jp/wp-content/themes/test_jas/images/27tokyo_s.jpg">
+ 					</a>
++					<a href="https://square.umin.ac.jp/jas2027/" rel="noopener noreferrer">
++						<img src="https://www.j-athero.org/jp/wp-content/themes/test_jas/images/jas59_s.jpg">
++					</a>
+ 					<a href="https://www.j-athero.org/jp/other/jas_cohort_study/" rel="noopener noreferrer">
+ 						<img src="https://www.j-athero.org/jp/wp-content/themes/test_jas/images/rinsyoukenkyu_s.png">
+ 					</a>

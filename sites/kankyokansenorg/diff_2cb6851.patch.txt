@@ -1,0 +1,44 @@
+diff --git a/sites/kankyokansenorg/org/kankyokansen/index.html b/sites/kankyokansenorg/org/kankyokansen/index.html
+index ed62d195c..38fed7497 100644
+--- a/sites/kankyokansenorg/org/kankyokansen/index.html
++++ b/sites/kankyokansenorg/org/kankyokansen/index.html
+@@ -794,6 +794,19 @@
+ 							</div>
+ 							<div>
+ 								<dl>
++									<dt>
++										<span>
++											学会より
++										</span>
++										2026年11月25日
++									</dt>
++									<dd>
++										<div>
++											<a href="https://www.kankyokansen.org/news/20261125/" rel="noopener noreferrer">
++												日本環境感染学会誌 Vol. 41 No. 6 を公開しました
++											</a>
++										</div>
++									</dd>
+ 									<dt>
+ 										<span>
+ 											関連団体
+@@ -833,19 +846,6 @@
+ 											</a>
+ 										</div>
+ 									</dd>
+-									<dt>
+-										<span>
+-											学会より
+-										</span>
+-										2026年9月25日
+-									</dt>
+-									<dd>
+-										<div>
+-											<a href="https://www.kankyokansen.org/news/20260925-2/" rel="noopener noreferrer">
+-												日本環境感染学会誌 Vol. 41 No. 5 を公開しました
+-											</a>
+-										</div>
+-									</dd>
+ 									<dt>
+ 										<span>
+ 											関連団体

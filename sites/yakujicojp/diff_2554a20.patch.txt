@@ -1,0 +1,355 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index 2f3aa9e91..ea77f0730 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -407,21 +407,21 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry140631.html" rel="noopener noreferrer">
+-								【医療保険部会】高齢者窓口負担見直し議論‐低所得者への配慮主張も
++							<a href="https://www.yakuji.co.jp/entry140629.html" rel="noopener noreferrer">
++								【製薬協 宮柱会長】「国際戦略見直し図る」‐法人化で「実行力強化」
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年10月20日 (火) 06:31
++						2026年10月20日 (火) 08:31
+ 					</div>
+ 					<div>
+-						<img alt="" height="377" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_02-03.jpg" width="540">
++						<img alt="宮柱明日香氏" height="251" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_02-01.jpg" width="175">
+ 						<p>
+-							社会保障審議会医療保険部会は16日、高齢者の医療費窓口負担割合の見直しを議論した。高齢者の受診日数の減少や所得上昇、後期高齢者への2割負担導入後の影響分析を踏まえ、保険者側からは負担能力に応じた仕組みに移行すべきとの意見が出た。一方、高齢者・医療関係者からは、所得や健康状態の格差、疾病別の受診抑制を踏まえ、低所得者への配慮と中長期的な健康影響の検証を求める声が相次いだ。
++							日本製薬工業協会の宮柱明日香会長（武田薬品ジャパンファーマビジネスユニットプレジデント）は15日、都内で開催した理事会後に記者会見し、今月1日からの一般社団法人化による活動について「より戦略と実行力を強化する」と抱負を語った。新薬開発力が著しく高まっている中国の動向など国際環境の変化も踏まえ、国際戦略を見直す方針も明らかにした。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry140631.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry140629.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -443,11 +443,11 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140631.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_02-03-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140629.html" rel="noopener noreferrer">
++									<img alt="宮柱明日香氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_02-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140631.html" rel="noopener noreferrer">
+-									【医療保険部会】高齢者窓口負担見直し議論‐低所得者への配慮主張も
++								<a href="https://www.yakuji.co.jp/entry140629.html" rel="noopener noreferrer">
++									【製薬協 宮柱会長】「国際戦略見直し図る」‐法人化で「実行力強化」
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -460,10 +460,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140626.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140620.html" rel="noopener noreferrer">
++									<img alt="那賀町立上那賀病院を訪問した薬学生（事業関係者提供）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_03-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140626.html" rel="noopener noreferrer">
+-									【インテージHC】緊急避妊薬1.7億円と拡大‐8月度OTC販売
++								<a href="https://www.yakuji.co.jp/entry140620.html" rel="noopener noreferrer">
++									【徳島県】病院薬剤師の人材確保へ‐薬学生が地域医療現場体験
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -476,14 +477,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140628.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140631.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_02-03-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140628.html" rel="noopener noreferrer">
+-									【生物由来技術部会】ステミラックが正式承認へ‐条件期限付から本承認は初
++								<a href="https://www.yakuji.co.jp/entry140631.html" rel="noopener noreferrer">
++									【医療保険部会】高齢者窓口負担見直し議論‐低所得者への配慮主張も
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -492,14 +494,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140627.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140626.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140627.html" rel="noopener noreferrer">
+-									【厚労省】地域薬剤師会に最大1000万円‐医薬品提供体制モデル事業
++								<a href="https://www.yakuji.co.jp/entry140626.html" rel="noopener noreferrer">
++									【インテージHC】緊急避妊薬1.7億円と拡大‐8月度OTC販売
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -508,11 +510,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140624.html" rel="noopener noreferrer">
+-									<img alt="オーゼイフル錠1mg" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_07-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140628.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140624.html" rel="noopener noreferrer">
+-									【武田薬品】ナルコレプシー新薬登場‐日・中同時発売、診断に課題
++								<a href="https://www.yakuji.co.jp/entry140628.html" rel="noopener noreferrer">
++									【生物由来技術部会】ステミラックが正式承認へ‐条件期限付から本承認は初
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -525,11 +526,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140621.html" rel="noopener noreferrer">
+-									<img alt="岩月進氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140627.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140621.html" rel="noopener noreferrer">
+-									【日薬 岩月会長】薬剤師の積極性必要‐「攻めの予防医療」で
++								<a href="https://www.yakuji.co.jp/entry140627.html" rel="noopener noreferrer">
++									【厚労省】地域薬剤師会に最大1000万円‐医薬品提供体制モデル事業
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -643,11 +643,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140687.html" rel="noopener noreferrer">
+-									<img alt="Aquilion Rise" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/20261020_1019ka1_660-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140696.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140687.html" rel="noopener noreferrer">
+-									【キヤノン】「DFAアジアデザイン賞2026」、全身用X線CT診断装置「Aquilion Rise」が大賞
++								<a href="https://www.yakuji.co.jp/entry140696.html" rel="noopener noreferrer">
++									【薬事工業生産動態統計】医療機器令和8年7月分：5606億円
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -660,14 +659,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140600.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140693.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140600.html" rel="noopener noreferrer">
+-									【大塚メディカルデバイス】Paradise超音波式腎デナベーションシステム、「グッドデザイン賞…
++								<a href="https://www.yakuji.co.jp/entry140693.html" rel="noopener noreferrer">
++									【積水メディカル】「MCIスクリーニング検査」の普及・啓発を推進
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -738,15 +737,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140601.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/e33aa2c45c7a0453bfd69e712f4a8879-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140694.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/fd671e490cd8eb28238bee51ff7ee95e-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140601.html" rel="noopener noreferrer">
+-									【新製品】『エクセル』から、手肌も心も包み込む「フレグランスハンドミルク」が限定登場　…
++								<a href="https://www.yakuji.co.jp/entry140694.html" rel="noopener noreferrer">
++									【新製品】韓国発コスメブランド「TIRTIR」、異なる2つの質感で肌に立体感と奥行きをプラスす…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -755,11 +754,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140615.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_06-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140601.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/e33aa2c45c7a0453bfd69e712f4a8879-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140615.html" rel="noopener noreferrer">
+-									【新製品】パッケージをリニューアル‐「YOHADAボディソープ」　クラシエ
++								<a href="https://www.yakuji.co.jp/entry140601.html" rel="noopener noreferrer">
++									【新製品】『エクセル』から、手肌も心も包み込む「フレグランスハンドミルク」が限定登場　…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1706,11 +1705,11 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140687.html" rel="noopener noreferrer">
+-									<img alt="Aquilion Rise" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/20261020_1019ka1_660-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140629.html" rel="noopener noreferrer">
++									<img alt="宮柱明日香氏" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_02-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140687.html" rel="noopener noreferrer">
+-									【キヤノン】「DFAアジアデザイン賞2026」、全身用X線CT診断装置「Aquilion Rise」が大賞
++								<a href="https://www.yakuji.co.jp/entry140629.html" rel="noopener noreferrer">
++									【製薬協 宮柱会長】「国際戦略見直し図る」‐法人化で「実行力強化」
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1723,11 +1722,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140631.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_02-03-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140620.html" rel="noopener noreferrer">
++									<img alt="那賀町立上那賀病院を訪問した薬学生（事業関係者提供）" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/y13230_03-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140631.html" rel="noopener noreferrer">
+-									【医療保険部会】高齢者窓口負担見直し議論‐低所得者への配慮主張も
++								<a href="https://www.yakuji.co.jp/entry140620.html" rel="noopener noreferrer">
++									【徳島県】病院薬剤師の人材確保へ‐薬学生が地域医療現場体験
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1740,10 +1739,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140626.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140696.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140626.html" rel="noopener noreferrer">
+-									【インテージHC】緊急避妊薬1.7億円と拡大‐8月度OTC販売
++								<a href="https://www.yakuji.co.jp/entry140696.html" rel="noopener noreferrer">
++									【薬事工業生産動態統計】医療機器令和8年7月分：5606億円
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1756,14 +1755,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140698.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140694.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/fd671e490cd8eb28238bee51ff7ee95e-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140698.html" rel="noopener noreferrer">
+-									行政情報リスト　2026/10/19
++								<a href="https://www.yakuji.co.jp/entry140694.html" rel="noopener noreferrer">
++									【新製品】韓国発コスメブランド「TIRTIR」、異なる2つの質感で肌に立体感と奥行きをプラスす…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1772,14 +1772,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140659.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140693.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140659.html" rel="noopener noreferrer">
+-									プレスリリース・タイトルリスト　2026/10/19
++								<a href="https://www.yakuji.co.jp/entry140693.html" rel="noopener noreferrer">
++									【積水メディカル】「MCIスクリーニング検査」の普及・啓発を推進
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1788,15 +1788,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140669.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/yyd_20261019_01-03-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140692.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140669.html" rel="noopener noreferrer">
+-									【薬ゼミ国試対策】生物の視点で臨床問題を考える
++								<a href="https://www.yakuji.co.jp/entry140692.html" rel="noopener noreferrer">
++									【富士通Japan】クラウドネイティブ型電子カルテシステムの提供へ‐厚労省の電子カルテ標準仕…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1805,14 +1804,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140674.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140691.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140674.html" rel="noopener noreferrer">
+-									【訃報】渡邉新氏（アルフレッサホールディングス元代表取締役会長）が死去
++								<a href="https://www.yakuji.co.jp/entry140691.html" rel="noopener noreferrer">
++									【アイリス】国際会議MICCAIのAIコンペ、Quan氏が3年連続世界1位を達成
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1821,14 +1820,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140628.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry140690.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140628.html" rel="noopener noreferrer">
+-									【生物由来技術部会】ステミラックが正式承認へ‐条件期限付から本承認は初
++								<a href="https://www.yakuji.co.jp/entry140690.html" rel="noopener noreferrer">
++									【ウィーメックス】「日本遠隔医療学会学術大会」に出展‐ランチョンセミナーも開催
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月19日 (月)
++									2026年10月20日 (火)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1848,7 +1847,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年10月  (228)
++		 2026年10月  (237)
+ 	 2026年9月  (341)
+ 	 2026年8月  (320)
+ 	 2026年7月  (386)

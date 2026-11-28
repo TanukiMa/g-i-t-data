@@ -1,0 +1,21 @@
+diff --git a/sites/chemotherapy-news-3/jp/or/chemotherapy/modules-newslist-index-php-content-id-3.html b/sites/chemotherapy-news-3/jp/or/chemotherapy/modules-newslist-index-php-content-id-3.html
+index 2367ecedb..d6284adbd 100644
+--- a/sites/chemotherapy-news-3/jp/or/chemotherapy/modules-newslist-index-php-content-id-3.html
++++ b/sites/chemotherapy-news-3/jp/or/chemotherapy/modules-newslist-index-php-content-id-3.html
+@@ -425,6 +425,16 @@
+ 										</div>
+ 									</div>
+ 									<div>
++										<div>
++											<a href="https://www.chemotherapy.or.jp/modules/seminar/index.php?content_id=115" rel="noopener noreferrer">
++												市民公開講座
++											</a>
++										</div>
++										<div>
++											<a href="https://www.chemotherapy.or.jp/modules/seminar/index.php?content_id=115" rel="noopener noreferrer">
++												三学会合同Web市民公開講座
++											</a>
++										</div>
+ 										<div>
+ 											<a href="https://www.chemotherapy.or.jp/modules/seminar/index.php?content_id=19" rel="noopener noreferrer">
+ 												市民公開講座

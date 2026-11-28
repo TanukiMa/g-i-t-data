@@ -1,0 +1,98 @@
+diff --git a/sites/sanei/jp/or/sanei/index.html b/sites/sanei/jp/or/sanei/index.html
+index bcd4392e8..3a8aaf48b 100644
+--- a/sites/sanei/jp/or/sanei/index.html
++++ b/sites/sanei/jp/or/sanei/index.html
+@@ -654,6 +654,24 @@
+ 							</div>
+ 						</div>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026.10.22
++									</time>
++									<span>
++										助成金・研究費公募情報
++									</span>
++									<a href="https://www.amed.go.jp/koubo/03005/01/B_00011.html" rel="noopener noreferrer" title="令和8年度 「次世代医療実現バイオバンク利活用プログラム（次世代医療実現推進プラットフォーム・社会共創推進領域）」に係る公募について ">
++										令和8年度 「次世代医療実現バイオバンク利活用プログラム（次世代医療実現推進プラットフォーム・社会共創推進領域）」に係る公募について
++									</a>
++								</h3>
++								<p>
++									国立研究開発法人日本医療研究開発機構
++									<br>
++									公募期間：令和8年10月9日～11月18日　正午（厳守）
++								</p>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -783,22 +801,6 @@
+ 									</a>
+ 								</h3>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2026.05.20
+-									</time>
+-									<span>
+-										会員向け
+-									</span>
+-									<a href="https://www.sanei.or.jp/news/member/individual.html?entry_id=1575" rel="noopener noreferrer" title="学会メールマガジン増刊号（May.2026）を発行しました">
+-										学会メールマガジン増刊号（May.2026）を発行しました
+-									</a>
+-								</h3>
+-								<p>
+-									第99回日本産業衛生学会 直前号
+-								</p>
+-							</article>
+ 						</div>
+ 					</div>
+ 					<div>
+@@ -820,6 +822,22 @@
+ 							</div>
+ 						</div>
+ 						<div>
++							<article>
++								<h3>
++									<time>
++										2026.10.22
++									</time>
++									<span>
++										関連学会・行政の情報
++									</span>
++									<a href="https://www.mhlw.go.jp/stf/newpage_76807.html" rel="noopener noreferrer" title="「事業場における労働者の健康保持増進のための指針」に関する公示">
++										「事業場における労働者の健康保持増進のための指針」に関する公示
++									</a>
++								</h3>
++								<p>
++									厚生労働省
++								</p>
++							</article>
+ 							<article>
+ 								<h3>
+ 									<time>
+@@ -955,22 +973,6 @@
+ 									厚生労働省
+ 								</p>
+ 							</article>
+-							<article>
+-								<h3>
+-									<time>
+-										2026.06.09
+-									</time>
+-									<span>
+-										関連学会・行政の情報
+-									</span>
+-									<a href="https://www.mhlw.go.jp/stf/newpage_68776.html" rel="noopener noreferrer" title="女性特有の健康課題に関する問診に係る健診機関実施マニュアルについて">
+-										女性特有の健康課題に関する問診に係る健診機関実施マニュアルについて
+-									</a>
+-								</h3>
+-								<p>
+-									厚生労働省
+-								</p>
+-							</article>
+ 						</div>
+ 					</div>
+ 				</div>

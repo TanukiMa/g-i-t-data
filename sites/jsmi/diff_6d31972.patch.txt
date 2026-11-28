@@ -1,0 +1,32 @@
+diff --git a/sites/jsmi/jp/gr/jsmi/index.html b/sites/jsmi/jp/gr/jsmi/index.html
+index 50004bd0..aeb57909 100644
+--- a/sites/jsmi/jp/gr/jsmi/index.html
++++ b/sites/jsmi/jp/gr/jsmi/index.html
+@@ -1837,20 +1837,19 @@
+ 														</span>
+ 														<span>
+ 															締切日：令和8年10月30日（金）午後5時必着
++															<span>
++																募集は終了いたしました
++															</span>
+ 														</span>
+ 													</p>
+ 													<p>
+-														<a href="https://www.jsmi.gr.jp/wp/wp-content/uploads/2026/07/R8_bosyuyoukou.pdf" rel="noopener noreferrer">
+-															<span>
+-																募集要項
+-															</span>
+-														</a>
++														<span>
++															募集要項
++														</span>
+ 													</p>
+ 													<p>
+ 														<span>
+-															<a href="https://www.jsmi.gr.jp/wp/wp-content/uploads/2026/07/R8_suisensyo.pdf" rel="noopener noreferrer">
+-																応募用紙
+-															</a>
++															応募用紙
+ 															<br>
+ 															<br>
+ 															<span>

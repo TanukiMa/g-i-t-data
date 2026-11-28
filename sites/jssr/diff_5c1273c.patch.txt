@@ -1,0 +1,44 @@
+diff --git a/sites/jssr/jp/jssr/index.html b/sites/jssr/jp/jssr/index.html
+index c0d9763b..fe01ecc5 100644
+--- a/sites/jssr/jp/jssr/index.html
++++ b/sites/jssr/jp/jssr/index.html
+@@ -325,6 +325,19 @@
+ 						</li>
+ 					</ul>
+ 					<div>
++						<dl>
++							<dt>
++								2025.11.11
++								<span>
++									睡眠医療認定
++								</span>
++							</dt>
++							<dd>
++								<a href="request.php" rel="noopener noreferrer">
++									2027年度睡眠医療認定について
++								</a>
++							</dd>
++						</dl>
+ 						<dl>
+ 							<dt>
+ 								2026.11.10
+@@ -1114,6 +1127,19 @@
+ 						</dl>
+ 					</div>
+ 					<div>
++						<dl>
++							<dt>
++								2025.11.11
++								<span>
++									睡眠医療認定
++								</span>
++							</dt>
++							<dd>
++								<a href="request.php" rel="noopener noreferrer">
++									2027年度睡眠医療認定について
++								</a>
++							</dd>
++						</dl>
+ 						<dl>
+ 							<dt>
+ 								2025.10.31

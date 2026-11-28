@@ -1,0 +1,476 @@
+diff --git a/sites/mhlw-new-info/jp/go/mhlw/stf-new-info.html b/sites/mhlw-new-info/jp/go/mhlw/stf-new-info.html
+index 800fa5bd..5e569ea8 100644
+--- a/sites/mhlw-new-info/jp/go/mhlw/stf-new-info.html
++++ b/sites/mhlw-new-info/jp/go/mhlw/stf-new-info.html
+@@ -1329,6 +1329,86 @@
+ 									</div>
+ 								</a>
+ 							</li>
++							<li>
++								<a href="/stf/kinkyu/20261030.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												重要情報
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											不正アクセスによる情報漏えい等の事案を踏まえたセキュリティ対策の徹底について（注意喚起）
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_77220.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											第13回自殺総合対策の推進に関する有識者会議を開催します
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/08.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												統計情報
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											病院報告（令和８(2026)年8月分概数）
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_77160.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											「第３回　薬剤師のキャリアパスに関する懇談会」の開催について
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/wp/hakusyo/shiinkyuumei/26/index.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												統計情報
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											令和８年版死因究明等推進白書
++										</span>
++									</div>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="/stf/newpage_77095.html" rel="noopener noreferrer">
+ 									<div>
+@@ -1345,6 +1425,198 @@
+ 									</div>
+ 								</a>
+ 							</li>
++							<li>
++								<a href="/stf/newpage_77068.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											令和８年度　卓越した技能者を決定しました
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_77020.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											「令和８年版死因究明等推進白書」を公表します
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_77007.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											第42回労働政策審議会労働政策基本部会を開催します
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76984.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											ロシア連邦政府等から提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76831.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											「地域若者サポートステーション（サポステ）」 特設サイトをリニューアルしました
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_76800.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											令和８年度第10回「石綿に係る疾病の業務上外に関する検討会」を開催します
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/aids/index.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											世界エイズデーに向けた普及啓発イベントを実施します
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											インフルエンザに関する報道発表資料を更新しました
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/seisakunitsuite/bunya/0000121431_00485.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											新型コロナウイルス感染症に関する報道発表資料を更新しました
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												その他
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											インフルエンザの発生状況を更新しました
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_77243.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											「第４回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）
++										</span>
++									</div>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html" rel="noopener noreferrer">
+ 									<div>
+@@ -1400,6 +1672,22 @@
+ 							</h2>
+ 						</div>
+ 						<ul>
++							<li>
++								<a href="/stf/newpage_77210.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											第131回社会保障審議会医療部会の開催について
++										</span>
++									</div>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="/stf/newpage_77204.html" rel="noopener noreferrer">
+ 									<div>
+@@ -1535,6 +1823,38 @@
+ 							</h2>
+ 						</div>
+ 						<ul>
++							<li>
++								<a href="/stf/newpage_77191.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												審議会等
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											第2回厚生科学審議会医療用医薬品迅速・安定供給部会　開催案内
++										</span>
++									</div>
++								</a>
++							</li>
++							<li>
++								<a href="/stf/newpage_77180.html" rel="noopener noreferrer">
++									<div>
++										<em>
++											<span>
++												報道発表
++											</span>
++										</em>
++									</div>
++									<div>
++										<span>
++											令和８年度全国安全週間のスローガンを募集します
++										</span>
++									</div>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/06.html" rel="noopener noreferrer">
+ 									<div>
+@@ -2100,22 +2420,6 @@
+ 							</h2>
+ 						</div>
+ 						<ul>
+-							<li>
+-								<a href="/stf/kinkyu/20261030.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												重要情報
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											不正アクセスによる情報漏えい等の事案を踏まえたセキュリティ対策の徹底について（注意喚起）
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+ 							<li>
+ 								<a href="/stf/kaiken/daijin/0000194708_00984.html" rel="noopener noreferrer">
+ 									<div>
+@@ -2516,70 +2820,6 @@
+ 									</div>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												報道発表
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											インフルエンザに関する報道発表資料を更新しました
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+-							<li>
+-								<a href="/stf/seisakunitsuite/bunya/0000121431_00485.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												報道発表
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											新型コロナウイルス感染症に関する報道発表資料を更新しました
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+-							<li>
+-								<a href="/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												その他
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+-							<li>
+-								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												報道発表
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											インフルエンザの発生状況を更新しました
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+ 							<li>
+ 								<a href="/stf/shinsei_boshu/choutatsujouhou/chotatu/j-wto-siryo/newpage_10532.html" rel="noopener noreferrer">
+ 									<div>
+@@ -7945,29 +8185,6 @@
+ 								</a>
+ 							</li>
+ 						</ul>
+-						<div>
+-							<h2>
+-								2026年9月23日（水）掲載
+-							</h2>
+-						</div>
+-						<ul>
+-							<li>
+-								<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/juuyou/kougakuiryou/index_00001.html" rel="noopener noreferrer">
+-									<div>
+-										<em>
+-											<span>
+-												その他
+-											</span>
+-										</em>
+-									</div>
+-									<div>
+-										<span>
+-											ＯＴＣ類似薬の保険給付の在り方の見直しについて（ＯＴＣ類似薬の一部保険外療養）
+-										</span>
+-									</div>
+-								</a>
+-							</li>
+-						</ul>
+ 						<div>
+ 							<h2>
+ 								2026年9月18日（金）掲載

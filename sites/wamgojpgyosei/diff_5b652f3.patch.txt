@@ -1,0 +1,42 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index 18cf744c6..7623d6881 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2805,18 +2805,6 @@
+ 															<div>
+ 																<table>
+ 																	<tbody>
+-																		<tr>
+-																			<td>
+-																				<div>
+-																					福祉全般
+-																				</div>
+-																			</td>
+-																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22957&amp;ct=070010010" rel="noopener noreferrer">
+-																					第144回 労働政策審議会障害者雇用分科会（令和8年10月21日開催予定）
+-																				</a>
+-																			</td>
+-																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+@@ -2865,6 +2853,18 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
++																		<tr>
++																			<td>
++																				<div>
++																					高齢・介護
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=22970&amp;ct=070010020" rel="noopener noreferrer">
++																					第137回 社会保障審議会 介護保険部会（令和8年10月26日開催予定）
++																				</a>
++																			</td>
++																		</tr>
+ 																	</tbody>
+ 																</table>
+ 															</div>

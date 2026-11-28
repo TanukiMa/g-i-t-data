@@ -1,0 +1,46 @@
+diff --git a/sites/jami/jp/jami/index.html b/sites/jami/jp/jami/index.html
+index 5ffc6ce28..5a60f5718 100644
+--- a/sites/jami/jp/jami/index.html
++++ b/sites/jami/jp/jami/index.html
+@@ -181,6 +181,14 @@
+ 		</h2>
+ 		<div>
+ 			<ul>
++				<li>
++					<time>
++						2026年11月24日
++					</time>
++					<a href="https://www.jami.jp/award/28841/" rel="noopener noreferrer">
++						2026年学術奨励賞（第46回医療情報学連合大会）・YIA（Young Investigator Award）、YPA（Young Practitioner Award）が決定しました。
++					</a>
++				</li>
+ 				<li>
+ 					<time>
+ 						2026年9月15日
+@@ -377,6 +385,26 @@
+ 		</header>
+ 		<div>
+ 			<ul>
++				<li>
++					<time>
++						2026年11月24日
++					</time>
++					<ul>
++						<li>
++							<a href="https://www.jami.jp/category/important/" rel="noopener noreferrer">
++								重要
++							</a>
++						</li>
++						<li>
++							<a href="https://www.jami.jp/category/news/" rel="noopener noreferrer">
++								お知らせ
++							</a>
++						</li>
++					</ul>
++					<a href="https://www.jami.jp/award/28841/" rel="noopener noreferrer">
++						2026年学術奨励賞（第46回医療情報学連合大会）・YIA（Young Investigator Award）、YPA（Young Practitioner Award）が決定しました。
++					</a>
++				</li>
+ 				<li>
+ 					<time>
+ 						2026年10月15日

@@ -1,0 +1,40 @@
+diff --git a/sites/childneuro/jp/childneuro/index.html b/sites/childneuro/jp/childneuro/index.html
+index f610e16b3..8ed1ddaac 100644
+--- a/sites/childneuro/jp/childneuro/index.html
++++ b/sites/childneuro/jp/childneuro/index.html
+@@ -361,6 +361,17 @@
+ 							お知らせ
+ 						</span>
+ 					</h3>
++					<div>
++						開催案内
++					</div>
++					<div>
++						2026年11月18日
++					</div>
++					<div>
++						<a href="https://www.childneuro.jp/information/6801/" rel="noopener noreferrer">
++							第56回小児神経学セミナーオンデマンド配信受講受付が延長されました_11/30まで
++						</a>
++					</div>
+ 					<div>
+ 						会員専用
+ 					</div>
+@@ -460,17 +471,6 @@
+ 							新専門医制度に関するお問い合わせについて
+ 						</a>
+ 					</div>
+-					<div>
+-						学会より
+-					</div>
+-					<div>
+-						2026年06月01日
+-					</div>
+-					<div>
+-						<a href="https://www.childneuro.jp/information/10366/" rel="noopener noreferrer">
+-							2026年度 診療報酬改定について
+-						</a>
+-					</div>
+ 					<div>
+ 						<a href="https://www.childneuro.jp/information/" rel="noopener noreferrer">
+ 							<img alt="" height="18" src="/themes/childneuro/img/ico_more.png" width="18">

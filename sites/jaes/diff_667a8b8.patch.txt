@@ -1,0 +1,36 @@
+diff --git a/sites/jaes/jp/umin/jaes/index.html b/sites/jaes/jp/umin/jaes/index.html
+index e6b2efee0..654d6e015 100644
+--- a/sites/jaes/jp/umin/jaes/index.html
++++ b/sites/jaes/jp/umin/jaes/index.html
+@@ -757,12 +757,12 @@
+ 									お知らせ
+ 								</span>
+ 								<time>
+-									2026.11.17
++									2026.11.24
+ 								</time>
+ 							</div>
+ 							<div>
+-								<a href="info/thyroid_academy.html" rel="noopener noreferrer">
+-									「THYROID ACADEMY」を掲載しました。
++								<a href="info/info_med_society_news.html" rel="noopener noreferrer">
++									「日本医学会からのお知らせ」を更新しました。
+ 								</a>
+ 							</div>
+ 						</li>
+@@ -772,12 +772,12 @@
+ 									お知らせ
+ 								</span>
+ 								<time>
+-									2026.10.08
++									2026.11.17
+ 								</time>
+ 							</div>
+ 							<div>
+-								<a href="info/info_med_society_news.html" rel="noopener noreferrer">
+-									「日本医学会からのお知らせ」を更新しました。
++								<a href="info/thyroid_academy.html" rel="noopener noreferrer">
++									「THYROID ACADEMY」を掲載しました。
+ 								</a>
+ 							</div>
+ 						</li>

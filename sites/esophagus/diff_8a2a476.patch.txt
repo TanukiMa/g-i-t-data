@@ -1,0 +1,23 @@
+diff --git a/sites/esophagus/jp/esophagus/index.html b/sites/esophagus/jp/esophagus/index.html
+index 169665ab7..3af7a3a69 100644
+--- a/sites/esophagus/jp/esophagus/index.html
++++ b/sites/esophagus/jp/esophagus/index.html
+@@ -73,6 +73,18 @@
+ 			<div>
+ 				<div>
+ 					<div>
++						<p>
++							PHPの脆弱性に関するお知らせ
++							<br>
++							<br>
++							<br>
++							このたび、2026年10月21日（水）に、プログラミング言語「PHP」の重大なセキュリティ上の脆弱性が公表されました。
++							<br>
++							当学会のホームページ等は「PHP」を使用していない仕組みで構築されているため、通常どおりご利用いただけます。
++							<br>
++							<br>
++							また、現時点において、個人情報の漏えいや不正アクセス等の被害は確認されておりません。
++						</p>
+ 					</div>
+ 					<ul>
+ 						<li>

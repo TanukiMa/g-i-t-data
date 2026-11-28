@@ -1,0 +1,38 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index e30d629cc..670c1f75b 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -732,6 +732,16 @@
+ 						</a>
+ 					</div>
+ 					<ul>
++						<li>
++							<a href="/studysession/relation/#kanren6565" rel="noopener noreferrer">
++								<span>
++									2026.11.25
++								</span>
++								<span>
++									第８回チーム医療推進学会の開催並びに演題募集について
++								</span>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="/news/2026/news_006538.html" rel="noopener noreferrer">
+ 								<span>
+@@ -772,16 +782,6 @@
+ 								</span>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="/studysession/relation/#kanren6550" rel="noopener noreferrer">
+-								<span>
+-									2026.11.10
+-								</span>
+-								<span>
+-									AMR臨床リファレンスセンターより「2026年度　AMR対策臨床セミナー　「抗微生物薬適正使用の手引き 第四版」 解説編２」のご案内
+-								</span>
+-							</a>
+-						</li>
+ 					</ul>
+ 				</div>
+ 				<div>

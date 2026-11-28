@@ -1,0 +1,16 @@
+diff --git a/sites/jamtorjp/jp/or/jamt/index.html b/sites/jamtorjp/jp/or/jamt/index.html
+index 13a067377..efd982277 100644
+--- a/sites/jamtorjp/jp/or/jamt/index.html
++++ b/sites/jamtorjp/jp/or/jamt/index.html
+@@ -64,11 +64,6 @@
+ 					</a>
+ 				</div>
+ 			</div>
+-			<div>
+-				<a href="https://www.75jamt.jp/" rel="noopener noreferrer">
+-					<img alt="" src="/assets/images/topCarousel/banner_75jamt.png">
+-				</a>
+-			</div>
+ 			<div>
+ 				<a href="https://www.ifbls2026.jp/" rel="noopener noreferrer">
+ 					<img alt="" src="/assets/images/topCarousel/main_ifbls226.png">

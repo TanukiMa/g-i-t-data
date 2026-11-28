@@ -1,0 +1,146 @@
+diff --git a/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html b/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
+index 83930701e..50d0802c7 100644
+--- a/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
++++ b/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
+@@ -809,8 +809,8 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="/kyushu/iryo_shido/base-up-houkoku.html" rel="noopener noreferrer">
+-										ベースアップ評価料に係る実績報告について
++									<a href="/kyushu/iryo_shido/base-up_008.html" rel="noopener noreferrer">
++										ベースアップ評価料の届出について
+ 									</a>
+ 								</li>
+ 								<li>
+@@ -991,26 +991,26 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_kyushu.html" rel="noopener noreferrer">
++										<a href="/kyushu/caresystem/kyosei_kaigi8_00001.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月16日
++													2026年11月17日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。
++													第8回九州厚生局地域共生社会推進会議を開催しました
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_fukuoka.html" rel="noopener noreferrer">
++										<a href="/kyushu/photo/r081112_00001.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月16日
+@@ -1023,64 +1023,64 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													指導監査課　保険医療機関・保険薬局及び指定訪問看護事業所の「施設基準の受理状況」について修正しました。
++													沖縄県港湾空港建設協会主催のセミナーで薬物乱用防止研修会の講師を務めました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/chotatsu/nyusatsu/index.html" rel="noopener noreferrer">
++										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_kyushu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月12日
++													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+-														調達情報
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													入札公告（一般競争）を掲載しました。
++													九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/gyomu/gyomu/hoken_kikan/index_00004.html" rel="noopener noreferrer">
++										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_fukuoka.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月12日
++													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「施設基準等の管内届出状況」、「保険外併用療養費医療機関名簿」及び「指定訪問看護　事業者の管内指定状況」について更新しました。
++													指導監査課　保険医療機関・保険薬局及び指定訪問看護事業所の「施設基準の受理状況」について修正しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/info/fushindenwatou.html" rel="noopener noreferrer">
++										<a href="/kyushu/chotatsu/nyusatsu/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月5日
++													2026年11月12日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														調達情報
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													厚生労働省や地方厚生局の職員を装った不審電話等にご注意ください。
++													入札公告（一般競争）を掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -1108,16 +1108,16 @@
+ 									</h2>
+ 								</div>
+ 								<div>
+-									<a href="/kyushu/photo/r081102_00001.html" rel="noopener noreferrer">
++									<a href="/kyushu/photo/r081112_00001.html" rel="noopener noreferrer">
+ 										<div>
+-											<img alt="" src="/kyushu/000506644.jpg">
++											<img alt="" src="/kyushu/000507877.jpg">
+ 										</div>
+ 										<div>
+ 											<p>
+-												沖縄麻薬取締支所は、那覇第一地方合同庁舎1階ロビーにおいて、違法薬物に関するパネルの展示を行っております。
++												沖縄県港湾空港建設協会主催のセミナーで薬物乱用防止研修会の講師を務めました。
+ 											</p>
+ 											<p>
+-												令和8年11月2日から18日までの間、沖縄麻薬取締支所が入庁する那覇第一地方合同庁舎1階ロビーにおいて、薬物乱用防止の普及啓発のため、パネルの展示を行っております。
++												令和8年11月12日、大西沖縄麻薬取締支所長が、沖縄県港湾空港建設協会「安全衛生トップセミナー」において、参加した各企業の社長や役員に対して、薬物犯罪が企業に与える影響やその対策などについて講話を行い...
+ 											</p>
+ 										</div>
+ 									</a>

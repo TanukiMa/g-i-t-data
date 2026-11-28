@@ -1,0 +1,91 @@
+diff --git a/sites/jarm/jp/jarm/index.html b/sites/jarm/jp/jarm/index.html
+index 38a100ac..b29afe4b 100644
+--- a/sites/jarm/jp/jarm/index.html
++++ b/sites/jarm/jp/jarm/index.html
+@@ -48,12 +48,12 @@
+ 									</span>
+ 								</p>
+ 								<p>
+-									2026/05/26
++									2026/11/06
+ 								</p>
+ 								│
+ 								<p>
+-									<a href="https://www.jarm.jp/news/%e6%97%a5%e6%9c%ac%e8%be%b2%e6%9d%91%e5%8c%bb%e5%ad%a6%e4%bc%9a%e3%83%bb%e8%be%b2%e4%bd%9c%e6%a5%ad%e5%ae%89%e5%85%a8%e6%95%99%e6%9c%ac%e6%94%b9%e5%ae%9a%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%97/" rel="noopener noreferrer">
+-										農作業安全教本改訂いたしました。
++									<a href="https://www.jarm.jp/news/%e5%9b%bd%e9%9a%9b%e8%be%b2%e6%9d%91%e5%8c%bb%e5%ad%a6%e4%bc%9a%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8url%e5%a4%89%e6%9b%b4%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/" rel="noopener noreferrer">
++										国際農村医学会ホームページURL変更のお知らせ
+ 									</a>
+ 								</p>
+ 							</div>
+@@ -68,19 +68,12 @@
+ 									</span>
+ 								</p>
+ 								<p>
+-									<span>
+-										<a href="https://www.jarm.jp/meeting/" rel="noopener noreferrer">
+-											日本農村医学会学術総会
+-										</a>
+-									</span>
+-								</p>
+-								<p>
+-									2026/04/08
++									2026/05/26
+ 								</p>
+ 								│
+ 								<p>
+-									<a href="https://www.jarm.jp/news/%e7%ac%ac75%e5%9b%9e%e6%97%a5%e6%9c%ac%e8%be%b2%e6%9d%91%e5%8c%bb%e5%ad%a6%e4%bc%9a%e5%ad%a6%e8%a1%93%e7%b7%8f%e4%bc%9a%e3%81%ae%e6%bc%94%e9%a1%8c%e5%8b%9f%e9%9b%86%e6%9c%9f%e9%96%93%e3%82%92%e5%bb%b6/" rel="noopener noreferrer">
+-										第75回日本農村医学会学術総会の演題募集期間を延長しました。
++									<a href="https://www.jarm.jp/news/%e6%97%a5%e6%9c%ac%e8%be%b2%e6%9d%91%e5%8c%bb%e5%ad%a6%e4%bc%9a%e3%83%bb%e8%be%b2%e4%bd%9c%e6%a5%ad%e5%ae%89%e5%85%a8%e6%95%99%e6%9c%ac%e6%94%b9%e5%ae%9a%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%97/" rel="noopener noreferrer">
++										農作業安全教本改訂いたしました。
+ 									</a>
+ 								</p>
+ 							</div>
+@@ -95,12 +88,19 @@
+ 									</span>
+ 								</p>
+ 								<p>
+-									2026/03/13
++									<span>
++										<a href="https://www.jarm.jp/meeting/" rel="noopener noreferrer">
++											日本農村医学会学術総会
++										</a>
++									</span>
++								</p>
++								<p>
++									2026/04/08
+ 								</p>
+ 								│
+ 								<p>
+-									<a href="https://www.jarm.jp/news/%e7%ac%ac75%e5%9b%9e%e6%97%a5%e6%9c%ac%e8%be%b2%e6%9d%91%e5%8c%bb%e5%ad%a6%e4%bc%9a%e5%ad%a6%e8%a1%93%e7%b7%8f%e4%bc%9a%e3%81%ae%e6%bc%94%e9%a1%8c%e3%82%92%e5%8b%9f%e9%9b%86%e3%81%97%e3%81%a6%e3%81%84/" rel="noopener noreferrer">
+-										第75回日本農村医学会学術総会の演題を募集しています。
++									<a href="https://www.jarm.jp/news/%e7%ac%ac75%e5%9b%9e%e6%97%a5%e6%9c%ac%e8%be%b2%e6%9d%91%e5%8c%bb%e5%ad%a6%e4%bc%9a%e5%ad%a6%e8%a1%93%e7%b7%8f%e4%bc%9a%e3%81%ae%e6%bc%94%e9%a1%8c%e5%8b%9f%e9%9b%86%e6%9c%9f%e9%96%93%e3%82%92%e5%bb%b6/" rel="noopener noreferrer">
++										第75回日本農村医学会学術総会の演題募集期間を延長しました。
+ 									</a>
+ 								</p>
+ 							</div>
+@@ -115,12 +115,12 @@
+ 									</span>
+ 								</p>
+ 								<p>
+-									2026/02/16
++									2026/03/13
+ 								</p>
+ 								│
+ 								<p>
+-									<a href="https://www.jarm.jp/news/%e8%be%b2%e4%bd%9c%e6%a5%ad%e5%ae%89%e5%85%a8%e6%95%99%e6%9c%ac/" rel="noopener noreferrer">
+-										農作業安全教本
++									<a href="https://www.jarm.jp/news/%e7%ac%ac75%e5%9b%9e%e6%97%a5%e6%9c%ac%e8%be%b2%e6%9d%91%e5%8c%bb%e5%ad%a6%e4%bc%9a%e5%ad%a6%e8%a1%93%e7%b7%8f%e4%bc%9a%e3%81%ae%e6%bc%94%e9%a1%8c%e3%82%92%e5%8b%9f%e9%9b%86%e3%81%97%e3%81%a6%e3%81%84/" rel="noopener noreferrer">
++										第75回日本農村医学会学術総会の演題を募集しています。
+ 									</a>
+ 								</p>
+ 							</div>
+@@ -307,7 +307,7 @@
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a rel="noopener noreferrer">
++										<a href="https://www.iarm-jrm.org/" rel="noopener noreferrer">
+ 											国際農村医学会
+ 										</a>
+ 									</li>

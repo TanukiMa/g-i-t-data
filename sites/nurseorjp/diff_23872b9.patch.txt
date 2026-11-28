@@ -1,0 +1,46 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index 3f7959eb2..12250ede7 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -477,6 +477,19 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/11/25
++					</span>
++					<span>
++						掲載のお知らせ
++					</span>
++					<div>
++						<a href="/news/kokkashikaku_202611.html" rel="noopener noreferrer">
++							国家資格に係る申請等手続のオンライン化について・国家資格に係る資格情報のデジタル化・確認方法について
++						</a>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/11/20
+@@ -613,21 +626,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/11/09
+-					</span>
+-					<span>
+-						掲載のお知らせ
+-					</span>
+-					<div>
+-						<a href="/nursing/anzen/campaign.html" rel="noopener noreferrer">
+-							医療安全推進週間について掲載しました。
+-						</a>
+-						<div>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>

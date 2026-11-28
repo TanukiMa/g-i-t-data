@@ -1,0 +1,57 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index b1be4b42..0a0c161d 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1876,6 +1876,32 @@
+ 				</div>
+ 				<div>
+ 					<dl>
++						<dt>
++							2026/11/12
++						</dt>
++						<dd>
++							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
++								お知らせ
++							</a>
++							<p>
++								<a href="/topics/news/261112_1.html" rel="noopener noreferrer">
++									【重要】メール配信サービス（ブラストメール）への不正アクセスに関する調査結果のご報告
++								</a>
++							</p>
++						</dd>
++						<dt>
++							2026/10/23
++						</dt>
++						<dd>
++							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
++								お知らせ
++							</a>
++							<p>
++								<a href="/topics/news/261023_2.html" rel="noopener noreferrer">
++									PHPの脆弱性への対応について ―病院ホームページを訪れる患者さんの安全と信頼を守るために―
++								</a>
++							</p>
++						</dd>
+ 						<dt>
+ 							2026/11/10
+ 						</dt>
+@@ -1918,19 +1944,6 @@
+ 						<dt>
+ 							2026/10/23
+ 						</dt>
+-						<dd>
+-							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
+-								お知らせ
+-							</a>
+-							<p>
+-								<a href="/topics/news/261023_2.html" rel="noopener noreferrer">
+-									PHPの脆弱性への対応について ―病院ホームページを訪れる患者さんの安全と信頼を守るために―
+-								</a>
+-							</p>
+-						</dd>
+-						<dt>
+-							2026/10/23
+-						</dt>
+ 						<dd>
+ 							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
+ 								お知らせ

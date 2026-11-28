@@ -1,0 +1,57 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index 49181fbc6..7f5c6c4a5 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -884,27 +884,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1914" rel="noopener noreferrer">
+-								<p>
+-									<img alt="【参加登録締切延長のお知らせ】PCR-Connect2026 参加登録は10月9日（金）まで!!" src="/pics/news/news-thumb-1914.png">
+-								</p>
+-								<h2>
+-									【参加登録締切延長のお知らせ】PCR-Connect2026 参加登録は10月9日（金）まで!!
+-								</h2>
+-								<p>
+-									PCR-Connect 2026の参加登録は、10月2日（金）に締め切る予定でしたが、より多くの皆…
+-								</p>
+-								<p>
+-									<time>
+-										2026.10.05
+-									</time>
+-									<span>
+-										オススメ
+-									</span>
+-								</p>
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1937" rel="noopener noreferrer">
+ 								<p>
+@@ -1193,6 +1172,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1914" rel="noopener noreferrer">
++								<p>
++									<img alt="【参加登録締切延長のお知らせ】PCR-Connect2026 参加登録は10月9日（金）まで!!" src="/pics/news/news-thumb-1914.png">
++								</p>
++								<h2>
++									【参加登録締切延長のお知らせ】PCR-Connect2026 参加登録は10月9日（金）まで!!
++								</h2>
++								<p>
++									PCR-Connect 2026の参加登録は、10月2日（金）に締め切る予定でしたが、より多くの皆…
++								</p>
++								<p>
++									<time>
++										2026.10.05
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1913" rel="noopener noreferrer">
+ 								<p>

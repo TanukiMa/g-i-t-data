@@ -1,0 +1,34 @@
+diff --git a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+index 76bb9c75d..06abdc6e8 100644
+--- a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
++++ b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+@@ -826,6 +826,14 @@
+ 					全てのお知らせ
+ 				</h1>
+ 				<div>
++					<div>
++						2026年10月20日
++					</div>
++					<div>
++						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=336" rel="noopener noreferrer">
++							呼吸器感染症予防週間　三学会合同WEB市民公開講座「なくそう、ふせごう呼吸器感染症 2026」動画公開
++						</a>
++					</div>
+ 					<div>
+ 						2026年10月15日
+ 					</div>
+@@ -1354,14 +1362,6 @@
+ 							四学会合同事業セミナー「感染症と危機管理」動画の公開について
+ 						</a>
+ 					</div>
+-					<div>
+-						2026年1月6日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=336" rel="noopener noreferrer">
+-							呼吸器感染症予防週間　三学会合同WEB市民公開講座「なくそう、ふせごう呼吸器感染症 2025」動画公開
+-						</a>
+-					</div>
+ 					<div>
+ 						2025年12月24日
+ 					</div>

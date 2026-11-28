@@ -1,0 +1,248 @@
+diff --git a/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html b/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
+index 50d0802c7..2ec5514fa 100644
+--- a/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
++++ b/sites/mhlw-kyushu/jp/go/mhlw/kouseikyoku/kyushu.html
+@@ -858,111 +858,111 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_kyushu.html" rel="noopener noreferrer">
++										<a href="/kyushu/somu/keikensya-saiyo.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月16日
++													2026年11月20日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															採用情報
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。
++													2026年度国家公務員経験者採用試験（係長級（事務））「府省合同B区分」に係る官庁訪問について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/iryo_shido/080930keikasochi.html" rel="noopener noreferrer">
++										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_kyushu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月16日
++													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															医療機関等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													【保険医療機関のみなさまへ】令和8年9月30日に経過措置の期限が到来する施設基準について、 令和8年10月14日（水）までに届出直しが必要な場合があるため、必ずご確認ください。
++													九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/info/saigai/r0807.html" rel="noopener noreferrer">
++										<a href="/kyushu/iryo_shido/080930keikasochi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年8月10日
++													2026年9月16日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															その他
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年熊本地震に関するお知らせ
++													【保険医療機関のみなさまへ】令和8年9月30日に経過措置の期限が到来する施設基準について、 令和8年10月14日（水）までに届出直しが必要な場合があるため、必ずご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/iryo_shido/080801keikasochi.html" rel="noopener noreferrer">
++										<a href="/kyushu/info/saigai/r0807.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年7月17日
++													2026年8月10日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															その他
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													【保険医療機関のみなさまへ】令和8年度診療報酬改定において、令和8年8月1日以降の算定について再度の届出が必要とされた施設基準については、 令和8年8月12日（水）までに届出直しが必要ですので、必ずご確認ください。
++													令和8年熊本地震に関するお知らせ
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/somu/saiyo/kantyohoumon_05_00001.html" rel="noopener noreferrer">
++										<a href="/kyushu/iryo_shido/080801keikasochi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年6月9日
++													2026年7月17日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															採用情報
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年度九州厚生局官庁訪問について
++													【保険医療機関のみなさまへ】令和8年度診療報酬改定において、令和8年8月1日以降の算定について再度の届出が必要とされた施設基準については、 令和8年8月12日（水）までに届出直しが必要ですので、必ずご確認ください。
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -991,29 +991,29 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/kyushu/caresystem/kyosei_kaigi8_00001.html" rel="noopener noreferrer">
++										<a href="/kyushu/gyomu/gyomu/hoken_kikan/index_00004.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月17日
++													2026年11月20日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													第8回九州厚生局地域共生社会推進会議を開催しました
++													「施設基準等の管内届出状況（届出項目別）」及び「はり、きゅうあん摩マッサージ指圧の受領委任取扱い施術所一覧 表」について更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/photo/r081112_00001.html" rel="noopener noreferrer">
++										<a href="/kyushu/caresystem/kyosei_kaigi8_00001.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月16日
++													2026年11月17日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -1023,64 +1023,64 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													沖縄県港湾空港建設協会主催のセミナーで薬物乱用防止研修会の講師を務めました。
++													第8回九州厚生局地域共生社会推進会議を開催しました
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_kyushu.html" rel="noopener noreferrer">
++										<a href="/kyushu/photo/r081112_00001.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。
++													沖縄県港湾空港建設協会主催のセミナーで薬物乱用防止研修会の講師を務めました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_fukuoka.html" rel="noopener noreferrer">
++										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_kyushu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													指導監査課　保険医療機関・保険薬局及び指定訪問看護事業所の「施設基準の受理状況」について修正しました。
++													九州8県の「保険医療機関等の施設基準等の届出受理状況（直近届出分）」を掲載しています。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/kyushu/chotatsu/nyusatsu/index.html" rel="noopener noreferrer">
++										<a href="/kyushu/gyomu/gyomu/hoken_kikan/juri_fukuoka.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月12日
++													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+-														調達情報
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													入札公告（一般競争）を掲載しました。
++													指導監査課　保険医療機関・保険薬局及び指定訪問看護事業所の「施設基準の受理状況」について修正しました。
+ 												</span>
+ 											</div>
+ 										</a>

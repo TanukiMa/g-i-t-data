@@ -1,0 +1,38 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 007edb08c..9c085ea39 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -106,11 +106,6 @@
+ 					<div>
+ 						<div>
+ 							<ul>
+-								<li>
+-									<a href="/saigai/index.html" rel="noopener noreferrer">
+-										<img alt="災害に関するお知らせ" height="346" src="index.images/mvimg_saigai_all.png" width="500">
+-									</a>
+-								</li>
+ 								<li>
+ 									<a href="/about/s_kaikaku/dxkikou_oshirase_1.html" rel="noopener noreferrer">
+ 										<img alt="支払基金の改組に伴うお知らせ" height="346" src="index.images/mvimg_kaisogo.png" width="500">
+@@ -371,6 +366,21 @@
+ 						</h2>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								<span>
++									令和8年11月25日
++								</span>
++								<span>
++									医療機関・保険者
++								</span>
++							</span>
++							<span>
++								<a href="/shinryohoshu/saikaisyou_torikumi/kashikarepo/index.html" rel="noopener noreferrer">
++									「審査の差異の可視化レポート」の「審査の一般的な取扱い事例」の再フォローアップ検証(医科1事例)及び再々フォローアップ検証(医科1事例)のレポートを掲載しました
++								</a>
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								<span>

@@ -1,0 +1,84 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 262bb0afb..8ce8f2b0c 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -534,8 +534,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1773&amp;is_top=yes" rel="noopener noreferrer">
+-														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
++													<a href="/news/detail?id=1774&amp;is_top=yes" rel="noopener noreferrer">
++														薬剤師職能振興研究助成事業の募集について
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -544,7 +544,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.11.20
++														2026.11.24
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -553,7 +553,7 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1770&amp;is_top=yes" rel="noopener noreferrer">
++													<a href="/news/detail?id=1773&amp;is_top=yes" rel="noopener noreferrer">
+ 														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+@@ -563,7 +563,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.11.04
++														2026.11.20
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -572,8 +572,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1748&amp;is_top=yes" rel="noopener noreferrer">
+-														サイバー攻撃への備え～日ごろの対策と、被害に遭ったときの対応について～のページを公開しました。
++													<a href="/news/detail?id=1770&amp;is_top=yes" rel="noopener noreferrer">
++														【システムメンテナンスのお知らせ】生涯学習支援システムJPALS、健康サポート薬局e-ラーニング研修システム
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -582,7 +582,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.30
++														2026.11.04
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -591,8 +591,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1743&amp;is_top=yes" rel="noopener noreferrer">
+-														【重要】「日薬アプリ」新機能追加のお知らせ
++													<a href="/news/detail?id=1748&amp;is_top=yes" rel="noopener noreferrer">
++														サイバー攻撃への備え～日ごろの対策と、被害に遭ったときの対応について～のページを公開しました。
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -610,8 +610,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/news/detail?id=1740&amp;is_top=yes" rel="noopener noreferrer">
+-														【日薬ホームページ メンテナンスのお知らせ】
++													<a href="/news/detail?id=1743&amp;is_top=yes" rel="noopener noreferrer">
++														【重要】「日薬アプリ」新機能追加のお知らせ
+ 													</a>
+ 												</div>
+ 											</div>

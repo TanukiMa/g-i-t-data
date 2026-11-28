@@ -1,0 +1,172 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 055900f70..a6d54e0a7 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -760,6 +760,24 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015734" rel="noopener noreferrer">
++							東京女子医科大学 看護学部　老年看護学領域 講師公募
++						</a>
++					</li>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015733" rel="noopener noreferrer">
++							福島県立医科大学会津医療センター 耳鼻咽喉科学講座 教授公募
++						</a>
++					</li>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015731" rel="noopener noreferrer">
++							福島県立医科大学会津医療センター 呼吸器内科学講座 教授公募
++						</a>
++					</li>
+ 					<li>
+ 						[教職員公募]
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015736" rel="noopener noreferrer">
+@@ -802,24 +820,6 @@
+ 							京都府立医科大学 大学院医学研究科リハビリテーション医学（医学部医学科リハビリテーション医学教室）期間延長 教授公募
+ 						</a>
+ 					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015718" rel="noopener noreferrer">
+-							学校法人関西医科大学 リハビリテーション学部作業療法学科担当教授 教授公募
+-						</a>
+-					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015724" rel="noopener noreferrer">
+-							東京女子医科大学・大学病院 医学部 病理診断学分野・病理診断科 講師公募
+-						</a>
+-					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015722" rel="noopener noreferrer">
+-							群馬大学 大学院保健学研究科　看護学（成人・老年看護学） 准教授公募
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">
+@@ -973,87 +973,63 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						京都大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000068599" rel="noopener noreferrer">
+-							肥満予防ための介入検証：パイロットテスト
++						東北大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072394" rel="noopener noreferrer">
++							手指関節症に関する疫学研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						京都大学大学院医学研究科呼吸不全先進医療講座：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072850" rel="noopener noreferrer">
+-							睡眠時無呼吸症候群に対する頚部経皮的疑似干渉波感覚刺激法の効果の検証
++						聖マリアンナ医科大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072814" rel="noopener noreferrer">
++							画像診断レポートの自動構造化：大規模言語モデル(LLM)を利用したリスク管理
+ 						</a>
+ 					</li>
+ 					<li>
+-						順天堂大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072854" rel="noopener noreferrer">
+-							HaH研究
++						ASUCAアイクリニック仙台マークワン：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071528" rel="noopener noreferrer">
++							２次元超音波振幅から３次元超音波振幅を可能とした白内障手術装置の新旧臨床結果比較
+ 						</a>
+ 					</li>
+ 					<li>
+-						埼玉医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000070734" rel="noopener noreferrer">
+-							剣道競技者における足底部痛アンケート調査
++						ASUCAアイクリニック仙台マークワン：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071489" rel="noopener noreferrer">
++							Noguchi formula 精度検証研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						獨協医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072817" rel="noopener noreferrer">
+-							ネランドミラストと血管内皮マーカー研究
++						ASUCAアイクリニック仙台マークワン：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072401" rel="noopener noreferrer">
++							多焦点眼内レンズに水晶体嚢を保持する器具を併用した場合の見え方と安全性の比較
+ 						</a>
+ 					</li>
+ 					<li>
+-						湘南医療大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000070014" rel="noopener noreferrer">
+-							薬物依存症者に対する回復のための運動介入の効果
++						ASUCAアイクリニック仙台マークワン：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071531" rel="noopener noreferrer">
++							術中ソフトコンタクトレンズによる角膜保護研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						人間環境大学総合心理学部：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072862" rel="noopener noreferrer">
+-							インターネット依存者と非依存者のインターネット利用時の主観的時間間隔の違い
++						キリンホールディングス株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072537" rel="noopener noreferrer">
++							食品成分の摂取が末梢血流に及ぼす影響の検証
+ 						</a>
+ 					</li>
+ 					<li>
+-						新潟医療福祉大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072880" rel="noopener noreferrer">
+-							運動強度の違いが微小血管反応性に与える要因分析
++						独立行政法人国立病院機構東京医療センター：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072856" rel="noopener noreferrer">
++							高齢大腸癌における在宅運動と化学療法アドヒアランスの関連
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社ファンケル：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072869" rel="noopener noreferrer">
+-							新規スキンケア技術(Skin Veil Technology)の使用性および有効性に関する検討
++						株式会社ユーフォリア：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072899" rel="noopener noreferrer">
++							先進的フットウェア技術を用いたランニングシューズ間の耐久性と経済性の比較
+ 						</a>
+ 					</li>
+ 					<li>
+-						日清オイリオグループ株式会社：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072884" rel="noopener noreferrer">
+-							香り刺激が食欲に及ぼす影響の客観的評価手法の開発
+-						</a>
+-					</li>
+-					<li>
+-						岡山医療専門職大学健康科学部 理学療法学科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072886" rel="noopener noreferrer">
+-							地域で暮らす高齢者を対象とした冬の運動による血圧変化への影響
+-						</a>
+-					</li>
+-					<li>
+-						東京大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072883" rel="noopener noreferrer">
+-							母子保健領域における行政保健師を対象としたトラウマインフォームドケア研修の有効性の検証：ランダム化比較試験（TICほけんし）
+-						</a>
+-					</li>
+-					<li>
+-						富山大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072888" rel="noopener noreferrer">
+-							日本AMR腸内保菌研究
+-						</a>
+-					</li>
+-					<li>
+-						医療法人かく脳神経外科クリニック：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072890" rel="noopener noreferrer">
+-							片頭痛の予兆療法（リメゲパント
++						京都大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000068599" rel="noopener noreferrer">
++							肥満予防ための介入検証：パイロットテスト
+ 						</a>
+ 					</li>
+ 				</ul>

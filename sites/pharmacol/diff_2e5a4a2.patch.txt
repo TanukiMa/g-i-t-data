@@ -1,0 +1,44 @@
+diff --git a/sites/pharmacol/jp/or/pharmacol/index.html b/sites/pharmacol/jp/or/pharmacol/index.html
+index 780bc6860..cee09e8d7 100644
+--- a/sites/pharmacol/jp/or/pharmacol/index.html
++++ b/sites/pharmacol/jp/or/pharmacol/index.html
+@@ -930,6 +930,19 @@
+ 							お知らせ
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="https://pharmacol.or.jp/2026/10/post-17.html" rel="noopener noreferrer">
++									<span>
++										公募情報
++									</span>
++									<span>
++										2026年10月14日(水)
++									</span>
++									<p>
++										大阪大学大学院医学系研究科　特任助教（常勤）公募について
++									</p>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://pharmacol.or.jp/2026/10/angs-renewal.html" rel="noopener noreferrer">
+ 									<span>
+@@ -982,19 +995,6 @@
+ 									</p>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="https://pharmacol.or.jp/2026/09/iuphar-elsevier-webinar-20261014.html" rel="noopener noreferrer">
+-									<span>
+-										国際交流
+-									</span>
+-									<span>
+-										2026年9月29日(火)
+-									</span>
+-									<p>
+-										IUPHAR-Elsevier Webinar開催案内 (開催日：2026年10月14日)
+-									</p>
+-								</a>
+-							</li>
+ 						</ul>
+ 						<div>
+ 							<a href="/information.html" rel="noopener noreferrer">

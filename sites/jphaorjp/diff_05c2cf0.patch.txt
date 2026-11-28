@@ -1,0 +1,17 @@
+diff --git a/sites/jphaorjp/jp/or/jpha/index.html b/sites/jphaorjp/jp/or/jpha/index.html
+index 8e21e1512..f448d598d 100644
+--- a/sites/jphaorjp/jp/or/jpha/index.html
++++ b/sites/jphaorjp/jp/or/jpha/index.html
+@@ -418,6 +418,12 @@
+ 											</a>
+ 											<img src="images/ico_pdf.gif">
+ 										</p>
++										<p>
++											<a href="sub/topics/2026/20261005_3.pdf" rel="noopener noreferrer">
++												セミナー資料
++											</a>
++											<img src="images/ico_pdf.gif">
++										</p>
+ 									</td>
+ 								</tr>
+ 								<tr>

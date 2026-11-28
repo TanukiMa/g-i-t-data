@@ -1,0 +1,111 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index f4caa1c9..51e72586 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -23,11 +23,6 @@
+ 														ENGLISH
+ 													</a>
+ 												</li>
+-												<li>
+-													<a href="/contact/" rel="noopener noreferrer">
+-														お問い合わせ
+-													</a>
+-												</li>
+ 												<li>
+ 													<a href="/307-Redirect-platform.html" rel="noopener noreferrer">
+ 														<span>
+@@ -1425,6 +1420,25 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<a href="https://www.jsicm.org/news/news261113.html" rel="noopener noreferrer">
++										</a>
++										<div>
++											<div>
++												2026年11月13日
++											</div>
++											<div>
++												学会より
++											</div>
++										</div>
++										<div>
++											<div>
++												<span>
++													本学会メールの障害について（Microsoft 365大規模障害）
++												</span>
++											</div>
++										</div>
++									</li>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261110.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1584,12 +1598,18 @@
+ 											</div>
+ 										</div>
+ 									</li>
++								</ul>
++								<span>
++								</span>
++							</div>
++							<div>
++								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/commitee/ccu/#t8" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261113.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月7日
++												2026年11月13日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1597,18 +1617,12 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												循環器集中治療委員会
+-												<br>
+-												施設紹介記事を新たに1施設掲載しました
++												<span>
++													本学会メールの障害について（Microsoft 365大規模障害）
++												</span>
+ 											</div>
+ 										</div>
+ 									</li>
+-								</ul>
+-								<span>
+-								</span>
+-							</div>
+-							<div>
+-								<ul>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261110.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1768,25 +1782,6 @@
+ 											</div>
+ 										</div>
+ 									</li>
+-									<li>
+-										<a href="https://www.jsicm.org/commitee/ccu/#t8" rel="noopener noreferrer">
+-										</a>
+-										<div>
+-											<div>
+-												2026年10月7日
+-											</div>
+-											<div>
+-												学会より
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												循環器集中治療委員会
+-												<br>
+-												施設紹介記事を新たに1施設掲載しました
+-											</div>
+-										</div>
+-									</li>
+ 								</ul>
+ 								<span>
+ 								</span>

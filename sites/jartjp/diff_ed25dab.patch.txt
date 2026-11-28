@@ -1,0 +1,28 @@
+diff --git a/sites/jartjp/jp/jart/index.html b/sites/jartjp/jp/jart/index.html
+index 2507e9faf..f08ddacd6 100644
+--- a/sites/jartjp/jp/jart/index.html
++++ b/sites/jartjp/jp/jart/index.html
+@@ -11,6 +11,11 @@
+ 				</h1>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://makotoevidence.com/partner-chat/jart" rel="noopener noreferrer">
++								医療被ばく相談AI
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.jart.jp/download" rel="noopener noreferrer">
+ 								⁨資料・ガイドライン
+@@ -448,6 +453,11 @@
+ 					</div>
+ 				</div>
+ 				<ul>
++					<li>
++						<a href="https://makotoevidence.com/partner-chat/jart" rel="noopener noreferrer">
++							医療被ばく相談AI
++						</a>
++					</li>
+ 					<li>
+ 						<a href="https://www.jart.jp/download" rel="noopener noreferrer">
+ 							⁨資料・ガイドライン

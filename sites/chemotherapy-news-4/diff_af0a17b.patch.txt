@@ -1,0 +1,34 @@
+diff --git a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+index fc5ffeaf..677a5f15 100644
+--- a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
++++ b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+@@ -826,6 +826,14 @@
+ 					全てのお知らせ
+ 				</h1>
+ 				<div>
++					<div>
++						2026年11月6日
++					</div>
++					<div>
++						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=244" rel="noopener noreferrer">
++							長生堂製薬株式会社の製品供給に関するご案内について（2026年11月）
++						</a>
++					</div>
+ 					<div>
+ 						2026年11月5日
+ 					</div>
+@@ -890,14 +898,6 @@
+ 							出荷再開のご案内（セファクロル細粒小児用10%「JG」）
+ 						</a>
+ 					</div>
+-					<div>
+-						2026年10月6日
+-					</div>
+-					<div>
+-						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=244" rel="noopener noreferrer">
+-							長生堂製薬株式会社の製品供給に関するご案内について（2026年10月）
+-						</a>
+-					</div>
+ 					<div>
+ 						2026年10月1日
+ 					</div>

@@ -1,0 +1,22 @@
+diff --git a/sites/jartjp/jp/jart/index.html b/sites/jartjp/jp/jart/index.html
+index 8adb9e1a..56d21be0 100644
+--- a/sites/jartjp/jp/jart/index.html
++++ b/sites/jartjp/jp/jart/index.html
+@@ -734,7 +734,7 @@
+ 																					</li>
+ 																				</ul>
+ 																				<div>
+-																					受付前
++																					申込み不可
+ 																				</div>
+ 																				<div>
+ 																					告示研修（実技研修）東京都2027/1/9
+@@ -770,7 +770,7 @@
+ 																					</li>
+ 																				</ul>
+ 																				<div>
+-																					受付前
++																					申込み不可
+ 																				</div>
+ 																				<div>
+ 																					告示研修（実技研修）東京都2027/1/10

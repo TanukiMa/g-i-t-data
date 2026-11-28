@@ -1,0 +1,28 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index c5ea23817..4019cae47 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -702,6 +702,11 @@
+ 						Drug、Clinical Trial、Epidemiology、Statistics（医薬品、臨床試験、疫学、統計リンク集）
+ 					</h5>
+ 					<ul>
++						<li>
++							<a href="https://www.pmda.go.jp/rs-std-jp/symposia/0035.html" rel="noopener noreferrer">
++								【第13回RS研究会】「バイオシミラー開発について、RSの視点から考える」
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.diaglobal.org/productfiles/15288099/26313.pdf" rel="noopener noreferrer">
+ 								第11回DIA再生医療製品・遺伝子治療用製品 シンポジウム　日本発イノベーションが拓く未来
+@@ -732,11 +737,6 @@
+ 								12/2 臨床研究推進セミナー（神戸大学）「人を対象とする生命科学・医学系研究に関する 倫理指針の一部改正について」
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.hosp.kobe-u.ac.jp/ctrc/researcher/documents/seminar/seminar_20261102.pdf" rel="noopener noreferrer">
+-								11/2 認定臨床研究審査委員会等委員対象セミナー（神戸大学）「特定臨床研究実施中の留意点、事例紹介」
+-							</a>
+-						</li>
+ 					</ul>
+ 				</ul>
+ 				<h2>

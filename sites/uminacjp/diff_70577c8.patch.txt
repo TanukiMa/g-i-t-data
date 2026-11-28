@@ -1,0 +1,126 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index db9defc96..5ce2571e8 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -972,6 +972,18 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						日立総合病院：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071424" rel="noopener noreferrer">
++							三次救急病院における高カリウム血症の診療実態調査
++						</a>
++					</li>
++					<li>
++						大阪大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072917" rel="noopener noreferrer">
++							対話型AIロボットの認知症および精神疾患における利用可能性の探索
++						</a>
++					</li>
+ 					<li>
+ 						北海道大学：
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072259" rel="noopener noreferrer">
+@@ -1020,102 +1032,6 @@
+ 							単回の鍼刺激がブドウ糖摂取後の糖代謝調節に与える即時的な影響
+ 						</a>
+ 					</li>
+-					<li>
+-						東京都立大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072893" rel="noopener noreferrer">
+-							亜急性期脳卒中患者における認知評価の最小可検変化量
+-						</a>
+-					</li>
+-					<li>
+-						長崎大学病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072870" rel="noopener noreferrer">
+-							肺非結核性抗酸菌症の診療実態把握研究
+-						</a>
+-					</li>
+-					<li>
+-						青森県立保健大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000068409" rel="noopener noreferrer">
+-							分注順番による時間差と凝固検査研究
+-						</a>
+-					</li>
+-					<li>
+-						筑波大学医学医療系：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072867" rel="noopener noreferrer">
+-							飲酒習慣改善AIアプリMIO試験
+-						</a>
+-					</li>
+-					<li>
+-						東京女子医科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072851" rel="noopener noreferrer">
+-							てんかんのForel H野手術研究
+-						</a>
+-					</li>
+-					<li>
+-						茨城県立医療大学放射線技術科学科：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072896" rel="noopener noreferrer">
+-							CTの被ばく線量の推定に関する研究
+-						</a>
+-					</li>
+-					<li>
+-						株式会社バイオシスラボ：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072902" rel="noopener noreferrer">
+-							タキシフォリン含有タブレットの就寝前摂取が口腔内細菌叢に及ぼす影響
+-						</a>
+-					</li>
+-					<li>
+-						株式会社TESホールディングス：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072807" rel="noopener noreferrer">
+-							試験食品摂取による睡眠への影響評価試験
+-						</a>
+-					</li>
+-					<li>
+-						鎌ケ谷総合病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072901" rel="noopener noreferrer">
+-							関節リウマチにおける合併症の危険因子の検討
+-						</a>
+-					</li>
+-					<li>
+-						大阪医科薬科大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072900" rel="noopener noreferrer">
+-							The STARLET (Sepsis Therapy with Antithrombin and Recombinant LE Thrombomodulin) trial
+-						</a>
+-					</li>
+-					<li>
+-						鎌ケ谷総合病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072907" rel="noopener noreferrer">
+-							関節リウマチ患者における治療有効性の検討
+-						</a>
+-					</li>
+-					<li>
+-						株式会社スピック：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072909" rel="noopener noreferrer">
+-							被験食品摂取による美容への影響検証試験: 非盲検試験
+-						</a>
+-					</li>
+-					<li>
+-						東海大学医学部付属八王子病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072908" rel="noopener noreferrer">
+-							腱板修復術後の患者教育におけるタブレット型端末と紙媒体による指導方法の比較
+-						</a>
+-					</li>
+-					<li>
+-						北海道大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072911" rel="noopener noreferrer">
+-							こどもの排便に関する全国調査（鎖肛・ヒルシュスプルング病）
+-						</a>
+-					</li>
+-					<li>
+-						山口大学健康科学センター：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072906" rel="noopener noreferrer">
+-							女性職員EMS研究
+-						</a>
+-					</li>
+-					<li>
+-						谷山病院：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072912" rel="noopener noreferrer">
+-							統合失調症患者に対する曼荼羅カラーリングが状態不安に及ぼす即時効果
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="https://center9.umin.ac.jp/nuhs/news" rel="noopener noreferrer">

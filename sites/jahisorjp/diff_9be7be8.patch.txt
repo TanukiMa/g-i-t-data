@@ -1,0 +1,27 @@
+diff --git a/sites/jahisorjp/jp/jahis/index.html b/sites/jahisorjp/jp/jahis/index.html
+index 4884cc0d..93d88be1 100644
+--- a/sites/jahisorjp/jp/jahis/index.html
++++ b/sites/jahisorjp/jp/jahis/index.html
+@@ -564,11 +564,6 @@
+ 						</div>
+ 						<div>
+ 							<ul>
+-								<li>
+-									<a href="https://www.jahis.jp/sections/id=1224?contents_type=31" rel="noopener noreferrer">
+-										<img alt="" src="/files/navigation/72_1_ja.png">
+-									</a>
+-								</li>
+ 								<li>
+ 									<a href="https://member.jahis.jp/ParticipantsWanted" rel="noopener noreferrer">
+ 										<img alt="" src="/files/navigation/76_1_ja.jpg">
+@@ -590,8 +585,8 @@
+ 									</a>
+ 								</li>
+ 								<li>
+-									<a href="https://member.jahis.jp/ParticipantsWanted" rel="noopener noreferrer">
+-										<img alt="" src="/files/navigation/80_1_ja.jpg">
++									<a href="https://www.jahis.jp/sections/id=1212?contents_type=31" rel="noopener noreferrer">
++										<img alt="" src="/files/navigation/83_1_ja.jpg">
+ 									</a>
+ 								</li>
+ 							</ul>

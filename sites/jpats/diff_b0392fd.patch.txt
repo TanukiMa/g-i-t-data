@@ -1,0 +1,34 @@
+diff --git a/sites/jpats/org/jpats/index.html b/sites/jpats/org/jpats/index.html
+index 4e96f9e2a..9b614c6a0 100644
+--- a/sites/jpats/org/jpats/index.html
++++ b/sites/jpats/org/jpats/index.html
+@@ -585,8 +585,8 @@
+ 					</a>
+ 				</li>
+ 				<li>
+-					<a href="https://www.congre.co.jp/jats2025/" rel="noopener noreferrer">
+-						<img alt="第78回 日本胸部外科学会定期学術集会" src="lib/img/top/bnr_78_jats-meeting_2.png">
++					<a rel="noopener noreferrer">
++						<img alt="第3回 JATS-NEXT Annual Conference" src="lib/img/top/bnr_03_jats-next.jpg">
+ 					</a>
+ 				</li>
+ 				<li>
+@@ -604,7 +604,7 @@
+ 		<div>
+ 			<div>
+ 				緊急／重要
+-				お知らせ
++					お知らせ
+ 			</div>
+ 			<div>
+ 				<div>
+@@ -652,8 +652,7 @@
+ 				<li>
+ 					<a href="https://gtcsc-journal.com/" rel="noopener noreferrer">
+ 						<span>
+-							General Thoracic and Cardiovascular Surgery
+-							Cases
++							General Thoracic and Cardiovascular Surgery Cases
+ 						</span>
+ 					</a>
+ 				</li>

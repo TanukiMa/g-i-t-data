@@ -1,0 +1,51 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index 58126e40..aa05d615 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -489,6 +489,24 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/11/13
++					</span>
++					<span>
++						ニュースリリース
++					</span>
++					<div>
++						<a href="/home/about/newsrelease/" rel="noopener noreferrer">
++							厚生労働大臣へ要望
++						</a>
++						<div>
++							<p>
++								看護職員の全産業と遜色のない賃上げを要望
++							</p>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/11/11
+@@ -633,21 +651,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/10/19
+-					</span>
+-					<span>
+-						掲載のお知らせ
+-					</span>
+-					<div>
+-						<a href="/home/about/teigen/index.html" rel="noopener noreferrer">
+-							10月6日に本会を含む介護関係17団体が内閣官房長官へ要望
+-						</a>
+-						<div>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>

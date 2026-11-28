@@ -1,0 +1,22 @@
+diff --git a/sites/jssmr/jp/jssmr/index.html b/sites/jssmr/jp/jssmr/index.html
+index d63c1d03d..6b016d2eb 100644
+--- a/sites/jssmr/jp/jssmr/index.html
++++ b/sites/jssmr/jp/jssmr/index.html
+@@ -192,6 +192,17 @@
+ 							ニュース・トピックス
+ 						</h3>
+ 						<dl>
++							<dt>
++								2026年9月23日
++							</dt>
++							<dd>
++								JSMR Vol. 62に
++								<a href="official/pg_journal/new_papers.html" rel="noopener noreferrer">
++									新しい総説
++								</a>
++								を２報追加しました。
++								<img alt="新着情報" height="15" src="official/images/common/new.gif" width="46">
++							</dd>
+ 							<dt>
+ 								2026年9月11日
+ 							</dt>

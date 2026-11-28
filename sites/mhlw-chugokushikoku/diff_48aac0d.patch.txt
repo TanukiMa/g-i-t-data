@@ -1,0 +1,118 @@
+diff --git a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+index fa8392335..777ddd8f1 100644
+--- a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
++++ b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+@@ -943,29 +943,29 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/chugokushikoku/saiyo/joukinshokuin.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/shisetsukijunjuri_00002.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月16日
++													2026年11月26日
+ 												</time>
+ 												<em>
+ 													<span>
+-														採用情報
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「一般職試験（高卒者試験）の採用面接について」掲載しました
++													「届出受理医療機関名簿（主な届出項目別）について」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/info/200911/05_00001.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/shisetsukijunjuri.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月16日
++													2026年11月26日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -975,64 +975,64 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													「診療（調剤）報酬の返還手続きについて」のページを更新しました。
++													「保険医療機関等・指定訪問看護事業所の届出受理状況等について」を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chiikihoukatsusuishin/seminar_20261204.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/saiyo/joukinshokuin.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月12日
++													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+-														開催案内
++														採用情報
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「令和8年度地域リハビリテーション研修会」を開催します。（地域包括ケア推進課）
++													「一般職試験（高卒者試験）の採用面接について」掲載しました
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/newpage_00838.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/info/200911/05_00001.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月10日
++													2026年11月16日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													11月はねんきん月間です。
++													「診療（調剤）報酬の返還手続きについて」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/iryoukikanshitei.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chiikihoukatsusuishin/seminar_20261204.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月9日
++													2026年11月12日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														開催案内
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険医療機関等・指定訪問看護事業所・はり、きゅう及びあん摩マッサージ指圧の受領委任取扱い施術所の指定状況等について」を更新しました。
++													「令和8年度地域リハビリテーション研修会」を開催します。（地域包括ケア推進課）
+ 												</span>
+ 											</div>
+ 										</a>

@@ -1,0 +1,115 @@
+diff --git a/sites/jgagrjp/jp/gr/jga/index.html b/sites/jgagrjp/jp/gr/jga/index.html
+index 38b64bd2..ad2f0d61 100644
+--- a/sites/jgagrjp/jp/gr/jga/index.html
++++ b/sites/jgagrjp/jp/gr/jga/index.html
+@@ -1140,6 +1140,19 @@
+ 							<div>
+ 								<nav>
+ 									<ul>
++										<li>
++											<a href="https://www.jga.gr.jp/information/jga-news/2026/222.html" rel="noopener noreferrer">
++												<time>
++													2026.11.10
++												</time>
++												<span>
++													トピックス
++												</span>
++												<span>
++													JGAニュース10月号全体版PDFを発刊しました
++												</span>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/medical/confirm-effective.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1179,25 +1192,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261021_006018.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/information/jga-news/2026/222.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.21
++													2026.11.10
+ 												</time>
+ 												<span>
+ 													トピックス
+ 												</span>
+ 												<span>
+-													JGAニュース10月号を発刊しました
++													JGAニュース10月号全体版PDFを発刊しました
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261029_006023.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1237,25 +1250,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261020_006012.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/information/jga-news/2026/222.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.20
++													2026.11.10
+ 												</time>
+ 												<span>
+-													レポート
++													トピックス
+ 												</span>
+ 												<span>
+-													【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年10月19日時点）
++													JGAニュース10月号全体版PDFを発刊しました
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261029_006023.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1295,19 +1308,6 @@
+ 												</span>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="https://www.jga.gr.jp/news/261020_006012.html" rel="noopener noreferrer">
+-												<time>
+-													2026.10.20
+-												</time>
+-												<span>
+-													レポート
+-												</span>
+-												<span>
+-													【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年10月19日時点）
+-												</span>
+-											</a>
+-										</li>
+ 									</ul>
+ 								</nav>
+ 							</div>

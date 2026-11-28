@@ -1,0 +1,55 @@
+diff --git a/sites/jspm/jp/ne/jspm/index.html b/sites/jspm/jp/ne/jspm/index.html
+index 09aff434..3ca31949 100644
+--- a/sites/jspm/jp/ne/jspm/index.html
++++ b/sites/jspm/jp/ne/jspm/index.html
+@@ -590,6 +590,26 @@
+ 							</a>
+ 						</div>
+ 						<div>
++							<div>
++								<h3>
++									<span>
++										<span>
++											2026.11.05
++										</span>
++										<span>
++											<a href="https://www.jspm.ne.jp/important/index.html" rel="noopener noreferrer">
++												重要
++											</a>
++										</span>
++									</span>
++									<a href="https://www.jspm.ne.jp/news/individual.html?entry_id=3242" rel="noopener noreferrer" title="学会の一部システム利用停止について">
++										学会の一部システム利用停止について
++									</a>
++								</h3>
++								<p>
++									※各システムのメンテナンス終了日時(予定)を追記しました
++								</p>
++							</div>
+ 							<div>
+ 								<h3>
+ 									<span>
+@@ -653,23 +673,6 @@
+ 									</a>
+ 								</h3>
+ 							</div>
+-							<div>
+-								<h3>
+-									<span>
+-										<span>
+-											2026.10.22
+-										</span>
+-										<span>
+-											<a href="https://www.jspm.ne.jp/important/index.html" rel="noopener noreferrer">
+-												重要
+-											</a>
+-										</span>
+-									</span>
+-									<a href="https://www.jspm.ne.jp/news/individual.html?entry_id=3242" rel="noopener noreferrer" title="学会の一部システム利用停止について">
+-										学会の一部システム利用停止について
+-									</a>
+-								</h3>
+-							</div>
+ 							<div>
+ 								<h3>
+ 									<span>

@@ -1,0 +1,111 @@
+diff --git a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+index a90b7b2d..f6d7b750 100644
+--- a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
++++ b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+@@ -943,45 +943,45 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/chugokushikoku/newpage_00838.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chiikihoukatsusuishin/seminar_20261204.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月10日
++													2026年11月12日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														開催案内
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													11月はねんきん月間です。
++													「令和8年度地域リハビリテーション研修会」を開催します。（地域包括ケア推進課）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/iryoukikanshitei.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/newpage_00838.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月9日
++													2026年11月10日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険医療機関等・指定訪問看護事業所・はり、きゅう及びあん摩マッサージ指圧の受領委任取扱い施術所の指定状況等について」を更新しました。
++													11月はねんきん月間です。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/hokenitouroku.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/iryoukikanshitei.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月9日
+@@ -994,35 +994,35 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													「指定登録政令に基づく公示について」のページを更新しました。
++													「保険医療機関等・指定訪問看護事業所・はり、きゅう及びあん摩マッサージ指圧の受領委任取扱い施術所の指定状況等について」を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chiiki/seminar_20261203_00003.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/hokenitouroku.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月4日
++													2026年11月9日
+ 												</time>
+ 												<em>
+ 													<span>
+-														開催案内
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「地域の移動を支える連携」をテーマに、研修会を開催します。
++													「指定登録政令に基づく公示について」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/newpage_00862.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chiiki/seminar_20261203_00003.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月2日
++													2026年11月4日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -1032,7 +1032,7 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年度　医療安全に関するワークショップ及びオンデマンドセミナーの開催について
++													「地域の移動を支える連携」をテーマに、研修会を開催します。
+ 												</span>
+ 											</div>
+ 										</a>

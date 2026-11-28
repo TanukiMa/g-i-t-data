@@ -1,0 +1,30 @@
+diff --git a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+index 2ad287e99..3e099453d 100644
+--- a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
++++ b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+@@ -189,6 +189,12 @@
+ 							新着情報
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="topic/20261019.htm" rel="noopener noreferrer">
++									被災地支援WGの発足について
++								</a>
++								（2026/10/19）
++							</li>
+ 							<li>
+ 								<a href="topic/20261016.htm" rel="noopener noreferrer">
+ 									第41回日本体力医学会近畿地方会【演題応募先メールアドレス変更のお知らせ】
+@@ -213,12 +219,6 @@
+ 								</a>
+ 								（2026/10/9）
+ 							</li>
+-							<li>
+-								<a href="topic/20261001.htm" rel="noopener noreferrer">
+-									ミズノ・スポートロジー研究助成公募について
+-								</a>
+-								（2026/10/1）
+-							</li>
+ 							<li>
+ 								「
+ 								<a href="region/program/kinki_41.htm" rel="noopener noreferrer">

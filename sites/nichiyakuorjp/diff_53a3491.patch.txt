@@ -1,0 +1,95 @@
+diff --git a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+index 71ad95cf..85c8a1af 100644
+--- a/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
++++ b/sites/nichiyakuorjp/jp/or/nichiyaku/index.html
+@@ -301,7 +301,7 @@
+ 							<li>
+ 								<div>
+ 									<a href="/news/detail?id=1650&amp;is_top=yes" rel="noopener noreferrer">
+-										令和8年熊本地震について　義援金を募集いたします
++										令和8年熊本地震の義援金の募集について（終了しました）
+ 									</a>
+ 								</div>
+ 							</li>
+@@ -635,7 +635,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.30
++														2026.11.02
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -644,8 +644,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1744" rel="noopener noreferrer">
+-														【重要】「日薬アプリ」新機能追加のお知らせ
++													<a href="/member/news/detail?id=1688" rel="noopener noreferrer">
++														日薬メールナビアーカイブサービスのIDとパスワードの変更
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -663,8 +663,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1741" rel="noopener noreferrer">
+-														【日薬ホームページ メンテナンスのお知らせ】
++													<a href="/member/news/detail?id=1744" rel="noopener noreferrer">
++														【重要】「日薬アプリ」新機能追加のお知らせ
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -673,7 +673,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.14
++														2026.10.30
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -682,8 +682,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1703" rel="noopener noreferrer">
+-														セルフメディケーション税制対象品目リスト（11月分）を掲載しました。
++													<a href="/member/news/detail?id=1741" rel="noopener noreferrer">
++														【日薬ホームページ メンテナンスのお知らせ】
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -701,8 +701,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1697" rel="noopener noreferrer">
+-														新医薬品の薬価収載について
++													<a href="/member/news/detail?id=1703" rel="noopener noreferrer">
++														セルフメディケーション税制対象品目リスト（11月分）を掲載しました。
+ 													</a>
+ 												</div>
+ 											</div>
+@@ -711,7 +711,7 @@
+ 											<div>
+ 												<p>
+ 													<time>
+-														2026.10.01
++														2026.10.14
+ 													</time>
+ 												</p>
+ 												<p>
+@@ -720,8 +720,8 @@
+ 													</span>
+ 												</p>
+ 												<div>
+-													<a href="/member/news/detail?id=1691" rel="noopener noreferrer">
+-														日薬ニュース第326号
++													<a href="/member/news/detail?id=1697" rel="noopener noreferrer">
++														新医薬品の薬価収載について
+ 													</a>
+ 												</div>
+ 											</div>

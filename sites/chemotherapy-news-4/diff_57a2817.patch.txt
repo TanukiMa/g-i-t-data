@@ -1,0 +1,19 @@
+diff --git a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+index f533b7e3..f5ef58c3 100644
+--- a/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
++++ b/sites/chemotherapy-news-4/jp/or/chemotherapy/modules-newslist-index-php-content-id-4.html
+@@ -826,6 +826,14 @@
+ 					全てのお知らせ
+ 				</h1>
+ 				<div>
++					<div>
++						2026年11月13日
++					</div>
++					<div>
++						<a href="https://www.chemotherapy.or.jp/modules/news/index.php?content_id=86" rel="noopener noreferrer">
++							第81回抗菌薬適正使用生涯教育セミナー（高知）現地参加登録　受付中（締め切り日：12月10日）
++						</a>
++					</div>
+ 					<div>
+ 						2026年11月12日
+ 					</div>

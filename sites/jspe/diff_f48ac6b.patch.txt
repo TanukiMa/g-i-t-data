@@ -1,0 +1,28 @@
+diff --git a/sites/jspe/jp/umin/jspe/index.html b/sites/jspe/jp/umin/jspe/index.html
+index b1d515021..2c2e4ff1a 100644
+--- a/sites/jspe/jp/umin/jspe/index.html
++++ b/sites/jspe/jp/umin/jspe/index.html
+@@ -4223,11 +4223,6 @@
+ 						<hr>
+ 						<div>
+ 							<div>
+-								<p>
+-									<a href="https://www.impe2027.jp/" rel="noopener noreferrer">
+-										<img height="90" src="img/bn_IMPE2027_2.png" width="315">
+-									</a>
+-								</p>
+ 								<p>
+ 									<a href="https://orbit-cs.net/jspe59/index.html" rel="noopener noreferrer">
+ 										<img height="90" src="img/jspe59_banner.png" width="315">
+@@ -4248,6 +4243,11 @@
+ 										<img height="74" src="img/bn_diversity.png" width="317">
+ 									</a>
+ 								</p>
++								<p>
++									<a href="https://www.impe2027.jp/" rel="noopener noreferrer">
++										<img height="74" src="img/bn_IMPE2027.jpg" width="317">
++									</a>
++								</p>
+ 								<p>
+ 									<a href="https://isoukai2027.jp " rel="noopener noreferrer">
+ 										<img height="90" src="img/bn_isoukai.jpeg" width="315">

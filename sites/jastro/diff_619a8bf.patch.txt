@@ -1,0 +1,24 @@
+diff --git a/sites/jastro/jp/or/jastro/index.html b/sites/jastro/jp/or/jastro/index.html
+index 21882597..752b1889 100644
+--- a/sites/jastro/jp/or/jastro/index.html
++++ b/sites/jastro/jp/or/jastro/index.html
+@@ -479,6 +479,19 @@
+ 			</li>
+ 		</ul>
+ 		<ul>
++			<li>
++				<span>
++					医療関係者
++				</span>
++				<time>
++					2026.11.11
++				</time>
++				<span>
++					<a href="/medicalpersonnel/prize/award/fjastro/authorizer.pdf" rel="noopener noreferrer">
++						第1回 FJASTRO（JASTRO Fellow）認証者はこちら
++					</a>
++				</span>
++			</li>
+ 			<li>
+ 				<span>
+ 					会員向け

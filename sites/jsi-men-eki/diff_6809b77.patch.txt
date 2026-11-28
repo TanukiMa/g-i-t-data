@@ -1,0 +1,384 @@
+diff --git a/sites/jsi-men-eki/org/jsi-men-eki/index.html b/sites/jsi-men-eki/org/jsi-men-eki/index.html
+index adfaefad..3c170c23 100644
+--- a/sites/jsi-men-eki/org/jsi-men-eki/index.html
++++ b/sites/jsi-men-eki/org/jsi-men-eki/index.html
+@@ -363,6 +363,34 @@
+ 											<div>
+ 											</div>
+ 										</div>
++										<div>
++											<ul>
++												<li>
++													<strong>
++														2026/11
++													</strong>
++													<strong>
++														/11
++													</strong>
++												</li>
++											</ul>
++											<ul>
++												<li>
++													<a href="/scientist/info/" rel="noopener noreferrer" title="お知らせ">
++														会員及び研究者向け＞お知らせ
++													</a>
++													「
++													<a href="https://dgfi.org/immune-alliance/" rel="noopener noreferrer" title="https://dgfi.org/immune-alliance/">
++														第29回日本免疫学会(JSI)ードイツ免疫学会(DGfI）交流ウェビナー「THE IMMUNE ALLIANCE - A GERMAN-JAPANESE COOPERATION IN IMMUNOLOGY」12/16（水）（参加登録要）のお知らせ
++													</a>
++													」を掲載しました。
++												</li>
++											</ul>
++										</div>
++										<div>
++											<div>
++											</div>
++										</div>
+ 										<div>
+ 											<ul>
+ 												<li>
+@@ -629,34 +657,6 @@
+ 											<div>
+ 											</div>
+ 										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/10
+-													</strong>
+-													<strong>
+-														/5
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													<a href="/scientist/info/" rel="noopener noreferrer" title="お知らせ">
+-														会員及び研究者向け＞お知らせ
+-													</a>
+-													「
+-													<a href="https://dgfi.org/immune-alliance/" rel="noopener noreferrer" title="https://dgfi.org/immune-alliance/">
+-														第28回日本免疫学会(JSI)ードイツ免疫学会(DGfI）交流ウェビナー「THE IMMUNE ALLIANCE - A GERMAN-JAPANESE COOPERATION IN IMMUNOLOGY」10/21（水）（参加登録要）のお知らせ
+-													</a>
+-													」を掲載しました。
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+ 										<div>
+ 											<ul>
+ 												<li>
+@@ -907,118 +907,6 @@
+ 											<div>
+ 											</div>
+ 										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/8
+-													</strong>
+-													<strong>
+-														/24
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													<a href="/scientist/sympo/" rel="noopener noreferrer" title="関連学術集会・シンポジウム">
+-														会員及び研究者向け＞関連学術集会・シンポジウム
+-													</a>
+-													「
+-													<a href="https://www.senri-life.or.jp/event/6100/" rel="noopener noreferrer" title="https://www.senri-life.or.jp/event/6100/">
+-														千里ライフサイエンスセミナーY4「幹細胞・再生医療研究の最前線」
+-													</a>
+-													」を掲載しました。
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/8
+-													</strong>
+-													<strong>
+-														/13
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													<a href="/scientist/assist/" rel="noopener noreferrer" title="研究助成">
+-														会員及び研究者向け＞研究助成
+-													</a>
+-													「
+-													<a href="https://saruhashisho.or.jp/" rel="noopener noreferrer" title="https://saruhashisho.or.jp/">
+-														猿橋賞
+-													</a>
+-													」を更新しました。
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/8
+-													</strong>
+-													<strong>
+-														/5
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													<a href="/scientist/assist/" rel="noopener noreferrer" title="研究助成">
+-														会員及び研究者向け＞研究助成
+-													</a>
+-													「
+-													<a href="https://kawanozaidan.or.jp/prize/" rel="noopener noreferrer" title="https://kawanozaidan.or.jp/prize/">
+-														小児医学川野賞
+-													</a>
+-													」を更新しました。
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/8
+-													</strong>
+-													<strong>
+-														/3
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													<a href="/scientist/info/" rel="noopener noreferrer" title="お知らせ">
+-														会員及び研究者向け＞お知らせ
+-													</a>
+-													「
+-													<a href="https://cbs.riken.jp/jp/news/2026/kyosolab/" rel="noopener noreferrer" title="https://cbs.riken.jp/jp/news/2026/kyosolab/">
+-														理化学研究所脳神経科学研究センター（理研CBS）「共創ラボ」募集のお知らせ
+-													</a>
+-													」を掲載しました。
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+ 										<div>
+ 											<figure>
+ 												<a href="/topics/" rel="noopener noreferrer">
+@@ -1167,140 +1055,6 @@
+ 											<div>
+ 											</div>
+ 										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/9
+-													</strong>
+-													<strong>
+-														/8
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													[
+-													<a href="https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126090269" rel="noopener noreferrer" title="https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126090269">
+-														静岡県立大学食品栄養科学部食品生命科学科 助教（微生物学分野）の公募
+-													</a>
+-													]
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/7
+-													</strong>
+-													<strong>
+-														/31
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													[
+-													<a href="https://www.med.shimane-u.ac.jp/saiyou/saiyou_list/menekikoushi_20260607_20260727080557.html" rel="noopener noreferrer" title="https://www.med.shimane-u.ac.jp/saiyou/saiyou_list/menekikoushi_20260607_20260727080557.html">
+-														島根大学学術研究院医学・看護学系講師（医学部医学科免疫学講座担当）候補者の公募
+-													</a>
+-													]
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/7
+-													</strong>
+-													<strong>
+-														/23
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													[
+-													<a href="https://files.jsi-men-eki.org/scientist/recruit/20260723.pdf" rel="noopener noreferrer" title="https://files.jsi-men-eki.org/scientist/recruit/20260723.pdf">
+-														東京理科大学薬学部生命創薬科学科 病態学分野
+-    准教授または講師の公募
+-													</a>
+-													]
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/7
+-													</strong>
+-													<strong>
+-														/16
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													[
+-													<a href="https://www.shinshu-u.ac.jp/faculty/medicine/medic/docs/koubo_meneki.pdf" rel="noopener noreferrer" title="https://www.shinshu-u.ac.jp/faculty/medicine/medic/docs/koubo_meneki.pdf">
+-														信州大学医学部医学科免疫制御学教室教授候補者の公募
+-													</a>
+-													]
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<strong>
+-														2026/7
+-													</strong>
+-													<strong>
+-														/2
+-													</strong>
+-												</li>
+-											</ul>
+-											<ul>
+-												<li>
+-													[
+-													<a href="https://files.jsi-men-eki.org/scientist/recruit/20260702.pdf" rel="noopener noreferrer" title="https://files.jsi-men-eki.org/scientist/recruit/20260702.pdf">
+-														徳島大学先端酵素学研究所 教授候補者の公募
+-													</a>
+-													]
+-												</li>
+-												<li>
+-													[
+-													<a href="https://files.jsi-men-eki.org/scientist/recruit/20260702-2.pdf" rel="noopener noreferrer" title="https://files.jsi-men-eki.org/scientist/recruit/20260702-2.pdf">
+-														徳島大学先端酵素学研究所免疫系発生学分野
+-    特任助教の公募
+-													</a>
+-													]
+-												</li>
+-											</ul>
+-										</div>
+-										<div>
+-											<div>
+-											</div>
+-										</div>
+ 										<div>
+ 											<figure>
+ 												<a href="/scientist/recruit/" rel="noopener noreferrer">
+@@ -1377,6 +1131,24 @@
+ 											<div>
+ 											</div>
+ 										</div>
++										<div>
++											<figure>
++												<a href="/general/kibou/kibou1/" rel="noopener noreferrer">
++													<img alt="" src="https://image.jimcdn.com/app/cms/image/transf/dimension=184x10000:format=jpg/path/s2e59e96cb131be76/image/i1dcd4bb8d0cdf203/version/1794361300/image.jpg">
++												</a>
++											</figure>
++											<div>
++											</div>
++										</div>
++										<div>
++											<div>
++												<div>
++													<a href="/general/kibou/kibou1/" rel="noopener noreferrer">
++														<img alt="" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s2e59e96cb131be76/image/ie3cc1fec9c4eb9f5/version/1543799394/image.gif">
++													</a>
++												</div>
++											</div>
++										</div>
+ 										<div>
+ 											<figure>
+ 												<a href="/high-school-biology/" rel="noopener noreferrer">
+@@ -1447,24 +1219,6 @@
+ 												</div>
+ 											</div>
+ 										</div>
+-										<div>
+-											<figure>
+-												<a href="/general/kibou/kibou1/" rel="noopener noreferrer">
+-													<img alt="" src="https://image.jimcdn.com/app/cms/image/transf/dimension=184x10000:format=jpg/path/s2e59e96cb131be76/image/i1dcd4bb8d0cdf203/version/1762222749/image.jpg">
+-												</a>
+-											</figure>
+-											<div>
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												<div>
+-													<a href="/general/kibou/kibou1/" rel="noopener noreferrer">
+-														<img alt="" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s2e59e96cb131be76/image/ie3cc1fec9c4eb9f5/version/1543799394/image.gif">
+-													</a>
+-												</div>
+-											</div>
+-										</div>
+ 										<div>
+ 											<figure>
+ 												<a href="https://www2.aeplan.co.jp/jsi2025/index.html" rel="noopener noreferrer">

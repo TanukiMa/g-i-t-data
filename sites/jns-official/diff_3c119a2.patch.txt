@@ -1,0 +1,132 @@
+diff --git a/sites/jns-official/jp/jns-official/index.html b/sites/jns-official/jp/jns-official/index.html
+index 2cbd25cd..a577b455 100644
+--- a/sites/jns-official/jp/jns-official/index.html
++++ b/sites/jns-official/jp/jns-official/index.html
+@@ -449,12 +449,12 @@
+ 																<th>
+ 																	»
+ 																	<span>
+-																		2026年11月09日
++																		2026年11月12日
+ 																	</span>
+ 																</th>
+ 																<td>
+-																	<a href="https://jns-official.jp/topics/20261109/22138" rel="noopener noreferrer">
+-																		第85回学術総会 単位反映について
++																	<a href="https://jns-official.jp/topics/20261112/22148" rel="noopener noreferrer">
++																		2026年度各種学会賞 受賞者のご報告
+ 																	</a>
+ 																</td>
+ 															</tr>
+@@ -462,12 +462,12 @@
+ 																<th>
+ 																	»
+ 																	<span>
+-																		2026年11月05日
++																		2026年11月09日
+ 																	</span>
+ 																</th>
+ 																<td>
+-																	<a href="https://jns-official.jp/topics/20261105/22122" rel="noopener noreferrer">
+-																		2027年　齋藤眞賞候補者推薦要領
++																	<a href="https://jns-official.jp/topics/20261109/22138" rel="noopener noreferrer">
++																		第85回学術総会 単位反映について
+ 																	</a>
+ 																</td>
+ 															</tr>
+@@ -475,12 +475,12 @@
+ 																<th>
+ 																	»
+ 																	<span>
+-																		2026年10月28日
++																		2026年11月05日
+ 																	</span>
+ 																</th>
+ 																<td>
+-																	<a href="https://jns-official.jp/topics/20261028/22094" rel="noopener noreferrer">
+-																		【JNS主催】第3回キャリアアップ支援セミナー 期間限定オンデマンド配信のお知らせ
++																	<a href="https://jns-official.jp/topics/20261105/22122" rel="noopener noreferrer">
++																		2027年　齋藤眞賞候補者推薦要領
+ 																	</a>
+ 																</td>
+ 															</tr>
+@@ -488,12 +488,12 @@
+ 																<th>
+ 																	»
+ 																	<span>
+-																		2026年10月08日
++																		2026年10月28日
+ 																	</span>
+ 																</th>
+ 																<td>
+-																	<a href="https://jns-official.jp/topics/20261008/22046" rel="noopener noreferrer">
+-																		10/19PM-10/23 第85回学術総会期間中の事務局問合せ対応について
++																	<a href="https://jns-official.jp/topics/20261028/22094" rel="noopener noreferrer">
++																		【JNS主催】第3回キャリアアップ支援セミナー 期間限定オンデマンド配信のお知らせ
+ 																	</a>
+ 																</td>
+ 															</tr>
+@@ -524,12 +524,12 @@
+ 												<th>
+ 													»
+ 													<span>
+-														2026年11月10日
++														2026年11月12日
+ 													</span>
+ 												</th>
+ 												<td>
+-													<a href="https://jns-official.jp/topics/20261110/22141" rel="noopener noreferrer" title="医療事故調査制度の現況報告のご案内（10月）">
+-														医療事故調査制度の現況報告のご案内（10月）
++													<a href="https://jns-official.jp/topics/20261112/22167" rel="noopener noreferrer" title="「臓器のあっせん業の許可等について」の一部改正について">
++														「臓器のあっせん業の許可等について」の一部改正について
+ 													</a>
+ 												</td>
+ 											</tr>
+@@ -537,12 +537,12 @@
+ 												<th>
+ 													»
+ 													<span>
+-														2026年11月02日
++														2026年11月12日
+ 													</span>
+ 												</th>
+ 												<td>
+-													<a href="https://jns-official.jp/topics/20261102/22104" rel="noopener noreferrer" title="日本認知症学会・日本老年精神医学会 抗Ａβ抗体薬の投与にかかる合同講習会2026のご案内">
+-														日本認知症学会・日本老年精神医学会 抗Ａβ抗体薬の投与にかかる合同講習会2026のご案内
++													<a href="https://jns-official.jp/topics/20261112/22162" rel="noopener noreferrer" title="「「臓器のあっせん業の許可等について」に係る質疑応答集」の一部改正について">
++														「「臓器のあっせん業の許可等について」に係る質疑応答集」の一部改正について
+ 													</a>
+ 												</td>
+ 											</tr>
+@@ -550,12 +550,12 @@
+ 												<th>
+ 													»
+ 													<span>
+-														2026年10月28日
++														2026年11月10日
+ 													</span>
+ 												</th>
+ 												<td>
+-													<a href="https://jns-official.jp/topics/20261028/22091" rel="noopener noreferrer" title="「公益財団法人日本脳神経財団2026年度森山賞」募集 のお知らせ">
+-														「公益財団法人日本脳神経財団2026年度森山賞」募集 のお知らせ
++													<a href="https://jns-official.jp/topics/20261110/22141" rel="noopener noreferrer" title="医療事故調査制度の現況報告のご案内（10月）">
++														医療事故調査制度の現況報告のご案内（10月）
+ 													</a>
+ 												</td>
+ 											</tr>
+@@ -563,12 +563,12 @@
+ 												<th>
+ 													»
+ 													<span>
+-														2026年10月27日
++														2026年11月02日
+ 													</span>
+ 												</th>
+ 												<td>
+-													<a href="https://jns-official.jp/topics/20261027/22087" rel="noopener noreferrer" title="医療事故情報収集等事業「医療安全情報No.239」の提供について">
+-														医療事故情報収集等事業「医療安全情報No.239」の提供について
++													<a href="https://jns-official.jp/topics/20261102/22104" rel="noopener noreferrer" title="日本認知症学会・日本老年精神医学会 抗Ａβ抗体薬の投与にかかる合同講習会2026のご案内">
++														日本認知症学会・日本老年精神医学会 抗Ａβ抗体薬の投与にかかる合同講習会2026のご案内
+ 													</a>
+ 												</td>
+ 											</tr>

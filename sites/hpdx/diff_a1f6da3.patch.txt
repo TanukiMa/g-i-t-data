@@ -1,0 +1,92 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index 53c7162de..8650f888f 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -107,27 +107,7 @@
+ 						<div>
+ 							<ul>
+ 								<li>
+-									<img alt="ＤＸ審査支払機構システムメンテナンスのお知らせ" height="346" src="index.images/mving_20261020.PNG" width="500">
+-								</li>
+-								<li>
+-									<a href="/saigai/index.html" rel="noopener noreferrer">
+-										<img alt="災害に関するお知らせ" height="346" src="index.images/mvimg_saigai_all.png" width="500">
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/about/s_kaikaku/dxkikou_oshirase_1.html" rel="noopener noreferrer">
+-										<img alt="支払基金の改組に伴うお知らせ" height="346" src="index.images/mvimg_kaisogo.png" width="500">
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/seikyushiharai/iryokikan/oshirase_0511_1.html" rel="noopener noreferrer">
+-										<img alt="支払関係帳簿をオンライン配信します" height="346" src="index.images/mvimg_08.png" width="500">
+-									</a>
+-								</li>
+-								<li>
+-									<a href="/seikyushiharai/online_01/oshirase_0510_1.html" rel="noopener noreferrer">
+-										<img alt="請求関係帳票のオンライン配信について" height="346" src="index.images/mvimg_09.png" width="500">
+-									</a>
++									<img alt="ＤＸ審査支払機構システムメンテナンスのお知らせ" height="346" src="index.images/mving_20261021.PNG" width="500">
+ 								</li>
+ 							</ul>
+ 							<div>
+@@ -388,21 +368,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月19日
+-								</span>
+-								<span>
+-									医療機関・保険者
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/shinryohoshu/saikaisyou_torikumi/kashikarepo/index.html" rel="noopener noreferrer">
+-									審査の差異の可視化レポート「審査の一般的な取扱い・審査情報提供事例」（7事例）検証前レポートを掲載しました。
+-								</a>
+-							</span>
+-						</li>
+ 						<li>
+ 							<span>
+ 								<span>
+@@ -460,36 +425,6 @@
+ 								</a>
+ 							</span>
+ 						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月9日
+-								</span>
+-								<span>
+-									ベンダー
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/seikyushiharai/rezept/hokenja/download/index.html" rel="noopener noreferrer">
+-									オンラインによる電子レセプトの再審査請求に係る手引きを更新しました。
+-								</a>
+-							</span>
+-						</li>
+-						<li>
+-							<span>
+-								<span>
+-									令和8年10月9日
+-								</span>
+-								<span>
+-									ベンダー
+-								</span>
+-							</span>
+-							<span>
+-								<a href="/seikyushiharai/iryokikan/iryokikan_02.html" rel="noopener noreferrer">
+-									電子レセプトの作成手引きを更新しました。
+-								</a>
+-							</span>
+-						</li>
+ 					</ul>
+ 				</div>
+ 			</div>

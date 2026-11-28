@@ -1,0 +1,100 @@
+diff --git a/sites/cancer/jp/or/cancer/index.html b/sites/cancer/jp/or/cancer/index.html
+index fd511e7be..8c7a82acb 100644
+--- a/sites/cancer/jp/or/cancer/index.html
++++ b/sites/cancer/jp/or/cancer/index.html
+@@ -699,6 +699,23 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年10月15日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
++														<div>
++															関連機関から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=657" rel="noopener noreferrer">
++														第16回日本遺伝子診療学会：遺伝子診断・検査技術推進フォーラム開催のお知らせ
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年10月9日
+@@ -1515,23 +1532,6 @@
+ 													</a>
+ 												</li>
+ 											</ul>
+-											<ul>
+-												<li>
+-													2026年6月1日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=3" rel="noopener noreferrer">
+-														<div>
+-															公募案内
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=447" rel="noopener noreferrer">
+-														令和9年度文部科学大臣表彰科学技術賞及び若手科学者賞候補者の推薦について
+-													</a>
+-												</li>
+-											</ul>
+ 										</div>
+ 									</div>
+ 								</div>
+@@ -4776,6 +4776,23 @@
+ 								<div>
+ 									<div>
+ 										<div>
++											<ul>
++												<li>
++													2026年10月15日
++												</li>
++												<li>
++													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
++														<div>
++															関連機関から
++														</div>
++													</a>
++												</li>
++												<li>
++													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=657" rel="noopener noreferrer">
++														第16回日本遺伝子診療学会：遺伝子診断・検査技術推進フォーラム開催のお知らせ
++													</a>
++												</li>
++											</ul>
+ 											<ul>
+ 												<li>
+ 													2026年10月1日
+@@ -4912,23 +4929,6 @@
+ 													</a>
+ 												</li>
+ 											</ul>
+-											<ul>
+-												<li>
+-													2026年7月21日
+-												</li>
+-												<li>
+-													<a href="/modules/newslist/index.php?content_id=6" rel="noopener noreferrer">
+-														<div>
+-															関連機関から
+-														</div>
+-													</a>
+-												</li>
+-												<li>
+-													<a href="https://www.cancer.or.jp/modules/news/index.php?content_id=632" rel="noopener noreferrer">
+-														第1回 化血研シンポジウム開催のお知らせ
+-													</a>
+-												</li>
+-											</ul>
+ 										</div>
+ 									</div>
+ 								</div>

@@ -1,0 +1,200 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index be4aff1f1..81165d404 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2353,6 +2353,54 @@
+ 												</p>
+ 											</a>
+ 										</li>
++										<li>
++											<a href="/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年10月23日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年6月分の情報を追加しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/ctp/0006.html" rel="noopener noreferrer">
++												<p>
++													2026年10月23日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年6月分の情報を追加しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/devices/0090.html" rel="noopener noreferrer">
++												<p>
++													2026年10月23日
++												</p>
++												<p>
++													安全
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「不具合が疑われる症例報告に関する情報（医療機器）」に2026年6月分の情報を追加しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/recruit/0785.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2562,9 +2610,6 @@
+ 												<p>
+ 													安全
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「副作用が疑われる症例報告に関する情報」に2026年6月分の情報を追加しました
+ 												</p>
+@@ -2612,45 +2657,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/about-reviews/devices/0048.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月14日
+-												</p>
+-												<p>
+-													審査
+-												</p>
+-												<p>
+-													プログラム医療機器のページを更新（「生成AIを活用した医療機器の審査ポイント(Draft)」の英訳を公開、対面助言調整可能時期の更新）しました。
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/about-reviews/p-drugs/0034.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月14日
+-												</p>
+-												<p>
+-													審査
+-												</p>
+-												<p>
+-													「バイオ後続品」のページを更新しました
+-												</p>
+-											</a>
+-										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/review-information/p-drugs/0013.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月14日
+-												</p>
+-												<p>
+-													審査
+-												</p>
+-												<p>
+-													未承認薬データベースを更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2796,6 +2802,54 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html" rel="noopener noreferrer">
++												<p>
++													2026年10月23日
++												</p>
++												<p>
++													医薬品
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年6月分の情報を追加しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/ctp/0006.html" rel="noopener noreferrer">
++												<p>
++													2026年10月23日
++												</p>
++												<p>
++													再生
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年6月分の情報を追加しました
++												</p>
++											</a>
++										</li>
++										<li>
++											<a href="/safety/info-services/devices/0090.html" rel="noopener noreferrer">
++												<p>
++													2026年10月23日
++												</p>
++												<p>
++													医療機器
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													「不具合が疑われる症例報告に関する情報（医療機器）」に2026年6月分の情報を追加しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/safety/info-services/drugs/0010.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2836,9 +2890,6 @@
+ 												<p>
+ 													医薬品
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													「副作用が疑われる症例報告に関する情報」に2026年6月分の情報を追加しました
+ 												</p>
+@@ -2883,19 +2934,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月8日
+-												</p>
+-												<p>
+-													医薬品
+-												</p>
+-												<p>
+-													使用上の注意の改訂指示通知（医薬品）2026年10月8日付（厚生労働省より発出）を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>

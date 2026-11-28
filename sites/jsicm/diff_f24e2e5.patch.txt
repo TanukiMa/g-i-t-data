@@ -1,0 +1,26 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index 698095f82..d81f1d61e 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1438,9 +1438,7 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<b>
+-													サーバーメンテナンスのお知らせ
+-												</b>
++												サーバーメンテナンスのお知らせ
+ 											</div>
+ 										</div>
+ 									</li>
+@@ -1620,9 +1618,7 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<b>
+-													サーバーメンテナンスのお知らせ
+-												</b>
++												サーバーメンテナンスのお知らせ
+ 											</div>
+ 										</div>
+ 									</li>

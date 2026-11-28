@@ -1,0 +1,207 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index e6c0b92e..9851fd0d 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1478,13 +1478,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="フィブリノゲン濃縮製剤は輸血量を減らすのか？" src="https://asset.mtweb.jp/media/2026/06/30102904/com_dr_KazumaYunoki_thum_w440h275.jpg">
++																<img alt="鎌状赤血球症へのmitapivat、疼痛発作の有意な減少なし" src="https://asset.mtweb.jp/media/2026/11/06161631/ChatGPT-Image-20261106_sickle-cell.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
+-																			フィブリノゲン濃縮製剤は輸血量を減らすのか？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620967" rel="noopener noreferrer">
++																			鎌状赤血球症へのmitapivat、疼痛発作の有意な減少なし
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1527,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="siRNA薬zilebesiranは高血圧治療を変えるか" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
++																<img alt="マンジャロなど、不適切処方疑う施設への供給見直しも" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620461" rel="noopener noreferrer">
+-																			siRNA薬zilebesiranは高血圧治療を変えるか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621142" rel="noopener noreferrer">
++																			マンジャロなど、不適切処方疑う施設への供給見直しも
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1576,20 +1576,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="糖尿病急性合併症による入院、最近5年で3割増加" src="https://asset.mtweb.jp/media/2026/11/05184131/DM-2026-11-05-183905.jpg">
++																<img alt="フィブリノゲン濃縮製剤は輸血量を減らすのか？" src="https://asset.mtweb.jp/media/2026/06/30102904/com_dr_KazumaYunoki_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620815" rel="noopener noreferrer">
+-																			糖尿病急性合併症による入院、最近5年で3割増加
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619998" rel="noopener noreferrer">
++																			フィブリノゲン濃縮製剤は輸血量を減らすのか？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-08
++																			2026-11-09
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1625,20 +1625,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="消化器疾患における再生医療の現状と未来" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
++																<img alt="siRNA薬zilebesiranは高血圧治療を変えるか" src="https://asset.mtweb.jp/media/2026/10/26152244/com_48jsh2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=616818" rel="noopener noreferrer">
+-																			消化器疾患における再生医療の現状と未来
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620461" rel="noopener noreferrer">
++																			siRNA薬zilebesiranは高血圧治療を変えるか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-07
++																			2026-11-09
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1674,20 +1674,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="アルコールと消化器疾患" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
++																<img alt="糖尿病急性合併症による入院、最近5年で3割増加" src="https://asset.mtweb.jp/media/2026/11/05184131/DM-2026-11-05-183905.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617115" rel="noopener noreferrer">
+-																			アルコールと消化器疾患
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620815" rel="noopener noreferrer">
++																			糖尿病急性合併症による入院、最近5年で3割増加
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-07
++																			2026-11-08
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1723,13 +1723,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="片頭痛治療の新展開—CGRP関連薬剤" src="https://asset.mtweb.jp/media/2026/10/28133022/70298_face01.png">
++																<img alt="消化器疾患における再生医療の現状と未来" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619670" rel="noopener noreferrer">
+-																			片頭痛治療の新展開—CGRP関連薬剤
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=616818" rel="noopener noreferrer">
++																			消化器疾患における再生医療の現状と未来
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1772,20 +1772,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="内科入院患者でも女性医師で30日死亡率低い" src="https://asset.mtweb.jp/media/2026/11/06111055/ChatGPT-Image-20261106_Physicians_SEX.jpg">
++																<img alt="アルコールと消化器疾患" src="https://asset.mtweb.jp/media/2026/08/27155029/com_jddw2026_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620878" rel="noopener noreferrer">
+-																			内科入院患者でも女性医師で30日死亡率低い
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=617115" rel="noopener noreferrer">
++																			アルコールと消化器疾患
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-06
++																			2026-11-07
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1869,10 +1869,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									12
+ 																								</span>
+ 																								<span>
+-																									3件「いいね！」されています
++																									12件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1920,10 +1920,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									23
++																									24
+ 																								</span>
+ 																								<span>
+-																									23件「いいね！」されています
++																									24件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1971,10 +1971,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									33
++																									38
+ 																								</span>
+ 																								<span>
+-																									33件「いいね！」されています
++																									38件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2022,10 +2022,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									24
++																									27
+ 																								</span>
+ 																								<span>
+-																									24件「いいね！」されています
++																									27件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

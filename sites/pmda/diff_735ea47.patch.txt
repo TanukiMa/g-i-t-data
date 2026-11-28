@@ -1,0 +1,90 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 6ee179058..d2063f0e0 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2337,6 +2337,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/about-pmda/news-release/0104.html" rel="noopener noreferrer">
++												<p>
++													2026年10月26日
++												</p>
++												<p>
++													その他
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													サイバー攻撃による情報漏えい等の事案を踏まえたPMDAにおけるセキュリティ対策方針について
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/procurements/public-bidding/announcement-of-the-winning-bid/0001.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2578,9 +2594,6 @@
+ 												<p>
+ 													採用
+ 												</p>
+-												<p>
+-													Update
+-												</p>
+ 												<p>
+ 													事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）
+ 												</p>
+@@ -2638,19 +2651,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/about-reviews/devices/0052.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月16日
+-												</p>
+-												<p>
+-													審査
+-												</p>
+-												<p>
+-													プログラム医療機器の製造販売承認品目の一覧情報等を更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3084,6 +3084,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/about-pmda/news-release/0104.html" rel="noopener noreferrer">
++												<p>
++													2026年10月26日
++												</p>
++												<p>
++													その他
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													サイバー攻撃による情報漏えい等の事案を踏まえたPMDAにおけるセキュリティ対策方針について
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/procurements/public-bidding/announcement-of-the-winning-bid/0001.html" rel="noopener noreferrer">
+ 												<p>
+@@ -3124,9 +3140,6 @@
+ 												<p>
+ 													採用
+ 												</p>
+-												<p>
+-													Update
+-												</p>
+ 												<p>
+ 													事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）
+ 												</p>

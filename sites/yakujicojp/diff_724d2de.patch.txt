@@ -1,0 +1,354 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index c0559427..1bc40439 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -407,20 +407,20 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry141558.html" rel="noopener noreferrer">
+-								【成長戦略会議】創薬シーズの実用化支援‐40年に官民投資約23兆円
++							<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
++								【薬学教育協議会】薬学生9割超が成長実感‐実務実習で初の全国調査
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年11月11日 (水) 06:31
++						2026年11月11日 (水) 08:31
+ 					</div>
+ 					<div>
+ 						<p>
+-							政府は6日の日本成長戦略会議で、年末までに策定する日本成長戦略実行計画に盛り込む主な事項案として、創薬ではファーストインクラス製品、ベストインクラス製品、バイオ医薬品・再生医療等製品等を重点項目に基礎研究から臨床開発、製造まで一貫して支援する方針を示した。国際共同治験やスタートアップ、国内製造基盤への支援を強化するほか、革新的医薬品のイノベーション評価も検討する。
++							薬学教育協議会が実務実習を受けた全国の薬学生を対象に初めて実施したアンケート調査で、9割以上の学生が実務実習は自身の成長につながったと捉えていることが明らかになった。学生による学修到達度の自己評価も、「効果と副作用の評価」など多くの項目で概ね高かった。関係者は、約20年かけて構築してきた実務実習が概ね機能し、一定の成果を上げていることが今回の調査で裏付けられたと評価している。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry141558.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -442,10 +442,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141558.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141558.html" rel="noopener noreferrer">
+-									【成長戦略会議】創薬シーズの実用化支援‐40年に官民投資約23兆円
++								<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
++									【薬学教育協議会】薬学生9割超が成長実感‐実務実習で初の全国調査
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -458,11 +458,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141559.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13240_02-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141562.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141559.html" rel="noopener noreferrer">
+-									【都薬 髙橋会長】夜間・休日調剤は約74％‐追加解析で薬局の評価に
++								<a href="https://www.yakuji.co.jp/entry141562.html" rel="noopener noreferrer">
++									【薬局方委員会】局方で新規区分設定せず‐ミニタブレット既存剤形
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -475,14 +474,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141485.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141558.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141485.html" rel="noopener noreferrer">
+-									【厚労省】CMC領域AIに説明責任‐高リスクは検証徹底促す
++								<a href="https://www.yakuji.co.jp/entry141558.html" rel="noopener noreferrer">
++									【成長戦略会議】創薬シーズの実用化支援‐40年に官民投資約23兆円
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月10日 (火)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -491,14 +490,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141488.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141559.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13240_02-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141488.html" rel="noopener noreferrer">
+-									【カケハシ薬局活用調査】処方薬の服用中断4割経験‐残薬で処方量調整は2割
++								<a href="https://www.yakuji.co.jp/entry141559.html" rel="noopener noreferrer">
++									【都薬 髙橋会長】夜間・休日調剤は約74％‐追加解析で薬局の評価に
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月10日 (火)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -507,10 +507,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141490.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141485.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141490.html" rel="noopener noreferrer">
+-									【日本ケミファ】後発品自社開発品増へ‐数年かけて体制強化
++								<a href="https://www.yakuji.co.jp/entry141485.html" rel="noopener noreferrer">
++									【厚労省】CMC領域AIに説明責任‐高リスクは検証徹底促す
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -523,11 +523,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141493.html" rel="noopener noreferrer">
+-									<img alt="就職相談セミナー" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13239_08-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141488.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141493.html" rel="noopener noreferrer">
+-									【東京都／都病薬】病院薬剤師の魅力を発信‐前倒しで就職相談セミナー
++								<a href="https://www.yakuji.co.jp/entry141488.html" rel="noopener noreferrer">
++									【カケハシ薬局活用調査】処方薬の服用中断4割経験‐残薬で処方量調整は2割
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -641,14 +640,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141469.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141584.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261111_1110ka5-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141469.html" rel="noopener noreferrer">
+-									【厚労省】外原規2021の改正案でパブコメ
++								<a href="https://www.yakuji.co.jp/entry141584.html" rel="noopener noreferrer">
++									【NEC】World Tennis Wheelchair Hall of Championsに選出‐車いすテニス発展への長年の貢献が…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月09日 (月)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -657,15 +657,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141467.html" rel="noopener noreferrer">
+-									<img alt="本社ショールームの装飾の様子" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261109_1106ka8-100x100.png" width="100">
++								<a href="https://www.yakuji.co.jp/entry141582.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141467.html" rel="noopener noreferrer">
+-									【アトムメディカル】11月15日「世界早産児デー in 2026」、各種活動などを実施へ
++								<a href="https://www.yakuji.co.jp/entry141582.html" rel="noopener noreferrer">
++									【A&D】2026年ベストプラクティスアワード「カンパニー・オブ・ザ・イヤー」を受賞
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月09日 (月)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -736,15 +735,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141464.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261109_1106ka7-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141585.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/2d5e3f4b8861532be7d0af48f45da1a0-100x100.webp" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141464.html" rel="noopener noreferrer">
+-									【新製品】プロフェッショナル体組成計「MC-1000」を発売‐仰臥位や座位で体組成が計測できる…
++								<a href="https://www.yakuji.co.jp/entry141585.html" rel="noopener noreferrer">
++									【新製品】“ととのえメイク”に特化したPB「nake（ネイク）」から限定品‐上向きツヤまつ毛にと…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月09日 (月)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -753,15 +752,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141459.html" rel="noopener noreferrer">
+-									<img alt="8本のスプラインを備えた独自のバルーン内蔵型バスケット設計" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261109_1106ka4-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141575.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/529cea02871fff52c52d0e186b765144-100x100.webp" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141459.html" rel="noopener noreferrer">
+-									【新製品】PFA治療システム「Volt PFAシステム」を発売　アボット
++								<a href="https://www.yakuji.co.jp/entry141575.html" rel="noopener noreferrer">
++									【新製品】高機能美容液「エンハンスドセラム」誕生‐マツキヨココカラのロングセラーブランド…
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月09日 (月)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1703,10 +1702,10 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141558.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141558.html" rel="noopener noreferrer">
+-									【成長戦略会議】創薬シーズの実用化支援‐40年に官民投資約23兆円
++								<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
++									【薬学教育協議会】薬学生9割超が成長実感‐実務実習で初の全国調査
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1719,11 +1718,10 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141559.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/y13240_02-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141562.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141559.html" rel="noopener noreferrer">
+-									【都薬 髙橋会長】夜間・休日調剤は約74％‐追加解析で薬局の評価に
++								<a href="https://www.yakuji.co.jp/entry141562.html" rel="noopener noreferrer">
++									【薬局方委員会】局方で新規区分設定せず‐ミニタブレット既存剤形
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1736,10 +1734,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141552.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141585.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/2d5e3f4b8861532be7d0af48f45da1a0-100x100.webp" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141552.html" rel="noopener noreferrer">
+-									防災庁が発足
++								<a href="https://www.yakuji.co.jp/entry141585.html" rel="noopener noreferrer">
++									【新製品】“ととのえメイク”に特化したPB「nake（ネイク）」から限定品‐上向きツヤまつ毛にと…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1752,10 +1751,11 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141553.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141584.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261111_1110ka5-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141553.html" rel="noopener noreferrer">
+-									薬事日報　2026/11/11
++								<a href="https://www.yakuji.co.jp/entry141584.html" rel="noopener noreferrer">
++									【NEC】World Tennis Wheelchair Hall of Championsに選出‐車いすテニス発展への長年の貢献が…
+ 								</a>
+ 								<br>
+ 								<span>
+@@ -1768,14 +1768,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141533.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141582.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141533.html" rel="noopener noreferrer">
+-									行政情報リスト　2026/11/10
++								<a href="https://www.yakuji.co.jp/entry141582.html" rel="noopener noreferrer">
++									【A&D】2026年ベストプラクティスアワード「カンパニー・オブ・ザ・イヤー」を受賞
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月10日 (火)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1784,14 +1784,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141548.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141581.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141548.html" rel="noopener noreferrer">
+-									プレスリリース・タイトルリスト　2026/11/10
++								<a href="https://www.yakuji.co.jp/entry141581.html" rel="noopener noreferrer">
++									【LSIメディエンス／C2N】ADの「PrecivityAD2検査」、日本国内販売契約を締結
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月10日 (火)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1800,14 +1800,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry141545.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141578.html" rel="noopener noreferrer">
++									<img alt="ライトアップの模様" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/20261111_1110ka2-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry141545.html" rel="noopener noreferrer">
+-									27年1月19日に病院薬剤部向け「タスクシフト・シェアの実践」セミナー開催　メディカルデータ…
++								<a href="https://www.yakuji.co.jp/entry141578.html" rel="noopener noreferrer">
++									【PHCグループ】「World Diabetes Day」でイベント開催
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月10日 (火)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1816,14 +1817,14 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry137536.html" rel="noopener noreferrer">
++								<a href="https://www.yakuji.co.jp/entry141577.html" rel="noopener noreferrer">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry137536.html" rel="noopener noreferrer">
+-									【訂正】はじめての獣医療　薬学的観点からのアプローチ
++								<a href="https://www.yakuji.co.jp/entry141577.html" rel="noopener noreferrer">
++									【シスメックス／Hologen】合弁会社「Saibogen」を設立‐血液検査データとAIで臨床的知見創出へ
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年11月10日 (火)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1843,7 +1844,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年11月  (117)
++		 2026年11月  (130)
+ 	 2026年10月  (382)
+ 	 2026年9月  (341)
+ 	 2026年8月  (319)

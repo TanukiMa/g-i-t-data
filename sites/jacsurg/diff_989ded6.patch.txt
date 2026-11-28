@@ -1,0 +1,38 @@
+diff --git a/sites/jacsurg/jp/gr/jacsurg/index.html b/sites/jacsurg/jp/gr/jacsurg/index.html
+index faa35a72c..0f50fc1b2 100644
+--- a/sites/jacsurg/jp/gr/jacsurg/index.html
++++ b/sites/jacsurg/jp/gr/jacsurg/index.html
+@@ -1176,6 +1176,16 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<span>
++											2026/10/19
++										</span>
++										<span>
++											<a href="./info/archives/news202610_01.html" rel="noopener noreferrer">
++												日本呼吸器外科学会 ロゴマーク決定のお知らせ
++											</a>
++										</span>
++									</li>
+ 									<li>
+ 										<span>
+ 											2026/06/17
+@@ -1206,16 +1216,6 @@
+ 											</a>
+ 										</span>
+ 									</li>
+-									<li>
+-										<span>
+-											2026/01/13
+-										</span>
+-										<span>
+-											<a href="./committee/election/elc_inf_2026.html" rel="noopener noreferrer">
+-												第45回日本呼吸器外科学会学術集会副会長について
+-											</a>
+-										</span>
+-									</li>
+ 									<li>
+ 										<span>
+ 											2025/08/27

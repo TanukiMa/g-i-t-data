@@ -1,0 +1,52 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 7f15a152..fdf532a0 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,23 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/02
++											</time>
++										</td>
++										<td>
++											<a href="/members-only/members-news" rel="noopener noreferrer">
++												会員限定のお知らせ
++											</a>
++										</td>
++										<td>
++											<a href="/members-only/" rel="noopener noreferrer">
++												会員専用ホームページに新しいお知らせを掲載しました
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/03
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
+-												学会の活動
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/general/generalnews/post-159281.html" rel="noopener noreferrer">
+-												Injury Alert（傷害速報）の掲載について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

@@ -1,0 +1,406 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index ac1b7064..9834a50b 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1417,7 +1417,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月1日の新着ニュース
++															11月2日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1434,20 +1434,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="片頭痛は「ただの頭痛」ではない" src="https://asset.mtweb.jp/media/2026/09/01111416/com_normalinterv_thum_w440h275-1.jpg">
++																<img alt="感染性心内膜炎の治療はテーラーメード化できるか" src="https://asset.mtweb.jp/media/2026/06/19144940/com_dr_iwata_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
+-																			片頭痛は「ただの頭痛」ではない
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
++																			感染性心内膜炎の治療はテーラーメード化できるか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-01
++																			2026-11-02
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1483,20 +1483,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="「ADC眼毒性管理」で高まる眼科医の役割" src="https://asset.mtweb.jp/media/2026/06/12113948/com_dr_KaoruSasaki_thum_w440h275.jpg">
++																<img alt="こどもNISAに信託報酬ゼロの「ゼロカン」が登場" src="https://asset.mtweb.jp/media/2026/06/26143100/com_drchurio2_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
+-																			「ADC眼毒性管理」で高まる眼科医の役割
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
++																			こどもNISAに信託報酬ゼロの「ゼロカン」が登場
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-30
++																			2026-11-02
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1532,20 +1532,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="抗真菌薬アムホテリシンBの取り違えで死亡例" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
++																<img alt="片頭痛は「ただの頭痛」ではない" src="https://asset.mtweb.jp/media/2026/09/01111416/com_normalinterv_thum_w440h275-1.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620113" rel="noopener noreferrer">
+-																			抗真菌薬アムホテリシンBの取り違えで死亡例
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
++																			片頭痛は「ただの頭痛」ではない
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-10-30
++																			2026-11-01
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1581,13 +1581,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="水いぼ治療、皮疹消失率が高いのは？" src="https://asset.mtweb.jp/media/2026/10/29191401/ChatGPT-Image-20261029_molluscum-contagiosum.jpg">
++																<img alt="「ADC眼毒性管理」で高まる眼科医の役割" src="https://asset.mtweb.jp/media/2026/06/12113948/com_dr_KaoruSasaki_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619978" rel="noopener noreferrer">
+-																			水いぼ治療、皮疹消失率が高いのは？
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
++																			「ADC眼毒性管理」で高まる眼科医の役割
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1630,13 +1630,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="幻覚剤の単回点鼻投与で難治性うつ病が改善" src="https://asset.mtweb.jp/media/2026/10/30103838/Psychedelic-Mebufotenin_TOP.jpg">
++																<img alt="抗真菌薬アムホテリシンBの取り違えで死亡例" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620023" rel="noopener noreferrer">
+-																			幻覚剤の単回点鼻投与で難治性うつ病が改善
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620113" rel="noopener noreferrer">
++																			抗真菌薬アムホテリシンBの取り違えで死亡例
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1679,13 +1679,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="既治療の胃がん、CLDN18.2標的ADCでOS 2倍" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
++																<img alt="水いぼ治療、皮疹消失率が高いのは？" src="https://asset.mtweb.jp/media/2026/10/29191401/ChatGPT-Image-20261029_molluscum-contagiosum.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619810" rel="noopener noreferrer">
+-																			既治療の胃がん、CLDN18.2標的ADCでOS 2倍
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619978" rel="noopener noreferrer">
++																			水いぼ治療、皮疹消失率が高いのは？
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1728,13 +1728,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="運動は脊髄損傷患者の慢性疼痛を軽減する？" src="https://asset.mtweb.jp/media/2026/10/29182730/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B910%E6%9C%8829%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
++																<img alt="幻覚剤の単回点鼻投与で難治性うつ病が改善" src="https://asset.mtweb.jp/media/2026/10/30103838/Psychedelic-Mebufotenin_TOP.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=619945" rel="noopener noreferrer">
+-																			運動は脊髄損傷患者の慢性疼痛を軽減する？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=620023" rel="noopener noreferrer">
++																			幻覚剤の単回点鼻投与で難治性うつ病が改善
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1774,7 +1774,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月1日の新着連載
++															11月2日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1794,19 +1794,18 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
+-																					<img alt="片頭痛は「ただの頭痛」ではない" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
++																					<img alt="感染性心内膜炎の治療はテーラーメード化できるか" src="/assets/images/rensai/doceye/thumbnails/岩田健太郎（感染症）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619535" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-01
++																							2026-11-02
+ 																						</time>
+ 																						<h2>
+-																							片頭痛は「ただの頭痛」ではない
++																							感染性心内膜炎の治療はテーラーメード化できるか
+ 																						</h2>
+ 																						<p>
+-																							増える国内有病者数、推定1,000万人以上に
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1825,10 +1824,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									18
++																									5
+ 																								</span>
+ 																								<span>
+-																									18件「いいね！」されています
++																									5件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1845,19 +1844,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
+-																					<img alt="「ADC眼毒性管理」で高まる眼科医の役割" src="/assets/images/rensai/doceye/thumbnails/佐々木香る（眼科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
++																					<img alt="こどもNISAに信託報酬ゼロの「ゼロカン」が登場" src="/assets/images/rensai/thumbnails/com_drchurio_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619439" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-30
++																							2026-11-02
+ 																						</time>
+ 																						<h2>
+-																							「ADC眼毒性管理」で高まる眼科医の役割
++																							こどもNISAに信託報酬ゼロの「ゼロカン」が登場
+ 																						</h2>
+ 																						<p>
+-																							米国角膜屈折外科学会角膜委員会のレビュー
++																							2027年開始の「こどもNISA」、新たな投資信託を解説
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1866,20 +1865,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									2
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									23
++																									7
+ 																								</span>
+ 																								<span>
+-																									23件「いいね！」されています
++																									7件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1896,19 +1895,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619716" rel="noopener noreferrer">
+-																					<img alt="心不全に「MASLDパラドクス」浮上" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
++																					<img alt="片頭痛は「ただの頭痛」ではない" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619716" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=618803" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-29
++																							2026-11-01
+ 																						</time>
+ 																						<h2>
+-																							心不全に「MASLDパラドクス」浮上
++																							片頭痛は「ただの頭痛」ではない
+ 																						</h2>
+ 																						<p>
+-																							アジア人特有の現象？
++																							増える国内有病者数、推定1,000万人以上に
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1917,20 +1916,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									5
++																									3
+ 																								</span>
+ 																								<span>
+-																									5件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									45
++																									24
+ 																								</span>
+ 																								<span>
+-																									45件「いいね！」されています
++																									24件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1947,18 +1946,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619350" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕躁状態の患者が生成AIを利用するリスクとして、加藤忠史氏が特に懸念しているものは？【MT医療検定 No.144】（11/4まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
++																					<img alt="「ADC眼毒性管理」で高まる眼科医の役割" src="/assets/images/rensai/doceye/thumbnails/佐々木香る（眼科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=619350" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=618090" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-29
++																							2026-10-30
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕躁状態の患者が生成AIを利用するリスクとして、加藤忠史氏が特に懸念しているものは？【MT医療検定 No.144】（11/4まで）
++																							「ADC眼毒性管理」で高まる眼科医の役割
+ 																						</h2>
+ 																						<p>
++																							米国角膜屈折外科学会角膜委員会のレビュー
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1967,20 +1967,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									3
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									18
++																									27
+ 																								</span>
+ 																								<span>
+-																									18件「いいね！」されています
++																									27件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1997,19 +1997,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
+-																					<img alt="乳がん患者の妊娠・出産をどう支えるか" src="/assets/images/rensai/thumbnails/com_normalinterv_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619716" rel="noopener noreferrer">
++																					<img alt="心不全に「MASLDパラドクス」浮上" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619298" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=619716" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-10-27
++																							2026-10-29
+ 																						</time>
+ 																						<h2>
+-																							乳がん患者の妊娠・出産をどう支えるか
++																							心不全に「MASLDパラドクス」浮上
+ 																						</h2>
+ 																						<p>
+-																							POSITIVE試験が変えた生殖医療との連携
++																							アジア人特有の現象？
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2018,20 +2018,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									5
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									5件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									41
++																									45
+ 																								</span>
+ 																								<span>
+-																									41件「いいね！」されています
++																									45件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

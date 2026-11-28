@@ -1,0 +1,44 @@
+diff --git a/sites/nihon-eisei/org/nihon-eisei/index.html b/sites/nihon-eisei/org/nihon-eisei/index.html
+index fb012ef22..7eb8f71a9 100644
+--- a/sites/nihon-eisei/org/nihon-eisei/index.html
++++ b/sites/nihon-eisei/org/nihon-eisei/index.html
+@@ -350,6 +350,19 @@
+ 					最新情報
+ 				</h3>
+ 				<ul>
++					<li>
++						<span>
++							2026年11月26日
++						</span>
++						<span>
++							講演会・セミナーのお知らせ
++						</span>
++						<p>
++							<a href="activity/seminars/" rel="noopener noreferrer">
++								第46回（2026年度 第４回）DOHaD疫学セミナー
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<span>
+ 							2026年11月25日
+@@ -467,19 +480,6 @@
+ 							</a>
+ 						</p>
+ 					</li>
+-					<li>
+-						<span>
+-							2026年10月16日
+-						</span>
+-						<span>
+-							講演会・セミナーのお知らせ
+-						</span>
+-						<p>
+-							<a href="activity/seminars/" rel="noopener noreferrer">
+-								第45回（2026年度 第3回）DOHaD疫学セミナー
+-							</a>
+-						</p>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://www.nihon-eisei.org/?cat=2" rel="noopener noreferrer">

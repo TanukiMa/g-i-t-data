@@ -1,0 +1,117 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index dc41e263a..f2041f3fd 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1425,6 +1425,23 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<a href="https://www.jsicm.org/news/news261116.html" rel="noopener noreferrer">
++										</a>
++										<div>
++											<div>
++												2026年11月16日
++											</div>
++											<div>
++												学会より
++											</div>
++										</div>
++										<div>
++											<div>
++												本学会メールの障害について（Microsoft 365障害の復旧のお知らせ）
++											</div>
++										</div>
++									</li>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261113.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1438,9 +1455,7 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<span>
+-													本学会メールの障害について（Microsoft 365大規模障害）
+-												</span>
++												本学会メールの障害について（Microsoft 365大規模障害）
+ 											</div>
+ 										</div>
+ 									</li>
+@@ -1584,12 +1599,18 @@
+ 											</div>
+ 										</div>
+ 									</li>
++								</ul>
++								<span>
++								</span>
++							</div>
++							<div>
++								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news261016.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261116.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月16日
++												2026年11月16日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1597,18 +1618,10 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<span>
+-													新入会申込み手続き再開のお知らせ
+-												</span>
++												本学会メールの障害について（Microsoft 365障害の復旧のお知らせ）
+ 											</div>
+ 										</div>
+ 									</li>
+-								</ul>
+-								<span>
+-								</span>
+-							</div>
+-							<div>
+-								<ul>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261113.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1622,9 +1635,7 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<span>
+-													本学会メールの障害について（Microsoft 365大規模障害）
+-												</span>
++												本学会メールの障害について（Microsoft 365大規模障害）
+ 											</div>
+ 										</div>
+ 									</li>
+@@ -1768,25 +1779,6 @@
+ 											</div>
+ 										</div>
+ 									</li>
+-									<li>
+-										<a href="https://www.jsicm.org/news/news261016.html" rel="noopener noreferrer">
+-										</a>
+-										<div>
+-											<div>
+-												2026年10月16日
+-											</div>
+-											<div>
+-												学会より
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												<span>
+-													新入会申込み手続き再開のお知らせ
+-												</span>
+-											</div>
+-										</div>
+-									</li>
+ 								</ul>
+ 								<span>
+ 								</span>

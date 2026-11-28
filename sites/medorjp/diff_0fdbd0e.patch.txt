@@ -1,0 +1,46 @@
+diff --git a/sites/medorjp/jp/or/med/index.html b/sites/medorjp/jp/or/med/index.html
+index 15522f344..1a499401e 100644
+--- a/sites/medorjp/jp/or/med/index.html
++++ b/sites/medorjp/jp/or/med/index.html
+@@ -481,33 +481,33 @@
+ 					</h2>
+ 					<ul>
+ 						<li>
+-							<a href="https://www.med.or.jp/doctor/hospital_based/nichiinews/000306.html" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/doctor/sien/s_sien/012829.html" rel="noopener noreferrer">
+ 								<em>
+ 									2026.10.20
+ 								</em>
+ 								<span>
+-									勤務医のページ(勤務医関連の記事)
++									令和８年熊本地震関連
+ 								</span>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://www.med.or.jp/dl-med/people/plaza/607.pdf" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/doctor/hospital_based/nichiinews/000306.html" rel="noopener noreferrer">
+ 								<em>
+ 									2026.10.20
+ 								</em>
+ 								<span>
+-									子宮内膜症 －月経痛が強くなってきていませんか？－【健康ぷらざNo.607】
+-									<img alt="PDF" src="https://www.med.or.jp/common/images/i_pdf01.gif">
++									勤務医のページ(勤務医関連の記事)
+ 								</span>
+ 							</a>
+ 						</li>
+ 						<li>
+-							<a href="https://www.med.or.jp/doctor/sien/s_sien/012829.html" rel="noopener noreferrer">
++							<a href="https://www.med.or.jp/dl-med/people/plaza/607.pdf" rel="noopener noreferrer">
+ 								<em>
+-									2026.10.19
++									2026.10.20
+ 								</em>
+ 								<span>
+-									令和８年熊本地震関連
++									子宮内膜症 －月経痛が強くなってきていませんか？－【健康ぷらざNo.607】
++									<img alt="PDF" src="https://www.med.or.jp/common/images/i_pdf01.gif">
+ 								</span>
+ 							</a>
+ 						</li>

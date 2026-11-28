@@ -1,0 +1,57 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index 915513d46..28d8e2ce6 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -905,27 +905,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1895" rel="noopener noreferrer">
+-								<p>
+-									<img alt="PCR-Connect2026　研究相談ブース申込期間　再延長しました！" src="/pics/news/news-thumb-1895.png">
+-								</p>
+-								<h2>
+-									PCR-Connect2026　研究相談ブース申込期間　再延長しました！
+-								</h2>
+-								<p>
+-									10月24日、25日開催のPCR-Connect 2026では、新企画として「研究相談ブース」を設…
+-								</p>
+-								<p>
+-									<time>
+-										2026.09.25
+-									</time>
+-									<span>
+-										オススメ
+-									</span>
+-								</p>
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1927" rel="noopener noreferrer">
+ 								<p>
+@@ -1412,6 +1391,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1895" rel="noopener noreferrer">
++								<p>
++									<img alt="PCR-Connect2026　研究相談ブース申込期間　再延長しました！" src="/pics/news/news-thumb-1895.png">
++								</p>
++								<h2>
++									PCR-Connect2026　研究相談ブース申込期間　再延長しました！
++								</h2>
++								<p>
++									10月24日、25日開催のPCR-Connect 2026では、新企画として「研究相談ブース」を設…
++								</p>
++								<p>
++									<time>
++										2026.09.25
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1894" rel="noopener noreferrer">
+ 								<p>

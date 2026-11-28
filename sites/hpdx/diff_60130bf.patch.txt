@@ -1,0 +1,14 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index f603d0ea..1faf9cfe 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -106,6 +106,9 @@
+ 					<div>
+ 						<div>
+ 							<ul>
++								<li>
++									<img alt="ＤＸ審査支払機構システムメンテナンスのお知らせ" height="346" src="index.images/mvimg_20261109.png" width="500">
++								</li>
+ 								<li>
+ 									<a href="/saigai/index.html" rel="noopener noreferrer">
+ 										<img alt="災害に関するお知らせ" height="346" src="index.images/mvimg_saigai_all.png" width="500">

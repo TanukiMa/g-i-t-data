@@ -1,0 +1,82 @@
+diff --git a/sites/jmsborjp/jp/or/jmsb/index.html b/sites/jmsborjp/jp/or/jmsb/index.html
+index c12ad6313..00f20ef36 100644
+--- a/sites/jmsborjp/jp/or/jmsb/index.html
++++ b/sites/jmsborjp/jp/or/jmsb/index.html
+@@ -671,20 +671,6 @@
+ 					<ul>
+ 						<li>
+ 							<ul>
+-								<li>
+-									<div>
+-										2026/11/27
+-									</div>
+-									<br>
+-									<p>
+-										<a href="https://jmsb.or.jp/kiko_news/%e3%80%88new%e3%80%89jmsb-online-system%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e9%9b%86%e4%b8%ad%e3%81%ab%e3%82%88%e3%82%8b%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%b8%e3%81%ae%e6%8e%a5%e7%b6%9a/" rel="noopener noreferrer">
+-											<strong>
+-												〈NEW〉
+-											</strong>
+-											JMSB Online System+アクセス集中によるサーバーへの接続が不安定になっております
+-										</a>
+-									</p>
+-								</li>
+ 								<li>
+ 									<div>
+ 										2026/11/02
+@@ -729,6 +715,17 @@
+ 										</a>
+ 									</p>
+ 								</li>
++								<li>
++									<div>
++										2026/09/28
++									</div>
++									<br>
++									<p>
++										<a href="https://jmsb.or.jp/kiko_news/%e3%80%88new%e3%80%89jmsb-online-system-%e5%b0%82%e6%94%bb%e5%8c%bb%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e7%99%bb%e9%8c%b2%e9%96%8b%e5%a7%8b%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-2/" rel="noopener noreferrer">
++											JMSB Online System+ 専攻医アカウント登録開始のお知らせ
++										</a>
++									</p>
++								</li>
+ 								<p>
+ 									<a href="https://jmsb.or.jp/kiko_news/" rel="noopener noreferrer">
+ 										お知らせ一覧
+@@ -740,20 +737,6 @@
+ 						</li>
+ 						<li>
+ 							<ul>
+-								<li>
+-									<div>
+-										2026/11/27
+-									</div>
+-									<br>
+-									<p>
+-										<a href="https://jmsb.or.jp/senkoi_news/%e3%80%88new%e3%80%89jmsb-online-system%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e9%9b%86%e4%b8%ad%e3%81%ab%e3%82%88%e3%82%8b%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%b8%e3%81%ae%e6%8e%a5%e7%b6%9a-2/" rel="noopener noreferrer">
+-											<strong>
+-												〈NEW〉
+-											</strong>
+-											JMSB Online System+アクセス集中によるサーバーへの接続が不安定になっております
+-										</a>
+-									</p>
+-								</li>
+ 								<li>
+ 									<div>
+ 										2026/11/12
+@@ -804,6 +787,17 @@
+ 										</a>
+ 									</p>
+ 								</li>
++								<li>
++									<div>
++										2026/06/29
++									</div>
++									<br>
++									<p>
++										<a href="https://jmsb.or.jp/senkoi_news/%e3%80%88new%e3%80%89%e5%9c%b0%e5%9f%9f%e6%9e%a0%e3%81%8a%e3%82%88%e3%81%b3%e5%be%93%e4%ba%8b%e8%a6%81%e4%bb%b6%e3%81%ae%e3%81%82%e3%82%8b%e5%b0%82%e6%94%bb%e5%8c%bb%e3%81%ae%e5%8f%96%e6%89%b1/" rel="noopener noreferrer">
++											地域枠および従事要件のある専攻医の取扱いについて、条項を一部改定いたしました
++										</a>
++									</p>
++								</li>
+ 								<p>
+ 									<a href="https://jmsb.or.jp/senkoi_news/" rel="noopener noreferrer">
+ 										お知らせ一覧

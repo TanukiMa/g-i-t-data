@@ -1,0 +1,31 @@
+diff --git a/sites/jami/jp/jami/index.html b/sites/jami/jp/jami/index.html
+index e762d6898..9b85910c2 100644
+--- a/sites/jami/jp/jami/index.html
++++ b/sites/jami/jp/jami/index.html
+@@ -385,6 +385,26 @@
+ 		</header>
+ 		<div>
+ 			<ul>
++				<li>
++					<time>
++						2026年10月7日
++					</time>
++					<ul>
++						<li>
++							<a href="https://www.jami.jp/category/news/" rel="noopener noreferrer">
++								お知らせ
++							</a>
++						</li>
++						<li>
++							<a href="https://www.jami.jp/category/memberonly/" rel="noopener noreferrer">
++								会員のみ
++							</a>
++						</li>
++					</ul>
++					<a href="https://www.jami.jp/document/online-journal/" rel="noopener noreferrer">
++						「医療情報学」第46巻4号を会員専用ページのオンラインジャーナルに掲載しました。
++					</a>
++				</li>
+ 				<li>
+ 					<time>
+ 						2026年9月18日

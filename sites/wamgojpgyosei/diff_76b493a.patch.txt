@@ -1,0 +1,139 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index 144aa2b43..34d479800 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2048,6 +2048,18 @@
+ 															<div>
+ 																<table>
+ 																	<tbody>
++																		<tr>
++																			<td>
++																				<div>
++																					審議会
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=23047&amp;ct=010010040" rel="noopener noreferrer" title="第131回 社会保障審議会 医療部会（令和8年11月11日開催）">
++																					第131回 社会保障審議会 医療部会（令和8年11月11日開催）
++																				</a>
++																			</td>
++																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+@@ -2110,6 +2122,8 @@
+ 																		</tr>
+ 																		<tr>
+ 																			<td>
++																				<div>
++																				</div>
+ 																				<div>
+ 																					医療
+ 																				</div>
+@@ -2120,20 +2134,6 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+-																		<tr>
+-																			<td>
+-																				<div>
+-																				</div>
+-																				<div>
+-																					子ども・家庭
+-																				</div>
+-																			</td>
+-																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23032&amp;ct=090080345" rel="noopener noreferrer" title="第3回 こどもの預かりサービスの在り方に関する専門委員会（令和8年11月9日開催）">
+-																					第3回 こどもの預かりサービスの在り方に関する専門委員会（令和8年11月9日開催）
+-																				</a>
+-																			</td>
+-																		</tr>
+ 																	</tbody>
+ 																</table>
+ 															</div>
+@@ -2164,8 +2164,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23038&amp;ct=010010050" rel="noopener noreferrer" title="第220回 社会保障審議会 医療保険部会（令和8年11月11日開催）">
+-																					第220回 社会保障審議会 医療保険部会（令和8年11月11日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23047&amp;ct=010010040" rel="noopener noreferrer" title="第131回 社会保障審議会 医療部会（令和8年11月11日開催）">
++																					第131回 社会保障審議会 医療部会（令和8年11月11日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2176,8 +2176,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23044&amp;ct=010010220" rel="noopener noreferrer" title="第63回 社会保障審議会 生活保護基準部会（令和8年11月11日開催）">
+-																					第63回 社会保障審議会 生活保護基準部会（令和8年11月11日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23038&amp;ct=010010050" rel="noopener noreferrer" title="第220回 社会保障審議会 医療保険部会（令和8年11月11日開催）">
++																					第220回 社会保障審議会 医療保険部会（令和8年11月11日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2188,8 +2188,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23041&amp;ct=010050030" rel="noopener noreferrer" title="第77回 中央社会保険医療協議会 診療報酬改定結果検証部会（令和8年11月11日開催）">
+-																					第77回 中央社会保険医療協議会 診療報酬改定結果検証部会（令和8年11月11日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23044&amp;ct=010010220" rel="noopener noreferrer" title="第63回 社会保障審議会 生活保護基準部会（令和8年11月11日開催）">
++																					第63回 社会保障審議会 生活保護基準部会（令和8年11月11日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2200,8 +2200,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23028&amp;ct=010010020" rel="noopener noreferrer" title="第274回 社会保障審議会 介護給付費分科会（令和8年11月6日開催）">
+-																					第274回 社会保障審議会 介護給付費分科会（令和8年11月6日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23041&amp;ct=010050030" rel="noopener noreferrer" title="第77回 中央社会保険医療協議会 診療報酬改定結果検証部会（令和8年11月11日開催）">
++																					第77回 中央社会保険医療協議会 診療報酬改定結果検証部会（令和8年11月11日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2212,8 +2212,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23021&amp;ct=010010265" rel="noopener noreferrer" title="第49回 匿名医療情報等の提供に関する専門委員会（令和8年11月9日開催）">
+-																					第49回 匿名医療情報等の提供に関する専門委員会（令和8年11月9日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23028&amp;ct=010010020" rel="noopener noreferrer" title="第274回 社会保障審議会 介護給付費分科会（令和8年11月6日開催）">
++																					第274回 社会保障審議会 介護給付費分科会（令和8年11月6日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2829,6 +2829,30 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
++																		<tr>
++																			<td>
++																				<div>
++																					福祉全般
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=23046&amp;ct=070010070" rel="noopener noreferrer">
++																					第64回 社会保障審議会 生活保護基準部会（令和8年11月17日開催予定）
++																				</a>
++																			</td>
++																		</tr>
++																		<tr>
++																			<td>
++																				<div>
++																					福祉全般
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=23045&amp;ct=070010010" rel="noopener noreferrer">
++																					第79回 厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について（令和8年11月19日開催予定）
++																				</a>
++																			</td>
++																		</tr>
+ 																	</tbody>
+ 																</table>
+ 															</div>

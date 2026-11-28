@@ -1,0 +1,52 @@
+diff --git a/sites/japanptorjp/jp/or/japanpt/index.html b/sites/japanptorjp/jp/or/japanpt/index.html
+index 9c27fdd9..fd88b391 100644
+--- a/sites/japanptorjp/jp/or/japanpt/index.html
++++ b/sites/japanptorjp/jp/or/japanpt/index.html
+@@ -630,6 +630,23 @@
+ 			</h2>
+ 			<div>
+ 				<ul>
++					<li>
++						<a href="/info/20261106_317.html" rel="noopener noreferrer">
++							<div>
++								2026年11月06日
++							</div>
++							<div>
++								<ul>
++									<li>
++										協会の取り組み
++									</li>
++								</ul>
++							</div>
++							<div>
++								[政策活動レポート]を更新しました
++							</div>
++						</a>
++					</li>
+ 					<li>
+ 						<a href="/info/20261104_311.html" rel="noopener noreferrer">
+ 							<div>
+@@ -718,23 +735,6 @@
+ 							</div>
+ 						</a>
+ 					</li>
+-					<li>
+-						<a href="/info/20261023_297.html" rel="noopener noreferrer">
+-							<div>
+-								2026年10月23日
+-							</div>
+-							<div>
+-								<ul>
+-									<li>
+-										お知らせ
+-									</li>
+-								</ul>
+-							</div>
+-							<div>
+-								【緊急】WEBサイト一部利用停止に伴う研修会、学術大会等での対応について
+-							</div>
+-						</a>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="/info/pt/" rel="noopener noreferrer">

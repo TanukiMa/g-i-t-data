@@ -1,0 +1,18 @@
+diff --git a/sites/pathology/jp/or/pathology/index.html b/sites/pathology/jp/or/pathology/index.html
+index 072621ced..6320c3dd3 100644
+--- a/sites/pathology/jp/or/pathology/index.html
++++ b/sites/pathology/jp/or/pathology/index.html
+@@ -413,6 +413,13 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											2026.10.15
++											<a href="https://www.iccr-cancer.org/datasets/datasets-under-consultation/" rel="noopener noreferrer">
++												ICCRから消化器関連のデータセットのパブリックコメント募集のお知らせ（12月9日まで）
++											</a>
++										</li>
++										<hr>
+ 										<li>
+ 											2026.10.05
+ 											<a href="https://www.pathology.or.jp/news/members/seminar/2026-1.html" rel="noopener noreferrer">

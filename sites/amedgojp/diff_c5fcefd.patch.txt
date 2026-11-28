@@ -1,0 +1,79 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 484be6a9..48b0d569 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -708,8 +708,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/lcsymposium20270122.html" rel="noopener noreferrer">
+-											（情報更新）（令和9年1月22日開催）「ライフコースを通じた健康とウェルビーイングの実現　～ライフコースアプロー...
++										<a href="/news/event/20261128.html" rel="noopener noreferrer">
++											（令和8年11月28日開催）「AMEDスポンサードセミナー『AMED患者・市民参画（PPI） ガイドブック、ただ...
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -719,18 +719,18 @@
+ 											</span>
+ 											<div>
+ 												<span>
+-													イベント
++													トピックス
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/event/20261128.html" rel="noopener noreferrer">
+-											（令和8年11月28日開催）「AMEDスポンサードセミナー『AMED患者・市民参画（PPI） ガイドブック、ただ...
++										<a href="/news/topics/20261106.html" rel="noopener noreferrer">
++											広報ウェブマガジン「AMED Pickup」で「中釜理事長も登壇：第85回日本癌学会学術総会AMED合同シンポジ...
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年11月6日
++												令和8年11月4日
+ 											</span>
+ 											<div>
+ 												<span>
+@@ -738,8 +738,8 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/20261106.html" rel="noopener noreferrer">
+-											広報ウェブマガジン「AMED Pickup」で「中釜理事長も登壇：第85回日本癌学会学術総会AMED合同シンポジ...
++										<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
++											（情報更新）「公募カレンダー」最新情報を掲載しました
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -753,23 +753,23 @@
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/kobo_calendar_update.html" rel="noopener noreferrer">
+-											（情報更新）「公募カレンダー」最新情報を掲載しました
++										<a href="/news/topics/20261104.html" rel="noopener noreferrer">
++											【トピックス】濵口道成先進的研究開発戦略センター（SCARDA）センター長が、令和8年秋の叙勲において瑞宝大綬章...
+ 										</a>
+ 									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+-												令和8年11月4日
++												令和8年11月2日
+ 											</span>
+ 											<div>
+ 												<span>
+-													トピックス
++													事業に関するお知らせ
+ 												</span>
+ 											</div>
+ 										</div>
+-										<a href="/news/topics/20261104.html" rel="noopener noreferrer">
+-											【トピックス】濵口道成先進的研究開発戦略センター（SCARDA）センター長が、令和8年秋の叙勲において瑞宝大綬章...
++										<a href="/news/program/20261029.html" rel="noopener noreferrer">
++											検査マニュアルの掲載について
+ 										</a>
+ 									</li>
+ 								</ul>

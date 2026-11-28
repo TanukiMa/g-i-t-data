@@ -1,0 +1,93 @@
+diff --git a/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html b/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
+index 935f0630..e09727da 100644
+--- a/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
++++ b/sites/mhlw-tokaihokuriku/jp/go/mhlw/kouseikyoku/tokaihokuriku.html
+@@ -981,26 +981,26 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/yakka/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/gyomu/gyomu/hoken_kikan/shitei.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月5日
++													2026年11月6日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													薬価基準、医薬品医療機器等法関係の通知を新たに掲載しました。
++													保険医療機関等の指定状況等について情報を更新しました（2026年11月分）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/tokutei/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/iryo_hoken/yakka/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月5日
+@@ -1013,13 +1013,13 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													特定保険医療材料関係
++													薬価基準、医薬品医療機器等法関係の通知を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/senshin/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/iryo_hoken/tokutei/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月5日
+@@ -1032,13 +1032,13 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													先進医療関係の通知を新たに掲載しました。
++													特定保険医療材料関係
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/santei/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/iryo_hoken/senshin/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月5日
+@@ -1051,13 +1051,13 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													診療報酬の算定・施設基準の届出関係の通知を新たに掲載しました。
++													先進医療関係の通知を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tokaihokuriku/iryo_hoken/iryokiki/index.html" rel="noopener noreferrer">
++										<a href="/tokaihokuriku/iryo_hoken/santei/index.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月5日
+@@ -1070,7 +1070,7 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													医療機器の保険適用関係の通知を新たに掲載しました。
++													診療報酬の算定・施設基準の届出関係の通知を新たに掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>

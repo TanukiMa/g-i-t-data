@@ -1,0 +1,50 @@
+diff --git a/sites/jami/jp/jami/index.html b/sites/jami/jp/jami/index.html
+index 65b94058c..d431795a6 100644
+--- a/sites/jami/jp/jami/index.html
++++ b/sites/jami/jp/jami/index.html
+@@ -298,22 +298,6 @@
+ 			</h2>
+ 		</header>
+ 		<div>
+-			<div>
+-				<a href="https://www.jcmi46.org/" rel="noopener noreferrer">
+-					<img alt="" height="960" src="https://www.jami.jp/wp-content/uploads/members/JCMI2026Logo2--960x902.gif" width="960">
+-					<div>
+-						<h3>
+-							第46回　医療情報学連合大会（第27回日本医療情報学会学術大会）
+-						</h3>
+-						<p>
+-							2026年11月12日（木）～2026年11月15日（日）
+-						</p>
+-						<p>
+-							札幌市（札幌コンベンションセンター）
+-						</p>
+-					</div>
+-				</a>
+-			</div>
+ 			<div>
+ 				<a href="https://isoukai2027.jp/" rel="noopener noreferrer">
+ 					<img alt="" height="960" src="https://www.jami.jp/wp-content/uploads/2026/08/WEBバナー317_金-002_sq_正方形.jpg" width="960">
+@@ -364,6 +348,22 @@
+ 					</div>
+ 				</a>
+ 			</div>
++			<div>
++				<a href="https://dimio.jp/jami-ni28/" rel="noopener noreferrer">
++					<img alt="" height="960" src="https://www.jami.jp/wp-content/uploads/2026/08/jami-ni28_バナー_960×960.jpg" width="960">
++					<div>
++						<h3>
++							第28回　日本医療情報学会看護学術大会
++						</h3>
++						<p>
++							2027年9月24日（金）～2027年9月25日（土）
++						</p>
++						<p>
++							札幌市（札幌コンベンションセンター）
++						</p>
++					</div>
++				</a>
++			</div>
+ 		</div>
+ 		<p>
+ 			<a href="https://www.jami.jp/event/" rel="noopener noreferrer">

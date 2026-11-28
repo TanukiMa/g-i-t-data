@@ -1,0 +1,44 @@
+diff --git a/sites/ajhcorjp/jp/or/ajhc/index.html b/sites/ajhcorjp/jp/or/ajhc/index.html
+index f19deb690..79ff45ebf 100644
+--- a/sites/ajhcorjp/jp/or/ajhc/index.html
++++ b/sites/ajhcorjp/jp/or/ajhc/index.html
+@@ -196,13 +196,37 @@
+ 					<div>
+ 						<dl>
+ 							<dt>
+-								2026/11/13
++								2026/11/17
+ 								<span>
+ 									おしらせ
+ 								</span>
+ 							</dt>
+ 							<dd>
+-								保険局からの各種発出文章について（新着情報へ）
++								<a href="siryo/20261116.pdf" rel="noopener noreferrer">
++									医薬品医療機器等法上の効能・効果等の変更に伴う留意事項の一部改正等について
++								</a>
++							</dd>
++							<dt>
++								2026/11/17
++								<span>
++									おしらせ
++								</span>
++							</dt>
++							<dd>
++								<a href="siryo/20261113online.pdf" rel="noopener noreferrer">
++									国家資格に係る申請等手続のオンライン化について
++								</a>
++							</dd>
++							<dt>
++								2026/11/17
++								<span>
++									おしらせ
++								</span>
++							</dt>
++							<dd>
++								<a href="siryo/20261113digital.pdf" rel="noopener noreferrer">
++									国家資格に係る資格情報のデジタル化・確認方法について
++								</a>
+ 							</dd>
+ 							<dt>
+ 								<span>

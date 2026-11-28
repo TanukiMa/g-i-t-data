@@ -1,0 +1,68 @@
+diff --git a/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html b/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
+index dd26897db..14a69a4c3 100644
+--- a/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
++++ b/sites/mhlw-tohoku/jp/go/mhlw/kouseikyoku/tohoku.html
+@@ -952,26 +952,26 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/tohoku/gyomu/gyomu/hoken_kikan/houmon_00005.html" rel="noopener noreferrer">
++										<a href="/tohoku/shido_kansa/tuuti-r4_00012.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月13日
++													2026年11月17日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														通知・通達
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													訪問看護事業所に係る施設基準の届出受理名簿（令和8年11月更新）
++													医療保険関係通知一覧（令和8年度）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tohoku/gyomu/gyomu/hoken_kikan/houmon.html" rel="noopener noreferrer">
++										<a href="/tohoku/gyomu/gyomu/hoken_kikan/houmon_00005.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年11月13日
+@@ -984,26 +984,26 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													訪問看護事業所の管内指定状況一覧（令和8年11月更新）
++													訪問看護事業所に係る施設基準の届出受理名簿（令和8年11月更新）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/tohoku/shido_kansa/tuuti-r4_00012.html" rel="noopener noreferrer">
++										<a href="/tohoku/gyomu/gyomu/hoken_kikan/houmon.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年11月6日
++													2026年11月13日
+ 												</time>
+ 												<em>
+ 													<span>
+-														通知・通達
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													医療保険関係通知一覧（令和8年度）
++													訪問看護事業所の管内指定状況一覧（令和8年11月更新）
+ 												</span>
+ 											</div>
+ 										</a>

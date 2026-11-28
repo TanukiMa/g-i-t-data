@@ -1,0 +1,85 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index c5ff5d755..e50a36f4d 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -771,6 +771,27 @@
+ 				</ul>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1928" rel="noopener noreferrer">
++								<p>
++									<img alt="【学会からのお知らせ】UMIN全サービス一時停止のお知らせ" src="/pics/news/news-thumb-1928.jpg">
++								</p>
++								<h2>
++									【学会からのお知らせ】UMIN全サービス一時停止のお知らせ
++								</h2>
++								<p>
++									東京大学の定期電源設備保守作業に伴い、下記の日程におきましてUMINセンターの全サービスが一時停止…
++								</p>
++								<p>
++									<time>
++										2026.10.13
++									</time>
++									<span>
++										オススメ
++									</span>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1926" rel="noopener noreferrer">
+ 								<p>
+@@ -2496,24 +2517,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1821" rel="noopener noreferrer">
+-								<p>
+-									<img alt="＜JPCA2026＞ オンデマンド配信中（8月31日まで）" src="/pics/news/news-thumb-1821.jpg">
+-								</p>
+-								<h2>
+-									＜JPCA2026＞ オンデマンド配信中（8月31日まで）
+-								</h2>
+-								<p>
+-									世間的には子どもたちは夏休みですね。猛暑でなかなか思い切り外で遊ぶこともできなくなっていますが。J…
+-								</p>
+-								<p>
+-									<time>
+-										2026.07.26
+-									</time>
+-								</p>
+-							</a>
+-						</li>
+ 					</ul>
+ 					<p>
+ 						<a rel="noopener noreferrer">
+@@ -6994,6 +6997,27 @@
+ 				</div>
+ 				<div>
+ 					<ul>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1928" rel="noopener noreferrer">
++								<p>
++									<img alt="【学会からのお知らせ】UMIN全サービス一時停止のお知らせ" src="/pics/news/news-thumb-1928.jpg">
++								</p>
++								<h2>
++									【学会からのお知らせ】UMIN全サービス一時停止のお知らせ
++								</h2>
++								<p>
++									東京大学の定期電源設備保守作業に伴い、下記の日程におきましてUMINセンターの全サービスが一時停止…
++								</p>
++								<p>
++									<time>
++										2026.10.13
++									</time>
++									<span>
++										オススメ
++									</span>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1871" rel="noopener noreferrer">
+ 								<p>

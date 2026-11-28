@@ -1,0 +1,52 @@
+diff --git a/sites/ryumachi-jp/com/ryumachi-jp/index.html b/sites/ryumachi-jp/com/ryumachi-jp/index.html
+index 8f35daad0..60485de23 100644
+--- a/sites/ryumachi-jp/com/ryumachi-jp/index.html
++++ b/sites/ryumachi-jp/com/ryumachi-jp/index.html
+@@ -1486,6 +1486,23 @@
+ 					</span>
+ 				</h3>
+ 				<div>
++					<div>
++						<div>
++							<span>
++								2026.11.20
++							</span>
++						</div>
++						<div>
++							<span>
++								医薬医療情報
++							</span>
++						</div>
++						<div>
++							<a href="https://www.ryumachi-jp.com/publish/iyaku/news261120/" rel="noopener noreferrer">
++								ゴリムマブBS 皮下注50mg シリンジ｢F｣の限定出荷に関するお知らせ（第3版）
++							</a>
++						</div>
++					</div>
+ 					<div>
+ 						<div>
+ 							<span>
+@@ -1571,23 +1588,6 @@
+ 							</a>
+ 						</div>
+ 					</div>
+-					<div>
+-						<div>
+-							<span>
+-								2026.10.22
+-							</span>
+-						</div>
+-						<div>
+-							<span>
+-								医薬医療情報
+-							</span>
+-						</div>
+-						<div>
+-							<a href="https://www.ryumachi-jp.com/publish/iyaku/news261022/" rel="noopener noreferrer">
+-								厚生労働省からのアバコパン製剤の使用に当たっての留意事項のお知らせ
+-							</a>
+-						</div>
+-					</div>
+ 					<div>
+ 						<div>
+ 							<a href="https://www.ryumachi-jp.com/information/" rel="noopener noreferrer">

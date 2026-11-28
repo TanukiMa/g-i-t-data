@@ -1,0 +1,58 @@
+diff --git a/sites/jaotorjp/jp/or/jaot/index.html b/sites/jaotorjp/jp/or/jaot/index.html
+index 6f862d52d..78a4775fa 100644
+--- a/sites/jaotorjp/jp/or/jaot/index.html
++++ b/sites/jaotorjp/jp/or/jaot/index.html
+@@ -407,30 +407,28 @@
+ 										<div>
+ 											<div>
+ 												<div>
+-													<a href="/member/pickup/detail/1373/" rel="noopener noreferrer">
+-														<div>
+-															<img alt="" src="/files/banner/JAOT_60th_Anniversary_Banner_Master.jpg">
+-														</div>
+-													</a>
++													<div>
++														<img alt="" src="/files/banner/mente20261124.jpg">
++													</div>
+ 												</div>
+ 												<div>
+-													<a href="https://www.jaot.or.jp/ot_alzheimer/" rel="noopener noreferrer">
++													<a href="/member/pickup/detail/1373/" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/banner/ot_web-ah-02_200810.jpg">
++															<img alt="" src="/files/banner/JAOT_60th_Anniversary_Banner_Master.jpg">
+ 														</div>
+ 													</a>
+ 												</div>
+ 												<div>
+-													<a href="https://www.jaot.or.jp/about/topics/detail/1397/" rel="noopener noreferrer">
++													<a href="https://www.jaot.or.jp/about/kihonrinen/" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/banner/R8kumamoto.jpg">
++															<img alt="" src="/files/banner/OT_KihonRinen_Bannar01.png">
+ 														</div>
+ 													</a>
+ 												</div>
+ 												<div>
+-													<a href="/member/from_assoc/detail/1419/" rel="noopener noreferrer">
++													<a href="https://www.jaot.or.jp/ot_alzheimer/" rel="noopener noreferrer">
+ 														<div>
+-															<img alt="" src="/files/banner/R8_chiba.jpg">
++															<img alt="" src="/files/banner/ot_web-ah-02_200810.jpg">
+ 														</div>
+ 													</a>
+ 												</div>
+@@ -441,13 +439,6 @@
+ 														</div>
+ 													</a>
+ 												</div>
+-												<div>
+-													<a href="https://www.jaot.or.jp/about/kihonrinen/" rel="noopener noreferrer">
+-														<div>
+-															<img alt="" src="/files/banner/OT_KihonRinen_Bannar01.png">
+-														</div>
+-													</a>
+-												</div>
+ 												<div>
+ 													<a href="/video/jibun/" rel="noopener noreferrer">
+ 														<div>

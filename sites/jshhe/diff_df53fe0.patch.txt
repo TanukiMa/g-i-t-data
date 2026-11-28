@@ -1,0 +1,29 @@
+diff --git a/sites/jshhe/org/jshhe/index.html b/sites/jshhe/org/jshhe/index.html
+index 22553aff6..6320bbc72 100644
+--- a/sites/jshhe/org/jshhe/index.html
++++ b/sites/jshhe/org/jshhe/index.html
+@@ -407,8 +407,11 @@
+ 							<br>
+ 							FAX: 0422-44-4427
+ 							<br>
+-							E-mail: jshhe@ksot.kyorin-u.ac.jp
++							E-mail: jshhe▲ksot.kyorin-u.ac.jp
+ 						</p>
++						<small>
++							（▲を@に置き換えてください）
++						</small>
+ 						<br>
+ 						<br>
+ 						<p>
+@@ -528,7 +531,10 @@
+ 									<br>
+ 									FAX: 0422-44-4427
+ 									<br>
+-									E-mail: jshhe@ksot.kyorin-u.ac.jp
++									E-mail: jshhe▲ksot.kyorin-u.ac.jp
++									<small>
++										（▲を@に置き換えてください）
++									</small>
+ 								</p>
+ 							</div>
+ 						</div>

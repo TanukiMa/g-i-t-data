@@ -1,0 +1,88 @@
+diff --git a/sites/ajhaorjp/jp/or/ajha/index.html b/sites/ajhaorjp/jp/or/ajha/index.html
+index 79d23c4f4..f2d09f34b 100644
+--- a/sites/ajhaorjp/jp/or/ajha/index.html
++++ b/sites/ajhaorjp/jp/or/ajha/index.html
+@@ -1876,6 +1876,19 @@
+ 				</div>
+ 				<div>
+ 					<dl>
++						<dt>
++							2026/10/23
++						</dt>
++						<dd>
++							<a href="/topics/jimukyoku/index.html" rel="noopener noreferrer">
++								お知らせ
++							</a>
++							<p>
++								<a href="/topics/news/261023_3.html" rel="noopener noreferrer">
++									【重要】メール配信サービス（ブラストメール）への不正アクセスに伴う情報漏えいについて
++								</a>
++							</p>
++						</dd>
+ 						<dt>
+ 							2026/10/23
+ 						</dt>
+@@ -1928,45 +1941,6 @@
+ 								</a>
+ 							</p>
+ 						</dd>
+-						<dt>
+-							2026/10/15
+-						</dt>
+-						<dd>
+-							<a href="/news/" rel="noopener noreferrer">
+-								全日病NEWS
+-							</a>
+-							<p>
+-								<a href="/news/backnumber/pdf/2026/261015.pdf" rel="noopener noreferrer">
+-									全日病ニュース　第1111回／2026年10月15日号 更新しました
+-								</a>
+-							</p>
+-						</dd>
+-						<dt>
+-							2026/10/15
+-						</dt>
+-						<dd>
+-							<a href="/seminar/" rel="noopener noreferrer">
+-								教育研修
+-							</a>
+-							<p>
+-								<a href="/seminar/pdf/seminar_info.pdf" rel="noopener noreferrer">
+-									研修参加申込状況を更新しました
+-								</a>
+-							</p>
+-						</dd>
+-						<dt>
+-							2026/10/14
+-						</dt>
+-						<dd>
+-							<a href="/seminar/" rel="noopener noreferrer">
+-								教育研修
+-							</a>
+-							<p>
+-								<a href="/seminar/other/pdf/261014_5.pdf" rel="noopener noreferrer">
+-									2026年度 ペイシェントハラスメントと院内暴力に関する研修会開催のご案内
+-								</a>
+-							</p>
+-						</dd>
+ 					</dl>
+ 				</div>
+ 				<div>
+@@ -2575,17 +2549,6 @@
+ 							</a>
+ 						</li>
+ 					</ul>
+-					<ul>
+-						<li>
+-							<a href="https://portal.ajha.or.jp/login" rel="noopener noreferrer">
+-								会員情報の
+-								<br>
+-								変更申請は
+-								<br>
+-								こちら
+-							</a>
+-						</li>
+-					</ul>
+ 				</nav>
+ 			</div>
+ 			<a href="#" rel="noopener noreferrer">

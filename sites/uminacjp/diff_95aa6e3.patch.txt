@@ -1,0 +1,195 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 2ed26e618..0fc397101 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -809,20 +809,14 @@
+ 				<ul>
+ 					<li>
+ 						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015685" rel="noopener noreferrer">
+-							佐賀大学 整形外科 講師公募
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015686" rel="noopener noreferrer">
++							大分大学医学部 医学科　解剖学講座 教授公募
+ 						</a>
+ 					</li>
+ 					<li>
+ 						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015679" rel="noopener noreferrer">
+-							国立大学法人　長崎大学 生命医科学域　医学系　総合診療学分野 教授公募
+-						</a>
+-					</li>
+-					<li>
+-						[教職員公募]
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015678" rel="noopener noreferrer">
+-							国立大学法人　長崎大学 生命医科学域　医学系　循環器内科学分野 教授公募
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015685" rel="noopener noreferrer">
++							佐賀大学 整形外科 講師公募
+ 						</a>
+ 					</li>
+ 					<li>
+@@ -867,6 +861,12 @@
+ 							国立保健医療科学院 防災・公衆衛生レジリエンス研究センター 研究員等公募
+ 						</a>
+ 					</li>
++					<li>
++						[教職員公募]
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/rocols/ro_view.cgi?ID=015675" rel="noopener noreferrer">
++							国立保健医療科学院 防災・公衆衛生レジリエンス研究センター 室長等公募
++						</a>
++					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="http://www.umin.ac.jp/find/" rel="noopener noreferrer">
+@@ -894,6 +894,18 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						研究助成：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/josei/select/index.cgi?kikan_cd=00017835" rel="noopener noreferrer">
++							医療機器センター 2027年度【実用化展開型】医療技術研究開発助成
++						</a>
++					</li>
++					<li>
++						研究助成：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/josei/select/index.cgi?kikan_cd=00017835" rel="noopener noreferrer">
++							医療機器センター 2027年度【萌芽・探索型】医療技術研究開発助成
++						</a>
++					</li>
+ 					<li>
+ 						研修助成：
+ 						<a href="https://center6.umin.ac.jp/cgi-open-bin/josei/select/index.cgi?kikan_cd=00017851" rel="noopener noreferrer">
+@@ -930,18 +942,6 @@
+ 							化学物質評価研究機構 令和9年度CERI公募型研究助成
+ 						</a>
+ 					</li>
+-					<li>
+-						研究助成：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/josei/select/index.cgi?kikan_cd=00017988" rel="noopener noreferrer">
+-							須田記念緑内障治療研究奨励基金 須田記念緑内障治療研究奨励基金 研究助成金
+-						</a>
+-					</li>
+-					<li>
+-						顕著な研究業績ののあった若手研究者への褒賞：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/josei/select/index.cgi?kikan_cd=00017943" rel="noopener noreferrer">
+-							船井情報科学振興財団 船井学術賞
+-						</a>
+-					</li>
+ 				</ul>
+ 				<h2>
+ 					<a href="https://center9.umin.ac.jp/personal/list" rel="noopener noreferrer">
+@@ -1020,69 +1020,81 @@
+ 				</h2>
+ 				<ul>
+ 					<li>
+-						東北大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072503" rel="noopener noreferrer">
+-							ベンチプレス動作における運動力学解析に関する研究
++						医療法人社団　神谷レディースクリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071506" rel="noopener noreferrer">
++							腟内細菌検査の結果に応じたプロバイオティクス使用と凍結胚移植の妊娠成績に関する研究
++						</a>
++					</li>
++					<li>
++						医療法人社団　神谷レディースクリニック：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072577" rel="noopener noreferrer">
++							プロバイオティクス使用有無とEMMA/ALICE・CD138所見に関する前向きコホート研究
++						</a>
++					</li>
++					<li>
++						川崎医療福祉大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072588" rel="noopener noreferrer">
++							熱可塑性ギプス包帯を用いた短下肢装具の開発
+ 						</a>
+ 					</li>
+ 					<li>
+-						西日本がん研究機構：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072532" rel="noopener noreferrer">
+-							PIONEER
++						岩手医科大学医学部総合診療医学講座：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071790" rel="noopener noreferrer">
++							職場健診で血圧が高かった方を対象とした家庭血圧測定とオンライン生活習慣支援の研究
+ 						</a>
+ 					</li>
+ 					<li>
+-						株式会社 明治：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072557" rel="noopener noreferrer">
+-							既存試料を用いたヨーグルトの摂取と唾液中のIgAに関する研究
++						聖隷クリストファー大学看護学部：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072580" rel="noopener noreferrer">
++							DHI-WI試験
+ 						</a>
+ 					</li>
+ 					<li>
+-						東洋大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072357" rel="noopener noreferrer">
+-							低強度低酸素レジスタンス運動が代謝に及ぼす影響
++						共立女子大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072597" rel="noopener noreferrer">
++							分娩第1期の看護シミュレーション学習シナリオの作成と実行可能性の検討
+ 						</a>
+ 					</li>
+ 					<li>
+-						東洋大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072561" rel="noopener noreferrer">
+-							暑熱環境下の運動時におけるキューブアイスによる手掌冷却の効果
++						名古屋市立大学医学部附属西部医療センター：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072585" rel="noopener noreferrer">
++							局所進行膵癌に対するS-1併用陽子線治療
+ 						</a>
+ 					</li>
+ 					<li>
+-						東北大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072563" rel="noopener noreferrer">
+-							瞳孔振動を用いた覚醒度の客観的評価指標としての有用性の検討
++						大塚製薬株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072599" rel="noopener noreferrer">
++							日本の成人ADHD診療における医師の疾患認識および診療実態に関する記述・横断研究～インターネットを介した医師向けアンケート～
+ 						</a>
+ 					</li>
+ 					<li>
+-						岐阜大学大学院医学系研究科 麻酔科・疼痛医学分野：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072526" rel="noopener noreferrer">
+-							単回注射による無痛分娩研究
++						福岡女子大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072601" rel="noopener noreferrer">
++							体液の酸塩基平衡に及ぼす朝食の影響
+ 						</a>
+ 					</li>
+ 					<li>
+-						日本体育大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072578" rel="noopener noreferrer">
+-							骨格筋電気刺激と動脈・認知機能
++						福岡女子大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072602" rel="noopener noreferrer">
++							体液の酸性化における日内リズムの評価と食事摂取時刻の影響
+ 						</a>
+ 					</li>
+ 					<li>
+-						鶴見大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072581" rel="noopener noreferrer">
+-							グラスファイバー強化型レジンを用いた3ユニットブリッジの臨床評価
++						アサヒクオリティーアンドイノベーションズ株式会社：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072594" rel="noopener noreferrer">
++							飲み物の利用と気分転換・対処行動に関する調査
+ 						</a>
+ 					</li>
+ 					<li>
+-						京都大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000071630" rel="noopener noreferrer">
+-							歩数介入の効果の異質性を検証するランダム化比較試験
++						大阪大学医学部附属病院　高度救命救急センター：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072603" rel="noopener noreferrer">
++							HAE急性発作の早期治療
+ 						</a>
+ 					</li>
+ 					<li>
+-						高知健康科学大学：
+-						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072501" rel="noopener noreferrer">
+-							反対側同神経領域電気刺激
++						中部大学：
++						<a href="https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000072605" rel="noopener noreferrer">
++							トラウマ回復サーフセラピー研究
+ 						</a>
+ 					</li>
+ 				</ul>

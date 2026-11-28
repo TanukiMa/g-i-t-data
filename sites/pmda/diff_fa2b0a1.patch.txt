@@ -1,0 +1,130 @@
+diff --git a/sites/pmda/jp/go/pmda/index.html b/sites/pmda/jp/go/pmda/index.html
+index 6f793573..00447085 100644
+--- a/sites/pmda/jp/go/pmda/index.html
++++ b/sites/pmda/jp/go/pmda/index.html
+@@ -2370,6 +2370,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/rs-std-jp/standards-development/jp/0008.html" rel="noopener noreferrer">
++												<p>
++													2026年11月5日
++												</p>
++												<p>
++													薬局方
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/review-services/symposia/0211.html" rel="noopener noreferrer">
+ 												<p>
+@@ -2659,9 +2675,6 @@
+ 												<p>
+ 													調達
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													契約締結状況について
+ 												</p>
+@@ -2680,19 +2693,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/safety/info-services/medical-safety-info/0005.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月28日
+-												</p>
+-												<p>
+-													安全
+-												</p>
+-												<p>
+-													「医療事故の再発防止に向けた警鐘レポートNo.7の公表について」を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -2902,19 +2902,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/review-services/drug-reviews/foreign-mfr/0003.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月21日
+-												</p>
+-												<p>
+-													全製品
+-												</p>
+-												<p>
+-													外国製造業者認定・登録番号を掲載しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3163,6 +3150,22 @@
+ 							<div>
+ 								<div>
+ 									<ul>
++										<li>
++											<a href="/rs-std-jp/standards-development/jp/0008.html" rel="noopener noreferrer">
++												<p>
++													2026年11月5日
++												</p>
++												<p>
++													薬局方
++												</p>
++												<p>
++													New
++												</p>
++												<p>
++													日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました
++												</p>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/rs-std-jp/standards-development/guidance-guideline/0003.html" rel="noopener noreferrer">
+ 												<p>
+@@ -3227,19 +3230,6 @@
+ 												</p>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="/rs-std-jp/0002.html" rel="noopener noreferrer">
+-												<p>
+-													2026年10月21日
+-												</p>
+-												<p>
+-													その他
+-												</p>
+-												<p>
+-													「申請電子データを活用した解析」のページを更新しました
+-												</p>
+-											</a>
+-										</li>
+ 									</ul>
+ 									<div>
+ 										<div>
+@@ -3345,9 +3335,6 @@
+ 												<p>
+ 													調達
+ 												</p>
+-												<p>
+-													New
+-												</p>
+ 												<p>
+ 													契約締結状況について
+ 												</p>

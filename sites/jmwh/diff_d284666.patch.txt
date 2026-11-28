@@ -1,0 +1,33 @@
+diff --git a/sites/jmwh/jp/jmwh/index.html b/sites/jmwh/jp/jmwh/index.html
+index c6739e03..7b8bf6b2 100644
+--- a/sites/jmwh/jp/jmwh/index.html
++++ b/sites/jmwh/jp/jmwh/index.html
+@@ -159,6 +159,16 @@
+ 					</div>
+ 					<div>
+ 						<ul>
++							<li>
++								<div>
++									2026/11/06
++								</div>
++								<div>
++									<a href="n-oshirase.html#20261106" rel="noopener noreferrer">
++										認定更新申請の実施要項を掲載いたしました。
++									</a>
++								</div>
++							</li>
+ 							<li>
+ 								<div>
+ 									2026/10/28
+@@ -1081,11 +1091,6 @@
+ 									<img alt="" src="images/footer_bnr5.jpg">
+ 								</a>
+ 							</div>
+-							<div>
+-								<a href="http://byl.bayer.co.jp/scripts/pages/jp/index.php" rel="noopener noreferrer">
+-									<img alt="" src="images/footer_bnr1.jpg">
+-								</a>
+-							</div>
+ 							<div>
+ 								<a href="http://www.hisamitsu.co.jp/" rel="noopener noreferrer">
+ 									<img alt="" src="images/footer_bnr2.jpg">

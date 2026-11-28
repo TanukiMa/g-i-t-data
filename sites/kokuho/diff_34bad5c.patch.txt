@@ -1,0 +1,24 @@
+diff --git a/sites/kokuho/jp/or/kokuho/index.html b/sites/kokuho/jp/or/kokuho/index.html
+index 06663ee7..81b3257c 100644
+--- a/sites/kokuho/jp/or/kokuho/index.html
++++ b/sites/kokuho/jp/or/kokuho/index.html
+@@ -200,6 +200,19 @@
+ 			</h2>
+ 			<div>
+ 				<ul>
++					<li>
++						<p>
++							2026年11月13日
++						</p>
++						<p>
++							入札情報
++						</p>
++						<p>
++							<a href="bid/index.html" rel="noopener noreferrer">
++								入札情報「システム運用業社統合の調達に向けた情報提供・意見招請」を掲載いたしました。
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<p>
+ 							2026年11月2日

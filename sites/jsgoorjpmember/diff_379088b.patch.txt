@@ -1,0 +1,38 @@
+diff --git a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+index 5a691bc13..5704a6e4b 100644
+--- a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
++++ b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+@@ -377,6 +377,16 @@
+ 									<div>
+ 										<table>
+ 											<tbody>
++												<tr>
++													<th>
++														2026/11/25
++													</th>
++													<td>
++														<a href="/entry_member/news/20261125/4718/" rel="noopener noreferrer">
++															第13回研修会のお知らせ（12/1～12/15)
++														</a>
++													</td>
++												</tr>
+ 												<tr>
+ 													<th>
+ 														2026/11/20
+@@ -417,16 +427,6 @@
+ 														</a>
+ 													</td>
+ 												</tr>
+-												<tr>
+-													<th>
+-														2026/11/13
+-													</th>
+-													<td>
+-														<a href="/wp-content/uploads/2026/11/MPA200mg-2.pdf" rel="noopener noreferrer">
+-															メドロキシプロゲステロン酢酸エステル錠200mg「F」の 供給状況および限定出荷解除の見通しについて
+-														</a>
+-													</td>
+-												</tr>
+ 											</tbody>
+ 										</table>
+ 									</div>

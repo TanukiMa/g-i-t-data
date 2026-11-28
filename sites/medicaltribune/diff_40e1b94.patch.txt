@@ -1,0 +1,370 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index eff0f53ca..15cdfeee4 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1478,13 +1478,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="HFpEFの治療標的、「尿酸値」でなく「病態」が鍵" src="https://asset.mtweb.jp/media/2026/11/09112441/com_jhfs2026_thum_w440h275.png">
++																<img alt="インフル4万例超え、23道県で注意報レベル" src="https://asset.mtweb.jp/media/2026/07/14185544/com_weeklyreport_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621489" rel="noopener noreferrer">
+-																			HFpEFの治療標的、「尿酸値」でなく「病態」が鍵
++																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621989" rel="noopener noreferrer">
++																			インフル4万例超え、23道県で注意報レベル
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1527,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="妊娠中の2回の性感染症検査で早産リスクが低下か" src="https://asset.mtweb.jp/media/2026/11/16175954/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
++																<img alt="HFpEFの治療標的、「尿酸値」でなく「病態」が鍵" src="https://asset.mtweb.jp/media/2026/11/09112441/com_jhfs2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621963" rel="noopener noreferrer">
+-																			妊娠中の2回の性感染症検査で早産リスクが低下か
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621489" rel="noopener noreferrer">
++																			HFpEFの治療標的、「尿酸値」でなく「病態」が鍵
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1576,20 +1576,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="性的マイノリティーの医療者、うつ病歴多い" src="https://asset.mtweb.jp/media/2026/11/13154753/ChatGPT-Image-20261113_LGBTQ.jpg">
++																<img alt="妊娠中の2回の性感染症検査で早産リスクが低下か" src="https://asset.mtweb.jp/media/2026/11/16175954/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E9%85%8D%E4%BF%A12.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621776" rel="noopener noreferrer">
+-																			性的マイノリティーの医療者、うつ病歴多い
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621963" rel="noopener noreferrer">
++																			妊娠中の2回の性感染症検査で早産リスクが低下か
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-16
++																			2026-11-17
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1625,13 +1625,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="AIが肺エコーの画像取得から評価まで支援" src="https://asset.mtweb.jp/media/2026/11/16100003/70644_face01.png">
++																<img alt="性的マイノリティーの医療者、うつ病歴多い" src="https://asset.mtweb.jp/media/2026/11/13154753/ChatGPT-Image-20261113_LGBTQ.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621703" rel="noopener noreferrer">
+-																			AIが肺エコーの画像取得から評価まで支援
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621776" rel="noopener noreferrer">
++																			性的マイノリティーの医療者、うつ病歴多い
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1674,13 +1674,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="進行・再発子宮体がんで化学療法を省けるか" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
++																<img alt="AIが肺エコーの画像取得から評価まで支援" src="https://asset.mtweb.jp/media/2026/11/16100003/70644_face01.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621613" rel="noopener noreferrer">
+-																			進行・再発子宮体がんで化学療法を省けるか
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621703" rel="noopener noreferrer">
++																			AIが肺エコーの画像取得から評価まで支援
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1723,13 +1723,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="国内開発のレボドパ徐放性製剤でオフ時間短縮" src="https://asset.mtweb.jp/media/2026/11/12165521/com_jsnt44_thum_w440h275.png">
++																<img alt="進行・再発子宮体がんで化学療法を省けるか" src="https://asset.mtweb.jp/media/2026/10/27182617/com_esmo2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621629" rel="noopener noreferrer">
+-																			国内開発のレボドパ徐放性製剤でオフ時間短縮
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621613" rel="noopener noreferrer">
++																			進行・再発子宮体がんで化学療法を省けるか
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1772,13 +1772,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="小児・若年成人の軟部肉腫、切除マージンが狭くても局所再発リスクは低い？" src="https://asset.mtweb.jp/media/2026/11/16164945/1HDN%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E9%85%8D%E4%BF%A11.jpg">
++																<img alt="国内開発のレボドパ徐放性製剤でオフ時間短縮" src="https://asset.mtweb.jp/media/2026/11/12165521/com_jsnt44_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621941" rel="noopener noreferrer">
+-																			小児・若年成人の軟部肉腫、切除マージンが狭くても局所再発リスクは低い？
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=621629" rel="noopener noreferrer">
++																			国内開発のレボドパ徐放性製剤でオフ時間短縮
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1838,19 +1838,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
+-																					<img alt="子供の皮疹、なぜ治療が届かないのか" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621989" rel="noopener noreferrer">
++																					<img alt="インフル4万例超え、23道県で注意報レベル" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621989" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-16
++																							2026-11-17
+ 																						</time>
+ 																						<h2>
+-																							子供の皮疹、なぜ治療が届かないのか
++																							インフル4万例超え、23道県で注意報レベル
+ 																						</h2>
+ 																						<p>
+-																							米国の小児皮膚疾患レビューが映す格差
++																							【感染症動向調査第45週：11月2～8日】
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									0
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									38
++																									1
+ 																								</span>
+ 																								<span>
+-																									38件「いいね！」されています
++																									1件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1889,19 +1889,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
+-																					<img alt="GLP-1関連薬による「性急な」減量は危ない？" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
++																					<img alt="子供の皮疹、なぜ治療が届かないのか" src="/assets/images/rensai/doceye/thumbnails/羽白誠（皮膚科／心療内科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621343" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-13
++																							2026-11-16
+ 																						</time>
+ 																						<h2>
+-																							GLP-1関連薬による「性急な」減量は危ない？
++																							子供の皮疹、なぜ治療が届かないのか
+ 																						</h2>
+ 																						<p>
+-																							なぜ「減量の大きさ」が「心血管転帰の改善」と相関しないのか
++																							米国の小児皮膚疾患レビューが映す格差
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1920,10 +1920,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									40
++																									38
+ 																								</span>
+ 																								<span>
+-																									40件「いいね！」されています
++																									38件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1940,18 +1940,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
++																					<img alt="GLP-1関連薬による「性急な」減量は危ない？" src="/assets/images/rensai/thumbnails/com_watch_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621398" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-13
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）
++																							GLP-1関連薬による「性急な」減量は危ない？
+ 																						</h2>
+ 																						<p>
++																							なぜ「減量の大きさ」が「心血管転帰の改善」と相関しないのか
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1960,20 +1961,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									4
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									25
++																									40
+ 																								</span>
+ 																								<span>
+-																									25件「いいね！」されています
++																									40件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1990,19 +1991,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
+-																					<img alt="日本人大腸がんに「過去の腸内細菌」の痕跡" src="/assets/images/rensai/doceye/thumbnails/須田竜一郎（消化器外科）.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=621687" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-12
++																							2026-11-13
+ 																						</time>
+ 																						<h2>
+-																							日本人大腸がんに「過去の腸内細菌」の痕跡
++																							〔10pt進呈〕GLP-1受容体作動薬使用例で重要な臨床判断を行う際、米田正人氏が合理的と考える絶食時間は？【MT医療検定 No.148】（11/19まで）
+ 																						</h2>
+ 																						<p>
+-																							非高変異型の44.8％で検出、若年発症大腸がんとの関連は？
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2011,20 +2011,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									0
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									28
++																									25
+ 																								</span>
+ 																								<span>
+-																									28件「いいね！」されています
++																									25件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2041,19 +2041,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
+-																					<img alt="胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例" src="/assets/images/rensai/thumbnails/com_case_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
++																					<img alt="日本人大腸がんに「過去の腸内細菌」の痕跡" src="/assets/images/rensai/doceye/thumbnails/須田竜一郎（消化器外科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621037" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=619215" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-12
+ 																						</time>
+ 																						<h2>
+-																							胸水細胞診陰性でも貯留持続、エプコリタマブが奏効した1例
++																							日本人大腸がんに「過去の腸内細菌」の痕跡
+ 																						</h2>
+ 																						<p>
+-																							難治性びまん性大細胞型B細胞リンパ腫の80歳代女性
++																							非高変異型の44.8％で検出、若年発症大腸がんとの関連は？
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2062,20 +2062,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									2
++																									3
+ 																								</span>
+ 																								<span>
+-																									2件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									25
++																									28
+ 																								</span>
+ 																								<span>
+-																									25件「いいね！」されています
++																									28件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

@@ -1,0 +1,107 @@
+diff --git a/sites/jshg/jp/jshg/index.html b/sites/jshg/jp/jshg/index.html
+index bf79006da..a4cc22271 100644
+--- a/sites/jshg/jp/jshg/index.html
++++ b/sites/jshg/jp/jshg/index.html
+@@ -163,6 +163,19 @@
+ 					</span>
+ 				</h2>
+ 				<ul>
++					<li>
++						<time>
++							2026.10.05
++						</time>
++						<span>
++							新着情報
++						</span>
++						<span>
++							中村祐輔先生が2026年ASHG Lifetime Achievement Awardを受賞
++						</span>
++						<a href="https://jshg.jp/news/11593/" rel="noopener noreferrer">
++						</a>
++					</li>
+ 					<li>
+ 						<time>
+ 							2026.09.10
+@@ -221,22 +234,6 @@
+ 						<a href="https://jshg.jp/news/11480/" rel="noopener noreferrer">
+ 						</a>
+ 					</li>
+-					<li>
+-						<time>
+-							2026.06.30
+-						</time>
+-						<span>
+-							セミナー
+-						</span>
+-						<span>
+-							新着情報
+-						</span>
+-						<span>
+-							遺伝カウンセリングロールプレイ研修会（2026年度 夏のGCRP研修会) のご案内
+-						</span>
+-						<a href="https://jshg.jp/news/11422/" rel="noopener noreferrer">
+-						</a>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://jshg.jp/news/" rel="noopener noreferrer">
+@@ -445,47 +442,47 @@
+ 				<ul>
+ 					<li>
+ 						<div>
+-							<img alt="" height="310" src="https://jshg.jp/wp-content/uploads/2026/05/ae46b1f460ee46f789c27b264a6cb421.png" width="520">
++							<img alt="" height="310" src="https://jshg.jp/wp-content/uploads/2024/04/c5c12c7b090e809e724a9cad55305b9c-520x310.jpg" width="520">
+ 						</div>
+ 						<div>
+ 							<time>
+-								2026.05.12
++								2026.10.05
+ 							</time>
+ 							<span>
+-								成長遺伝子SHOX とX染色体不活性化が生み出すヒトの身長性差
++								中村祐輔先生が2026年ASHG Lifetime Achievement Awardを受賞
+ 							</span>
+ 						</div>
+-						<a href="https://jshg.jp/topics/11336/" rel="noopener noreferrer">
++						<a href="https://jshg.jp/topics/11610/" rel="noopener noreferrer">
+ 						</a>
+ 					</li>
+ 					<li>
+ 						<div>
+-							<img alt="" height="310" src="https://jshg.jp/wp-content/uploads/2026/01/ba900bbcf3414de208aeefdedde3a6ac.jpg" width="520">
++							<img alt="" height="310" src="https://jshg.jp/wp-content/uploads/2026/05/ae46b1f460ee46f789c27b264a6cb421.png" width="520">
+ 						</div>
+ 						<div>
+ 							<time>
+-								2026.01.26
++								2026.05.12
+ 							</time>
+ 							<span>
+-								レトロトランス・ゲノム解析を用いた、サルコイドーシスにおいて異常発現する内在性レトロウイルスTHE1B融合トランスクリプト群の同定
++								成長遺伝子SHOX とX染色体不活性化が生み出すヒトの身長性差
+ 							</span>
+ 						</div>
+-						<a href="https://jshg.jp/topics/11168/" rel="noopener noreferrer">
++						<a href="https://jshg.jp/topics/11336/" rel="noopener noreferrer">
+ 						</a>
+ 					</li>
+ 					<li>
+ 						<div>
+-							<img alt="" height="310" src="https://jshg.jp/wp-content/uploads/2025/10/zu_eyeCtach3.jpg" width="520">
++							<img alt="" height="310" src="https://jshg.jp/wp-content/uploads/2026/01/ba900bbcf3414de208aeefdedde3a6ac.jpg" width="520">
+ 						</div>
+ 						<div>
+ 							<time>
+-								2025.10.01
++								2026.01.26
+ 							</time>
+ 							<span>
+-								体外受精においてポリジェニック・スコアは構築手法間で異なる胚を選択する
++								レトロトランス・ゲノム解析を用いた、サルコイドーシスにおいて異常発現する内在性レトロウイルスTHE1B融合トランスクリプト群の同定
+ 							</span>
+ 						</div>
+-						<a href="https://jshg.jp/topics/10481/" rel="noopener noreferrer">
++						<a href="https://jshg.jp/topics/11168/" rel="noopener noreferrer">
+ 						</a>
+ 					</li>
+ 				</ul>

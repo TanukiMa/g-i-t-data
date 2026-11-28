@@ -1,0 +1,56 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index fdde38efc..527d31c3e 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -477,6 +477,21 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/11/18
++					</span>
++					<span>
++						掲載のお知らせ
++					</span>
++					<div>
++						<a href="/nursing/international/icn/katsudo/index.html#activity_report" rel="noopener noreferrer">
++							「2025年ICN年次報告書　英語版」を掲載しました。
++						</a>
++						<div>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/11/17
+@@ -616,29 +631,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/10/23
+-					</span>
+-					<span>
+-						掲載のお知らせ
+-					</span>
+-					<div>
+-						<a href="/nursing/tokuteikenshu/jna/index.html" rel="noopener noreferrer">
+-							2027年度 特定行為研修受講について掲載しました。
+-						</a>
+-						<div>
+-							<p>
+-								受講申請期間：
+-								<strong>
+-								</strong>
+-								2027年1月4日（月）～22日（金）　※当日消印有効
+-								<br>
+-								詳細は、看護研修学校（東京都清瀬市）の募集要項をご確認ください。
+-							</p>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>

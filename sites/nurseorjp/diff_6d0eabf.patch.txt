@@ -1,0 +1,68 @@
+diff --git a/sites/nurseorjp/jp/or/nurse/index.html b/sites/nurseorjp/jp/or/nurse/index.html
+index c0383f9a9..7936fc9f4 100644
+--- a/sites/nurseorjp/jp/or/nurse/index.html
++++ b/sites/nurseorjp/jp/or/nurse/index.html
+@@ -320,12 +320,12 @@
+ 					<li>
+ 						<div>
+ 							<a href="/research2026.html" rel="noopener noreferrer">
+-								<img alt="2026年病院看護実態調査_PC" src="/assets/research2026_PC.png">
++								<img alt="2026年病院看護実態調査延長メインビジュアル_PC" src="/assets/research20261014_PC.png">
+ 							</a>
+ 						</div>
+ 						<div>
+ 							<a href="/research2026.html" rel="noopener noreferrer">
+-								<img alt="2026年病院看護実態調査_SP" src="/assets/research2026_SP.png">
++								<img alt="2026年病院看護実態調査延長メインビジュアル_SP" src="/assets/research20261014_SP.png">
+ 							</a>
+ 						</div>
+ 					</li>
+@@ -489,6 +489,26 @@
+ 				</span>
+ 			</h2>
+ 			<ul>
++				<li>
++					<span>
++						2026/10/14
++					</span>
++					<span>
++						調査ご協力のお願い
++					</span>
++					<div>
++						<a href="/research2026.html" rel="noopener noreferrer">
++							「2026年病院看護実態調査」の調査期間を10月30日（金）まで延長しました。
++						</a>
++						<div>
++							<p>
++								本調査の対象施設（全病院）の病院長、看護管理者（看護部長）に調査協力のお願いを9月28日（月）に郵送しています。ご確認の上、ご協力をお願いします。
++								<br>
++								DiNQL事業参加病院は、DiNQLのITシステムから調査項目の一部が自動入力された調査票をご利用いただけます。
++							</p>
++						</div>
++					</div>
++				</li>
+ 				<li>
+ 					<span>
+ 						2026/10/14
+@@ -622,21 +642,6 @@
+ 						</div>
+ 					</div>
+ 				</li>
+-				<li>
+-					<span>
+-						2026/10/01
+-					</span>
+-					<span>
+-						調査協力のお願い
+-					</span>
+-					<div>
+-						<a href="/nursing/shuroanzen/n_harassment/index.html#kasuhara" rel="noopener noreferrer">
+-							厚生労働省委託事業「業種別カスタマーハラスメント対策の取組支援事業」医療従事者向けアンケート調査にご協力をお願いします。
+-						</a>
+-						<div>
+-						</div>
+-					</div>
+-				</li>
+ 			</ul>
+ 			<div>
+ 				<div>

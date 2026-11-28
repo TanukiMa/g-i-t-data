@@ -1,0 +1,141 @@
+diff --git a/sites/jgagrjp/jp/gr/jga/index.html b/sites/jgagrjp/jp/gr/jga/index.html
+index f9d07255b..9a13e4c54 100644
+--- a/sites/jgagrjp/jp/gr/jga/index.html
++++ b/sites/jgagrjp/jp/gr/jga/index.html
+@@ -1140,6 +1140,19 @@
+ 							<div>
+ 								<nav>
+ 									<ul>
++										<li>
++											<a href="https://www.jga.gr.jp/news/261020_006012.html" rel="noopener noreferrer">
++												<time>
++													2026.10.20
++												</time>
++												<span>
++													レポート
++												</span>
++												<span>
++													【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年10月19日時点）
++												</span>
++											</a>
++										</li>
+ 										<li>
+ 											<a href="/medical/confirm-effective.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1179,25 +1192,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261008_006009.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261020_006012.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.08
++													2026.10.20
+ 												</time>
+ 												<span>
+-													発表資料
++													レポート
+ 												</span>
+ 												<span>
+-													医薬品の特許期間延長制度に関する日本ジェネリック製薬協会知的財産委員会の意見公表について
++													【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年10月19日時点）
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1237,25 +1250,25 @@
+ 												</span>
+ 											</a>
+ 										</li>
++									</ul>
++								</nav>
++							</div>
++							<div>
++								<nav>
++									<ul>
+ 										<li>
+-											<a href="https://www.jga.gr.jp/news/261001_006007.html" rel="noopener noreferrer">
++											<a href="https://www.jga.gr.jp/news/261020_006012.html" rel="noopener noreferrer">
+ 												<time>
+-													2026.10.01
++													2026.10.20
+ 												</time>
+ 												<span>
+-													更新
++													レポート
+ 												</span>
+ 												<span>
+-													賛助会員および安定供給ネットワーク会員更新のお知らせ
++													【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年10月19日時点）
+ 												</span>
+ 											</a>
+ 										</li>
+-									</ul>
+-								</nav>
+-							</div>
+-							<div>
+-								<nav>
+-									<ul>
+ 										<li>
+ 											<a href="https://www.jga.gr.jp/news/261015_006011.html" rel="noopener noreferrer">
+ 												<time>
+@@ -1295,19 +1308,6 @@
+ 												</span>
+ 											</a>
+ 										</li>
+-										<li>
+-											<a href="https://www.jga.gr.jp/news/261001_006007.html" rel="noopener noreferrer">
+-												<time>
+-													2026.10.01
+-												</time>
+-												<span>
+-													更新
+-												</span>
+-												<span>
+-													賛助会員および安定供給ネットワーク会員更新のお知らせ
+-												</span>
+-											</a>
+-										</li>
+ 									</ul>
+ 								</nav>
+ 							</div>
+@@ -1359,20 +1359,20 @@
+ 				<div>
+ 					<div>
+ 						<div>
+-							<img alt="【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年9月14日時点）" src="https://www.jga.gr.jp/assets/uploads/2026/report_260915.png">
++							<img alt="【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年10月19日時点）" src="https://www.jga.gr.jp/assets/uploads/2026/report_261020.png">
+ 						</div>
+ 						<div>
+ 							<h3>
+-								【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年9月14日時点）
++								【Factに迫る！】医療用医薬品の供給状況～メーカーによる情報開示～（2026年10月19日時点）
+ 							</h3>
+ 							<p>
+ 								参考元：厚生労働省の「医療用医薬品供給状況」ページ
+ 							</p>
+ 							<p>
+-								2026.09.15
++								2026.10.20
+ 							</p>
+ 							<div>
+-								<a href="https://www.jga.gr.jp/news/260915_005989.html" rel="noopener noreferrer">
++								<a href="https://www.jga.gr.jp/news/261020_006012.html" rel="noopener noreferrer">
+ 									<span>
+ 										続きを読む
+ 									</span>

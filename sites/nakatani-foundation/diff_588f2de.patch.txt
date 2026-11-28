@@ -1,0 +1,50 @@
+diff --git a/sites/nakatani-foundation/jp/nakatani-foundation/news.html b/sites/nakatani-foundation/jp/nakatani-foundation/news.html
+index c6131f48e..1fe24f553 100644
+--- a/sites/nakatani-foundation/jp/nakatani-foundation/news.html
++++ b/sites/nakatani-foundation/jp/nakatani-foundation/news.html
+@@ -246,6 +246,23 @@
+ 					<div>
+ 						<div>
+ 							<div>
++								<div>
++									<h3>
++										その他
++										<br>
++										お知らせ
++									</h3>
++									<dl>
++										<dt>
++											2026年11月28日
++										</dt>
++										<dd>
++											<a href="https://www.nakatani-foundation.jp/news/bmb2026/" rel="noopener noreferrer">
++												BMB2026合同大会に出展します。
++											</a>
++										</dd>
++									</dl>
++								</div>
+ 								<div>
+ 									<h3>
+ 										大学院生
+@@ -389,21 +406,6 @@
+ 										</dd>
+ 									</dl>
+ 								</div>
+-								<div>
+-									<h3>
+-										海外留学
+-									</h3>
+-									<dl>
+-										<dt>
+-											2026年09月15日
+-										</dt>
+-										<dd>
+-											<a href="https://www.nakatani-foundation.jp/grant_exchange/grant_exchange_04/requirements/" rel="noopener noreferrer">
+-												2026（令和8）年度 海外留学 募集を終了しました。
+-											</a>
+-										</dd>
+-									</dl>
+-								</div>
+ 								<div>
+ 									<ul>
+ 										<li>

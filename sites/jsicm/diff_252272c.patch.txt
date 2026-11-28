@@ -1,0 +1,164 @@
+diff --git a/sites/jsicm/org/jsicm/index.html b/sites/jsicm/org/jsicm/index.html
+index 98156f5f0..bf2a0c54f 100644
+--- a/sites/jsicm/org/jsicm/index.html
++++ b/sites/jsicm/org/jsicm/index.html
+@@ -1434,11 +1434,11 @@
+ 							<div>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/meeting/jsicm54/" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261026.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月23日
++												2026年10月26日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1446,7 +1446,7 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												第54回学術集会の演題募集を締切ました。
++												【緊急メンテナンス終了いたしました】学会HP/セミナー管理システム/学術集会HP（支部本部）
+ 											</div>
+ 										</div>
+ 									</li>
+@@ -1455,7 +1455,7 @@
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月22日
++												2026年10月26日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1469,6 +1469,23 @@
+ 											</div>
+ 										</div>
+ 									</li>
++									<li>
++										<a href="https://www.jsicm.org/meeting/jsicm54/" rel="noopener noreferrer">
++										</a>
++										<div>
++											<div>
++												2026年10月23日
++											</div>
++											<div>
++												学会より
++											</div>
++										</div>
++										<div>
++											<div>
++												第54回学術集会の演題募集を締切ました。
++											</div>
++										</div>
++									</li>
+ 									<li>
+ 										<a href="https://www.jsicm.org/news/news261022.html" rel="noopener noreferrer">
+ 										</a>
+@@ -1594,12 +1611,18 @@
+ 											</div>
+ 										</div>
+ 									</li>
++								</ul>
++								<span>
++								</span>
++							</div>
++							<div>
++								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news260928_2.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261026.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年9月28日
++												2026年10月26日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1607,22 +1630,16 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												「救急・集中治療における生命維持治療の終了／差し控えに関する4学会合同ガイドライン」報道関係者向け質疑応答の会 開催のお知らせ
++												【緊急メンテナンス終了いたしました】学会HP/セミナー管理システム/学術集会HP（支部本部）
+ 											</div>
+ 										</div>
+ 									</li>
+-								</ul>
+-								<span>
+-								</span>
+-							</div>
+-							<div>
+-								<ul>
+ 									<li>
+-										<a href="https://www.jsicm.org/meeting/jsicm54/" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月23日
++												2026年10月26日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1630,16 +1647,18 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												第54回学術集会の演題募集を締切ました。
++												<span>
++													【重要】学会メールの送受信障害について（現在復旧作業中）
++												</span>
+ 											</div>
+ 										</div>
+ 									</li>
+ 									<li>
+-										<a href="https://www.jsicm.org/news/news261013.html" rel="noopener noreferrer">
++										<a href="https://www.jsicm.org/meeting/jsicm54/" rel="noopener noreferrer">
+ 										</a>
+ 										<div>
+ 											<div>
+-												2026年10月22日
++												2026年10月23日
+ 											</div>
+ 											<div>
+ 												学会より
+@@ -1647,9 +1666,7 @@
+ 										</div>
+ 										<div>
+ 											<div>
+-												<span>
+-													【重要】学会メールの送受信障害について（現在復旧作業中）
+-												</span>
++												第54回学術集会の演題募集を締切ました。
+ 											</div>
+ 										</div>
+ 									</li>
+@@ -1778,23 +1795,6 @@
+ 											</div>
+ 										</div>
+ 									</li>
+-									<li>
+-										<a href="https://www.jsicm.org/news/news260928_2.html" rel="noopener noreferrer">
+-										</a>
+-										<div>
+-											<div>
+-												2026年9月28日
+-											</div>
+-											<div>
+-												学会より
+-											</div>
+-										</div>
+-										<div>
+-											<div>
+-												「救急・集中治療における生命維持治療の終了／差し控えに関する4学会合同ガイドライン」報道関係者向け質疑応答の会 開催のお知らせ
+-											</div>
+-										</div>
+-									</li>
+ 								</ul>
+ 								<span>
+ 								</span>

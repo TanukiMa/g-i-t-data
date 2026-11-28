@@ -1,0 +1,26 @@
+diff --git a/sites/hpdx/jp/or/hpdx/index.html b/sites/hpdx/jp/or/hpdx/index.html
+index ee4ff951..0eb43b8f 100644
+--- a/sites/hpdx/jp/or/hpdx/index.html
++++ b/sites/hpdx/jp/or/hpdx/index.html
+@@ -385,6 +385,21 @@
+ 						</h2>
+ 					</div>
+ 					<ul>
++						<li>
++							<span>
++								<span>
++									令和8年11月12日
++								</span>
++								<span>
++									ベンダー
++								</span>
++							</span>
++							<span>
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/index.html" rel="noopener noreferrer">
++									基本マスター（歯科診療行為・医薬品・コメント）、コメント関連テーブル、レセプト電算処理システムマスターファイル仕様説明書及びコメント関連テーブルファイル仕様説明書を更新しました
++								</a>
++							</span>
++						</li>
+ 						<li>
+ 							<span>
+ 								<span>

@@ -1,0 +1,127 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index ad2b6a545..2c81842d0 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2048,6 +2048,18 @@
+ 															<div>
+ 																<table>
+ 																	<tbody>
++																		<tr>
++																			<td>
++																				<div>
++																					福祉全般
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=23058&amp;ct=100100170" rel="noopener noreferrer" title="第26回 成年後見制度利用促進専門家会議（令和8年11月16日開催）">
++																					第26回 成年後見制度利用促進専門家会議（令和8年11月16日開催）
++																				</a>
++																			</td>
++																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+@@ -2108,18 +2120,6 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+-																		<tr>
+-																			<td>
+-																				<div>
+-																					医療
+-																				</div>
+-																			</td>
+-																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23034&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年11月10日更新）">
+-																					風しん最新情報（令和8年11月10日更新）
+-																				</a>
+-																			</td>
+-																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+@@ -2129,8 +2129,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23035&amp;ct=030100110" rel="noopener noreferrer" title="麻しん最新情報（令和8年11月10日更新）">
+-																					麻しん最新情報（令和8年11月10日更新）
++																				<a href="/gyoseiShiryou/detail?gno=23034&amp;ct=030100130" rel="noopener noreferrer" title="風しん最新情報（令和8年11月10日更新）">
++																					風しん最新情報（令和8年11月10日更新）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2579,8 +2579,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23036&amp;ct=100100170" rel="noopener noreferrer" title="第25回 成年後見制度利用促進専門家会議（令和8年11月9日開催）">
+-																					第25回 成年後見制度利用促進専門家会議（令和8年11月9日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23058&amp;ct=100100170" rel="noopener noreferrer" title="第26回 成年後見制度利用促進専門家会議（令和8年11月16日開催）">
++																					第26回 成年後見制度利用促進専門家会議（令和8年11月16日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2591,8 +2591,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23016&amp;ct=100100140" rel="noopener noreferrer" title="第22回 全世代型社会保障構築会議（令和8年11月5日開催）">
+-																					第22回 全世代型社会保障構築会議（令和8年11月5日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23036&amp;ct=100100170" rel="noopener noreferrer" title="第25回 成年後見制度利用促進専門家会議（令和8年11月9日開催）">
++																					第25回 成年後見制度利用促進専門家会議（令和8年11月9日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2603,8 +2603,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23019&amp;ct=100100155" rel="noopener noreferrer" title="第13回 全世代型社会保障構築本部（令和8年11月5日開催）">
+-																					第13回 全世代型社会保障構築本部（令和8年11月5日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23016&amp;ct=100100140" rel="noopener noreferrer" title="第22回 全世代型社会保障構築会議（令和8年11月5日開催）">
++																					第22回 全世代型社会保障構築会議（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2615,8 +2615,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22990&amp;ct=100100170" rel="noopener noreferrer" title="第24回 成年後見制度利用促進専門家会議（令和8年10月27日開催）">
+-																					第24回 成年後見制度利用促進専門家会議（令和8年10月27日開催）
++																				<a href="/gyoseiShiryou/detail?gno=23019&amp;ct=100100155" rel="noopener noreferrer" title="第13回 全世代型社会保障構築本部（令和8年11月5日開催）">
++																					第13回 全世代型社会保障構築本部（令和8年11月5日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2627,8 +2627,8 @@
+ 																				</div>
+ 																			</td>
+ 																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=22954&amp;ct=100100170" rel="noopener noreferrer" title="第23回 成年後見制度利用促進専門家会議（令和8年10月13日開催）">
+-																					第23回 成年後見制度利用促進専門家会議（令和8年10月13日開催）
++																				<a href="/gyoseiShiryou/detail?gno=22990&amp;ct=100100170" rel="noopener noreferrer" title="第24回 成年後見制度利用促進専門家会議（令和8年10月27日開催）">
++																					第24回 成年後見制度利用促進専門家会議（令和8年10月27日開催）
+ 																				</a>
+ 																			</td>
+ 																		</tr>
+@@ -2841,6 +2841,18 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
++																		<tr>
++																			<td>
++																				<div>
++																					福祉全般
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=23059&amp;ct=070010010" rel="noopener noreferrer">
++																					第17回 幼児期までのこどもの育ち部会（令和8年11月30日開催予定）
++																				</a>
++																			</td>
++																		</tr>
+ 																	</tbody>
+ 																</table>
+ 															</div>

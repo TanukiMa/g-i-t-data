@@ -1,0 +1,113 @@
+diff --git a/sites/pmda-safety-test/jp/go/pmda/safety-info-services-drugs-0001-html.html b/sites/pmda-safety-test/jp/go/pmda/safety-info-services-drugs-0001-html.html
+index 091f69df8..5daff23a2 100644
+--- a/sites/pmda-safety-test/jp/go/pmda/safety-info-services-drugs-0001-html.html
++++ b/sites/pmda-safety-test/jp/go/pmda/safety-info-services-drugs-0001-html.html
+@@ -285,7 +285,7 @@
+ 																</li>
+ 																<li>
+ 																	<a href="/review-services/page001-62-000030.html" rel="noopener noreferrer">
+-																		検定・検査に関する業務
++																		検査に関する業務
+ 																	</a>
+ 																</li>
+ 																<li>
+@@ -498,6 +498,11 @@
+ 																		レギュラトリーサイエンスに係る横断プロジェクト
+ 																	</a>
+ 																</li>
++																<li>
++																	<a href="/rs-std-jp/0002.html" rel="noopener noreferrer">
++																		申請電子データを活用した解析
++																	</a>
++																</li>
+ 																<li>
+ 																	<a href="/rs-std-jp/standards-development/outline/0001.html" rel="noopener noreferrer">
+ 																		基準作成調査業務の概要
+@@ -601,6 +606,18 @@
+ 													</div>
+ 													<div>
+ 														<div>
++															<div>
++																<div>
++																	くすりについて調べたい
++																</div>
++																<ul>
++																	<li>
++																		<a href="/okusuri_search_link.html" rel="noopener noreferrer">
++																			PMDAおくすりサーチ
++																		</a>
++																	</li>
++																</ul>
++															</div>
+ 															<div>
+ 																<div>
+ 																	くすりを使うときに知っておきたい
+@@ -986,12 +1003,12 @@
+ 															</div>
+ 															<div>
+ 																<div>
+-																	検定・検査に関する情報を知りたい
++																	検査に関する情報を知りたい
+ 																</div>
+ 																<ul>
+ 																	<li>
+ 																		<a href="/review-services/page001-62-000031.html" rel="noopener noreferrer">
+-																			検定・検査合格情報
++																			検査合格情報
+ 																		</a>
+ 																	</li>
+ 																</ul>
+@@ -1201,6 +1218,11 @@
+ 																			MID-NET（医療情報データベース）
+ 																		</a>
+ 																	</li>
++																	<li>
++																		<a href="/0006.html" rel="noopener noreferrer">
++																			アカデミアの皆様からのお問い合わせ
++																		</a>
++																	</li>
+ 																</ul>
+ 															</div>
+ 														</div>
+@@ -1459,17 +1481,17 @@
+ 															</div>
+ 															<div>
+ 																<div>
+-																	検定・検査に関する情報を知りたい
++																	検査に関する情報を知りたい
+ 																</div>
+ 																<ul>
+ 																	<li>
+ 																		<a href="/review-services/page001-62-000030.html" rel="noopener noreferrer">
+-																			検定・検査の手続き等
++																			検査の手続き等
+ 																		</a>
+ 																	</li>
+ 																	<li>
+ 																		<a href="/review-services/page001-62-000031.html" rel="noopener noreferrer">
+-																			検定・検査合格情報
++																			検査合格情報
+ 																		</a>
+ 																	</li>
+ 																</ul>
+@@ -1731,17 +1753,17 @@
+ 															</div>
+ 															<div>
+ 																<div>
+-																	【生物学的製剤】 検定・検査について知りたい
++																	【生物学的製剤】 検査について知りたい
+ 																</div>
+ 																<ul>
+ 																	<li>
+ 																		<a href="/review-services/page001-62-000030.html" rel="noopener noreferrer">
+-																			検定・検査の手続き等
++																			検査の手続き等
+ 																		</a>
+ 																	</li>
+ 																	<li>
+ 																		<a href="/review-services/page001-62-000031.html" rel="noopener noreferrer">
+-																			検定・検査合格情報
++																			検査合格情報
+ 																		</a>
+ 																	</li>
+ 																</ul>

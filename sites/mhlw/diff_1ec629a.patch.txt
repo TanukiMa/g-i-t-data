@@ -1,0 +1,196 @@
+diff --git a/sites/mhlw/jp/go/mhlw/index.html b/sites/mhlw/jp/go/mhlw/index.html
+index 95e72dd59..800b1d364 100644
+--- a/sites/mhlw/jp/go/mhlw/index.html
++++ b/sites/mhlw/jp/go/mhlw/index.html
+@@ -1445,45 +1445,45 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/iyaku/index.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77622.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	政策分野
++																	審議会等
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																医薬品等安全性関連情報
++																第134回労働政策審議会労働条件分科会労災保険部会資料
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/09.html" rel="noopener noreferrer">
++													<a href="/stf/kaiken/daijin/0000194708_00993.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	統計情報
++																	大臣会見等
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																「人口動態統計速報」令和８（2026）年09月分
++																令和８年１１月２４日付大臣会見概要
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77569.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77538.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+@@ -1496,45 +1496,45 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第１回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第２タスクフォース
++																創薬力向上のための官民協議会 施策検討・推進部会における主な意見
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77563.html" rel="noopener noreferrer">
++													<a href="/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/iyaku/index.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	審議会等
++																	政策分野
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																第222回社会保障審議会医療保険部会（ペーパーレス）の開催について
++																医薬品等安全性関連情報
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77482.html" rel="noopener noreferrer">
++													<a href="https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/09.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+-																	報道発表
++																	統計情報
+ 																</span>
+ 															</em>
+ 														</div>
+ 														<div>
+ 															<span>
+-																食品中の放射性物質の検査結果について（１５２２報）
++																「人口動態統計速報」令和８（2026）年09月分
+ 															</span>
+ 														</div>
+ 													</a>
+@@ -1695,7 +1695,7 @@
+ 										<div>
+ 											<ul>
+ 												<li>
+-													<a href="/stf/newpage_77569.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77622.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+@@ -1708,13 +1708,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第１回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第２タスクフォース
++																第134回労働政策審議会労働条件分科会労災保険部会資料
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77563.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77538.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+@@ -1727,13 +1727,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第222回社会保障審議会医療保険部会（ペーパーレス）の開催について
++																創薬力向上のための官民協議会 施策検討・推進部会における主な意見
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77467.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77569.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+@@ -1746,13 +1746,13 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																第152回脳死下での臓器提供事例に係る検証会議を開催します
++																第１回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第２タスクフォース
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77448.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77563.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+ 																2026年11月24日
+@@ -1765,16 +1765,16 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																「第146回労働政策審議会障害者雇用分科会」を開催します（開催案内）
++																第222回社会保障審議会医療保険部会（ペーパーレス）の開催について
+ 															</span>
+ 														</div>
+ 													</a>
+ 												</li>
+ 												<li>
+-													<a href="/stf/newpage_77521.html" rel="noopener noreferrer">
++													<a href="/stf/newpage_77467.html" rel="noopener noreferrer">
+ 														<div>
+ 															<time>
+-																2026年11月20日
++																2026年11月24日
+ 															</time>
+ 															<em>
+ 																<span>
+@@ -1784,7 +1784,7 @@
+ 														</div>
+ 														<div>
+ 															<span>
+-																「第2回と畜場の制度に関する研究会」の開催について
++																第152回脳死下での臓器提供事例に係る検証会議を開催します
+ 															</span>
+ 														</div>
+ 													</a>

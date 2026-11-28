@@ -1,0 +1,42 @@
+diff --git a/sites/medorjpnew/jp/or/med/new-html.html b/sites/medorjpnew/jp/or/med/new-html.html
+index c35fbfe25..3bd078497 100644
+--- a/sites/medorjpnew/jp/or/med/new-html.html
++++ b/sites/medorjpnew/jp/or/med/new-html.html
+@@ -423,6 +423,18 @@
+ 						</div>
+ 					</div>
+ 					<ul>
++						<li>
++							<dl>
++								<dt>
++									2026年11月25日
++								</dt>
++								<dd>
++									<a href="https://www.med.or.jp/dl-med/tounyoubyou/meibo.pdf" rel="noopener noreferrer">
++										日本糖尿病対策推進会議役員名簿（令和8年11月25日現在）
++									</a>
++								</dd>
++							</dl>
++						</li>
+ 						<li>
+ 							<dl>
+ 								<dt>
+@@ -495,18 +507,6 @@
+ 								</dd>
+ 							</dl>
+ 						</li>
+-						<li>
+-							<dl>
+-								<dt>
+-									2026年11月13日
+-								</dt>
+-								<dd>
+-									<a href="https://www.med.or.jp/dl-med/tounyoubyou/meibo.pdf" rel="noopener noreferrer">
+-										日本糖尿病対策推進会議役員名簿（令和8年11月19日現在）
+-									</a>
+-								</dd>
+-							</dl>
+-						</li>
+ 						<li>
+ 							<dl>
+ 								<dt>

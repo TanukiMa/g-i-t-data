@@ -1,0 +1,29 @@
+diff --git a/sites/jsan-net/jp/jsan-net/index.html b/sites/jsan-net/jp/jsan-net/index.html
+index a153ecaac..3580d80b4 100644
+--- a/sites/jsan-net/jp/jsan-net/index.html
++++ b/sites/jsan-net/jp/jsan-net/index.html
+@@ -307,6 +307,14 @@
+ 				<div>
+ 				</div>
+ 				<div>
++					<div>
++						<a href="https://jsan-net.jp/gakkai/gakkai-1370/" rel="noopener noreferrer">
++							<p>
++								NEXT
++							</p>
++							<img alt="AI時代の自律神経学" src="https://jsan-net.jp/_contents/wp-content/uploads/2025/11/80.webp">
++						</a>
++					</div>
+ 					<div>
+ 						<div>
+ 							<p>
+@@ -335,6 +343,9 @@
+ 			</div>
+ 			<div>
+ 				<div>
++					<a href="https://jsan-net.jp/gakkai/gakkai-1370/" rel="noopener noreferrer">
++						<img alt="AI時代の自律神経学" src="https://jsan-net.jp/_contents/wp-content/uploads/2025/11/80.webp">
++					</a>
+ 					<p>
+ 						NEXT
+ 					</p>

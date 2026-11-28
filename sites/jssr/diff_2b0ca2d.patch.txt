@@ -1,0 +1,66 @@
+diff --git a/sites/jssr/jp/jssr/index.html b/sites/jssr/jp/jssr/index.html
+index e64eedd9..c0d9763b 100644
+--- a/sites/jssr/jp/jssr/index.html
++++ b/sites/jssr/jp/jssr/index.html
+@@ -239,8 +239,8 @@
+ 						</a>
+ 					</li>
+ 					<li>
+-						<a href="https://www.c-linkage.co.jp/jssr50jadsm25jast7/" rel="noopener noreferrer">
+-							<img alt="" src="img/bnr_50th.png">
++						<a href="https://www.c-linkage.co.jp/jssr51/" rel="noopener noreferrer">
++							<img alt="" src="img/bnr_51st.png">
+ 						</a>
+ 					</li>
+ 				</ul>
+@@ -249,8 +249,8 @@
+ 						<img alt="" src="img/heroimage-sp-01.jpg">
+ 					</li>
+ 					<li>
+-						<a href="https://www.c-linkage.co.jp/jssr49/" rel="noopener noreferrer">
+-							<img alt="" src="img/bnr_49th.png">
++						<a href="https://www.c-linkage.co.jp/jssr51/" rel="noopener noreferrer">
++							<img alt="" src="img/bnr_51th.png">
+ 						</a>
+ 					</li>
+ 				</ul>
+@@ -325,6 +325,19 @@
+ 						</li>
+ 					</ul>
+ 					<div>
++						<dl>
++							<dt>
++								2026.11.10
++								<span>
++									学術集会・セミナー・関連学会
++								</span>
++							</dt>
++							<dd>
++								<a href="https://www.c-linkage.co.jp/jssr51/" rel="noopener noreferrer">
++									日本睡眠学会第51回定期学術集会情報を公開いたしました
++								</a>
++							</dd>
++						</dl>
+ 						<dl>
+ 							<dt>
+ 								2026.09.25
+@@ -1129,6 +1142,19 @@
+ 						</dl>
+ 					</div>
+ 					<div>
++						<dl>
++							<dt>
++								2026.11.10
++								<span>
++									学術集会・セミナー・関連学会
++								</span>
++							</dt>
++							<dd>
++								<a href="https://www.c-linkage.co.jp/jssr51/" rel="noopener noreferrer">
++									日本睡眠学会第51回定期学術集会情報を公開いたしました
++								</a>
++							</dd>
++						</dl>
+ 						<dl>
+ 							<dt>
+ 								2026.09.18

@@ -1,0 +1,57 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index 34452b06..29ad9e72 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -800,27 +800,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1926" rel="noopener noreferrer">
+-								<p>
+-									<img alt="第18回日本プライマリ・ケア連合学会学術大会　一般演題募集のお知らせ" src="/pics/news/news-thumb-1926.jpg">
+-								</p>
+-								<h2>
+-									第18回日本プライマリ・ケア連合学会学術大会　一般演題募集のお知らせ
+-								</h2>
+-								<p>
+-									2026年10月14日（水）より、一般演題の募集を開始いたします。日々の診療や地域での活動から生ま…
+-								</p>
+-								<p>
+-									<time>
+-										2026.10.09
+-									</time>
+-									<span>
+-										オススメ
+-									</span>
+-								</p>
+-							</a>
+-						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1945" rel="noopener noreferrer">
+ 								<p>
+@@ -1055,6 +1034,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1926" rel="noopener noreferrer">
++								<p>
++									<img alt="第18回日本プライマリ・ケア連合学会学術大会　一般演題募集のお知らせ" src="/pics/news/news-thumb-1926.jpg">
++								</p>
++								<h2>
++									第18回日本プライマリ・ケア連合学会学術大会　一般演題募集のお知らせ
++								</h2>
++								<p>
++									2026年10月14日（水）より、一般演題の募集を開始いたします。日々の診療や地域での活動から生ま…
++								</p>
++								<p>
++									<time>
++										2026.10.09
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1925" rel="noopener noreferrer">
+ 								<p>

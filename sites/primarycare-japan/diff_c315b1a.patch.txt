@@ -1,0 +1,136 @@
+diff --git a/sites/primarycare-japan/com/primarycare-japan/index.html b/sites/primarycare-japan/com/primarycare-japan/index.html
+index 0343e0aee..287329fd8 100644
+--- a/sites/primarycare-japan/com/primarycare-japan/index.html
++++ b/sites/primarycare-japan/com/primarycare-japan/index.html
+@@ -204,7 +204,7 @@
+ 						</li>
+ 						<li>
+ 							<a href="./assoc/about/ab_index/#detail" rel="noopener noreferrer">
+-								学会概要・会員数・定款
++								学会概要・会員数
+ 							</a>
+ 						</li>
+ 						<li>
+@@ -212,6 +212,11 @@
+ 								家庭医療従事者を探す
+ 							</a>
+ 						</li>
++						<li>
++							<a href="./assoc/about/about/ab_memorandum/" rel="noopener noreferrer">
++								定款・会員規則
++							</a>
++						</li>
+ 						<li>
+ 							<a href="./assoc/about/ab_officer/" rel="noopener noreferrer">
+ 								役員・代議員
+@@ -575,7 +580,7 @@
+ 								</li>
+ 								<li>
+ 									<a href="./assoc/about/ab_index/#detail" rel="noopener noreferrer">
+-										学会概要・会員数・定款
++										学会概要・会員数
+ 									</a>
+ 								</li>
+ 								<li>
+@@ -583,6 +588,11 @@
+ 										家庭医療従事者を探す
+ 									</a>
+ 								</li>
++								<li>
++									<a href="./assoc/about/about/ab_memorandum/" rel="noopener noreferrer">
++										定款・会員規則
++									</a>
++								</li>
+ 								<li>
+ 									<a href="./assoc/about/ab_officer/" rel="noopener noreferrer">
+ 										役員・代議員
+@@ -842,6 +852,24 @@
+ 								</p>
+ 							</a>
+ 						</li>
++						<li>
++							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1776" rel="noopener noreferrer">
++								<p>
++									<img alt="ケアにおけるナラティブ／患者と医療の二つの物語" src="/pics/news/news-thumb-1776.jpg">
++								</p>
++								<h2>
++									ケアにおけるナラティブ／患者と医療の二つの物語
++								</h2>
++								<p>
++									私たちが活動する環境は劇的に変化している。かつては外傷や感染症が死因の大部分を占めていたが、現在は…
++								</p>
++								<p>
++									<time>
++										2026.11.27
++									</time>
++								</p>
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1960" rel="noopener noreferrer">
+ 								<p>
+@@ -2498,24 +2526,6 @@
+ 								</p>
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.primarycare-japan.com/news-detail.php?nid=1844" rel="noopener noreferrer">
+-								<p>
+-									<img alt="『第9回 ワクチン虎の穴セミナー』 開催日・プログラムのお知らせ！" src="/pics/news/news-thumb-1844.png">
+-								</p>
+-								<h2>
+-									『第9回 ワクチン虎の穴セミナー』 開催日・プログラムのお知らせ！
+-								</h2>
+-								<p>
+-									こどもとおとなのワクチンサイト（https://www.vaccine4all.jp/)を運営して…
+-								</p>
+-								<p>
+-									<time>
+-										2026.08.17
+-									</time>
+-								</p>
+-							</a>
+-						</li>
+ 					</ul>
+ 					<p>
+ 						<a rel="noopener noreferrer">
+@@ -10045,18 +10055,6 @@
+ 							</p>
+ 						</a>
+ 					</li>
+-					<li>
+-						<a href="https://www.primarycare-japan.com/news-detail.php?nid=1853" rel="noopener noreferrer">
+-							<p>
+-								2026年度認定医試験合否通知を発送しました
+-							</p>
+-							<p>
+-								<time>
+-									2026.08.27
+-								</time>
+-							</p>
+-						</a>
+-					</li>
+ 					<li>
+ 						<p>
+ 							<a rel="noopener noreferrer">
+@@ -10713,7 +10711,7 @@
+ 									</li>
+ 									<li>
+ 										<a href="./assoc/about/ab_index/#detail" rel="noopener noreferrer">
+-											学会概要・会員数・定款
++											学会概要・会員数
+ 										</a>
+ 									</li>
+ 									<li>
+@@ -10721,6 +10719,11 @@
+ 											家庭医療従事者を探す
+ 										</a>
+ 									</li>
++									<li>
++										<a href="./assoc/about/about/ab_memorandum/" rel="noopener noreferrer">
++											定款・会員規則
++										</a>
++									</li>
+ 									<li>
+ 										<a href="./assoc/about/ab_officer/" rel="noopener noreferrer">
+ 											役員・代議員

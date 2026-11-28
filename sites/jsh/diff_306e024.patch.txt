@@ -1,0 +1,64 @@
+diff --git a/sites/jsh/jp/or/jsh/medical.html b/sites/jsh/jp/or/jsh/medical.html
+index 320ae8ecd..2b23b3baa 100644
+--- a/sites/jsh/jp/or/jsh/medical.html
++++ b/sites/jsh/jp/or/jsh/medical.html
+@@ -681,6 +681,14 @@
+ 					<div>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026/11/24
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1722&amp;type=news-info" rel="noopener noreferrer">
++										2026年度 第2期 eラーニング 受講サイトメンテナンスのお知らせ
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/11/24
+ 								</dt>
+@@ -833,14 +841,6 @@
+ 										臓器のあっせんに伴う「クロイツフェルト・ヤコブ病及びその疑い」の取扱い」の一部改正について
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/09/28
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1664&amp;type=news-request" rel="noopener noreferrer">
+-										ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌）について、他
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/" rel="noopener noreferrer">
+@@ -850,6 +850,14 @@
+ 						</div>
+ 						<div>
+ 							<dl>
++								<dt>
++									2026/11/24
++								</dt>
++								<dd>
++									<a href="news/archive.php?id=1722&amp;type=news-info" rel="noopener noreferrer">
++										2026年度 第2期 eラーニング 受講サイトメンテナンスのお知らせ
++									</a>
++								</dd>
+ 								<dt>
+ 									2026/11/24
+ 								</dt>
+@@ -1002,14 +1010,6 @@
+ 										理事長交代のお知らせ
+ 									</a>
+ 								</dd>
+-								<dt>
+-									2026/06/29
+-								</dt>
+-								<dd>
+-									<a href="news/archive.php?id=1443&amp;type=news-info" rel="noopener noreferrer">
+-										JSH International Liver Conference 2028の会長公募について
+-									</a>
+-								</dd>
+ 							</dl>
+ 							<p>
+ 								<a href="/medical/news/info.php" rel="noopener noreferrer">

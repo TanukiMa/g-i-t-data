@@ -1,0 +1,20 @@
+diff --git a/sites/jrs/jp/or/jrs/index.html b/sites/jrs/jp/or/jrs/index.html
+index 2e346c8c..a10760b4 100644
+--- a/sites/jrs/jp/or/jrs/index.html
++++ b/sites/jrs/jp/or/jrs/index.html
+@@ -400,6 +400,15 @@
+ 								</span>
+ 							</a>
+ 						</p>
++						<div>
++							<ul>
++								<li>
++									<a href="https://apsr.org/member-guide-jp/" rel="noopener noreferrer">
++										<img alt="APSRのご案内" height="116" src="https://www.jrs.or.jp/tpl/img/nav_banner_apsr.png" width="492">
++									</a>
++								</li>
++							</ul>
++						</div>
+ 					</div>
+ 				</div>
+ 			</nav>

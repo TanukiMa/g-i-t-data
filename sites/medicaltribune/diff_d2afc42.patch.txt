@@ -1,0 +1,445 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index a6f272e3c..36d25f382 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1461,7 +1461,7 @@
+ 														新着記事一覧
+ 														<br>
+ 														<span>
+-															11月26日の新着ニュース
++															11月27日の新着ニュース
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1478,22 +1478,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="対面とデジタルの融合で情報提供を進化医師一人ひとりの疑問に応える「オンラインMR」" src="https://asset.mtweb.jp/media/2026/11/26133926/70598_photo02-1.jpg">
++																<img alt="コーヒーの習慣的な摂取は大腸の動きに関係" src="https://asset.mtweb.jp/media/2026/11/26190225/000608_ft.jpeg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622241" rel="noopener noreferrer">
+-																			対面とデジタルの融合で情報提供を進化
+-																			<br>
+-																			医師一人ひとりの疑問に応える「オンラインMR」
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623116" rel="noopener noreferrer">
++																			コーヒーの習慣的な摂取は大腸の動きに関係
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-26
++																			2026-11-27
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1529,13 +1527,13 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="ドナネマブ投与後1年でアミロイド96％除去" src="https://asset.mtweb.jp/media/2026/11/25170931/ChatGPT-Image-20261125_donanemab.jpg">
++																<img alt="乳癌学会・乳癌検診学会が広告表示に注意喚起" src="https://asset.mtweb.jp/media/2026/08/03123551/com__w440h275-3.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622573" rel="noopener noreferrer">
+-																			ドナネマブ投与後1年でアミロイド96％除去
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623099" rel="noopener noreferrer">
++																			乳癌学会・乳癌検診学会が広告表示に注意喚起
+ 																		</a>
+ 																	</div>
+ 																</h2>
+@@ -1578,20 +1576,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="英国でも若者の「草食化」が深刻" src="https://asset.mtweb.jp/media/2026/11/25145619/ChatGPT-Image-20261125_Sexual-behaviour.jpg">
++																<img alt="1型糖尿病のステージ分類を採用へ" src="https://asset.mtweb.jp/media/2026/11/26171308/25_%E6%8F%90%E8%A8%80%E3%83%BB%E5%A3%B0%E6%98%8E_%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB-2.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622877" rel="noopener noreferrer">
+-																			英国でも若者の「草食化」が深刻
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623073" rel="noopener noreferrer">
++																			1型糖尿病のステージ分類を採用へ
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-25
++																			2026-11-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1627,20 +1625,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="禁煙は無理でも「減煙」で乾癬リスクが低下" src="https://asset.mtweb.jp/media/2026/11/24164400/ChatGPT-Image-20261124_PsAxSmoking.jpg">
++																<img alt="重症AKIの腎代替療法、「持続」か「間欠」か" src="https://asset.mtweb.jp/media/2026/06/18104626/com_dr_tanpo_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622689" rel="noopener noreferrer">
+-																			禁煙は無理でも「減煙」で乾癬リスクが低下
++																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622161" rel="noopener noreferrer">
++																			重症AKIの腎代替療法、「持続」か「間欠」か
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-25
++																			2026-11-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1676,20 +1674,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="エボロクマブ、日本人FHでLDL-C低下が2年持続" src="https://asset.mtweb.jp/media/2026/11/25160204/ChatGPT-Image-20261125_Evolocumab_FH.jpg">
++																<img alt="五十肩の短期的な症状改善には体外衝撃波療法と麻酔下徒手授動術が有望" src="https://asset.mtweb.jp/media/2026/11/26175708/000602_ft.jpeg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622732" rel="noopener noreferrer">
+-																			エボロクマブ、日本人FHでLDL-C低下が2年持続
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=623084" rel="noopener noreferrer">
++																			五十肩の短期的な症状改善には体外衝撃波療法と麻酔下徒手授動術が有望
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-25
++																			2026-11-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1725,20 +1723,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="あはき・柔整施術所の不適切広告、保健所が監視" src="https://asset.mtweb.jp/media/2026/11/24112942/%E9%A1%94%E5%86%99%E7%9C%9F_%E5%90%91%E5%B1%B1%E6%99%B4%E5%AD%90.jpg">
++																<img alt="NT-proBNP測定で心不全を早期発見へ" src="https://asset.mtweb.jp/media/2026/11/09112441/com_jhfs2026_thum_w440h275.png">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622594" rel="noopener noreferrer">
+-																			あはき・柔整施術所の不適切広告、保健所が監視
++																		<a href="https://medical-tribune.co.jp/news/articles/?blogid=7&amp;entryid=622709" rel="noopener noreferrer">
++																			NT-proBNP測定で心不全を早期発見へ
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-25
++																			2026-11-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1774,20 +1772,20 @@
+ 																</div>
+ 															</div>
+ 															<div>
+-																<img alt="がんが「転移する力」はいつ備わるのか" src="https://asset.mtweb.jp/media/2026/06/10160320/com_dr_iwai_thum_w440h275.jpg">
++																<img alt="〔10pt進呈〕抗CGRP抗体（注射薬）とゲパント（経口薬）の使い分け法として、竹島多賀夫氏が提示した考えに最も近いものは？【MT医療検定 No.152】（12/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 															</div>
+ 															<div>
+ 																<h2>
+ 																	<div>
+-																		<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
+-																			がんが「転移する力」はいつ備わるのか
++																		<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622382" rel="noopener noreferrer">
++																			〔10pt進呈〕抗CGRP抗体（注射薬）とゲパント（経口薬）の使い分け法として、竹島多賀夫氏が提示した考えに最も近いものは？【MT医療検定 No.152】（12/2まで）
+ 																		</a>
+ 																	</div>
+ 																</h2>
+ 																<div>
+ 																	<div>
+ 																		<time>
+-																			2026-11-25
++																			2026-11-26
+ 																		</time>
+ 																	</div>
+ 																	<div>
+@@ -1820,7 +1818,7 @@
+ 														新着連載
+ 														<br>
+ 														<span>
+-															11月26日の新着連載
++															11月27日の新着連載
+ 														</span>
+ 													</h2>
+ 													<div>
+@@ -1840,21 +1838,19 @@
+ 																	<div>
+ 																		<div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622241" rel="noopener noreferrer">
+-																					<img alt="対面とデジタルの融合で情報提供を進化医師一人ひとりの疑問に応える「オンラインMR」" src="/assets/images/thumbnails/com_Exective_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622161" rel="noopener noreferrer">
++																					<img alt="重症AKIの腎代替療法、「持続」か「間欠」か" src="/assets/images/rensai/doceye/thumbnails/丹保亜希仁（救急医療）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622241" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=622161" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-26
+ 																						</time>
+ 																						<h2>
+-																							対面とデジタルの融合で情報提供を進化
+-																							<br>
+-																							医師一人ひとりの疑問に応える「オンラインMR」
++																							重症AKIの腎代替療法、「持続」か「間欠」か
+ 																						</h2>
+ 																						<p>
+-																							アステラス製薬株式会社 オンラインカスタマーエンゲージメント部 部長 福島 徹氏
++																							多施設RCTの90日転帰
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1863,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									1
++																									4
+ 																								</span>
+ 																								<span>
+-																									1件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									5
++																									13
+ 																								</span>
+ 																								<span>
+-																									5件「いいね！」されています
++																									13件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1893,19 +1889,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
+-																					<img alt="がんが「転移する力」はいつ備わるのか" src="/assets/images/rensai/doceye/thumbnails/岩井拓磨（消化器外科）.jpg">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622382" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕抗CGRP抗体（注射薬）とゲパント（経口薬）の使い分け法として、竹島多賀夫氏が提示した考えに最も近いものは？【MT医療検定 No.152】（12/2まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622382" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-25
++																							2026-11-26
+ 																						</time>
+ 																						<h2>
+-																							がんが「転移する力」はいつ備わるのか
++																							〔10pt進呈〕抗CGRP抗体（注射薬）とゲパント（経口薬）の使い分け法として、竹島多賀夫氏が提示した考えに最も近いものは？【MT医療検定 No.152】（12/2まで）
+ 																						</h2>
+ 																						<p>
+-																							早期大腸がん、浸潤先進部で起きていること
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1914,20 +1909,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									0
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									36
++																									6
+ 																								</span>
+ 																								<span>
+-																									36件「いいね！」されています
++																									6件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1944,18 +1939,21 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622377" rel="noopener noreferrer">
+-																					<img alt="〔10pt進呈〕第54回日本頭痛学会のテーマ「頭痛診療の社会実装―明日へのシナリオ―」に大会長の橋本洋一郎氏が込めた思いとは？【MT医療検定 No.151】（11/30まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622241" rel="noopener noreferrer">
++																					<img alt="対面とデジタルの融合で情報提供を進化医師一人ひとりの疑問に応える「オンラインMR」" src="/assets/images/thumbnails/com_Exective_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622377" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622241" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-24
++																							2026-11-26
+ 																						</time>
+ 																						<h2>
+-																							〔10pt進呈〕第54回日本頭痛学会のテーマ「頭痛診療の社会実装―明日へのシナリオ―」に大会長の橋本洋一郎氏が込めた思いとは？【MT医療検定 No.151】（11/30まで）
++																							対面とデジタルの融合で情報提供を進化
++																							<br>
++																							医師一人ひとりの疑問に応える「オンラインMR」
+ 																						</h2>
+ 																						<p>
++																							アステラス製薬株式会社 オンラインカスタマーエンゲージメント部 部長 福島 徹氏
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -1964,20 +1962,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									0
++																									2
+ 																								</span>
+ 																								<span>
+-																									0件のコメントが投稿されています
++																									2件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									22
++																									8
+ 																								</span>
+ 																								<span>
+-																									22件「いいね！」されています
++																									8件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1994,19 +1992,19 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622593" rel="noopener noreferrer">
+-																					<img alt="上位感染症軒並み増、インフル警報レベル超え" src="/assets/images/rensai/thumbnails/com_weeklyreport_thum_w440h275.jpg">
++																				<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
++																					<img alt="がんが「転移する力」はいつ備わるのか" src="/assets/images/rensai/doceye/thumbnails/岩井拓磨（消化器外科）.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=622593" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&amp;entryid=621847" rel="noopener noreferrer">
+ 																						<time>
+-																							2026-11-24
++																							2026-11-25
+ 																						</time>
+ 																						<h2>
+-																							上位感染症軒並み増、インフル警報レベル超え
++																							がんが「転移する力」はいつ備わるのか
+ 																						</h2>
+ 																						<p>
+-																							【感染症動向調査第46週：11月9～15日】
++																							早期大腸がん、浸潤先進部で起きていること
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2015,20 +2013,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									3
++																									4
+ 																								</span>
+ 																								<span>
+-																									3件のコメントが投稿されています
++																									4件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									29
++																									41
+ 																								</span>
+ 																								<span>
+-																									29件「いいね！」されています
++																									41件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -2045,19 +2043,18 @@
+ 																				</div>
+ 																			</div>
+ 																			<div>
+-																				<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621597" rel="noopener noreferrer">
+-																					<img alt="「スマートリングに無呼吸の通知が出た」と患者が受診してきたら？" src="/assets/images/rensai/thumbnails/com_digitalhealth26_thum_w440h275.png">
++																				<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622377" rel="noopener noreferrer">
++																					<img alt="〔10pt進呈〕第54回日本頭痛学会のテーマ「頭痛診療の社会実装―明日へのシナリオ―」に大会長の橋本洋一郎氏が込めた思いとは？【MT医療検定 No.151】（11/30まで）" src="/assets/images/thumbnails/com_kentei_thum_w440h275.jpg">
+ 																				</a>
+ 																				<div>
+-																					<a href="https://medical-tribune.co.jp/rensai/articles/?blogid=11&amp;entryid=621597" rel="noopener noreferrer">
++																					<a href="https://medical-tribune.co.jp/service/quiz/articles/?blogid=11&amp;entryid=622377" rel="noopener noreferrer">
+ 																						<time>
+ 																							2026-11-24
+ 																						</time>
+ 																						<h2>
+-																							「スマートリングに無呼吸の通知が出た」と患者が受診してきたら？
++																							〔10pt進呈〕第54回日本頭痛学会のテーマ「頭痛診療の社会実装―明日へのシナリオ―」に大会長の橋本洋一郎氏が込めた思いとは？【MT医療検定 No.151】（11/30まで）
+ 																						</h2>
+ 																						<p>
+-																							感度、特異度の読み解き方
+ 																						</p>
+ 																					</a>
+ 																					<div>
+@@ -2066,20 +2063,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									0
+ 																								</span>
+ 																								<span>
+-																									4件のコメントが投稿されています
++																									0件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									28
++																									22
+ 																								</span>
+ 																								<span>
+-																									28件「いいね！」されています
++																									22件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>

@@ -1,0 +1,86 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index ae192d91..83ec0e9c 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,40 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/12
++											</time>
++										</td>
++										<td>
++											<a href="/members-only/members-news" rel="noopener noreferrer">
++												会員限定のお知らせ
++											</a>
++										</td>
++										<td>
++											<a href="/members-only/" rel="noopener noreferrer">
++												会員専用ホームページに新しいお知らせを掲載しました
++											</a>
++										</td>
++									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/11/12
++											</time>
++										</td>
++										<td>
++											<a href="/members-only/members-news" rel="noopener noreferrer">
++												会員限定のお知らせ
++											</a>
++										</td>
++										<td>
++											<a href="/members-only/" rel="noopener noreferrer">
++												会員専用ホームページに新しいお知らせを掲載しました
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2002,40 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/10
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-pediatrician" rel="noopener noreferrer">
+-												専門医・認定資格等
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-pediatrician/post-159446.html" rel="noopener noreferrer">
+-												認定小児科指導医　認定証（シール）の発送について
+-											</a>
+-										</td>
+-									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/09
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
+-												学会の活動
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/general/generalnews/post-159441.html" rel="noopener noreferrer">
+-												「日本小児科学会が推奨する予防接種キャッチアップスケジュール」改訂について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

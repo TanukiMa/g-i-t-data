@@ -1,0 +1,75 @@
+diff --git a/sites/jrs-guideline/jp/radiology/jrs-gl/index.html b/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
+index 31ddf385..93a62a45 100644
+--- a/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
++++ b/sites/jrs-guideline/jp/radiology/jrs-gl/index.html
+@@ -630,6 +630,19 @@
+ 						</div>
+ 						<div>
+ 							<ul>
++								<li>
++									<a href="https://jrs-gl.radiology.jp/news/3416/" rel="noopener noreferrer">
++										<p>
++											2026.11.10
++										</p>
++										<div>
++											お知らせ
++										</div>
++										<div>
++											脳神経領域のステートメントの一部を変更しました。
++										</div>
++									</a>
++								</li>
+ 								<li>
+ 									<a href="https://jrs-gl.radiology.jp/news/3413/" rel="noopener noreferrer">
+ 										<p>
+@@ -669,23 +682,23 @@
+ 										</div>
+ 									</a>
+ 								</li>
++							</ul>
++						</div>
++						<div>
++							<ul>
+ 								<li>
+-									<a href="https://jrs-gl.radiology.jp/news/3083/" rel="noopener noreferrer">
++									<a href="https://jrs-gl.radiology.jp/news/3416/" rel="noopener noreferrer">
+ 										<p>
+-											2026.08.21
++											2026.11.10
+ 										</p>
+ 										<div>
+ 											お知らせ
+ 										</div>
+ 										<div>
+-											新たに「骨軟部」領域の標準的撮像法、BQ、FQが公開されました。
++											脳神経領域のステートメントの一部を変更しました。
+ 										</div>
+ 									</a>
+ 								</li>
+-							</ul>
+-						</div>
+-						<div>
+-							<ul>
+ 								<li>
+ 									<a href="https://jrs-gl.radiology.jp/news/3413/" rel="noopener noreferrer">
+ 										<p>
+@@ -725,19 +738,6 @@
+ 										</div>
+ 									</a>
+ 								</li>
+-								<li>
+-									<a href="https://jrs-gl.radiology.jp/news/3083/" rel="noopener noreferrer">
+-										<p>
+-											2026.08.21
+-										</p>
+-										<div>
+-											お知らせ
+-										</div>
+-										<div>
+-											新たに「骨軟部」領域の標準的撮像法、BQ、FQが公開されました。
+-										</div>
+-									</a>
+-								</li>
+ 							</ul>
+ 						</div>
+ 						<div>

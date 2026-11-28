@@ -1,0 +1,42 @@
+diff --git a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+index 93f520ad8..2b562477b 100644
+--- a/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
++++ b/sites/wamgojpgyosei/jp/go/wam/gyoseiShiryou-top.html
+@@ -2805,18 +2805,6 @@
+ 															<div>
+ 																<table>
+ 																	<tbody>
+-																		<tr>
+-																			<td>
+-																				<div>
+-																					医療
+-																				</div>
+-																			</td>
+-																			<td>
+-																				<a href="/gyoseiShiryou/detail?gno=23074&amp;ct=070010030" rel="noopener noreferrer">
+-																					中央社会保険医療協議会の開催について（令和8年11月25日開催予定）
+-																				</a>
+-																			</td>
+-																		</tr>
+ 																		<tr>
+ 																			<td>
+ 																				<div>
+@@ -2865,6 +2853,18 @@
+ 																				</a>
+ 																			</td>
+ 																		</tr>
++																		<tr>
++																			<td>
++																				<div>
++																					福祉全般
++																				</div>
++																			</td>
++																			<td>
++																				<a href="/gyoseiShiryou/detail?gno=23084&amp;ct=070010010" rel="noopener noreferrer">
++																					第146回 労働政策審議会障害者雇用分科会（令和8年11月30日開催予定）
++																				</a>
++																			</td>
++																		</tr>
+ 																	</tbody>
+ 																</table>
+ 															</div>

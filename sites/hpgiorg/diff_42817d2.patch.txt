@@ -1,0 +1,97 @@
+diff --git a/sites/hpgiorg/org/hgpi/index.html b/sites/hpgiorg/org/hgpi/index.html
+index 0cda3c7e8..95ae71b12 100644
+--- a/sites/hpgiorg/org/hgpi/index.html
++++ b/sites/hpgiorg/org/hgpi/index.html
+@@ -293,6 +293,24 @@
+ 			<h1>
+ 				最近の活動
+ 			</h1>
++			<div>
++				<a href="https://hgpi.org/lecture/lecture-media-393.html" rel="noopener noreferrer">
++					<img alt="【登壇告知】UHC2030「ACT for UHC 2026」報告書ローンチイベント ～健康格差是正に向けた実施ギャップの解消～（オンライン、2026年11月24日）" src="https://hgpi.org/wp-content/uploads/eyecatch_sugawara-3.png">
++				</a>
++				<div>
++					記事・講演・報道
++				</div>
++				<div>
++					<div>
++						2026-11-19
++					</div>
++					<div>
++						<a href="https://hgpi.org/lecture/lecture-media-393.html" rel="noopener noreferrer">
++							【登壇告知】UHC2030「ACT for UHC 2026」報告書ローンチイベント ～健康格差是正に向けた実施ギャップの解消～（オンライン、2026年11月24日）
++						</a>
++					</div>
++				</div>
++			</div>
+ 			<div>
+ 				<a href="https://hgpi.org/research/amr-20261023.html" rel="noopener noreferrer">
+ 					<img alt="【論点整理】健康長寿時代に求められるAMR対策―超高齢社会における高齢者の安心と安全な暮らしを目指して―（2026年10月23日）" src="https://hgpi.org/wp-content/uploads/HGPI_eyecatch_AMR_Discussion-Paper_20260930.png">
+@@ -347,6 +365,24 @@
+ 					</div>
+ 				</div>
+ 			</div>
++			<div>
++				<a href="https://hgpi.org/research/amr-policy-update-11.html" rel="noopener noreferrer">
++					<img alt="【調査報告】AMR Policy Update #11：ノルウェーがん協会の実践から学ぶ医療政策との関わり方－がん対策と患者・当事者、市民参画の交差点（2026年11月19日）" src="https://hgpi.org/wp-content/uploads/HGPI_20261119_NCS-PT1.png">
++				</a>
++				<div>
++					調査・提言
++				</div>
++				<div>
++					<div>
++						2026-11-19
++					</div>
++					<div>
++						<a href="https://hgpi.org/research/amr-policy-update-11.html" rel="noopener noreferrer">
++							【調査報告】AMR Policy Update #11：ノルウェーがん協会の実践から学ぶ医療政策との関わり方－がん対策と患者・当事者、市民参画の交差点（2026年11月19日）
++						</a>
++					</div>
++				</div>
++			</div>
+ 			<div>
+ 				<a href="https://hgpi.org/news/thinkcell-20261117.html" rel="noopener noreferrer">
+ 					<img src="/assets/img/katsudo/img_no_image.jpg">
+@@ -473,42 +509,6 @@
+ 					</div>
+ 				</div>
+ 			</div>
+-			<div>
+-				<a href="https://hgpi.org/lecture/lecture-media-391.html" rel="noopener noreferrer">
+-					<img alt="【メディア掲載】「危機管理投資としての病院ZEB化—日本赤十字社の先進事例が示す国家戦略的価値」（月刊『集中』、2026年9月30日）" src="https://hgpi.org/wp-content/uploads/eyecatch_sugawara-3.png">
+-				</a>
+-				<div>
+-					記事・講演・報道
+-				</div>
+-				<div>
+-					<div>
+-						2026-11-06
+-					</div>
+-					<div>
+-						<a href="https://hgpi.org/lecture/lecture-media-391.html" rel="noopener noreferrer">
+-							【メディア掲載】「危機管理投資としての病院ZEB化—日本赤十字社の先進事例が示す国家戦略的価値」（月刊『集中』、2026年9月30日）
+-						</a>
+-					</div>
+-				</div>
+-			</div>
+-			<div>
+-				<a href="https://hgpi.org/lecture/lecture-media-390.html" rel="noopener noreferrer">
+-					<img alt="【登壇報告】世界認知症審議会「WDC Summit 2026」（イギリス・ロンドン、2026年10月20日）" src="https://hgpi.org/wp-content/uploads/HGPI_20261020_Eyecatch_WDC2026-scaled-1-1.jpg">
+-				</a>
+-				<div>
+-					記事・講演・報道
+-				</div>
+-				<div>
+-					<div>
+-						2026-11-06
+-					</div>
+-					<div>
+-						<a href="https://hgpi.org/lecture/lecture-media-390.html" rel="noopener noreferrer">
+-							【登壇報告】世界認知症審議会「WDC Summit 2026」（イギリス・ロンドン、2026年10月20日）
+-						</a>
+-					</div>
+-				</div>
+-			</div>
+ 		</div>
+ 		<div>
+ 		</div>

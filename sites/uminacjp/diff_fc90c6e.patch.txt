@@ -1,0 +1,50 @@
+diff --git a/sites/uminacjp/jp/ac/umin/index.html b/sites/uminacjp/jp/ac/umin/index.html
+index 69b7ac7e1..ba4a51554 100644
+--- a/sites/uminacjp/jp/ac/umin/index.html
++++ b/sites/uminacjp/jp/ac/umin/index.html
+@@ -662,6 +662,11 @@
+ 						GENERAL（医学・医療系リンク集）
+ 					</h5>
+ 					<ul>
++						<li>
++							<a href="https://www.tonanhp.com/jsmi2027" rel="noopener noreferrer">
++								第10回日本メディカルイラストレーション学会・学術集会
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://nursingresearchmeetings.com/" rel="noopener noreferrer">
+ 								2nd Global Summit on Nursing Education and Research
+@@ -692,16 +697,16 @@
+ 								第23回DIA日本年会2026　境界を踏み越えて、「新結合」で拓く、予想を超えた未来
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.iken.org/symposium/iken/2026_kaisai.html" rel="noopener noreferrer">
+-								医療科学研究所　9/12シンポジウム「健康の第3の柱『社会的ウェルビーイング』が拓く医療の未来
+-							</a>
+-						</li>
+ 					</ul>
+ 					<h5>
+ 						Drug、Clinical Trial、Epidemiology、Statistics（医薬品、臨床試験、疫学、統計リンク集）
+ 					</h5>
+ 					<ul>
++						<li>
++							<a href="https://www.hosp.kobe-u.ac.jp/ctrc/researcher/documents/seminar/seminar_20261208.pdf" rel="noopener noreferrer">
++								12/8 臨床研究推進セミナー（神戸大学）「再生医療の適正な発展に向けて―臨床エビデンスの創出とCPCの役割―」
++							</a>
++						</li>
+ 						<li>
+ 							<a href="https://www.hosp.kobe-u.ac.jp/ctrc/researcher/documents/seminar/seminar_20261125.pdf" rel="noopener noreferrer">
+ 								11/25 臨床研究推進セミナー（神戸大学）「医療AIと倫理との接点：世界医師会ポルト声明の検討」
+@@ -732,11 +737,6 @@
+ 								ヘルスデータサイエンス学会設立5周年記念オンラインセミナー「ヘルスデータサイエンスのためのデータアーキテクチャ入門」出版記念
+ 							</a>
+ 						</li>
+-						<li>
+-							<a href="https://www.hosp.kobe-u.ac.jp/ctrc/researcher/documents/seminar/seminar_20261014.pdf" rel="noopener noreferrer">
+-								10/14 臨床研究推進セミナー（神戸大学）「リアルワールドデータを『知る』から『使う』へ― Clinical QuestionをRWD研究計画に変える実践ステップ ―」
+-							</a>
+-						</li>
+ 					</ul>
+ 				</ul>
+ 				<h2>

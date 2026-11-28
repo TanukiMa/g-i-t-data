@@ -1,0 +1,28 @@
+diff --git a/sites/hpdx-kihonmasta-07/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-07-html.html b/sites/hpdx-kihonmasta-07/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-07-html.html
+index 3fea2b33b..2aa50d6f1 100644
+--- a/sites/hpdx-kihonmasta-07/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-07-html.html
++++ b/sites/hpdx-kihonmasta-07/jp/or/hpdx/seikyushiharai-tensuhyo-kihonmasta-kihonmasta-07-html.html
+@@ -2725,6 +2725,11 @@
+ 							こちらもお探しですか
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_08.html" rel="noopener noreferrer">
++									修飾語マスター
++								</a>
++							</li>
+ 							<li>
+ 								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html" rel="noopener noreferrer">
+ 									医薬品マスター
+@@ -2735,11 +2740,6 @@
+ 									医科診療行為マスター
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_05.html" rel="noopener noreferrer">
+-									特定器材マスター
+-								</a>
+-							</li>
+ 						</ul>
+ 					</div>
+ 					<div>

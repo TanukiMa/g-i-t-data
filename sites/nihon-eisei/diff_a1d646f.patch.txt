@@ -1,0 +1,44 @@
+diff --git a/sites/nihon-eisei/org/nihon-eisei/index.html b/sites/nihon-eisei/org/nihon-eisei/index.html
+index 8405ff72f..db2848033 100644
+--- a/sites/nihon-eisei/org/nihon-eisei/index.html
++++ b/sites/nihon-eisei/org/nihon-eisei/index.html
+@@ -350,6 +350,19 @@
+ 					最新情報
+ 				</h3>
+ 				<ul>
++					<li>
++						<span>
++							2026年11月19日
++						</span>
++						<span>
++							講演会・セミナーのお知らせ
++						</span>
++						<p>
++							<a href="activity/seminars/" rel="noopener noreferrer">
++								子どもの健康と環境に関する全国調査（エコチル調査）データ説明会
++							</a>
++						</p>
++					</li>
+ 					<li>
+ 						<span>
+ 							2026年11月13日
+@@ -467,19 +480,6 @@
+ 							</a>
+ 						</p>
+ 					</li>
+-					<li>
+-						<span>
+-							2026年9月30日
+-						</span>
+-						<span>
+-							その他
+-						</span>
+-						<p>
+-							<a href="https://www.nihon-eisei.org/100th-editor-koubo/" rel="noopener noreferrer">
+-								100年史編集委員会委員の公募
+-							</a>
+-						</p>
+-					</li>
+ 				</ul>
+ 				<div>
+ 					<a href="https://www.nihon-eisei.org/?cat=2" rel="noopener noreferrer">

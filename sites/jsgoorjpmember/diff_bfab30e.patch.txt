@@ -1,0 +1,38 @@
+diff --git a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+index 4c38cc12..04452cad 100644
+--- a/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
++++ b/sites/jsgoorjpmember/jp/or/jsgo/entry-member.html
+@@ -387,6 +387,16 @@
+ 									<div>
+ 										<table>
+ 											<tbody>
++												<tr>
++													<th>
++														2026/11/04
++													</th>
++													<td>
++														<a href="/entry_member/news/20261104/4643/" rel="noopener noreferrer">
++															「IGCS & JSGO 2027 TOKYO」ウェルカムメッセージ
++														</a>
++													</td>
++												</tr>
+ 												<tr>
+ 													<th>
+ 														2026/11/02
+@@ -427,16 +437,6 @@
+ 														</a>
+ 													</td>
+ 												</tr>
+-												<tr>
+-													<th>
+-														2026/10/21
+-													</th>
+-													<td>
+-														<a href="/entry_member/news/20261021/4575/" rel="noopener noreferrer">
+-															緊急Tumor Board「妊娠26週子宮頸がん合併妊娠」
+-														</a>
+-													</td>
+-												</tr>
+ 											</tbody>
+ 										</table>
+ 									</div>

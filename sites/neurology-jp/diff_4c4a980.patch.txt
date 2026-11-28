@@ -1,0 +1,52 @@
+diff --git a/sites/neurology-jp/org/neurology-jp/index-html.html b/sites/neurology-jp/org/neurology-jp/index-html.html
+index 65ac1066d..a8d0888b8 100644
+--- a/sites/neurology-jp/org/neurology-jp/index-html.html
++++ b/sites/neurology-jp/org/neurology-jp/index-html.html
+@@ -1196,6 +1196,14 @@
+ 							</h3>
+ 							<div>
+ 								<dl>
++									<dt>
++										2026年10月16日
++									</dt>
++									<dd>
++										<a href="kanren/annai-hoka/index.html" rel="noopener noreferrer">
++											他学会セミナー等のお知らせ
++										</a>
++									</dd>
+ 									<dt>
+ 										2026年10月09日
+ 									</dt>
+@@ -1228,6 +1236,8 @@
+ 											他学会セミナー等のお知らせ
+ 										</a>
+ 									</dd>
++								</dl>
++								<dl>
+ 									<dt>
+ 										2026年09月18日
+ 									</dt>
+@@ -1236,8 +1246,6 @@
+ 											他学会セミナー等のお知らせ
+ 										</a>
+ 									</dd>
+-								</dl>
+-								<dl>
+ 									<dt>
+ 										2026年09月14日
+ 									</dt>
+@@ -1270,14 +1278,6 @@
+ 											助成金・研究テーマ募集
+ 										</a>
+ 									</dd>
+-									<dt>
+-										2026年08月19日
+-									</dt>
+-									<dd>
+-										<a href="kanren/annai-hoka/index.html" rel="noopener noreferrer">
+-											他学会セミナー等のお知らせ
+-										</a>
+-									</dd>
+ 								</dl>
+ 							</div>
+ 						</div>

@@ -1,0 +1,97 @@
+diff --git a/sites/hpgiorg/org/hgpi/index.html b/sites/hpgiorg/org/hgpi/index.html
+index 463e02562..ff74645c2 100644
+--- a/sites/hpgiorg/org/hgpi/index.html
++++ b/sites/hpgiorg/org/hgpi/index.html
+@@ -293,6 +293,24 @@
+ 			<h1>
+ 				最近の活動
+ 			</h1>
++			<div>
++				<a href="https://hgpi.org/research/amr-20261124.html" rel="noopener noreferrer">
++					<img alt="【政策提言】AMR対策の基盤としての微生物学的検査体制の強化に向けて（2026年11月24日）" src="https://hgpi.org/wp-content/uploads/HGPI_20261118_eyecatch_AMR_JPN_cover.jpg">
++				</a>
++				<div>
++					調査・提言
++				</div>
++				<div>
++					<div>
++						2026-11-20
++					</div>
++					<div>
++						<a href="https://hgpi.org/research/amr-20261124.html" rel="noopener noreferrer">
++							【政策提言】AMR対策の基盤としての微生物学的検査体制の強化に向けて（2026年11月24日）
++						</a>
++					</div>
++				</div>
++			</div>
+ 			<div>
+ 				<a href="https://hgpi.org/lecture/lecture-media-393.html" rel="noopener noreferrer">
+ 					<img alt="【登壇告知】UHC2030「ACT for UHC 2026」報告書ローンチイベント ～健康格差是正に向けた実施ギャップの解消～（オンライン、2026年11月24日）" src="https://hgpi.org/wp-content/uploads/eyecatch_sugawara-3.png">
+@@ -365,6 +383,24 @@
+ 					</div>
+ 				</div>
+ 			</div>
++			<div>
++				<a href="https://hgpi.org/research/amr-policy-update-12.html" rel="noopener noreferrer">
++					<img alt="【調査報告】AMR Policy Update #12：ノルウェーがん協会の実践から学ぶ医療政策との関わり方（後編）－がん対策とAMR対策の交差点（2026年11月24日）" src="https://hgpi.org/wp-content/uploads/HGPI_20261124_NCS-PT2-1.png">
++				</a>
++				<div>
++					調査・提言
++				</div>
++				<div>
++					<div>
++						2026-11-24
++					</div>
++					<div>
++						<a href="https://hgpi.org/research/amr-policy-update-12.html" rel="noopener noreferrer">
++							【調査報告】AMR Policy Update #12：ノルウェーがん協会の実践から学ぶ医療政策との関わり方（後編）－がん対策とAMR対策の交差点（2026年11月24日）
++						</a>
++					</div>
++				</div>
++			</div>
+ 			<div>
+ 				<a href="https://hgpi.org/events/ihs-20261116.html" rel="noopener noreferrer">
+ 					<img alt="【開催報告】日本医療政策機構・国際文化会館共催 国際健康安全保障対話（IHS Dialogue）第1回会合「バイオセキュリティ」（2026年11月16日）" src="https://hgpi.org/wp-content/uploads/HGPI_20261119_eyecatch_IHS-Dialogue.jpg">
+@@ -473,42 +509,6 @@
+ 					</div>
+ 				</div>
+ 			</div>
+-			<div>
+-				<a href="https://hgpi.org/events/dmb-20261029.html" rel="noopener noreferrer">
+-					<img alt="【開催報告】超党派国会議員向け医療政策勉強会「30分で伝える医療政策最前線：急性期医療を取り巻く政策課題と遠隔ICUの取り組み」（2026年10月29日）" src="https://hgpi.org/wp-content/uploads/HGPI_20261029_dmb_remoteICU_1-scaled.jpeg">
+-				</a>
+-				<div>
+-					イベント
+-				</div>
+-				<div>
+-					<div>
+-						2026-11-10
+-					</div>
+-					<div>
+-						<a href="https://hgpi.org/events/dmb-20261029.html" rel="noopener noreferrer">
+-							【開催報告】超党派国会議員向け医療政策勉強会「30分で伝える医療政策最前線：急性期医療を取り巻く政策課題と遠隔ICUの取り組み」（2026年10月29日）
+-						</a>
+-					</div>
+-				</div>
+-			</div>
+-			<div>
+-				<a href="https://hgpi.org/research/ph-20261109.html" rel="noopener noreferrer">
+-					<img alt="【お知らせ】「野心的な交渉成果を通じて健康と命を守る：COP31に向けた提言」に賛同（2026年11月9日）" src="https://hgpi.org/wp-content/uploads/HGPI_20261109_GCHA-COP31.png">
+-				</a>
+-				<div>
+-					調査・提言
+-				</div>
+-				<div>
+-					<div>
+-						2026-11-10
+-					</div>
+-					<div>
+-						<a href="https://hgpi.org/research/ph-20261109.html" rel="noopener noreferrer">
+-							【お知らせ】「野心的な交渉成果を通じて健康と命を守る：COP31に向けた提言」に賛同（2026年11月9日）
+-						</a>
+-					</div>
+-				</div>
+-			</div>
+ 		</div>
+ 		<div>
+ 		</div>

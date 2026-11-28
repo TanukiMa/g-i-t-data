@@ -1,0 +1,38 @@
+diff --git a/sites/anesth/jp/or/anesth/index.html b/sites/anesth/jp/or/anesth/index.html
+index 8ebc0d706..f5184af7a 100644
+--- a/sites/anesth/jp/or/anesth/index.html
++++ b/sites/anesth/jp/or/anesth/index.html
+@@ -283,6 +283,16 @@
+         海外団体からのお知らせ
+ 					<div>
+ 						<div>
++							<div>
++								<p>
++									2026.11.27
++								</p>
++								<p>
++									<a href="/users/news/detail/ae49b59f-6a90-4502-bc52-386dce3baa75#layout-top" rel="noopener noreferrer">
++										【11月27日（金）16：00～16：30】緊急メンテナンスに伴うJSA-PIMS　ヘルプデスクサイト停止
++									</a>
++								</p>
++							</div>
+ 							<div>
+ 								<p>
+ 									2026.11.26
+@@ -1271,16 +1281,6 @@
+ 									</a>
+ 								</p>
+ 							</div>
+-							<div>
+-								<p>
+-									2025.04.18
+-								</p>
+-								<p>
+-									<a href="/users/news/detail/6801f2e2-7f78-46b6-9d13-402d9dcdd4c6#layout-top" rel="noopener noreferrer">
+-										【4/21_19:00～21:00】会員管理システム停止のお知らせ
+-									</a>
+-								</p>
+-							</div>
+ 						</div>
+ 						<div>
+ 							<a href="/users/news/all/ippan#layout-top" rel="noopener noreferrer">

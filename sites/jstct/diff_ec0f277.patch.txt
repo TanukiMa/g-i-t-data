@@ -1,0 +1,48 @@
+diff --git a/sites/jstct/jp/or/jstct/index.html b/sites/jstct/jp/or/jstct/index.html
+index 45c6e863..e0b4cba7 100644
+--- a/sites/jstct/jp/or/jstct/index.html
++++ b/sites/jstct/jp/or/jstct/index.html
+@@ -715,6 +715,21 @@
+ 			お知らせ
+ 		</h2>
+ 		<div>
++			<div>
++				<div>
++					<div>
++						ガイドライン
++					</div>
++				</div>
++				<div>
++					2026年11月4日
++				</div>
++				<div>
++					<a href="https://www.jstct.or.jp/modules/news/index.php?content_id=844" rel="noopener noreferrer">
++						パブリックコメントの募集について（ ガイドライン改訂）【会員専用】
++					</a>
++				</div>
++			</div>
+ 			<div>
+ 				<div>
+ 					<div>
+@@ -928,21 +943,6 @@
+ 					</a>
+ 				</div>
+ 			</div>
+-			<div>
+-				<div>
+-					<div>
+-						会員向け
+-					</div>
+-				</div>
+-				<div>
+-					2026年8月24日
+-				</div>
+-				<div>
+-					<a href="https://www.jstct.or.jp/modules/news/index.php?content_id=824" rel="noopener noreferrer">
+-						HCT Contribution Award 2026 受賞候補者の推薦受付について
+-					</a>
+-				</div>
+-			</div>
+ 		</div>
+ 		<div>
+ 			<a href="/modules/newslist/" rel="noopener noreferrer">

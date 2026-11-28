@@ -1,0 +1,13 @@
+diff --git a/sites/digitalmeddx/jp/go/digital/resources-govdashboard-healthcare-dx.html b/sites/digitalmeddx/jp/go/digital/resources-govdashboard-healthcare-dx.html
+index 5ecbbe94..6f1db2e6 100644
+--- a/sites/digitalmeddx/jp/go/digital/resources-govdashboard-healthcare-dx.html
++++ b/sites/digitalmeddx/jp/go/digital/resources-govdashboard-healthcare-dx.html
+@@ -4,7 +4,7 @@
+ 	<body>
+ 		<div>
+ 			<a href="#mainContainer" rel="noopener noreferrer">
+-				メインコンテンツに移動
++				本文へ移動
+ 			</a>
+ 		</div>
+ 		<header>

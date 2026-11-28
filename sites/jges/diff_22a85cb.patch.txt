@@ -1,0 +1,20 @@
+diff --git a/sites/jges/net/jges/index.html b/sites/jges/net/jges/index.html
+index 303e51c75..31e387ff0 100644
+--- a/sites/jges/net/jges/index.html
++++ b/sites/jges/net/jges/index.html
+@@ -1460,6 +1460,15 @@
+ 											</a>
+ 										</div>
+ 										<ul>
++											<li>
++												<div>
++													<a href="https://www.jges.net/content/jedproject/jed-database" rel="noopener noreferrer">
++														<span>
++															JEDにおけるデータバンク事業（2027年1月開始）
++														</span>
++													</a>
++												</div>
++											</li>
+ 											<li>
+ 												<div>
+ 													<a href="https://jedproject.jges.net/" rel="noopener noreferrer">

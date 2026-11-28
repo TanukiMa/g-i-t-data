@@ -1,0 +1,159 @@
+diff --git a/sites/hospitalorjp/jp/or/hospital/index.html b/sites/hospitalorjp/jp/or/hospital/index.html
+index 443ac134b..1014c4aeb 100644
+--- a/sites/hospitalorjp/jp/or/hospital/index.html
++++ b/sites/hospitalorjp/jp/or/hospital/index.html
+@@ -479,11 +479,6 @@
+ 				<div>
+ 				</div>
+ 			</div>
+-			<div>
+-				<a href="https://www.mrp-portal.jp/entry_price/" rel="noopener noreferrer">
+-					<img alt="MAVIS Priceスコープ" src="/site/img/MAVIS_Price.jpg">
+-				</a>
+-			</div>
+ 			<div>
+ 				<div>
+ 					<div>
+@@ -498,6 +493,18 @@
+ 							</a>
+ 						</div>
+ 					</div>
++					<div>
++						<div>
++							<a href="/site/jha/mem/" rel="noopener noreferrer">
++								<img alt="会員病院一覧" src="/site/img/List_of_Member_Hospitals_pc.png">
++							</a>
++						</div>
++						<div>
++							<a href="/site/jha/mem/" rel="noopener noreferrer">
++								<img alt="会員病院一覧" src="/site/img/List_of_Member_Hospitals_sp.png">
++							</a>
++						</div>
++					</div>
+ 					<div>
+ 						<div>
+ 							<a href="/site/member/login.html" rel="noopener noreferrer">
+@@ -536,33 +543,37 @@
+ 					<div>
+ 						<div>
+ 							<a href="https://jha-data.jp/" rel="noopener noreferrer">
+-								<img alt="PCモニターに表示された棒グラフや折れ線グラフの画面と、キーボードが置かれたデスク風景。「日病データ」のテキストとデータベース・グラフのアイコン。" height="426" src="/site/img/JHA Data.webp" width="767">
++								<img alt="PCモニターに表示された棒グラフや折れ線グラフの画面と、キーボードが置かれたデスク風景。「日病データ」のテキストとデータベース・グラフのアイコン。" height="426" src="/site/img/JHA_Data.webp" width="767">
+ 							</a>
+ 						</div>
+ 					</div>
+-				</div>
+-			</div>
+-			<div>
+-				<div>
+ 					<div>
+-						<a href="/site/sitemap/#sitemap_02" rel="noopener noreferrer">
+-							事業一覧
+-						</a>
++						<div>
++							<a href="/site/sitemap/#sitemap_01" rel="noopener noreferrer">
++								<img alt="オフィスデスクに置かれた棒グラフと円グラフの資料とペンを背景に、「事業一覧」のテキストとリストのアイコン。" height="426" src="/site/img/List_of_Business_Activities.webp" width="767">
++							</a>
++						</div>
+ 					</div>
+ 					<div>
+-						<a href="/site/jha/mem/" rel="noopener noreferrer">
+-							会員病院一覧
+-						</a>
++						<div>
++							<a href="https://www.mrp-portal.jp/entry_price/" rel="noopener noreferrer">
++								<img alt="医薬品のアンプルやカプセルを背景に、「MAVIS Priceスコープ」のテキストと虫眼鏡・棒グラフのアイコン。" height="426" src="/site/img/MAVIS_Price_Scope.webp" width="767">
++							</a>
++						</div>
+ 					</div>
+ 					<div>
+-						<a href="https://www.3sogoi.jp/" rel="noopener noreferrer">
+-							病院総合医
+-						</a>
++						<div>
++							<a href="https://www.3sogoi.jp/" rel="noopener noreferrer">
++								<img alt="白衣を着て聴診器を首にかけた医師がカルテに記入する姿を背景に、「病院総合医」のテキストと聴診器のアイコン。" height="426" src="/site/img/Hospitalist.webp" width="767">
++							</a>
++						</div>
+ 					</div>
+ 					<div>
+-						<a href="/site/comprehensive_medical_checkup/" rel="noopener noreferrer">
+-							人間ドック
+-						</a>
++						<div>
++							<a href="/site/comprehensive_medical_checkup/" rel="noopener noreferrer">
++								<img alt="検査室に設置されたCT・MRI検査機器を背景に、「人間ドック」のテキストとハートマーク付きのチェックリストのアイコン。" height="426" src="/site/img/Comprehensive_medical_checkup.webp" width="767">
++							</a>
++						</div>
+ 					</div>
+ 				</div>
+ 			</div>
+@@ -602,6 +613,30 @@
+ 									</li>
+ 								</ul>
+ 								<div>
++									<div>
++										<div>
++											2026.11.26
++										</div>
++										<div>
++										</div>
++										<p>
++											<a href="/site/news/file/1795654500.pdf" rel="noopener noreferrer">
++												「再生医療等安全性確保法に基づきウイルスベクターを製造する施設における作業者の健康管理等について」について
++											</a>
++										</p>
++									</div>
++									<div>
++										<div>
++											2026.11.26
++										</div>
++										<div>
++										</div>
++										<p>
++											<a href="/site/news/file/1795654500.pdf" rel="noopener noreferrer">
++												「再生医療等安全性確保法に基づきウイルスベクターを製造する施設における作業者の健康管理等について」について
++											</a>
++										</p>
++									</div>
+ 									<div>
+ 										<div>
+ 											2026.11.25
+@@ -830,18 +865,6 @@
+ 											</a>
+ 										</p>
+ 									</div>
+-									<div>
+-										<div>
+-											2026.11.16
+-										</div>
+-										<div>
+-										</div>
+-										<p>
+-											<a href="/site/news/file/1794813760.pdf" rel="noopener noreferrer">
+-												【事務連絡】「「臓器のあっせん業の許可等について」に係る質疑応答集」の一部改正について
+-											</a>
+-										</p>
+-									</div>
+ 									<div>
+ 										<div>
+ 											2026.11.16
+@@ -878,18 +901,6 @@
+ 											</a>
+ 										</p>
+ 									</div>
+-									<div>
+-										<div>
+-											2026.11.16
+-										</div>
+-										<div>
+-										</div>
+-										<p>
+-											<a href="/site/news/file/1794803489.pdf" rel="noopener noreferrer">
+-												【事務連絡】抗CGRP 抗体製剤に係る最適使用推進ガイドラインの策定に伴う留意事項について
+-											</a>
+-										</p>
+-									</div>
+ 									<div>
+ 										<div>
+ 											2026.11.11

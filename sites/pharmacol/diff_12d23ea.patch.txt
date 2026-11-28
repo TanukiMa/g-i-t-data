@@ -1,0 +1,44 @@
+diff --git a/sites/pharmacol/jp/or/pharmacol/index.html b/sites/pharmacol/jp/or/pharmacol/index.html
+index 902919626..22d65d07c 100644
+--- a/sites/pharmacol/jp/or/pharmacol/index.html
++++ b/sites/pharmacol/jp/or/pharmacol/index.html
+@@ -947,6 +947,19 @@
+ 							お知らせ
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="https://pharmacol.or.jp/2026/11/R8秋の叙勲-亀井千晃先生.html" rel="noopener noreferrer">
++									<span>
++										事務局からのお知らせ
++									</span>
++									<span>
++										2026年11月25日(水)
++									</span>
++									<p>
++										本会名誉会員　亀井千晃先生が令和8年秋の叙勲「瑞宝中綬章」を受章されました
++									</p>
++								</a>
++							</li>
+ 							<li>
+ 								<a href="https://pharmacol.or.jp/2026/11/post-79.html" rel="noopener noreferrer">
+ 									<span>
+@@ -999,19 +1012,6 @@
+ 									</p>
+ 								</a>
+ 							</li>
+-							<li>
+-								<a href="https://pharmacol.or.jp/2026/10/angs-renewal.html" rel="noopener noreferrer">
+-									<span>
+-										事務局からのお知らせ
+-									</span>
+-									<span>
+-										2026年10月 9日(金)
+-									</span>
+-									<p>
+-										日本薬理学会次世代の会のホームページをリニューアルしました
+-									</p>
+-								</a>
+-							</li>
+ 						</ul>
+ 						<div>
+ 							<a href="/information.html" rel="noopener noreferrer">

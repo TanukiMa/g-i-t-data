@@ -1,0 +1,234 @@
+diff --git a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+index db753bc90..c6bbdc7cc 100644
+--- a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
++++ b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+@@ -810,54 +810,54 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/kijunjuriichiran_shinkihenkou_shikkou_00001.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/info/200911/05.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月23日
++													2026年10月26日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															医療機関等
++															行政処分等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」（直近届出分）のページを更新しました。
++													「保険診療等において不正診療や不正請求が行われた場合の取扱いについて」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/news/2012/daketuritu/daketuritu.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/kijunjuriichiran_shinkihenkou_shikkou_00001.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月1日
++													2026年10月23日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															申請・届出
++															医療機関等
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													11月末日までに「妥結率等に係る報告書」の提出をお願いします。
++													保険医療機関・保険薬局の「施設基準の受理状況」及び訪問看護ステーションの「基準の受理状況」（直近届出分）のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/news/2012/r08shinryouhousyuukaitei-keikasochi.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/news/2012/daketuritu/daketuritu.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年9月14日
++													2026年10月1日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -870,16 +870,16 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和8年度診療報酬改定において経過措置を設けた施設基準の取扱いについて掲載しました。
++													11月末日までに「妥結率等に係る報告書」の提出をお願いします。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/gyomu/gyomu/hoken_kikan/r08baseup.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/news/2012/r08shinryouhousyuukaitei-keikasochi.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年8月26日
++													2026年9月14日
+ 												</time>
+ 												<em>
+ 													<span>
+@@ -892,29 +892,29 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													ベースアップ評価料等の診療報酬請求に係る注意喚起を掲載しました。
++													令和8年度診療報酬改定において経過措置を設けた施設基準の取扱いについて掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chiiki/ninntisyou.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/gyomu/gyomu/hoken_kikan/r08baseup.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年8月18日
++													2026年8月26日
+ 												</time>
+ 												<em>
+ 													<span>
+ 														<span>
+ 															<img alt="重要" src="/common/img/icn_important.svg">
+-															その他
++															申請・届出
+ 														</span>
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													毎年9月は認知症月間、9月21日は認知症の日です。
++													ベースアップ評価料等の診療報酬請求に係る注意喚起を掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+@@ -943,26 +943,26 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/shisetsukijunjuri_00002.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/info/200911/05.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月23日
++													2026年10月26日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														行政処分等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「届出受理医療機関名簿（主な届出項目別）について」のページを更新しました。
++													「保険診療等において不正診療や不正請求が行われた場合の取扱いについて」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/shisetsukijunjuri.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/shisetsukijunjuri_00002.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月23日
+@@ -975,64 +975,64 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険医療機関等・指定訪問看護事業所の届出受理状況等について」を更新しました。
++													「届出受理医療機関名簿（主な届出項目別）について」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chiikihoukatsusuishin/seminar_20261129.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/shisetsukijunjuri.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月20日
++													2026年10月23日
+ 												</time>
+ 												<em>
+ 													<span>
+-														開催案内
++														医療機関等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「第8回山口県認知症カフェサミット」を開催します。（地域包括ケア推進課）
++													「保険医療機関等・指定訪問看護事業所の届出受理状況等について」を更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/saiyo/joukinshokuin.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chiikihoukatsusuishin/seminar_20261129.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月19日
++													2026年10月20日
+ 												</time>
+ 												<em>
+ 													<span>
+-														採用情報
++														開催案内
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「一般職試験（高卒者試験）の官庁訪問について」掲載しました
++													「第8回山口県認知症カフェサミット」を開催します。（地域包括ケア推進課）
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/info/200911/05_00001.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/saiyo/joukinshokuin.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月16日
++													2026年10月19日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														採用情報
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「診療（調剤）報酬の返還手続きについて」のページを更新しました。
++													「一般職試験（高卒者試験）の官庁訪問について」掲載しました
+ 												</span>
+ 											</div>
+ 										</a>

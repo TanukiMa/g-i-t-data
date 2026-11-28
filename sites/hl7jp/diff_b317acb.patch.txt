@@ -1,0 +1,34 @@
+diff --git a/sites/hl7jp/jp/hl7/index.html b/sites/hl7jp/jp/hl7/index.html
+index 6579443bc..36c656c72 100644
+--- a/sites/hl7jp/jp/hl7/index.html
++++ b/sites/hl7jp/jp/hl7/index.html
+@@ -211,6 +211,14 @@
+ 									</span>
+ 								</h2>
+ 								<dl>
++									<dt>
++										2026.11.24
++									</dt>
++									<dd>
++										<a href="https://www.hl7.jp/docs/99hl7web1112.html" rel="noopener noreferrer">
++											第99回HL7セミナー資料を掲載しました。
++										</a>
++									</dd>
+ 									<dt>
+ 										2026.10.13
+ 									</dt>
+@@ -363,14 +371,6 @@
+ 											事業法人会員一覧を改訂しました。
+ 										</a>
+ 									</dd>
+-									<dt>
+-										2025.07.22
+-									</dt>
+-									<dd>
+-										<a href="https://www.hl7.jp/docs/93hl773.html" rel="noopener noreferrer">
+-											第93回HL7セミナー資料を掲載しました。
+-										</a>
+-									</dd>
+ 								</dl>
+ 							</div>
+ 						</div>

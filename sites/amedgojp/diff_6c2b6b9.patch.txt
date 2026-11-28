@@ -1,0 +1,48 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index b304c393..81cc7140 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -692,6 +692,21 @@
+ 						<div>
+ 							<div>
+ 								<ul>
++									<li>
++										<div>
++											<span>
++												令和8年11月9日
++											</span>
++											<div>
++												<span>
++													イベント
++												</span>
++											</div>
++										</div>
++										<a href="/news/event/20261201-04.html" rel="noopener noreferrer">
++											（令和8年12月1日～4日開催）「BMB2026合同大会（第49回日本分子生物学会年会、第99回日本生化学会大会...
++										</a>
++									</li>
+ 									<li>
+ 										<div>
+ 											<span>
+@@ -752,21 +767,6 @@
+ 											【トピックス】濵口道成先進的研究開発戦略センター（SCARDA）センター長が、令和8年秋の叙勲において瑞宝大綬章...
+ 										</a>
+ 									</li>
+-									<li>
+-										<div>
+-											<span>
+-												令和8年11月2日
+-											</span>
+-											<div>
+-												<span>
+-													事業に関するお知らせ
+-												</span>
+-											</div>
+-										</div>
+-										<a href="/news/program/20261029.html" rel="noopener noreferrer">
+-											検査マニュアルの掲載について
+-										</a>
+-									</li>
+ 								</ul>
+ 								<ul>
+ 									<li>

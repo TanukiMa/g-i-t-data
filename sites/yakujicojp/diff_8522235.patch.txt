@@ -1,0 +1,134 @@
+diff --git a/sites/yakujicojp/jp/co/yakuji/index.html b/sites/yakujicojp/jp/co/yakuji/index.html
+index 1bc40439..9b243416 100644
+--- a/sites/yakujicojp/jp/co/yakuji/index.html
++++ b/sites/yakujicojp/jp/co/yakuji/index.html
+@@ -407,20 +407,26 @@
+ 				<div>
+ 					<div>
+ 						<h2>
+-							<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
+-								【薬学教育協議会】薬学生9割超が成長実感‐実務実習で初の全国調査
++							<a href="https://www.yakuji.co.jp/entry141612.html" rel="noopener noreferrer">
++								米FDA、GLP-1受容体作動薬に関するまれな眼疾患リスクについて新たな警告を要求
+ 							</a>
+ 						</h2>
+ 					</div>
+ 					<div>
+-						2026年11月11日 (水) 08:31
++						2026年11月11日 (水) 15:00
+ 					</div>
+ 					<div>
++						<div>
++							<img alt="" height="454" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/hdn_20261111_01-01.jpg" width="680">
++							<p>
++								Photo Credit: Adobe Stock, RossandHelen
++							</p>
++						</div>
+ 						<p>
+-							薬学教育協議会が実務実習を受けた全国の薬学生を対象に初めて実施したアンケート調査で、9割以上の学生が実務実習は自身の成長につながったと捉えていることが明らかになった。学生による学修到達度の自己評価も、「効果と副作用の評価」など多くの項目で概ね高かった。関係者は、約20年かけて構築してきた実務実習が概ね機能し、一定の成果を上げていることが今回の調査で裏付けられたと評価している。
++							米食品医薬品局（FDA）は11月9日、糖尿病治療薬のオゼンピックや肥満症治療薬のウゴービなどの製造販売業者に対し、突然の視力低下を引き起こすことがあるまれな眼疾患である非動脈炎性前部虚血性視神経症（NAION）について、医薬品の添付文書に警告を追加するよう求めた。
+ 						</p>
+ 						<p>
+-							<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
++							<a href="https://www.yakuji.co.jp/entry141612.html" rel="noopener noreferrer">
+ 								続きを読む »
+ 							</a>
+ 						</p>
+@@ -568,15 +574,15 @@
+ 					<ul>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140813.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/hdn_20261022_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry141612.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/hdn_20261111_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140813.html" rel="noopener noreferrer">
+-									米FDA、直腸がんの標準治療を回避できる可能性がある新薬を承認
++								<a href="https://www.yakuji.co.jp/entry141612.html" rel="noopener noreferrer">
++									米FDA、GLP-1受容体作動薬に関するまれな眼疾患リスクについて新たな警告を要求
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月22日 (木)
++									2026年11月11日 (水)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -585,15 +591,15 @@
+ 						</li>
+ 						<li>
+ 							<div>
+-								<a href="https://www.yakuji.co.jp/entry140133.html" rel="noopener noreferrer">
+-									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/hdn_20261006_01-01-100x100.jpg" width="100">
++								<a href="https://www.yakuji.co.jp/entry140813.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/10/hdn_20261022_01-01-100x100.jpg" width="100">
+ 								</a>
+-								<a href="https://www.yakuji.co.jp/entry140133.html" rel="noopener noreferrer">
+-									成長に合わせて拡張できる心臓弁を米FDAが承認
++								<a href="https://www.yakuji.co.jp/entry140813.html" rel="noopener noreferrer">
++									米FDA、直腸がんの標準治療を回避できる可能性がある新薬を承認
+ 								</a>
+ 								<br>
+ 								<span>
+-									2026年10月06日 (火)
++									2026年10月22日 (木)
+ 								</span>
+ 							</div>
+ 							<div>
+@@ -1700,6 +1706,23 @@
+ 						新着記事
+ 					</div>
+ 					<ul>
++						<li>
++							<div>
++								<a href="https://www.yakuji.co.jp/entry141612.html" rel="noopener noreferrer">
++									<img alt="" height="100" src="https://www.yakuji.co.jp/wpyj-002/wp-content/uploads/2026/11/hdn_20261111_01-01-100x100.jpg" width="100">
++								</a>
++								<a href="https://www.yakuji.co.jp/entry141612.html" rel="noopener noreferrer">
++									米FDA、GLP-1受容体作動薬に関するまれな眼疾患リスクについて新たな警告を要求
++								</a>
++								<br>
++								<span>
++									2026年11月11日 (水)
++								</span>
++							</div>
++							<div>
++								<hr>
++							</div>
++						</li>
+ 						<li>
+ 							<div>
+ 								<a href="https://www.yakuji.co.jp/entry141557.html" rel="noopener noreferrer">
+@@ -1815,22 +1838,6 @@
+ 								<hr>
+ 							</div>
+ 						</li>
+-						<li>
+-							<div>
+-								<a href="https://www.yakuji.co.jp/entry141577.html" rel="noopener noreferrer">
+-								</a>
+-								<a href="https://www.yakuji.co.jp/entry141577.html" rel="noopener noreferrer">
+-									【シスメックス／Hologen】合弁会社「Saibogen」を設立‐血液検査データとAIで臨床的知見創出へ
+-								</a>
+-								<br>
+-								<span>
+-									2026年11月11日 (水)
+-								</span>
+-							</div>
+-							<div>
+-								<hr>
+-							</div>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						<a href="https://www.yakuji.co.jp/updated-news" rel="noopener noreferrer">
+@@ -1844,7 +1851,7 @@
+ 					</div>
+ 					<div>
+ 						年月別 全記事一覧
+-		 2026年11月  (130)
++		 2026年11月  (131)
+ 	 2026年10月  (382)
+ 	 2026年9月  (341)
+ 	 2026年8月  (319)

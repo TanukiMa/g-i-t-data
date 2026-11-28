@@ -1,0 +1,42 @@
+diff --git a/sites/medorjpnew/jp/or/med/new-html.html b/sites/medorjpnew/jp/or/med/new-html.html
+index 024c32765..06d584915 100644
+--- a/sites/medorjpnew/jp/or/med/new-html.html
++++ b/sites/medorjpnew/jp/or/med/new-html.html
+@@ -423,6 +423,18 @@
+ 						</div>
+ 					</div>
+ 					<ul>
++						<li>
++							<dl>
++								<dt>
++									2026年11月20日
++								</dt>
++								<dd>
++									<a href="https://www.med.or.jp/dl-med/people/plaza/608.pdf" rel="noopener noreferrer">
++										吃音とその対応 －安心して会話ができる環境づくりを－【健康ぷらざNo.608】
++									</a>
++								</dd>
++							</dl>
++						</li>
+ 						<li>
+ 							<dl>
+ 								<dt>
+@@ -1028,18 +1040,6 @@
+ 								</dd>
+ 							</dl>
+ 						</li>
+-						<li>
+-							<dl>
+-								<dt>
+-									2026年07月16日
+-								</dt>
+-								<dd>
+-									<a href="https://www.med.or.jp/people/health/kansen/000329.html" rel="noopener noreferrer">
+-										手足口病のページ
+-									</a>
+-								</dd>
+-							</dl>
+-						</li>
+ 					</ul>
+ 					<div>
+ 						年別表記

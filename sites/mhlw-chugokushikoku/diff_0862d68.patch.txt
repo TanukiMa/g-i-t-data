@@ -1,0 +1,107 @@
+diff --git a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+index afce4abe..98dc9511 100644
+--- a/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
++++ b/sites/mhlw-chugokushikoku/jp/go/mhlw/kouseikyoku/chugokushikoku.html
+@@ -943,26 +943,26 @@
+ 								</div>
+ 								<ul>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/chousaka03.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/newpage_00862.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月28日
++													2026年11月2日
+ 												</time>
+ 												<em>
+ 													<span>
+-														その他
++														開催案内
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和7年度分の主な指摘事項（適時調査）を掲載しました。
++													令和8年度　医療安全に関するワークショップ及びオンデマンドセミナーの開催について
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/chousaka02.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/chousaka03.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月28日
+@@ -975,51 +975,51 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													令和7年度分の主な指摘事項（個別指導）を掲載しました
++													令和7年度分の主な指摘事項（適時調査）を掲載しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/info/200911/05.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/chousaka02.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月26日
++													2026年10月28日
+ 												</time>
+ 												<em>
+ 													<span>
+-														行政処分等
++														その他
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険診療等において不正診療や不正請求が行われた場合の取扱いについて」のページを更新しました。
++													令和7年度分の主な指摘事項（個別指導）を掲載しました
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/shisetsukijunjuri_00002.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/info/200911/05.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+-													2026年10月23日
++													2026年10月26日
+ 												</time>
+ 												<em>
+ 													<span>
+-														医療機関等
++														行政処分等
+ 													</span>
+ 												</em>
+ 											</div>
+ 											<div>
+ 												<span>
+-													「届出受理医療機関名簿（主な届出項目別）について」のページを更新しました。
++													「保険診療等において不正診療や不正請求が行われた場合の取扱いについて」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/chugokushikoku/chousaka/shisetsukijunjuri.html" rel="noopener noreferrer">
++										<a href="/chugokushikoku/chousaka/shisetsukijunjuri_00002.html" rel="noopener noreferrer">
+ 											<div>
+ 												<time>
+ 													2026年10月23日
+@@ -1032,7 +1032,7 @@
+ 											</div>
+ 											<div>
+ 												<span>
+-													「保険医療機関等・指定訪問看護事業所の届出受理状況等について」を更新しました。
++													「届出受理医療機関名簿（主な届出項目別）について」のページを更新しました。
+ 												</span>
+ 											</div>
+ 										</a>

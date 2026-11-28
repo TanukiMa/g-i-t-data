@@ -1,0 +1,107 @@
+diff --git a/sites/amedgojp/jp/go/amed/index.html b/sites/amedgojp/jp/go/amed/index.html
+index 98219356c..9ee49a16b 100644
+--- a/sites/amedgojp/jp/go/amed/index.html
++++ b/sites/amedgojp/jp/go/amed/index.html
+@@ -489,39 +489,6 @@
+ 								</div>
+ 							</div>
+ 						</li>
+-						<li>
+-							<div>
+-								<a href="/form/event.php?f=event.html" rel="noopener noreferrer">
+-									<span>
+-										イベント
+-									</span>
+-								</a>
+-							</div>
+-							開閉ボタン
+-							<div>
+-								<div>
+-									<div>
+-										<div>
+-											<a href="/form/event.php?f=event.html" rel="noopener noreferrer">
+-												<img alt="" src="/content/000002696.png">
+-												<span>
+-													イベント
+-												</span>
+-											</a>
+-										</div>
+-										<div>
+-											<ul>
+-												<li>
+-													<a href="/form/event.php?f=event.html" rel="noopener noreferrer">
+-														イベント
+-													</a>
+-												</li>
+-											</ul>
+-										</div>
+-									</div>
+-								</div>
+-							</div>
+-						</li>
+ 						<li>
+ 							<div>
+ 								<a href="/pr/index.html" rel="noopener noreferrer">
+@@ -639,22 +606,20 @@
+ 							<p>
+ 								【お知らせ】
+ 								<br>
+-								各メディアでの報道にあるとおり、プログラム言語「PHP」に関する深刻な脆弱性が確認されています。
+-								<br>
+-								このことを受け、AMED公式ウェブサイト等にて緊急点検と修正プログラムの適用作業を行っています。
++								各メディアでの報道にあるとおり、プログラム言語「PHP」に関する深刻な脆弱性が確認されています。このことを受け、AMED公式ウェブサイト等にて緊急点検と修正プログラムの適用作業を行っています。一部のページに影響が生じる等、ご迷惑をおかけいたしますが、何卒ご理解賜りますようよろしくお願いいたします。
+ 								<br>
+-								一部のページに影響が生じる等、ご迷惑をおかけいたしますが、何卒ご理解賜りますようよろしくお願いいたします。
++								※下記情報は、一覧ページからご確認いただけます。
+ 							</p>
+ 							<p>
+-								※公募に関する関連情報は、以下でご確認いただけます。
++								公募・公募予告・採択情報：
++								<a href="https://www.amed.go.jp/koubo/keisaibi_index.html" rel="noopener noreferrer">
++									公募掲載日順一覧
++								</a>
++								イベント情報：
++								<a href="https://www.amed.go.jp/news/2026_news_index.html" rel="noopener noreferrer">
++									ニュース掲載日一覧
++								</a>
+ 							</p>
+-							<ul>
+-								<li>
+-									<a href="https://www.amed.go.jp/koubo/keisaibi_index.html" rel="noopener noreferrer">
+-										掲載日順一覧
+-									</a>
+-								</li>
+-							</ul>
+ 						</div>
+ 					</div>
+ 				</div>
+@@ -790,7 +755,7 @@
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="/form/event.php?f=event.html" rel="noopener noreferrer">
++										<a href="/index.html" rel="noopener noreferrer">
+ 											イベント一覧
+ 										</a>
+ 									</li>
+@@ -1317,20 +1282,6 @@
+ 						</li>
+ 					</ul>
+ 				</div>
+-				<div>
+-					<h3>
+-						<a href="/form/event.php?f=event.html" rel="noopener noreferrer">
+-							イベント
+-						</a>
+-					</h3>
+-					<ul>
+-						<li>
+-							<a href="/form/event.php?f=event.html" rel="noopener noreferrer">
+-								イベント
+-							</a>
+-						</li>
+-					</ul>
+-				</div>
+ 				<div>
+ 					<h3>
+ 						<a href="/pr/index.html" rel="noopener noreferrer">

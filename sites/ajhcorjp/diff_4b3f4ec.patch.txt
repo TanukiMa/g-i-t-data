@@ -1,0 +1,53 @@
+diff --git a/sites/ajhcorjp/jp/or/ajhc/index.html b/sites/ajhcorjp/jp/or/ajhc/index.html
+index ea3657d49..3afe75795 100644
+--- a/sites/ajhcorjp/jp/or/ajhc/index.html
++++ b/sites/ajhcorjp/jp/or/ajhc/index.html
+@@ -134,37 +134,35 @@
+ 					</div>
+ 					<div>
+ 						<figure>
+-							<a href="nyukai.html" rel="noopener noreferrer">
+-								<img src="images/imega.png">
++							<a href="siryo/20261020report.pdf" rel="noopener noreferrer">
++								<img alt="" src="images/20261020report.jpg">
+ 							</a>
+ 						</figure>
+ 						<div>
+ 							<h4>
+-								「揺るぎない経営基盤を、共に築く。」
++								2026年度病院経営定期調査 -中間報告(集計結果)-
+ 							</h4>
+ 							<p>
+-								<a href="nyukai.html" rel="noopener noreferrer">
+-									～日本医療法人協会 入会のご案内～
++								<a href="siryo/20261020report.pdf" rel="noopener noreferrer">
++									日本病院会/全日本病院協会/日本医療法人協会の3団体合同調査の結果（中間報告）がまとまりました。
+ 								</a>
+ 							</p>
+ 						</div>
+ 					</div>
+ 					<div>
+ 						<figure>
+-							<a href="siryo/think-hospital.pdf" rel="noopener noreferrer">
+-								<img alt="" src="images/think-hospital.jpg">
++							<a href="nyukai.html" rel="noopener noreferrer">
++								<img src="images/imega.png">
+ 							</a>
+ 						</figure>
+ 						<div>
+ 							<h4>
+-								街から病院が消える！？
++								「揺るぎない経営基盤を、共に築く。」
+ 							</h4>
+ 							<p>
+-								<strong>
+-									<a href="siryo/think-hospital.pdf" rel="noopener noreferrer">
+-										安心して過ごせる未来のために病院が抱えている問題を一緒に考えよう
+-									</a>
+-								</strong>
++								<a href="nyukai.html" rel="noopener noreferrer">
++									～日本医療法人協会 入会のご案内～
++								</a>
+ 							</p>
+ 						</div>
+ 					</div>

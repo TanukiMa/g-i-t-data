@@ -1,0 +1,16 @@
+diff --git a/sites/neurologyjpguidelines/org/neurology-jp/guidelinem.html b/sites/neurologyjpguidelines/org/neurology-jp/guidelinem.html
+index 6fe88db0f..ffe561abd 100644
+--- a/sites/neurologyjpguidelines/org/neurology-jp/guidelinem.html
++++ b/sites/neurologyjpguidelines/org/neurology-jp/guidelinem.html
+@@ -523,6 +523,11 @@
+ 			<div>
+ 				<div>
+ 					<div>
++						<div>
++							<p>
++								<img alt="検索" height="22" src="/images/search_btn.gif" width="45">
++							</p>
++						</div>
+ 						<ul>
+ 							<li>
+ 								<a href="/public/disease/index.html" rel="noopener noreferrer">

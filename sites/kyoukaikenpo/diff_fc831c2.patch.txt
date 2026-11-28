@@ -1,0 +1,106 @@
+diff --git a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+index 9a313ee25..4aee45720 100644
+--- a/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
++++ b/sites/kyoukaikenpo/jp/or/kyoukaikenpo/index.html
+@@ -1233,26 +1233,31 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年11月20日
++										令和08年11月25日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_nov/7095.html" rel="noopener noreferrer">
+-										電子申請サービス利用時間拡大について
++									<a href="/news/r08_nov/7170.html" rel="noopener noreferrer">
++										令和8年11月20日からの大雪に伴う災害（福島県）
+ 									</a>
+ 								</h3>
++								<ul>
++									<li>
++										災害情報
++									</li>
++								</ul>
+ 							</article>
+ 						</li>
+ 						<li>
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年11月18日
++										令和08年11月20日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/disclosure/committee/r08/info_3556.html" rel="noopener noreferrer">
+-										第145回全国健康保険協会運営委員会を開催します
++									<a href="/news/r08_nov/7095.html" rel="noopener noreferrer">
++										電子申請サービス利用時間拡大について
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -1261,12 +1266,12 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年11月04日
++										令和08年11月18日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/about/business/public_relations/009/005/" rel="noopener noreferrer">
+-										健康保険コラムを掲載しました
++									<a href="/disclosure/committee/r08/info_3556.html" rel="noopener noreferrer">
++										第145回全国健康保険協会運営委員会を開催します
+ 									</a>
+ 								</h3>
+ 							</article>
+@@ -1346,12 +1351,12 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年11月02日
++										令和08年11月25日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_nov/5577.html" rel="noopener noreferrer">
+-										（令和8年熊本地震関連情報）医療機関等における一部負担金の免除について
++									<a href="/news/r08_nov/7170.html" rel="noopener noreferrer">
++										令和8年11月20日からの大雪に伴う災害（福島県）
+ 									</a>
+ 								</h3>
+ 								<ul>
+@@ -1365,12 +1370,12 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年10月01日
++										令和08年11月02日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_oct/6273.html" rel="noopener noreferrer">
+-										令和8年台風第18号に伴う災害（鹿児島県）
++									<a href="/news/r08_nov/5577.html" rel="noopener noreferrer">
++										（令和8年熊本地震関連情報）医療機関等における一部負担金の免除について
+ 									</a>
+ 								</h3>
+ 								<ul>
+@@ -1384,12 +1389,12 @@
+ 							<article>
+ 								<div>
+ 									<time>
+-										令和08年09月24日
++										令和08年10月01日
+ 									</time>
+ 								</div>
+ 								<h3>
+-									<a href="/news/r08_sep/6161.html" rel="noopener noreferrer">
+-										令和8年台風第25号に伴う災害
++									<a href="/news/r08_oct/6273.html" rel="noopener noreferrer">
++										令和8年台風第18号に伴う災害（鹿児島県）
+ 									</a>
+ 								</h3>
+ 								<ul>

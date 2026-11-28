@@ -1,0 +1,172 @@
+diff --git a/sites/jpeds/jp/or/jpeds/index.html b/sites/jpeds/jp/or/jpeds/index.html
+index 9809a69a5..716f1be1b 100644
+--- a/sites/jpeds/jp/or/jpeds/index.html
++++ b/sites/jpeds/jp/or/jpeds/index.html
+@@ -1186,6 +1186,23 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/26
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
++												学会の活動
++											</a>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-160486.html" rel="noopener noreferrer">
++												リレーコラム　キャリアの積み方―私の場合 コラム60掲載について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -1488,7 +1505,7 @@
+ 										</td>
+ 										<td>
+ 											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-160194.html" rel="noopener noreferrer">
+-												経鼻弱毒生インフルエンザワクチンの使用に関する考えの改訂について
++												経鼻弱毒生インフルエンザワクチンの使用に関する考え方の改訂について
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -2019,23 +2036,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/24
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities" rel="noopener noreferrer">
+-												学会の活動
+-											</a>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-159543.html" rel="noopener noreferrer">
+-												委員会報告「2022 年出生児を対象としたハイリスク新生児医療全国調査」について
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>
+@@ -2049,6 +2049,18 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/26
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/post-160486.html" rel="noopener noreferrer">
++												リレーコラム　キャリアの積み方―私の場合 コラム60掲載について
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2117,19 +2129,7 @@
+ 										</td>
+ 										<td>
+ 											<a href="https://www.jpeds.or.jp/news/news-society-activities/post-160194.html" rel="noopener noreferrer">
+-												経鼻弱毒生インフルエンザワクチンの使用に関する考えの改訂について
+-											</a>
+-										</td>
+-									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/10/29
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/general/generalnews/post-159964.html" rel="noopener noreferrer">
+-												Injury Alert（傷害速報）の掲載について
++												経鼻弱毒生インフルエンザワクチンの使用に関する考え方の改訂について
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -2355,6 +2355,30 @@
+ 						<div>
+ 							<table>
+ 								<tbody>
++									<tr>
++										<td>
++											<time>
++												2026/11/26
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/organizationnews/post-160491.html" rel="noopener noreferrer">
++												第29回卒後教育セミナーについて（日本小児栄養消化器肝臓学会）
++											</a>
++										</td>
++									</tr>
++									<tr>
++										<td>
++											<time>
++												2026/11/26
++											</time>
++										</td>
++										<td>
++											<a href="https://www.jpeds.or.jp/news/organizationnews/post-160488.html" rel="noopener noreferrer">
++												第24回日本小児放射線学会教育セミナーについて（日本小児放射線学会）
++											</a>
++										</td>
++									</tr>
+ 									<tr>
+ 										<td>
+ 											<time>
+@@ -2459,7 +2483,7 @@
+ 										</td>
+ 										<td>
+ 											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159940.html" rel="noopener noreferrer">
+-												５歳児健康診査を活用した 「こどもまんなか社会」の実現に向けた啓発の推進について（日本小児保健協会)
++												５歳児健康診査を活用した 「こどもまんなか社会」の実現に向けた啓発の推進について（日本小児保健協会）
+ 											</a>
+ 										</td>
+ 									</tr>
+@@ -2571,30 +2595,6 @@
+ 											</a>
+ 										</td>
+ 									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/18
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159525.html" rel="noopener noreferrer">
+-												ペムブロリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（卵巣癌）、チスレリズマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（上咽頭癌）の作成及び最適使用推進ガイドライン（食道癌及び胃癌）の一部改正について（厚生労働省）
+-											</a>
+-										</td>
+-									</tr>
+-									<tr>
+-										<td>
+-											<time>
+-												2026/09/17
+-											</time>
+-										</td>
+-										<td>
+-											<a href="https://www.jpeds.or.jp/news/organizationnews/post-159515.html" rel="noopener noreferrer">
+-												第169回日本医学会シンポジウムについて（日本医学会）
+-											</a>
+-										</td>
+-									</tr>
+ 								</tbody>
+ 							</table>
+ 							<div>

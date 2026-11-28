@@ -1,0 +1,591 @@
+diff --git a/sites/physiology/jp/physiology/index.html b/sites/physiology/jp/physiology/index.html
+index d880caf91..fdd395d2f 100644
+--- a/sites/physiology/jp/physiology/index.html
++++ b/sites/physiology/jp/physiology/index.html
+@@ -652,35 +652,35 @@
+ 								</h2>
+ 								<ul>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/guidance/34946/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/hold/34960/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-11-18
++															2026-11-26
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															お知らせ
++															セミナー情報
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														【締切迫る・11/30まで】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）ご協力のお願い
++														2026年度 ダイバーシティシンポジウム「飛翔するニューリーダー～ネットワーク構築・心理的安全性・DE&I～」
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/guidance/34943/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/guidance/34958/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-11-12
++															2026-11-26
+ 														</time>
+ 													</p>
+ 													<div>
+@@ -691,70 +691,65 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														【日本生理学会・要申込】2027年「日本生理学雑誌」紙媒体送付希望のお申し込みについて
++														「研究者を対象としたウェルビーイングと研究文化に関する全国調査」へのご協力のお願い（文部科学省科学技術・学術政策研究所）
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/11/nisseishi_88_4.pdf" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34956/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-11-10
++															2026-11-26
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															お知らせ
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														日本生理学雑誌 第88巻4号を発刊しました。
++														松山大学薬学部（薬理学研究室）　特別任用助教の公募について
+ 													</em>
+-													<span>
+-														<span>
+-															<img alt="外部リンク" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/main/icon__PDF.svg">
+-														</span>
+-													</span>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/science-topic/34929/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34952/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-11-09
++															2026-11-26
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															サイエンストピックス
++															求人
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														198. HCNチャネルにおける新たな細胞外VSD-PDカップリング機構の発見
++														東京女子医科大学 医学部 生理学講座（主任教授：宮田麻理子）助教の募集
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/job-offer/34950/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-30
++															2026-11-26
+ 														</time>
+ 													</p>
+ 													<div>
+@@ -765,30 +760,30 @@
+ 												</div>
+ 												<p>
+ 													<em>
+-														高知大学医学部生理学講座（統合生理学）教員の公募について
++														広島大学医学部医学科医系薬理学　教授の公募
+ 													</em>
+ 												</p>
+ 											</div>
+ 										</a>
+ 									</li>
+ 									<li>
+-										<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
++										<a href="https://www.physiology.jp/mainnews/guidance/34946/" rel="noopener noreferrer">
+ 											<div>
+ 												<div>
+ 													<p>
+ 														<time>
+-															2026-10-29
++															2026-11-18
+ 														</time>
+ 													</p>
+ 													<div>
+ 														<p>
+-															セミナー情報
++															お知らせ
+ 														</p>
+ 													</div>
+ 												</div>
+ 												<p>
+ 													<em>
+-														千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
++														【締切迫る・11/30まで】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）ご協力のお願い
+ 													</em>
+ 												</p>
+ 											</div>
+@@ -812,12 +807,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34946/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34958/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-11-18
++																2026-11-26
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -828,19 +823,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【締切迫る・11/30まで】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）ご協力のお願い
++															「研究者を対象としたウェルビーイングと研究文化に関する全国調査」へのご協力のお願い（文部科学省科学技術・学術政策研究所）
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34943/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34946/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-11-12
++																2026-11-18
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -851,19 +846,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【日本生理学会・要申込】2027年「日本生理学雑誌」紙媒体送付希望のお申し込みについて
++															【締切迫る・11/30まで】第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）ご協力のお願い
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/11/nisseishi_88_4.pdf" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34943/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-11-10
++																2026-11-12
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -874,24 +869,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															日本生理学雑誌 第88巻4号を発刊しました。
++															【日本生理学会・要申込】2027年「日本生理学雑誌」紙媒体送付希望のお申し込みについて
+ 														</em>
+-														<span>
+-															<span>
+-																<img alt="外部リンク" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/main/icon__PDF.svg">
+-															</span>
+-														</span>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/ctrl-seiri/wp-content/uploads/2026/11/nisseishi_88_4.pdf" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-19
++																2026-11-10
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -902,19 +892,24 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															自然科学研究機構Open Mix Lab（OML）公募研究プログラム
++															日本生理学雑誌 第88巻4号を発刊しました。
+ 														</em>
++														<span>
++															<span>
++																<img alt="外部リンク" src="/ctrl-seiri/wp-content/themes/physiology-2026/images/main/icon__PDF.svg">
++															</span>
++														</span>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34901/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-13
++																2026-10-19
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -925,19 +920,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
++															自然科学研究機構Open Mix Lab（OML）公募研究プログラム
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/guidance/34835/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/guidance/34871/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-06
++																2026-10-13
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -948,7 +943,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															TEAM事業『薬剤の適正使用と「健康」に対する理解促進のための啓発活動』活動報告
++															第6回 科学技術系専門職の男女共同参画実態調査（大規模アンケート）へのご回答のお願い（11月13日締切）
+ 														</em>
+ 													</p>
+ 												</div>
+@@ -1770,12 +1765,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34956/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-30
++																2026-11-26
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1786,19 +1781,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															高知大学医学部生理学講座（統合生理学）教員の公募について
++															松山大学薬学部（薬理学研究室）　特別任用助教の公募について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34952/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-29
++																2026-11-26
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1809,19 +1804,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
++															東京女子医科大学 医学部 生理学講座（主任教授：宮田麻理子）助教の募集
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34897/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34950/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-19
++																2026-11-26
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1832,19 +1827,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															京都大学・理学研究科・生物科学専攻　助教
++															広島大学医学部医学科医系薬理学　教授の公募
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34874/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34918/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-15
++																2026-10-30
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1855,19 +1850,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															大阪大学大学院医学系研究科　特任助教（常勤）公募
++															高知大学医学部生理学講座（統合生理学）教員の公募について
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34858/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34906/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-08
++																2026-10-29
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1878,19 +1873,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															慶應義塾大学医学部生理学教室教授候補者の公募
++															東京都健康長寿医療センター　研究副部長、または研究部長　公募のお知らせ
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/job-offer/34769/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/job-offer/34897/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-14
++																2026-10-19
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -1901,7 +1896,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															大阪大学大学院生命機能研究科 教授公募
++															京都大学・理学研究科・生物科学専攻　助教
+ 														</em>
+ 													</p>
+ 												</div>
+@@ -2082,12 +2077,12 @@
+ 									</h2>
+ 									<ul>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34960/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-29
++																2026-11-26
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2098,19 +2093,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
++															2026年度 ダイバーシティシンポジウム「飛翔するニューリーダー～ネットワーク構築・心理的安全性・DE&I～」
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34879/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34915/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-15
++																2026-10-29
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2121,19 +2116,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第8回生理学若手研究者フォーラム
++															千里ライフサイエンスセミナーY5「精神・神経疾患のバイオマーカー研究」
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34837/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34879/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-06
++																2026-10-15
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2144,19 +2139,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第53回 自律神経生理研究会の参加募集のお知らせ
++															第8回生理学若手研究者フォーラム
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34829/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34837/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-10-05
++																2026-10-06
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2167,19 +2162,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第7回 PSJオンラインセミナーのご案内
++															第53回 自律神経生理研究会の参加募集のお知らせ
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34829/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-16
++																2026-10-05
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2190,19 +2185,19 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
++															第7回 PSJオンラインセミナーのご案内
+ 														</em>
+ 													</p>
+ 												</div>
+ 											</a>
+ 										</li>
+ 										<li>
+-											<a href="https://www.physiology.jp/mainnews/hold/34771/" rel="noopener noreferrer">
++											<a href="https://www.physiology.jp/mainnews/hold/34778/" rel="noopener noreferrer">
+ 												<div>
+ 													<div>
+ 														<p>
+ 															<time>
+-																2026-09-14
++																2026-09-16
+ 															</time>
+ 														</p>
+ 														<div>
+@@ -2213,7 +2208,7 @@
+ 													</div>
+ 													<p>
+ 														<em>
+-															第5回慶應義塾大学WPI-Bio2Q国際シンポジウムのお知らせ“Wiring the Body: Brain–Organ–Microbiome Networks”
++															【日本生理学会】ご案内_第2回日本生理学会ビーコンシンポジウムのお知らせ
+ 														</em>
+ 													</p>
+ 												</div>

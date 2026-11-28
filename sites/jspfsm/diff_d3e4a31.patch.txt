@@ -1,0 +1,17 @@
+diff --git a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+index a8f210cc3..77c478bda 100644
+--- a/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
++++ b/sites/jspfsm/jp/ac/umin/plaza/jspfsm.html
+@@ -189,6 +189,12 @@
+ 							新着情報
+ 						</h2>
+ 						<ul>
++							<li>
++								<a href="https://site2.convention.co.jp/tairyoku81/" rel="noopener noreferrer">
++									第81回 日本体力医学会大会（宮崎）
++								</a>
++								（2026/11/27）
++							</li>
+ 							<li>
+ 								「
+ 								<a href="region/program/kinki_41.htm" rel="noopener noreferrer">

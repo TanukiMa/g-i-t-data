@@ -1,0 +1,42 @@
+diff --git a/sites/ryumachi-jp/com/ryumachi-jp/index.html b/sites/ryumachi-jp/com/ryumachi-jp/index.html
+index 20019635..b74ef215 100644
+--- a/sites/ryumachi-jp/com/ryumachi-jp/index.html
++++ b/sites/ryumachi-jp/com/ryumachi-jp/index.html
+@@ -1591,6 +1591,18 @@
+ 					</span>
+ 				</h3>
+ 				<div>
++					<div>
++						<div>
++							<span>
++								2026.11.12
++							</span>
++						</div>
++						<div>
++							<a href="https://www.ryumachi-jp.com/meeting-education/shibu/" rel="noopener noreferrer">
++								支部学術集会ページ 更新いたしました
++							</a>
++						</div>
++					</div>
+ 					<div>
+ 						<div>
+ 							<span>
+@@ -1639,18 +1651,6 @@
+ 							</a>
+ 						</div>
+ 					</div>
+-					<div>
+-						<div>
+-							<span>
+-								2026.09.01
+-							</span>
+-						</div>
+-						<div>
+-							<a href="https://www.ryumachi-jp.com/member/pediatrics/" rel="noopener noreferrer">
+-								小児・移行期医療についてページ 更新いたしました
+-							</a>
+-						</div>
+-					</div>
+ 					<div>
+ 						<div>
+ 							<a href="https://www.ryumachi-jp.com/update/" rel="noopener noreferrer">
