@@ -1,0 +1,55 @@
+diff --git a/sites/medicaltribune/jp/co/medical-tribune/index.html b/sites/medicaltribune/jp/co/medical-tribune/index.html
+index 68be1473f..097cce302 100644
+--- a/sites/medicaltribune/jp/co/medical-tribune/index.html
++++ b/sites/medicaltribune/jp/co/medical-tribune/index.html
+@@ -1859,20 +1859,20 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									1
++																									3
+ 																								</span>
+ 																								<span>
+-																									1件のコメントが投稿されています
++																									3件のコメントが投稿されています
+ 																								</span>
+ 																							</span>
+ 																							<span>
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									4
++																									12
+ 																								</span>
+ 																								<span>
+-																									4件「いいね！」されています
++																									12件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1920,10 +1920,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									8
++																									17
+ 																								</span>
+ 																								<span>
+-																									8件「いいね！」されています
++																									17件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
+@@ -1971,10 +1971,10 @@
+ 																								<i>
+ 																								</i>
+ 																								<span>
+-																									10
++																									15
+ 																								</span>
+ 																								<span>
+-																									10件「いいね！」されています
++																									15件「いいね！」されています
+ 																								</span>
+ 																							</span>
+ 																						</div>
