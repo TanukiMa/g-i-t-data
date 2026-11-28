@@ -1050,7 +1050,7 @@ sites:
     slug: "mhlwinfection"
     tags: ["行政", "感染症", "厚生労働省"]
   - url: https://www.caicm.go.jp/action/data/
-    name: "内閣感染症機器管理統括庁 - 感染症の発生状況"
+    name: "内閣感染症危機管理統括庁 - 感染症の発生状況"
     slug: "caicmdata"
     tags: ["行政", "感染症"]
   - url: https://id-info.jihs.go.jp/
